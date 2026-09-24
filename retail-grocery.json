@@ -1,7 +1,16 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-09-24T16:09:54.101Z",
+  "publishedAt": "2026-09-24T20:56:54.006Z",
   "itemsFr": [
+    {
+      "title": "[ MERCHANDISING ] Beauté : Carrefour singe Normal",
+      "excerpt": "Ça ne peut pas être qu’un hasard… Un nouveau type de meuble débarque actuellement chez Carrefour, dans la foulée du nouveau concept beauté (que…",
+      "link": "https://www.olivierdauvers.fr/2026/09/24/merchandising-beaute-carrefour-singe-normal/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-09-24T16:29:02.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
     {
       "title": "BNP Paribas adopte Gemini Enterprise et les modèles Gemini de Google dans le cadre de sa stratégie « IA agentique »",
       "excerpt": "",
@@ -75,15 +84,6 @@
       "pinned": false
     },
     {
-      "title": "Orange lance sa marketplace. Ce que ça dit du commerce…",
-      "excerpt": "C’est pas comme si on en manquait… Orange a lancé hier sa marketplace. 8 000 réfs (vendues et expédiées par des tiers donc) ont débarqué sur la…",
-      "link": "https://www.olivierdauvers.fr/2026/09/23/orange-lance-sa-marketplace-ce-que-ca-dit-du-commerce/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-09-23T04:47:29.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "CPF, CFA, France Travail : le gouvernement veut ouvrir l’IA à 30 millions d’actifs",
       "excerpt": "Avec « Impulsion IA 2027 », le gouvernement ne crée pas une grande école nationale de l’intelligence artificielle, mais choisit de faire circuler…",
       "link": "https://www.frenchweb.fr/cpf-cfa-france-travail-le-gouvernement-veut-ouvrir-lia-a-30-millions-dactifs/463604",
@@ -94,6 +94,24 @@
     }
   ],
   "itemsEn": [
+    {
+      "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
+      "excerpt": "The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.",
+      "link": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
+      "source": "TechCrunch",
+      "pubDate": "2026-09-24T20:45:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
+      "excerpt": "Feather is betting on a customizable, $30,000 platform built for software developers.",
+      "link": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
+      "source": "TechCrunch",
+      "pubDate": "2026-09-24T18:52:38.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
     {
       "title": "Stitch Fix keeps sales expectations in check as it loses active clients",
       "excerpt": "The apparel-box retailer is gaining market share, but the tough consumer backdrop took a toll at the end of its fiscal year, executives said…",
@@ -131,21 +149,12 @@
       "pinned": false
     },
     {
-      "title": "Everything new coming to Meta’s AI agent Muse",
-      "excerpt": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going…",
-      "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-      "source": "TechCrunch",
-      "pubDate": "2026-09-24T01:13:32.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "US retail sales rebounded late summer",
-      "excerpt": "",
-      "link": "https://www.retailcustomerexperience.com/news/us-retail-sales-rebounded-late-summer/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-09-24T10:00:00.000Z",
-      "category": "GRAND ANGLE",
+      "title": "The Entertainer finds new digital partner",
+      "excerpt": "Toy chain The Entertainer is teaming up with THG Ingenuity to accelerate its digital transformation and find new ways for customers to shop for toys…",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8767/the-entertainer-finds-new-digital-partner/",
+      "source": "Retail Technology",
+      "pubDate": "2026-09-24T00:00:00.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
     },
     {
@@ -158,21 +167,12 @@
       "pinned": false
     },
     {
-      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-      "excerpt": "The tiny hardware device creates another mobile home for its AI agent Muse.",
-      "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-      "source": "TechCrunch",
-      "pubDate": "2026-09-24T00:46:17.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "The Entertainer finds new digital partner",
-      "excerpt": "Toy chain The Entertainer is teaming up with THG Ingenuity to accelerate its digital transformation and find new ways for customers to shop for toys…",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8767/the-entertainer-finds-new-digital-partner/",
-      "source": "Retail Technology",
-      "pubDate": "2026-09-24T00:00:00.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
+      "title": "US retail sales rebounded late summer",
+      "excerpt": "",
+      "link": "https://www.retailcustomerexperience.com/news/us-retail-sales-rebounded-late-summer/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-09-24T10:00:00.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
