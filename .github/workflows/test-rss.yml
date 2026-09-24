@@ -1,0 +1,35 @@
+name: Test RSS
+on: workflow_dispatch
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Tester les flux
+        run: |
+          for url in \
+            "https://www.retaildive.com/feeds/news/" \
+            "https://www.grocerydive.com/feeds/news/" \
+            "https://www.fooddive.com/feeds/news/" \
+            "https://www.retailtechnology.co.uk/rss.xml" \
+            "https://www.retailcustomerexperience.com/rss/" \
+            "https://www.retailwire.com/feed/" \
+            "https://chainstoreage.com/rss.xml" \
+            "https://risnews.com/rss.xml" \
+            "https://www.thegrocer.co.uk/Rss" \
+            "https://techcrunch.com/feed/" \
+            "https://www.olivierdauvers.fr/feed/" \
+            "https://www.usine-digitale.fr/rss" \
+            "https://www.lsa-conso.fr/rss" \
+            "https://www.republik-retail.fr/feed/" \
+            "https://www.ecommercemag.fr/rss" \
+            "https://www.frenchweb.fr/feed" \
+            "https://www.maddyness.com/feed/" \
+            "https://www.journaldunet.com/rss/" \
+            "https://fr.fashionnetwork.com/rss/news.xml"
+          do
+            code=$(curl -s -o /tmp/f -w "%{http_code}" -L --max-time 12 \
+              -A "Mozilla/5.0 (compatible; CIC-feed-reader/1.0)" "$url")
+            items=$(grep -o "<item\|<entry" /tmp/f | wc -l)
+            printf "%s | %3s items | %s\n" "$code" "$items" "$url"
+          done
