@@ -9,6 +9,8 @@ const Parser = require('rss-parser');
 
 const ROOT = path.resolve(__dirname, '..');
 const UA = 'CIC-feed-reader/1.0 (+https://thomasarnaudacc.github.io/cic-feeds)';
+const FEED_TIMEOUT_MS = 12000;
+const GLOBAL_TIMEOUT_MS = 90000;
 
 const parser = new Parser({
   timeout: 10000,
@@ -17,8 +19,7 @@ const parser = new Parser({
 
 /* ---------- utilitaires ---------- */
 
-const deaccent = (s) =>
-  s.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+const deaccent = (s) => s.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
 
 const normalize = (s) =>
   deaccent(String(s || '').toLowerCase())
@@ -84,10 +85,17 @@ function sourceName(feedUrl) {
 
 async function fetchFeed(url) {
   const label = sourceName(url);
+  let timer;
   try {
-    const feed = await parser.parseURL(url);
+    const feed = await Promise.race([
+      parser.parseURL(url),
+      new Promise((_, reject) => {
+        timer = setTimeout(() => reject(new Error(`timeout ${FEED_TIMEOUT_MS / 1000}s`)), FEED_TIMEOUT_MS);
+      }),
+    ]);
+    clearTimeout(timer);
     const items = feed.items || [];
-    console.log(`  OK    ${String(items.length).padStart(3)} items  ${label}`);
+    console.log(`  OK      ${String(items.length).padStart(3)} items  ${label}`);
     return items.map((it) => ({
       title: stripHtml(it.title),
       excerpt: truncate(it.contentSnippet || it.summary || it.content || it.description || '', 150),
@@ -96,7 +104,8 @@ async function fetchFeed(url) {
       pubDate: it.isoDate || it.pubDate || null,
     }));
   } catch (err) {
-    console.log(`  ÉCHEC   0 items  ${label} — ${err.message}`);
+    clearTimeout(timer);
+    console.log(`  ÉCHEC     0 items  ${label} — ${err.message}`);
     return [];
   }
 }
@@ -221,7 +230,7 @@ async function buildLanguage(urls, cfg, pinned) {
 
 /* ---------- main ---------- */
 
-async function main() {
+async function run() {
   const config = JSON.parse(fs.readFileSync(path.join(ROOT, 'config.json'), 'utf8'));
 
   for (const [destination, cfg] of Object.entries(config)) {
@@ -257,7 +266,18 @@ async function main() {
   }
 }
 
-main().catch((err) => {
-  console.error('Erreur fatale :', err);
-  process.exit(1);
-});
+async function main() {
+  const guard = new Promise((_, reject) =>
+    setTimeout(() => reject(new Error(`délai global dépassé (${GLOBAL_TIMEOUT_MS / 1000}s)`)), GLOBAL_TIMEOUT_MS)
+  );
+  try {
+    await Promise.race([run(), guard]);
+    console.log('\nTerminé.');
+    process.exit(0);
+  } catch (err) {
+    console.error('\nErreur fatale :', err.message);
+    process.exit(1);
+  }
+}
+
+main();
