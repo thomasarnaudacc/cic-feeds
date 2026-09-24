@@ -1,40 +1,40 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-09-24T12:03:42.127Z",
+  "publishedAt": "2026-09-24T16:09:54.101Z",
   "itemsFr": [
+    {
+      "title": "BNP Paribas adopte Gemini Enterprise et les modèles Gemini de Google dans le cadre de sa stratégie « IA agentique »",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/banque/bnp-paribas/bnp-paribas-adopte-gemini-enterprise-et-les-modeles-gemini-de-google-dans-le-cadre-de-sa-strategie-ia-agentique.OHGSW5IZFNA6RCZXLCCEDKE7WQ.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-09-24T16:00:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Vers une résilience numérique \"conçue\" et partagée",
+      "excerpt": "En Europe comme ailleurs, on assiste à un changement profond : la cybersécurité n'est plus uniquement une question d'opérations ou de réaction aux…",
+      "link": "https://www.journaldunet.com/cybersecurite/1555385-vers-une-resilience-numerique-concue-et-partagee/",
+      "source": "Journal du Net",
+      "pubDate": "2026-09-24T15:47:12.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "Dora : quand la cryptographie devient une obligation de preuve",
+      "excerpt": "Avec Dora, la cryptographie devient un enjeu de gouvernance : les acteurs financiers doivent prouver la maîtrise, le suivi et la traçabilité de leurs…",
+      "link": "https://www.journaldunet.com/cybersecurite/1555351-dora-quand-la-cryptographie-devient-une-obligation-de-preuve/",
+      "source": "Journal du Net",
+      "pubDate": "2026-09-24T15:44:29.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
     {
       "title": "Un agent IA utilisé par OpenAI s’est introduit dans le système Medicare sans autorisation, le gouvernement australien informé trois mois plus tard",
       "excerpt": "",
       "link": "https://www.usine-digitale.fr/intelligence-artificielle/openai/un-agent-ia-utilise-par-openai-sest-introduit-dans-le-systeme-medicare-sans-autorisation-le-gouvernement-australien-informe-trois-mois-plus-tard.Q5O2UDI3YRF4XJAYDVT3QYR2CM.html",
       "source": "L'Usine Digitale",
       "pubDate": "2026-09-24T10:06:50.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Perte de pouvoir d'achat et efforts non récompensés : les cadres font de leur salaire une priorité",
-      "excerpt": "Pour la première fois depuis dix ans, le salaire figure parmi les premières priorités des cadres, selon une étude de l'institut Viavoice pour l'Union…",
-      "link": "https://www.journaldunet.com/business/1555361-le-salaire-devient-la-priorite-numero-un-des-cadres/",
-      "source": "Journal du Net",
-      "pubDate": "2026-09-24T09:16:49.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Les robots policiers humanoïdes patrouillent déjà en Chine",
-      "excerpt": "Dans l'empire du Milieu, les forces de l'ordre expérimentent une nouvelle génération de robots capables de gérer la circulation, détecter certaines…",
-      "link": "https://www.journaldunet.com/intelligence-artificielle/1555257-les-policiers-humanoides-patrouillent-deja-en-chine/",
-      "source": "Journal du Net",
-      "pubDate": "2026-09-24T08:59:56.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Accor lève le voile sur le futur de l’expérience client dans l’hôtellerie avec son assistant IA « All Concierge », disponible dans 11 langues",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/tourisme/accor-leve-le-voile-sur-le-futur-de-lexperience-client-dans-lhotellerie-avec-son-assistant-ia-all-concierge-disponible-dans-11-langues.AIO4L7AYVNGFPGYNPWOZNYRWNY.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-09-24T07:11:17.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
@@ -95,12 +95,48 @@
   ],
   "itemsEn": [
     {
-      "title": "Amazon expanding use of smart glasses for delivery drivers",
-      "excerpt": "",
-      "link": "https://www.retailcustomerexperience.com/news/amazon-expanding-use-of-smart-glasses-for-delivery-drivers/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-09-24T10:00:00.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
+      "title": "Stitch Fix keeps sales expectations in check as it loses active clients",
+      "excerpt": "The apparel-box retailer is gaining market share, but the tough consumer backdrop took a toll at the end of its fiscal year, executives said…",
+      "link": "https://www.retaildive.com/news/stitch-fix-q4-sales-expectations-in-check-loses-active-clients/831210/",
+      "source": "Retail Dive",
+      "pubDate": "2026-09-24T15:54:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Halloween spending expected to reach $13.5B",
+      "excerpt": "Shoppers are approaching the holiday “with affordability in mind,” and looking for ways to maximize value, according to a new report.",
+      "link": "https://www.retaildive.com/news/halloween-spending-surpass-2025-record/831239/",
+      "source": "Retail Dive",
+      "pubDate": "2026-09-24T15:09:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Instacart and DoorDash wrestle with online grocery’s growing affordability problem",
+      "excerpt": "Cost concerns have long challenged e-grocery, and addressing the issue is becoming more urgent as consumer price sensitivity rises, executives of the…",
+      "link": "https://www.grocerydive.com/news/instacart-doordash-tackle-online-grocery-affordability/831246/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-09-24T15:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "How Sam’s Club gives shoppers a say in what it sells",
+      "excerpt": "The club retailer frequently taps into its Member’s Mark Community of more than 200,000 shoppers to weigh in on everything from new products to the…",
+      "link": "https://www.grocerydive.com/news/sams-club-members-mark-community-private-label-differentiation/831220/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-09-24T14:50:40.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Everything new coming to Meta’s AI agent Muse",
+      "excerpt": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going…",
+      "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "source": "TechCrunch",
+      "pubDate": "2026-09-24T01:13:32.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
@@ -113,12 +149,12 @@
       "pinned": false
     },
     {
-      "title": "Everything new coming to Meta’s AI agent Muse",
-      "excerpt": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going…",
-      "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-      "source": "TechCrunch",
-      "pubDate": "2026-09-24T01:13:32.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "title": "Why Gen Z's shift offline is changing the rules of brand building for retailers",
+      "excerpt": "As digital channels become more fragmented and less predictable, the brands that will stand out are those that combine seamless digital experiences…",
+      "link": "https://www.retailcustomerexperience.com/blogs/why-gen-zs-shift-offline-is-changing-the-rules-of-brand-building-for-retailers/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-09-24T10:00:00.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -137,42 +173,6 @@
       "source": "Retail Technology",
       "pubDate": "2026-09-24T00:00:00.000Z",
       "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "Target’s new campaign puts design legacy at center of marketing",
-      "excerpt": "The effort will extend to creator partnerships and experiential activations and arrives as the retailer’s turnaround efforts begin to show results.",
-      "link": "https://www.retaildive.com/news/target-inside-out-ad-campaign-marketing-design-legacy/831146/",
-      "source": "Retail Dive",
-      "pubDate": "2026-09-23T15:49:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Shoppers burned by bad AI recommendations",
-      "excerpt": "As more consumers turn to AI to suggest purchases, some regret following the technology’s advice, a new survey finds.",
-      "link": "https://www.retaildive.com/news/shoppers-burned-bad-ai-purchase-recommendations/831013/",
-      "source": "Retail Dive",
-      "pubDate": "2026-09-23T15:18:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Aldi temporarily shaves prices on selected products",
-      "excerpt": "Almost a third of the items in the discounter’s everyday in-store assortment are now less expensive than they were in 2025, according to the grocer.",
-      "link": "https://www.grocerydive.com/news/aldi-price-cuts-grocery-food-inflation/831099/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-09-23T15:14:00.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "Kroger’s AI focus is on ‘flexibility and control,’ digital chief says",
-      "excerpt": "From bridging the digital and physical shopping worlds to further ramping up effective personalization, the grocer’s chief digital officer delves…",
-      "link": "https://www.grocerydive.com/news/kroger-ai-technology-groceryshop/831102/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-09-23T15:00:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
