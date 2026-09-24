@@ -1,0 +1,39 @@
+{
+  "retail-grocery": {
+    "feeds": {
+      "fr": [
+        "https://www.olivierdauvers.fr/feed/",
+        "https://www.usine-digitale.fr/rss",
+        "https://www.ecommercemag.fr/rss",
+        "https://www.frenchweb.fr/feed",
+        "https://www.journaldunet.com/rss/",
+        "https://www.maddyness.com/feed/"
+      ],
+      "en": [
+        "https://www.retaildive.com/feeds/news/",
+        "https://www.grocerydive.com/feeds/news/",
+        "https://www.fooddive.com/feeds/news/",
+        "https://www.retailtechnology.co.uk/rss.xml",
+        "https://www.retailcustomerexperience.com/rss/",
+        "https://techcrunch.com/feed/"
+      ]
+    },
+    "exclude": [
+      "nomination", "nommé", "recrute", "démission", "chiffre d'affaires",
+      "résultats annuels", "résultats trimestriels", "bénéfice net", "procès",
+      "rappel produit", "redressement judiciaire", "plan social", "levée de fonds",
+      "names", "appoints", "hires", "steps down", "resigns", "earnings",
+      "revenue", "lawsuit", "sues", "recall", "bankruptcy", "layoffs"
+    ],
+    "taxonomy": {
+      "OPÉRATIONS & SUPPLY CHAIN": ["entrepôt", "robot", "robotique", "logistique", "stock", "rupture", "approvisionnement", "dernier kilomètre", "dark store", "préparation de commande", "warehouse", "robotics", "fulfillment", "inventory", "supply chain", "last mile", "automation"],
+      "OFFRE, PRIX & MERCHANDISING": ["prix", "pricing", "promotion", "assortiment", "étiquette électronique", "planogramme", "marque de distributeur", "mdd", "merchandising", "rayon", "marge", "assortment", "electronic shelf label", "private label", "markdown"],
+      "MAGASIN & EXPÉRIENCE": ["concept de magasin", "nouveau concept", "flagship", "pop-up", "corner", "retail media", "phygital", "caisse automatique", "encaissement", "expérience en magasin", "drive", "store concept", "in-store", "self-checkout", "store experience", "frictionless"],
+      "COLLABORATEUR AUGMENTÉ": ["vendeur", "collaborateur", "équipe magasin", "formation", "productivité", "copilote", "planning", "conseil client", "store associate", "employee", "workforce", "frontline", "copilot"],
+      "CONFIANCE & RETAIL RESPONSABLE": ["traçabilité", "rse", "carbone", "gaspillage", "réglementation", "conformité", "données personnelles", "rgpd", "circulaire", "traceability", "sustainability", "carbon", "food waste", "compliance", "privacy", "circular"],
+      "CLIENT & COMMERCE AGENTIQUE": ["agent ia", "agentique", "ia générative", "chatbot", "assistant", "conversationnel", "recommandation", "personnalisation", "fidélité", "parcours client", "social commerce", "ai agent", "agentic", "conversational", "recommendation", "personalization", "loyalty"],
+      "GRAND ANGLE": ["commerce", "retail", "distribution", "enseigne", "magasin", "consommateur", "e-commerce", "intelligence artificielle", "étude", "baromètre", "marché", "grocery", "shopper", "merchant", "study", "market"]
+    },
+    "limits": { "maxItems": 12, "maxPerSource": 2, "maxConsecutiveCategory": 4, "maxAgeDays": 14 }
+  }
+}
