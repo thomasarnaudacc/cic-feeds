@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-09-24T20:56:54.006Z",
+  "publishedAt": "2026-09-24T23:44:02.249Z",
   "itemsFr": [
     {
       "title": "[ MERCHANDISING ] Beauté : Carrefour singe Normal",
@@ -149,21 +149,12 @@
       "pinned": false
     },
     {
-      "title": "The Entertainer finds new digital partner",
-      "excerpt": "Toy chain The Entertainer is teaming up with THG Ingenuity to accelerate its digital transformation and find new ways for customers to shop for toys…",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8767/the-entertainer-finds-new-digital-partner/",
-      "source": "Retail Technology",
-      "pubDate": "2026-09-24T00:00:00.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "Why Gen Z's shift offline is changing the rules of brand building for retailers",
-      "excerpt": "As digital channels become more fragmented and less predictable, the brands that will stand out are those that combine seamless digital experiences…",
-      "link": "https://www.retailcustomerexperience.com/blogs/why-gen-zs-shift-offline-is-changing-the-rules-of-brand-building-for-retailers/",
+      "title": "Amazon expanding use of smart glasses for delivery drivers",
+      "excerpt": "",
+      "link": "https://www.retailcustomerexperience.com/news/amazon-expanding-use-of-smart-glasses-for-delivery-drivers/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-09-24T10:00:00.000Z",
-      "category": "GRAND ANGLE",
+      "category": "MAGASIN & EXPÉRIENCE",
       "pinned": false
     },
     {
@@ -173,6 +164,15 @@
       "source": "Retail Customer Experience",
       "pubDate": "2026-09-24T10:00:00.000Z",
       "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "The Entertainer finds new digital partner",
+      "excerpt": "Toy chain The Entertainer is teaming up with THG Ingenuity to accelerate its digital transformation and find new ways for customers to shop for toys…",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8767/the-entertainer-finds-new-digital-partner/",
+      "source": "Retail Technology",
+      "pubDate": "2026-09-24T00:00:00.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
     },
     {
