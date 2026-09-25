@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-09-25T19:02:34.395Z",
+  "publishedAt": "2026-09-25T23:42:17.488Z",
   "itemsFr": [
     {
       "title": "Des robots humanoïdes pour pallier le manque de personnel dans l’armée ? Le Japon y songe",
@@ -104,21 +104,21 @@
   ],
   "itemsEn": [
     {
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+      "excerpt": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+      "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "source": "TechCrunch",
+      "pubDate": "2026-09-25T22:20:47.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
       "title": "The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt",
       "excerpt": "Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields.",
       "link": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/",
       "source": "TechCrunch",
       "pubDate": "2026-09-25T17:30:00.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-      "excerpt": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and…",
-      "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-      "source": "TechCrunch",
-      "pubDate": "2026-09-25T16:16:52.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
       "pinned": false
     },
     {
@@ -167,9 +167,9 @@
       "pinned": false
     },
     {
-      "title": "How retailers can capitalize as consumers become more intentional",
-      "excerpt": "Economics and budget tightening are spurring shoppers to be more intentional when purchasing. The trend presents opportunities for retailers to win…",
-      "link": "https://www.retailcustomerexperience.com/articles/how-retailers-can-capitalize-as-consumers-become-more-intentional/",
+      "title": "Most fashion shoppers don’t trust AI to make purchases",
+      "excerpt": "",
+      "link": "https://www.retailcustomerexperience.com/news/most-fashion-shoppers-dont-trust-ai-to-make-purchases/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-09-25T10:00:00.000Z",
       "category": "GRAND ANGLE",
