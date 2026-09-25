@@ -1,7 +1,43 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-09-25T02:35:11.851Z",
+  "publishedAt": "2026-09-25T08:21:01.902Z",
   "itemsFr": [
+    {
+      "title": "Emmanuel Macron n'exclut pas une baisse des taxes sur les carburants si la hausse des prix se poursuit",
+      "excerpt": "Le président de la République évoque la possibilité d'un ajustement fiscal sur les carburants, tout en privilégiant d'autres leviers pour faire…",
+      "link": "https://www.journaldunet.com/business/action-publique/1555415-emmanuel-macron-n-exclut-pas-une-baisse-des-taxes-sur-les-carburants-si-la-hausse-des-prix-se-poursuit/",
+      "source": "Journal du Net",
+      "pubDate": "2026-09-25T07:43:36.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Les derniers chiffres financiers d’ASML révèlent l’angle mort européen : l’absence de demande",
+      "excerpt": "Porté par la course mondiale à l’intelligence artificielle, ASML relève ses prévisions et remplit ses carnets de commandes. Mais l’Europe ne…",
+      "link": "https://www.frenchweb.fr/les-derniers-chiffres-financiers-dasml-revelent-langle-mort-europeen-labsence-de-demande/463666",
+      "source": "FrenchWeb",
+      "pubDate": "2026-09-25T07:17:15.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "Sun et Havas ont testé le social retail d'Unlimitail : résultat, un CPM en baisse de 67%",
+      "excerpt": "L'annonceur se montre satisfait du premier POC d'un dispositif inédit consistant à optimiser l'algorithme de Meta avec les données de vente de…",
+      "link": "https://www.journaldunet.com/adtech/1555273-sun-et-havas-ont-teste-le-social-retail-d-unlimitail-cpm-en-baisse-de-67-roas-de-5-6/",
+      "source": "Journal du Net",
+      "pubDate": "2026-09-25T06:16:44.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "[ RETAIL INSIDE ] Retour chez Match Frais à Faches-Thumesnil",
+      "excerpt": "Indécrottable curieux que je suis (c’est pas l’IA qui écrirait comme ça 🤪)… Les inaugurations avec les flonflons c’est bien, revenir quelques…",
+      "link": "https://www.olivierdauvers.fr/2026/09/25/retail-inside-retour-chez-match-frais-a-faches-thumesnil/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-09-25T05:56:12.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "[ MERCHANDISING ] Beauté : Carrefour singe Normal",
       "excerpt": "Ça ne peut pas être qu’un hasard… Un nouveau type de meuble débarque actuellement chez Carrefour, dans la foulée du nouveau concept beauté (que…",
@@ -18,24 +54,6 @@
       "source": "L'Usine Digitale",
       "pubDate": "2026-09-24T16:00:00.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Vers une résilience numérique \"conçue\" et partagée",
-      "excerpt": "En Europe comme ailleurs, on assiste à un changement profond : la cybersécurité n'est plus uniquement une question d'opérations ou de réaction aux…",
-      "link": "https://www.journaldunet.com/cybersecurite/1555385-vers-une-resilience-numerique-concue-et-partagee/",
-      "source": "Journal du Net",
-      "pubDate": "2026-09-24T15:47:12.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "Dora : quand la cryptographie devient une obligation de preuve",
-      "excerpt": "Avec Dora, la cryptographie devient un enjeu de gouvernance : les acteurs financiers doivent prouver la maîtrise, le suivi et la traçabilité de leurs…",
-      "link": "https://www.journaldunet.com/cybersecurite/1555351-dora-quand-la-cryptographie-devient-une-obligation-de-preuve/",
-      "source": "Journal du Net",
-      "pubDate": "2026-09-24T15:44:29.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
     {
@@ -57,15 +75,6 @@
       "pinned": false
     },
     {
-      "title": "[ ENSEIGNES ] Que vont devenir les ex-Auchan supers… ?",
-      "excerpt": "Un Auchan qui part, un Intermarché qui arrive. Entre temps une quinzaine de jours de fermeture pour travaux. Voilà une image que l’on va souvent voir…",
-      "link": "https://www.olivierdauvers.fr/2026/09/23/enseignes-que-vont-devenir-les-ex-auchan-supers/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-09-23T08:04:27.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Retail et IA : l’enthousiasme des équipes se heurte aux freins internes",
       "excerpt": "Dans la grande distribution, les équipes accueillent les outils numériques intelligents avec une curiosité marquée et en retirent de réels gains de…",
       "link": "https://www.ecommercemag.fr/retail-1220/barometre-etude-2168/retail-et-ia-lenthousiasme-des-equipes-se-heurte-aux-freins-internes-59650",
@@ -80,15 +89,6 @@
       "link": "https://www.ecommercemag.fr/retail-1220/strategie-retail-2163/commerce-specialise-malgre-un-ete-frequente-les-ventes-reculent-de-24-59624",
       "source": "Ecommerce Mag",
       "pubDate": "2026-09-23T06:14:53.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "CPF, CFA, France Travail : le gouvernement veut ouvrir l’IA à 30 millions d’actifs",
-      "excerpt": "Avec « Impulsion IA 2027 », le gouvernement ne crée pas une grande école nationale de l’intelligence artificielle, mais choisit de faire circuler…",
-      "link": "https://www.frenchweb.fr/cpf-cfa-france-travail-le-gouvernement-veut-ouvrir-lia-a-30-millions-dactifs/463604",
-      "source": "FrenchWeb",
-      "pubDate": "2026-09-23T04:23:39.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     }
