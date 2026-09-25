@@ -1,7 +1,16 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-09-25T14:19:01.147Z",
+  "publishedAt": "2026-09-25T19:02:34.395Z",
   "itemsFr": [
+    {
+      "title": "Des robots humanoïdes pour pallier le manque de personnel dans l’armée ? Le Japon y songe",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/des-robots-humanoides-pour-pallier-le-manque-de-personnel-dans-larmee-le-japon-y-songe.2WJ7F4UZTZHCVKN7DS36EDN7ZM.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-09-25T15:51:58.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
     {
       "title": "“L’un des frameworks de manipulation robotique open source les plus utilisés” : Pourquoi Qualcomm met la main sur l’américain PickNik",
       "excerpt": "",
@@ -9,15 +18,6 @@
       "source": "L'Usine Digitale",
       "pubDate": "2026-09-25T13:23:07.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Cherchant à rattraper son retard dans l’IA agentique, Microsoft propose de faire de Copilot le nouvel « OS du travail »",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/big-tech/microsoft/cherchant-a-rattraper-son-retard-dans-lia-agentique-microsoft-propose-de-faire-de-copilot-le-nouvel-os-du-travail.OXAQXZ5WYFE6RD6GCZ45XLFOJY.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-09-25T12:00:00.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
     },
     {
@@ -104,6 +104,60 @@
   ],
   "itemsEn": [
     {
+      "title": "The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt",
+      "excerpt": "Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields.",
+      "link": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/",
+      "source": "TechCrunch",
+      "pubDate": "2026-09-25T17:30:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+      "excerpt": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and…",
+      "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+      "source": "TechCrunch",
+      "pubDate": "2026-09-25T16:16:52.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Target is opening a store in the Hamptons. It’s not red.",
+      "excerpt": "The retailer’s signature color is not part of the external facade of the building at its new location in Bridgehampton, New York.",
+      "link": "https://www.retaildive.com/news/target-store-hamptons-bridgehampton-gray/831356/",
+      "source": "Retail Dive",
+      "pubDate": "2026-09-25T15:41:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "PCC to open 17th store",
+      "excerpt": "The grocery co-op’s newest location is set to debut in mid-October in Seattle’s Madison Valley district.",
+      "link": "https://www.grocerydive.com/news/pcc-community-markets-new-store-seattle-grocery/831340/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-09-25T15:40:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "TJX CEO: Distribution model will help weather El Niño",
+      "excerpt": "The off-price retailer’s supply chain strategy allows it to hold inventory instead of going straight to stores.",
+      "link": "https://www.retaildive.com/news/tjx-ceo-distribution-model-el-nino/831118/",
+      "source": "Retail Dive",
+      "pubDate": "2026-09-25T15:24:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Costco trumps Aldi in grocery value perception, data shows",
+      "excerpt": "While the club retailer enjoys an overall advantage over the discounter, the gap varied based on people’s age, analytics firm YouGov found.",
+      "link": "https://www.grocerydive.com/news/aldi-costco-value-grocery-yougov/831339/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-09-25T15:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
       "title": "Consumers are loyalty stacking at fuel pumps more than ever",
       "excerpt": "",
       "link": "https://www.retailcustomerexperience.com/news/consumers-are-loyalty-stacking-at-fuel-pumps-more-than-ever/",
@@ -127,60 +181,6 @@
       "link": "https://www.retailtechnology.co.uk/rss.xml/news/8770/retail-ai-forum-2026:-foundations-before-ferraris/",
       "source": "Retail Technology",
       "pubDate": "2026-09-25T00:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
-      "excerpt": "The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.",
-      "link": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
-      "source": "TechCrunch",
-      "pubDate": "2026-09-24T20:45:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
-      "excerpt": "Feather is betting on a customizable, $30,000 platform built for software developers.",
-      "link": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
-      "source": "TechCrunch",
-      "pubDate": "2026-09-24T18:52:38.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Stitch Fix keeps sales expectations in check as it loses active clients",
-      "excerpt": "The apparel-box retailer is gaining market share, but the tough consumer backdrop took a toll at the end of its fiscal year, executives said…",
-      "link": "https://www.retaildive.com/news/stitch-fix-q4-sales-expectations-in-check-loses-active-clients/831210/",
-      "source": "Retail Dive",
-      "pubDate": "2026-09-24T15:54:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Halloween spending expected to reach $13.5B",
-      "excerpt": "Shoppers are approaching the holiday “with affordability in mind,” and looking for ways to maximize value, according to a new report.",
-      "link": "https://www.retaildive.com/news/halloween-spending-surpass-2025-record/831239/",
-      "source": "Retail Dive",
-      "pubDate": "2026-09-24T15:09:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Instacart and DoorDash wrestle with online grocery’s growing affordability problem",
-      "excerpt": "Cost concerns have long challenged e-grocery, and addressing the issue is becoming more urgent as consumer price sensitivity rises, executives of the…",
-      "link": "https://www.grocerydive.com/news/instacart-doordash-tackle-online-grocery-affordability/831246/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-09-24T15:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "How Sam’s Club gives shoppers a say in what it sells",
-      "excerpt": "The club retailer frequently taps into its Member’s Mark Community of more than 200,000 shoppers to weigh in on everything from new products to the…",
-      "link": "https://www.grocerydive.com/news/sams-club-members-mark-community-private-label-differentiation/831220/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-09-24T14:50:40.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
