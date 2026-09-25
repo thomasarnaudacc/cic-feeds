@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-09-24T23:44:02.249Z",
+  "publishedAt": "2026-09-25T02:35:11.851Z",
   "itemsFr": [
     {
       "title": "[ MERCHANDISING ] Beauté : Carrefour singe Normal",
@@ -95,6 +95,15 @@
   ],
   "itemsEn": [
     {
+      "title": "Retail AI Forum 2026: Foundations before Ferraris",
+      "excerpt": "Validify's Retail AI Forum weighed retailers' AI appetite against their readiness to deliver it, Miya Knights, Retail Technology Publisher, discovers.",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8770/retail-ai-forum-2026:-foundations-before-ferraris/",
+      "source": "Retail Technology",
+      "pubDate": "2026-09-25T00:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
       "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
       "excerpt": "The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.",
       "link": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
@@ -173,15 +182,6 @@
       "source": "Retail Technology",
       "pubDate": "2026-09-24T00:00:00.000Z",
       "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "NRF Europe 2026: Domain depth divides retail's AI contenders",
-      "excerpt": "The startups and scale-ups showing at Retail's Big Show Europe converged on a single bet: general-purpose AI models are not enough for retail, Miya…",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8769/nrf-europe-2026:-domain-depth-divides-retails-ai-contenders/",
-      "source": "Retail Technology",
-      "pubDate": "2026-09-23T00:00:00.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     }
   ]
