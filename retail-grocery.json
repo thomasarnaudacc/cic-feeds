@@ -1,7 +1,43 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-09-25T08:21:01.902Z",
+  "publishedAt": "2026-09-25T14:19:01.147Z",
   "itemsFr": [
+    {
+      "title": "“L’un des frameworks de manipulation robotique open source les plus utilisés” : Pourquoi Qualcomm met la main sur l’américain PickNik",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/lun-des-frameworks-de-manipulation-robotique-open-source-les-plus-utilises-pourquoi-qualcomm-met-la-main-sur-lamericain-picknik.72PXYX6CP5FJZJKKK2AVIHV56U.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-09-25T13:23:07.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Cherchant à rattraper son retard dans l’IA agentique, Microsoft propose de faire de Copilot le nouvel « OS du travail »",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/big-tech/microsoft/cherchant-a-rattraper-son-retard-dans-lia-agentique-microsoft-propose-de-faire-de-copilot-le-nouvel-os-du-travail.OXAQXZ5WYFE6RD6GCZ45XLFOJY.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-09-25T12:00:00.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
+    {
+      "title": "LA MINUTE RETAIL. Drive : 1 certitude et 2 questions…",
+      "excerpt": "A la une cette semaine : le drive, à l’occasion de la 15e édition des Ateliers du Drive que j’ai organisés hier avec mes camarades du magazine…",
+      "link": "https://www.olivierdauvers.fr/2026/09/25/la-minute-retail-drive-1-certitude-et-2-questions/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-09-25T11:31:21.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
+    {
+      "title": "La flambée des prix à la pompe affole les compteurs de BlaBlaCar",
+      "excerpt": "L’article La flambée des prix à la pompe affole les compteurs de BlaBlaCar est apparu en premier sur Maddyness - Le média pour comprendre l'économie…",
+      "link": "https://www.maddyness.com/2026/09/25/la-flambee-des-prix-a-la-pompe-affole-les-compteurs-de-blablacar/",
+      "source": "Maddyness",
+      "pubDate": "2026-09-25T11:23:51.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
     {
       "title": "Emmanuel Macron n'exclut pas une baisse des taxes sur les carburants si la hausse des prix se poursuit",
       "excerpt": "Le président de la République évoque la possibilité d'un ajustement fiscal sur les carburants, tout en privilégiant d'autres leviers pour faire…",
@@ -39,33 +75,6 @@
       "pinned": false
     },
     {
-      "title": "[ MERCHANDISING ] Beauté : Carrefour singe Normal",
-      "excerpt": "Ça ne peut pas être qu’un hasard… Un nouveau type de meuble débarque actuellement chez Carrefour, dans la foulée du nouveau concept beauté (que…",
-      "link": "https://www.olivierdauvers.fr/2026/09/24/merchandising-beaute-carrefour-singe-normal/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-09-24T16:29:02.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "BNP Paribas adopte Gemini Enterprise et les modèles Gemini de Google dans le cadre de sa stratégie « IA agentique »",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/banque/bnp-paribas/bnp-paribas-adopte-gemini-enterprise-et-les-modeles-gemini-de-google-dans-le-cadre-de-sa-strategie-ia-agentique.OHGSW5IZFNA6RCZXLCCEDKE7WQ.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-09-24T16:00:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Un agent IA utilisé par OpenAI s’est introduit dans le système Medicare sans autorisation, le gouvernement australien informé trois mois plus tard",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/openai/un-agent-ia-utilise-par-openai-sest-introduit-dans-le-systeme-medicare-sans-autorisation-le-gouvernement-australien-informe-trois-mois-plus-tard.Q5O2UDI3YRF4XJAYDVT3QYR2CM.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-09-24T10:06:50.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
       "title": "Avec Septeo Legal, SEPTEO veut passer de la gestion des cabinets à la production juridique",
       "excerpt": "En rapprochant ses logiciels métiers, les contenus de Lexbase et des fonctions d’intelligence artificielle, Septeo veut devenir l’environnement dans…",
       "link": "https://www.frenchweb.fr/avec-septeo-legal-septeo-veut-passer-de-la-gestion-des-cabinets-a-la-production-juridique/463640",
@@ -94,6 +103,24 @@
     }
   ],
   "itemsEn": [
+    {
+      "title": "Consumers are loyalty stacking at fuel pumps more than ever",
+      "excerpt": "",
+      "link": "https://www.retailcustomerexperience.com/news/consumers-are-loyalty-stacking-at-fuel-pumps-more-than-ever/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-09-25T11:00:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "How retailers can capitalize as consumers become more intentional",
+      "excerpt": "Economics and budget tightening are spurring shoppers to be more intentional when purchasing. The trend presents opportunities for retailers to win…",
+      "link": "https://www.retailcustomerexperience.com/articles/how-retailers-can-capitalize-as-consumers-become-more-intentional/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-09-25T10:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "Retail AI Forum 2026: Foundations before Ferraris",
       "excerpt": "Validify's Retail AI Forum weighed retailers' AI appetite against their readiness to deliver it, Miya Knights, Retail Technology Publisher, discovers.",
@@ -154,24 +181,6 @@
       "link": "https://www.grocerydive.com/news/sams-club-members-mark-community-private-label-differentiation/831220/",
       "source": "Grocery Dive",
       "pubDate": "2026-09-24T14:50:40.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Amazon expanding use of smart glasses for delivery drivers",
-      "excerpt": "",
-      "link": "https://www.retailcustomerexperience.com/news/amazon-expanding-use-of-smart-glasses-for-delivery-drivers/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-09-24T10:00:00.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
-      "title": "US retail sales rebounded late summer",
-      "excerpt": "",
-      "link": "https://www.retailcustomerexperience.com/news/us-retail-sales-rebounded-late-summer/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-09-24T10:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
