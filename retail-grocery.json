@@ -1,7 +1,16 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-09-26T13:29:11.720Z",
+  "publishedAt": "2026-09-26T18:10:12.478Z",
   "itemsFr": [
+    {
+      "title": "Bonnes idées / Bonnes pratiques (114) : faire l’événement avec une innovation pas encore lancée. L’exemple d’Auchan avec Nutella Peanut…",
+      "excerpt": "Suite de ma série d’inspirations “bonnes idées / bonnes pratiques” dans le prolongement de mes ouvrages sur l’IMAGE-PRIX, le PENSER-CLIENT et la…",
+      "link": "https://www.olivierdauvers.fr/2026/09/26/bonnes-idees-bonnes-pratiques-114-faire-levenement-avec-une-innovation-pas-encore-lancee-lexemple-dauchan-avec-nutella-peanut/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-09-26T17:49:26.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
     {
       "title": "SAMEDI CONSO : mon carnet (retail mais pas que…) de la semaine",
       "excerpt": "« SAMEDI CONSO », la semaine retail (mais pas que) passée en revue. Comme toujours en totale liberté. Et tant pis si ça pique ! Âmes (trop) sensibles…",
@@ -27,15 +36,6 @@
       "source": "L'Usine Digitale",
       "pubDate": "2026-09-25T13:23:07.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "LA MINUTE RETAIL. Drive : 1 certitude et 2 questions…",
-      "excerpt": "A la une cette semaine : le drive, à l’occasion de la 15e édition des Ateliers du Drive que j’ai organisés hier avec mes camarades du magazine…",
-      "link": "https://www.olivierdauvers.fr/2026/09/25/la-minute-retail-drive-1-certitude-et-2-questions/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-09-25T11:31:21.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
       "pinned": false
     },
     {
@@ -104,21 +104,21 @@
   ],
   "itemsEn": [
     {
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "excerpt": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+      "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "source": "TechCrunch",
+      "pubDate": "2026-09-26T14:00:00.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
       "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
       "excerpt": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
       "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
       "source": "TechCrunch",
       "pubDate": "2026-09-25T22:20:47.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt",
-      "excerpt": "Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields.",
-      "link": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/",
-      "source": "TechCrunch",
-      "pubDate": "2026-09-25T17:30:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
