@@ -1,7 +1,16 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-09-25T23:42:17.488Z",
+  "publishedAt": "2026-09-26T02:37:24.974Z",
   "itemsFr": [
+    {
+      "title": "SAMEDI CONSO : mon carnet (retail mais pas que…) de la semaine",
+      "excerpt": "« SAMEDI CONSO », la semaine retail (mais pas que) passée en revue. Comme toujours en totale liberté. Et tant pis si ça pique ! Âmes (trop) sensibles…",
+      "link": "https://www.olivierdauvers.fr/2026/09/26/samedi-conso-mon-carnet-retail-mais-pas-que-de-la-semaine-381/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-09-26T00:44:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "Des robots humanoïdes pour pallier le manque de personnel dans l’armée ? Le Japon y songe",
       "excerpt": "",
@@ -62,15 +71,6 @@
       "link": "https://www.journaldunet.com/adtech/1555273-sun-et-havas-ont-teste-le-social-retail-d-unlimitail-cpm-en-baisse-de-67-roas-de-5-6/",
       "source": "Journal du Net",
       "pubDate": "2026-09-25T06:16:44.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "[ RETAIL INSIDE ] Retour chez Match Frais à Faches-Thumesnil",
-      "excerpt": "Indécrottable curieux que je suis (c’est pas l’IA qui écrirait comme ça 🤪)… Les inaugurations avec les flonflons c’est bien, revenir quelques…",
-      "link": "https://www.olivierdauvers.fr/2026/09/25/retail-inside-retour-chez-match-frais-a-faches-thumesnil/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-09-25T05:56:12.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -167,9 +167,9 @@
       "pinned": false
     },
     {
-      "title": "Most fashion shoppers don’t trust AI to make purchases",
-      "excerpt": "",
-      "link": "https://www.retailcustomerexperience.com/news/most-fashion-shoppers-dont-trust-ai-to-make-purchases/",
+      "title": "How retailers can capitalize as consumers become more intentional",
+      "excerpt": "Economics and budget tightening are spurring shoppers to be more intentional when purchasing. The trend presents opportunities for retailers to win…",
+      "link": "https://www.retailcustomerexperience.com/articles/how-retailers-can-capitalize-as-consumers-become-more-intentional/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-09-25T10:00:00.000Z",
       "category": "GRAND ANGLE",
