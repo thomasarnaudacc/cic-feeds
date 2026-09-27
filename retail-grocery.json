@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-09-27T08:43:49.194Z",
+  "publishedAt": "2026-09-27T14:24:50.313Z",
   "itemsFr": [
     {
       "title": "Bonnes idées / Bonnes pratiques (114) : faire l’événement avec une innovation pas encore lancée. L’exemple d’Auchan avec Nutella Peanut…",
@@ -26,15 +26,6 @@
       "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/des-robots-humanoides-pour-pallier-le-manque-de-personnel-dans-larmee-le-japon-y-songe.2WJ7F4UZTZHCVKN7DS36EDN7ZM.html",
       "source": "L'Usine Digitale",
       "pubDate": "2026-09-25T15:51:58.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "“L’un des frameworks de manipulation robotique open source les plus utilisés” : Pourquoi Qualcomm met la main sur l’américain PickNik",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/lun-des-frameworks-de-manipulation-robotique-open-source-les-plus-utilises-pourquoi-qualcomm-met-la-main-sur-lamericain-picknik.72PXYX6CP5FJZJKKK2AVIHV56U.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-09-25T13:23:07.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
@@ -167,12 +158,30 @@
       "pinned": false
     },
     {
-      "title": "How retailers can capitalize as consumers become more intentional",
-      "excerpt": "Economics and budget tightening are spurring shoppers to be more intentional when purchasing. The trend presents opportunities for retailers to win…",
-      "link": "https://www.retailcustomerexperience.com/articles/how-retailers-can-capitalize-as-consumers-become-more-intentional/",
+      "title": "Most fashion shoppers don’t trust AI to make purchases",
+      "excerpt": "",
+      "link": "https://www.retailcustomerexperience.com/news/most-fashion-shoppers-dont-trust-ai-to-make-purchases/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-09-25T10:00:00.000Z",
       "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Retail AI Forum 2026: Foundations before Ferraris",
+      "excerpt": "Validify's Retail AI Forum weighed retailers' AI appetite against their readiness to deliver it, Miya Knights, Retail Technology Publisher, discovers.",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8770/retail-ai-forum-2026:-foundations-before-ferraris/",
+      "source": "Retail Technology",
+      "pubDate": "2026-09-25T00:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "The Entertainer finds new digital partner",
+      "excerpt": "Toy chain The Entertainer is teaming up with THG Ingenuity to accelerate its digital transformation and find new ways for customers to shop for toys…",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8767/the-entertainer-finds-new-digital-partner/",
+      "source": "Retail Technology",
+      "pubDate": "2026-09-24T00:00:00.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
     }
   ]
