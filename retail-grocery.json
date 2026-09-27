@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-09-27T02:36:14.570Z",
+  "publishedAt": "2026-09-27T08:43:49.194Z",
   "itemsFr": [
     {
       "title": "Bonnes idées / Bonnes pratiques (114) : faire l’événement avec une innovation pas encore lancée. L’exemple d’Auchan avec Nutella Peanut…",
@@ -173,24 +173,6 @@
       "source": "Retail Customer Experience",
       "pubDate": "2026-09-25T10:00:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Retail AI Forum 2026: Foundations before Ferraris",
-      "excerpt": "Validify's Retail AI Forum weighed retailers' AI appetite against their readiness to deliver it, Miya Knights, Retail Technology Publisher, discovers.",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8770/retail-ai-forum-2026:-foundations-before-ferraris/",
-      "source": "Retail Technology",
-      "pubDate": "2026-09-25T00:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "The Entertainer finds new digital partner",
-      "excerpt": "Toy chain The Entertainer is teaming up with THG Ingenuity to accelerate its digital transformation and find new ways for customers to shop for toys…",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8767/the-entertainer-finds-new-digital-partner/",
-      "source": "Retail Technology",
-      "pubDate": "2026-09-24T00:00:00.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
     }
   ]
