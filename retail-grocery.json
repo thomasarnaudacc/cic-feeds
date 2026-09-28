@@ -1,22 +1,58 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-09-28T09:08:29.370Z",
+  "publishedAt": "2026-09-28T18:58:27.708Z",
   "itemsFr": [
+    {
+      "title": "[ JE CHOISIS / J’AGIS ] Bientôt le retour de la “Quinzaine de la conso solidaire” (et je fais le rêve d’un engagement au long cours)",
+      "excerpt": "Tout est parti d’une utopie il y a plus de 18 mois désormais : identifier, en rayons, les marques “qui veulent changer le monde”. Objectif …",
+      "link": "https://www.olivierdauvers.fr/2026/09/28/je-choisis-jagis-bientot-le-retour-de-la-quinzaine-de-la-conso-solidaire-et-je-fais-le-reve-dun-engagement-au-long-cours/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-09-28T16:28:36.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Robotique : Avec son world model Flux 3 Action, l’allemand Black Forest Labs revendique des performances supérieures à Cosmos 3 Nano de Nvidia",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/robotique-avec-son-world-model-flux-3-action-lallemand-black-forest-labs-revendique-des-performances-superieures-a-cosmos-3-nano-de-nvidia.JOGBWN7AFFBMDKEEOA4ZCQZL54.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-09-28T16:01:54.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Le skyr, jusqu’où ?",
+      "excerpt": "Mais où s’arrêtera la “folie Skyr” ? Parti logiquement de l’ultra-frais, voilà le Skyr à l’assaut d’autres rayons. J’avoue qu’en découvrant les…",
+      "link": "https://www.olivierdauvers.fr/2026/09/28/le-skyr-jusquou/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-09-28T14:46:00.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "ChatGPT Ads en France ouvre une nouvelle bataille pour le choix du consommateur",
+      "excerpt": "La publicité crée un nouvel espace dans ChatGPT, entre découverte et intention. Son succès dépendra de sa capacité à générer des ventes…",
+      "link": "https://www.journaldunet.com/adtech/1555279-chatgpt-ads-en-france-ouvre-une-nouvelle-bataille-pour-le-choix-du-consommateur/",
+      "source": "Journal du Net",
+      "pubDate": "2026-09-28T12:12:09.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "L’UE compte désormais plus de 700 000 robots industriels en service, la France troisième en matière d’installations annuelles",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/lue-compte-desormais-plus-de-700-000-robots-industriels-en-service-la-france-troisieme-en-matiere-dinstallations-annuelles.QJZJXAJWSVDPPEVQRXEUWCIH6E.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-09-28T11:31:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
     {
       "title": "Signaux faibles : repérer une tendance avant qu'elle ne s'impose sur le marché",
       "excerpt": "Une tendance met du temps à s'imposer sur un marché. Elle circule d'abord pendant des mois sous forme d'indices dispersés, que le travail de veille…",
       "link": "https://www.journaldunet.com/intelligence-artificielle/1555399-signaux-faibles-reperer-une-tendance-avant-qu-elle-ne-s-impose-sur-le-marche/",
       "source": "Journal du Net",
       "pubDate": "2026-09-28T08:56:46.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Physical AI : le prochain défi sera infrastructurel",
-      "excerpt": "L'intelligence artificielle entre dans une nouvelle ère : celle de l'IA physique.",
-      "link": "https://www.journaldunet.com/intelligence-artificielle/1555403-physical-ai-le-prochain-defi-sera-infrastructurel/",
-      "source": "Journal du Net",
-      "pubDate": "2026-09-28T08:56:31.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -30,30 +66,12 @@
       "pinned": false
     },
     {
-      "title": "Le skyr, jusqu’où ?",
-      "excerpt": "Mais où s’arrêtera la “folie Skyr” ? Parti logiquement de l’ultra-frais, voilà le Skyr à l’assaut d’autres rayons. J’avoue qu’en découvrant les…",
-      "link": "https://www.olivierdauvers.fr/2026/09/28/le-skyr-jusquou/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-09-28T07:46:00.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
       "title": "Étude Back Market : le coût humain et écologique méconnu de nos smartphones",
       "excerpt": "Chaque téléphone mobile de deux cents grammes dissimule un fardeau industriel méconnu. Sachant que sa fabrication exige 266 kilogrammes de minéraux…",
       "link": "https://www.ecommercemag.fr/ecommerce-green-1346/etude-back-market-le-cout-humain-et-ecologique-meconnu-de-nos-smartphones-59702",
       "source": "Ecommerce Mag",
       "pubDate": "2026-09-28T07:00:45.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Bonnes idées / Bonnes pratiques (114) : faire l’événement avec une innovation pas encore lancée. L’exemple d’Auchan avec Nutella Peanut…",
-      "excerpt": "Suite de ma série d’inspirations “bonnes idées / bonnes pratiques” dans le prolongement de mes ouvrages sur l’IMAGE-PRIX, le PENSER-CLIENT et la…",
-      "link": "https://www.olivierdauvers.fr/2026/09/26/bonnes-idees-bonnes-pratiques-114-faire-levenement-avec-une-innovation-pas-encore-lancee-lexemple-dauchan-avec-nutella-peanut/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-09-26T17:49:26.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
       "pinned": false
     },
     {
@@ -86,38 +104,65 @@
   ],
   "itemsEn": [
     {
-      "title": "Black Friday 2026 ready: The infrastructure and compliance checklist retailers can’t afford to skip",
-      "excerpt": "Large databases are vulnerable to tough new barriers targeting high numbers of consumer complaints and large unsubscribe rates.",
-      "link": "https://www.retaildive.com/spons/black-friday-2026-ready-the-infrastructure-and-compliance-checklist-retail/831107/",
-      "source": "Retail Dive",
-      "pubDate": "2026-09-28T09:00:00.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "title": "Nvidia launches new platform for reining in rogue AI agents",
+      "excerpt": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is…",
+      "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+      "source": "TechCrunch",
+      "pubDate": "2026-09-28T18:31:23.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
-      "title": "Surf, don’t drown: How retailers can ride the AI wave successfully",
-      "excerpt": "The AI revolution in retail is transforming opportunity into profit and sustainable growth.",
-      "link": "https://www.retaildive.com/spons/surf-dont-drown-how-retailers-can-ride-the-ai-wave-successfully/831274/",
-      "source": "Retail Dive",
-      "pubDate": "2026-09-28T09:00:00.000Z",
+      "title": "5 takeaways from Groceryshop",
+      "excerpt": "Artificial intelligence was the talk of this year’s show, but executives and analysts also had a lot to say about managing loyalty, digital…",
+      "link": "https://www.grocerydive.com/news/takeaways-groceryshop-conference-2026-las-vegas/831421/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-09-28T17:58:57.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "Instacart gives grocers and CPG brands a live view of every store",
-      "excerpt": "New in-store software solutions will give grocers and CPG brands a live view of every store, so shelves stay stocked and customers can find what they…",
-      "link": "https://www.grocerydive.com/spons/instacart-gives-grocers-and-cpg-brands-a-live-view-of-every-store/831392/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-09-28T09:00:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+      "excerpt": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
+      "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+      "source": "TechCrunch",
+      "pubDate": "2026-09-28T17:29:50.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
-      "title": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID",
-      "excerpt": "Truecaller finds a new way to reach users as pressure grows on its traditional caller ID business in India, its biggest market.",
-      "link": "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/",
-      "source": "TechCrunch",
-      "pubDate": "2026-09-28T04:30:00.000Z",
+      "title": "Hy-Vee looks to dramatically speed up online shopping",
+      "excerpt": "CEO Jeremy Gosch said the regional grocer is looking to cut the time it takes for shoppers to place an order on its website to no more than five…",
+      "link": "https://www.grocerydive.com/news/hy-vee-e-commerce-groceryshop-ceo-jeremy-gosch/831403/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-09-28T16:39:58.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Walmart CEO addresses dynamic pricing concerns",
+      "excerpt": "John Furner issued a letter attempting to dispel pricing concerns about digital shelf labels and Sparky, but some say a Walmart patent leaves the…",
+      "link": "https://www.retaildive.com/news/walmart-ceo-dynamic-pricing-concerns/831490/",
+      "source": "Retail Dive",
+      "pubDate": "2026-09-28T16:12:00.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "David’s Bridal wants to make it easy for vendors to engage with couples",
+      "excerpt": "The retailer’s AI-powered platform, Pearl Connect, gives vendors leads based on couples who are actively planning their weddings.",
+      "link": "https://www.retaildive.com/news/davids-bridal-wedding-vendor-platform-pearl-connect/831475/",
+      "source": "Retail Dive",
+      "pubDate": "2026-09-28T15:52:00.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
+    {
+      "title": "How Mondelēz keeps Mallomars a ‘cultural icon’ after 113 years",
+      "excerpt": "The chocolate-coated marshmallow cookie is only available seasonally and in select markets, but it has carved out a valuable niche for the Oreo maker…",
+      "link": "https://www.fooddive.com/news/Mondelez-international-oreo-snacking-cookie-mallomars/830584/",
+      "source": "Food Dive",
+      "pubDate": "2026-09-28T14:40:07.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -131,20 +176,11 @@
       "pinned": false
     },
     {
-      "title": "I created an interactive digital avatar of myself — and you can talk to it",
-      "excerpt": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
-      "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-      "source": "TechCrunch",
-      "pubDate": "2026-09-26T14:00:00.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "PCC to open 17th store",
-      "excerpt": "The grocery co-op’s newest location is set to debut in mid-October in Seattle’s Madison Valley district.",
-      "link": "https://www.grocerydive.com/news/pcc-community-markets-new-store-seattle-grocery/831340/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-09-25T15:40:00.000Z",
+      "title": "Bots welcome: Vercel CTO urges retailers to open up to agents",
+      "excerpt": "Retailers must befriend AI shopping agents rather than block them, Vercel's chief technology officer tells Miya Knights, Retail Technology Publisher…",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8773/bots-welcome:-vercel-cto-urges-retailers-to-open-up-to-agents/",
+      "source": "Retail Technology",
+      "pubDate": "2026-09-28T00:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -155,6 +191,15 @@
       "source": "Retail Customer Experience",
       "pubDate": "2026-09-25T11:00:00.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Retail AI Forum 2026: Foundations before Ferraris",
+      "excerpt": "Validify's Retail AI Forum weighed retailers' AI appetite against their readiness to deliver it, Miya Knights, Retail Technology Publisher, discovers.",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8770/retail-ai-forum-2026:-foundations-before-ferraris/",
+      "source": "Retail Technology",
+      "pubDate": "2026-09-25T00:00:00.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
