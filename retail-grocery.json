@@ -1,7 +1,52 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-09-28T02:39:16.888Z",
+  "publishedAt": "2026-09-28T09:08:29.370Z",
   "itemsFr": [
+    {
+      "title": "Signaux faibles : repérer une tendance avant qu'elle ne s'impose sur le marché",
+      "excerpt": "Une tendance met du temps à s'imposer sur un marché. Elle circule d'abord pendant des mois sous forme d'indices dispersés, que le travail de veille…",
+      "link": "https://www.journaldunet.com/intelligence-artificielle/1555399-signaux-faibles-reperer-une-tendance-avant-qu-elle-ne-s-impose-sur-le-marche/",
+      "source": "Journal du Net",
+      "pubDate": "2026-09-28T08:56:46.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Physical AI : le prochain défi sera infrastructurel",
+      "excerpt": "L'intelligence artificielle entre dans une nouvelle ère : celle de l'IA physique.",
+      "link": "https://www.journaldunet.com/intelligence-artificielle/1555403-physical-ai-le-prochain-defi-sera-infrastructurel/",
+      "source": "Journal du Net",
+      "pubDate": "2026-09-28T08:56:31.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "ai-PULSE, Teratec, UAV Show : cinq rendez-vous tech à suivre en octobre, et notre agenda en France",
+      "excerpt": "IA, commerce, drones, calcul intensif et spatial : en octobre, FRENCHWEB.FR retient cinq rendez-vous pour la pertinence de leur programme…",
+      "link": "https://www.frenchweb.fr/ai-pulse-teratec-uav-show-cinq-rendez-vous-tech-a-suivre-en-octobre-et-notre-agenda-en-france/463708",
+      "source": "FrenchWeb",
+      "pubDate": "2026-09-28T08:42:52.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Le skyr, jusqu’où ?",
+      "excerpt": "Mais où s’arrêtera la “folie Skyr” ? Parti logiquement de l’ultra-frais, voilà le Skyr à l’assaut d’autres rayons. J’avoue qu’en découvrant les…",
+      "link": "https://www.olivierdauvers.fr/2026/09/28/le-skyr-jusquou/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-09-28T07:46:00.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Étude Back Market : le coût humain et écologique méconnu de nos smartphones",
+      "excerpt": "Chaque téléphone mobile de deux cents grammes dissimule un fardeau industriel méconnu. Sachant que sa fabrication exige 266 kilogrammes de minéraux…",
+      "link": "https://www.ecommercemag.fr/ecommerce-green-1346/etude-back-market-le-cout-humain-et-ecologique-meconnu-de-nos-smartphones-59702",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-09-28T07:00:45.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "Bonnes idées / Bonnes pratiques (114) : faire l’événement avec une innovation pas encore lancée. L’exemple d’Auchan avec Nutella Peanut…",
       "excerpt": "Suite de ma série d’inspirations “bonnes idées / bonnes pratiques” dans le prolongement de mes ouvrages sur l’IMAGE-PRIX, le PENSER-CLIENT et la…",
@@ -12,29 +57,11 @@
       "pinned": false
     },
     {
-      "title": "SAMEDI CONSO : mon carnet (retail mais pas que…) de la semaine",
-      "excerpt": "« SAMEDI CONSO », la semaine retail (mais pas que) passée en revue. Comme toujours en totale liberté. Et tant pis si ça pique ! Âmes (trop) sensibles…",
-      "link": "https://www.olivierdauvers.fr/2026/09/26/samedi-conso-mon-carnet-retail-mais-pas-que-de-la-semaine-381/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-09-26T00:44:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "La flambée des prix à la pompe affole les compteurs de BlaBlaCar",
       "excerpt": "L’article La flambée des prix à la pompe affole les compteurs de BlaBlaCar est apparu en premier sur Maddyness - Le média pour comprendre l'économie…",
       "link": "https://www.maddyness.com/2026/09/25/la-flambee-des-prix-a-la-pompe-affole-les-compteurs-de-blablacar/",
       "source": "Maddyness",
       "pubDate": "2026-09-25T11:23:51.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "Emmanuel Macron n'exclut pas une baisse des taxes sur les carburants si la hausse des prix se poursuit",
-      "excerpt": "Le président de la République évoque la possibilité d'un ajustement fiscal sur les carburants, tout en privilégiant d'autres leviers pour faire…",
-      "link": "https://www.journaldunet.com/business/action-publique/1555415-emmanuel-macron-n-exclut-pas-une-baisse-des-taxes-sur-les-carburants-si-la-hausse-des-prix-se-poursuit/",
-      "source": "Journal du Net",
-      "pubDate": "2026-09-25T07:43:36.000Z",
       "category": "OFFRE, PRIX & MERCHANDISING",
       "pinned": false
     },
@@ -48,24 +75,6 @@
       "pinned": false
     },
     {
-      "title": "Sun et Havas ont testé le social retail d'Unlimitail : résultat, un CPM en baisse de 67%",
-      "excerpt": "L'annonceur se montre satisfait du premier POC d'un dispositif inédit consistant à optimiser l'algorithme de Meta avec les données de vente de…",
-      "link": "https://www.journaldunet.com/adtech/1555273-sun-et-havas-ont-teste-le-social-retail-d-unlimitail-cpm-en-baisse-de-67-roas-de-5-6/",
-      "source": "Journal du Net",
-      "pubDate": "2026-09-25T06:16:44.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Avec Septeo Legal, SEPTEO veut passer de la gestion des cabinets à la production juridique",
-      "excerpt": "En rapprochant ses logiciels métiers, les contenus de Lexbase et des fonctions d’intelligence artificielle, Septeo veut devenir l’environnement dans…",
-      "link": "https://www.frenchweb.fr/avec-septeo-legal-septeo-veut-passer-de-la-gestion-des-cabinets-a-la-production-juridique/463640",
-      "source": "FrenchWeb",
-      "pubDate": "2026-09-23T13:30:44.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Retail et IA : l’enthousiasme des équipes se heurte aux freins internes",
       "excerpt": "Dans la grande distribution, les équipes accueillent les outils numériques intelligents avec une curiosité marquée et en retirent de réels gains de…",
       "link": "https://www.ecommercemag.fr/retail-1220/barometre-etude-2168/retail-et-ia-lenthousiasme-des-equipes-se-heurte-aux-freins-internes-59650",
@@ -73,18 +82,54 @@
       "pubDate": "2026-09-23T07:54:08.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
-    },
-    {
-      "title": "Commerce spécialisé : malgré un été fréquenté, les ventes reculent de 2,4%",
-      "excerpt": "Portée par les fortes chaleurs de l'été, la fréquentation des magasins a progressée en juillet et en août, mais les ventes en valeur restent en recul…",
-      "link": "https://www.ecommercemag.fr/retail-1220/strategie-retail-2163/commerce-specialise-malgre-un-ete-frequente-les-ventes-reculent-de-24-59624",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-09-23T06:14:53.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
     }
   ],
   "itemsEn": [
+    {
+      "title": "Black Friday 2026 ready: The infrastructure and compliance checklist retailers can’t afford to skip",
+      "excerpt": "Large databases are vulnerable to tough new barriers targeting high numbers of consumer complaints and large unsubscribe rates.",
+      "link": "https://www.retaildive.com/spons/black-friday-2026-ready-the-infrastructure-and-compliance-checklist-retail/831107/",
+      "source": "Retail Dive",
+      "pubDate": "2026-09-28T09:00:00.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "Surf, don’t drown: How retailers can ride the AI wave successfully",
+      "excerpt": "The AI revolution in retail is transforming opportunity into profit and sustainable growth.",
+      "link": "https://www.retaildive.com/spons/surf-dont-drown-how-retailers-can-ride-the-ai-wave-successfully/831274/",
+      "source": "Retail Dive",
+      "pubDate": "2026-09-28T09:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Instacart gives grocers and CPG brands a live view of every store",
+      "excerpt": "New in-store software solutions will give grocers and CPG brands a live view of every store, so shelves stay stocked and customers can find what they…",
+      "link": "https://www.grocerydive.com/spons/instacart-gives-grocers-and-cpg-brands-a-live-view-of-every-store/831392/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-09-28T09:00:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID",
+      "excerpt": "Truecaller finds a new way to reach users as pressure grows on its traditional caller ID business in India, its biggest market.",
+      "link": "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/",
+      "source": "TechCrunch",
+      "pubDate": "2026-09-28T04:30:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Behavior-Led Innovation: How Consumer Behavior Drives the Future of Retail",
+      "excerpt": "Retail innovation starts with the customer. As shopping behaviors evolve, they reshape expectations and influence how retailers design experiences…",
+      "link": "https://www.kioskmarketplace.com/resources/behavior-led-innovation-how-consumer-behavior-drives-the-future-of-retail/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-09-28T04:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "I created an interactive digital avatar of myself — and you can talk to it",
       "excerpt": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
@@ -95,47 +140,11 @@
       "pinned": false
     },
     {
-      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-      "excerpt": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
-      "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-      "source": "TechCrunch",
-      "pubDate": "2026-09-25T22:20:47.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Target is opening a store in the Hamptons. It’s not red.",
-      "excerpt": "The retailer’s signature color is not part of the external facade of the building at its new location in Bridgehampton, New York.",
-      "link": "https://www.retaildive.com/news/target-store-hamptons-bridgehampton-gray/831356/",
-      "source": "Retail Dive",
-      "pubDate": "2026-09-25T15:41:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "PCC to open 17th store",
       "excerpt": "The grocery co-op’s newest location is set to debut in mid-October in Seattle’s Madison Valley district.",
       "link": "https://www.grocerydive.com/news/pcc-community-markets-new-store-seattle-grocery/831340/",
       "source": "Grocery Dive",
       "pubDate": "2026-09-25T15:40:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "TJX CEO: Distribution model will help weather El Niño",
-      "excerpt": "The off-price retailer’s supply chain strategy allows it to hold inventory instead of going straight to stores.",
-      "link": "https://www.retaildive.com/news/tjx-ceo-distribution-model-el-nino/831118/",
-      "source": "Retail Dive",
-      "pubDate": "2026-09-25T15:24:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Costco trumps Aldi in grocery value perception, data shows",
-      "excerpt": "While the club retailer enjoys an overall advantage over the discounter, the gap varied based on people’s age, analytics firm YouGov found.",
-      "link": "https://www.grocerydive.com/news/aldi-costco-value-grocery-yougov/831339/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-09-25T15:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -149,30 +158,12 @@
       "pinned": false
     },
     {
-      "title": "How retailers can capitalize as consumers become more intentional",
-      "excerpt": "Economics and budget tightening are spurring shoppers to be more intentional when purchasing. The trend presents opportunities for retailers to win…",
-      "link": "https://www.retailcustomerexperience.com/articles/how-retailers-can-capitalize-as-consumers-become-more-intentional/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-09-25T10:00:00.000Z",
+      "title": "Grocery inflation is primed to rise",
+      "excerpt": "Elevated fuel costs could soon wear down food companies that have so far kept price increases contained, industry experts said at an FMI briefing.",
+      "link": "https://www.fooddive.com/news/grocery-inflation-fuel-prices-fmi/831249/",
+      "source": "Food Dive",
+      "pubDate": "2026-09-24T14:13:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Retail AI Forum 2026: Foundations before Ferraris",
-      "excerpt": "Validify's Retail AI Forum weighed retailers' AI appetite against their readiness to deliver it, Miya Knights, Retail Technology Publisher, discovers.",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8770/retail-ai-forum-2026:-foundations-before-ferraris/",
-      "source": "Retail Technology",
-      "pubDate": "2026-09-25T00:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "The Entertainer finds new digital partner",
-      "excerpt": "Toy chain The Entertainer is teaming up with THG Ingenuity to accelerate its digital transformation and find new ways for customers to shop for toys…",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8767/the-entertainer-finds-new-digital-partner/",
-      "source": "Retail Technology",
-      "pubDate": "2026-09-24T00:00:00.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
     }
   ]
