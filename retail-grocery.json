@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-09-29T17:18:03.313Z",
+  "publishedAt": "2026-09-29T21:40:18.948Z",
   "itemsFr": [
     {
       "title": "GPT-6.1 Sol, les agents Dots, un abonnement à 500 dollars… Toutes les annonces du DevDay d'OpenAI",
@@ -104,21 +104,21 @@
   ],
   "itemsEn": [
     {
-      "title": "OpenAI launches Dots, its bubbly agentic avatar",
-      "excerpt": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal…",
-      "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+      "excerpt": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+      "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
       "source": "TechCrunch",
-      "pubDate": "2026-09-29T17:17:15.000Z",
+      "pubDate": "2026-09-29T18:35:00.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
-      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
-      "excerpt": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
-      "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+      "title": "Dutch police arrest ShinyHunters hacker accused of planning two murders",
+      "excerpt": "Dutch police said the hacker, arrested for being part of the ShinyHunters cybercriminal gang, had plans to organize the murder of two people on his…",
+      "link": "https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/",
       "source": "TechCrunch",
-      "pubDate": "2026-09-29T17:15:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pubDate": "2026-09-29T17:27:09.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
     },
     {
@@ -141,7 +141,7 @@
     },
     {
       "title": "Costco continues to gain momentum in fresh food",
-      "excerpt": "Bakery and meat were strong performers during the company’s Q4, underscoring the threat the club retailer poses to traditional grocers.",
+      "excerpt": "Bakery and meat were strong performers during the club retailer’s Q4, underscoring the threat it poses to traditional grocers.",
       "link": "https://www.grocerydive.com/news/costco-earnings-fourth-quarter-2026-food-grocery/831617/",
       "source": "Grocery Dive",
       "pubDate": "2026-09-29T15:20:00.000Z",
@@ -149,18 +149,18 @@
       "pinned": false
     },
     {
-      "title": "AI deal-hunting is the new customer experience test for retailers",
-      "excerpt": "Retailers will keep competing hard on price, especially as shoppers become more cautious about where they spend. But a discount alone does not create…",
-      "link": "https://www.retailcustomerexperience.com/blogs/ai-deal-hunting-is-the-new-customer-experience-test-for-retailers/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-09-29T10:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Old World Christmas launches loyalty program",
       "excerpt": "",
       "link": "https://www.retailcustomerexperience.com/news/old-world-christmas-launches-loyalty-program/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-09-29T10:00:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Poor online brand search driving consumers to tap AI assistants",
+      "excerpt": "",
+      "link": "https://www.retailcustomerexperience.com/news/poor-online-brand-search-driving-consumers-to-tap-ai-assistants/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-09-29T10:00:00.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
