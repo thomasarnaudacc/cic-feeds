@@ -1,14 +1,59 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-09-29T00:44:38.035Z",
+  "publishedAt": "2026-09-29T09:18:05.519Z",
   "itemsFr": [
     {
-      "title": "[ JE CHOISIS / J’AGIS ] Bientôt le retour de la “Quinzaine de la conso solidaire” (et je fais le rêve d’un engagement au long cours)",
-      "excerpt": "Tout est parti d’une utopie il y a plus de 18 mois désormais : identifier, en rayons, les marques “qui veulent changer le monde”. Objectif …",
-      "link": "https://www.olivierdauvers.fr/2026/09/28/je-choisis-jagis-bientot-le-retour-de-la-quinzaine-de-la-conso-solidaire-et-je-fais-le-reve-dun-engagement-au-long-cours/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-09-28T16:28:36.000Z",
+      "title": "Anthropic bientôt valorisé 2000 milliards en bourse : retour sur une croissance fulgurante, des dépenses qui explosent, et la sortie de Sonnet 5.5",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/anthropic/anthropic-bientot-valorise-2000-milliards-en-bourse-retour-sur-une-croissance-fulgurante-des-depenses-qui-explosent-et-la-sortie-de-sonnet-55.PB6CAALGJJGFTCNDVRRFHBV7I4.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-09-29T09:08:01.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "La popularité d'Emmanuel Macron chute à un niveau historiquement bas de 18% selon un sondage Odoxa-Mascaret, sur fond d'inquiétude liée à la hausse des prix des carburants",
+      "excerpt": "Emmanuel Macron et Sébastien Lecornu enregistrent une forte baisse de popularité, sur fond de mécontentement face à la gestion de la crise des…",
+      "link": "https://www.journaldunet.com/business/action-publique/1555537-la-popularite-d-emmanuel-macron-chute-a-un-niveau-historiquement-bas-de-18-selon-un-sondage-odoxa-mascaret-sur-fond-d-inquietude-liee-a-la-hausse-des-prix-des-carburants/",
+      "source": "Journal du Net",
+      "pubDate": "2026-09-29T08:40:02.000Z",
       "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Consigne chez Carrefour : les spiritueux montrent l’exemple",
+      "excerpt": "On ne pourra pas reprocher à Carrefour de ne pas se bouger pour essayer d’imposer la consigne dans le quotidien des Français ! En marge du test…",
+      "link": "https://www.olivierdauvers.fr/2026/09/29/consigne-chez-carrefour-les-spiritueux-montrent-lexemple/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-09-29T08:20:08.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Pourquoi l'IA ne doit pas seulement nous apprendre à coder plus vite",
+      "excerpt": "L'IA est en train de bouleverser la manière dont les logiciels sont conçus. Génération de code, développement de fonctionnalités, revue des pull…",
+      "link": "https://www.journaldunet.com/intelligence-artificielle/1555373-pourquoi-l-ia-ne-doit-pas-seulement-nous-apprendre-a-coder-plus-vite/",
+      "source": "Journal du Net",
+      "pubDate": "2026-09-29T08:10:30.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "NRF Retail’s Big Show Europe 2026 à Paris : 5 startups qui transforment le retail",
+      "excerpt": "Le NRF Retail’s Big Show Europe a fait son retour à Paris, du 15 au 17 septembre, pour une deuxième édition placée sous une bannière fédératrice : «…",
+      "link": "https://www.ecommercemag.fr/retail-1220/small-business-2166/nrf-retails-big-show-europe-2026-a-paris-5-startups-qui-transforment-le-retail-59768",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-09-29T07:20:47.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Carrefour prêt à reprendre Codifrance (Colruyt) : le billard à 4 bandes d’Alexandre Bompard",
+      "excerpt": "C’est une information de La Lettre : Carrefour s’apprêterait à reprendre le réseau de proximité Codifrance (encore propriété de Colruyt) moyennant…",
+      "link": "https://www.olivierdauvers.fr/2026/09/29/carrefour-codifrance-colruyt-le-billard-a-4-bandes-dalexandre-bompard/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-09-29T05:39:22.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
     },
     {
@@ -18,42 +63,6 @@
       "source": "L'Usine Digitale",
       "pubDate": "2026-09-28T16:01:54.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Le skyr, jusqu’où ?",
-      "excerpt": "Mais où s’arrêtera la “folie Skyr” ? Parti logiquement de l’ultra-frais, voilà le Skyr à l’assaut d’autres rayons. J’avoue qu’en découvrant les…",
-      "link": "https://www.olivierdauvers.fr/2026/09/28/le-skyr-jusquou/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-09-28T14:46:00.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "ChatGPT Ads en France ouvre une nouvelle bataille pour le choix du consommateur",
-      "excerpt": "La publicité crée un nouvel espace dans ChatGPT, entre découverte et intention. Son succès dépendra de sa capacité à générer des ventes…",
-      "link": "https://www.journaldunet.com/adtech/1555279-chatgpt-ads-en-france-ouvre-une-nouvelle-bataille-pour-le-choix-du-consommateur/",
-      "source": "Journal du Net",
-      "pubDate": "2026-09-28T12:12:09.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "L’UE compte désormais plus de 700 000 robots industriels en service, la France troisième en matière d’installations annuelles",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/lue-compte-desormais-plus-de-700-000-robots-industriels-en-service-la-france-troisieme-en-matiere-dinstallations-annuelles.QJZJXAJWSVDPPEVQRXEUWCIH6E.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-09-28T11:31:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Signaux faibles : repérer une tendance avant qu'elle ne s'impose sur le marché",
-      "excerpt": "Une tendance met du temps à s'imposer sur un marché. Elle circule d'abord pendant des mois sous forme d'indices dispersés, que le travail de veille…",
-      "link": "https://www.journaldunet.com/intelligence-artificielle/1555399-signaux-faibles-reperer-une-tendance-avant-qu-elle-ne-s-impose-sur-le-marche/",
-      "source": "Journal du Net",
-      "pubDate": "2026-09-28T08:56:46.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -91,18 +100,18 @@
       "pubDate": "2026-09-25T07:17:15.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
-    },
-    {
-      "title": "Retail et IA : l’enthousiasme des équipes se heurte aux freins internes",
-      "excerpt": "Dans la grande distribution, les équipes accueillent les outils numériques intelligents avec une curiosité marquée et en retirent de réels gains de…",
-      "link": "https://www.ecommercemag.fr/retail-1220/barometre-etude-2168/retail-et-ia-lenthousiasme-des-equipes-se-heurte-aux-freins-internes-59650",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-09-23T07:54:08.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
     }
   ],
   "itemsEn": [
+    {
+      "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
+      "excerpt": "Atomic's agentic supply chain software is now being used by companies like DoorDash and HelloFresh.",
+      "link": "https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/",
+      "source": "TechCrunch",
+      "pubDate": "2026-09-29T09:00:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
     {
       "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
       "excerpt": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
@@ -110,15 +119,6 @@
       "source": "TechCrunch",
       "pubDate": "2026-09-29T00:30:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Aurora CFO says 30,000 driverless trucks by 2030 isn’t as far-fetched as it sounds",
-      "excerpt": "Self-driving truck company Aurora laid out an audacious plan for 2030. Its CFO says its targets aren't aspirational.",
-      "link": "https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/",
-      "source": "TechCrunch",
-      "pubDate": "2026-09-28T22:58:35.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
       "pinned": false
     },
     {
@@ -158,7 +158,7 @@
       "pinned": false
     },
     {
-      "title": "How Mondelēz maintains Mallomars’ status as a ‘cultural icon’ after 113 years",
+      "title": "How Mondelēz keeps Mallomars a ‘cultural icon’ after 113 years",
       "excerpt": "The chocolate-coated marshmallow cookie is only available seasonally and in select markets, but it has carved out a valuable niche for the Oreo maker…",
       "link": "https://www.fooddive.com/news/Mondelez-international-oreo-snacking-cookie-mallomars/830584/",
       "source": "Food Dive",
