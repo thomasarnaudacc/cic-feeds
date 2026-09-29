@@ -1,40 +1,76 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-09-29T09:18:05.519Z",
+  "publishedAt": "2026-09-29T17:18:03.313Z",
   "itemsFr": [
     {
-      "title": "Anthropic bientôt valorisé 2000 milliards en bourse : retour sur une croissance fulgurante, des dépenses qui explosent, et la sortie de Sonnet 5.5",
+      "title": "GPT-6.1 Sol, les agents Dots, un abonnement à 500 dollars… Toutes les annonces du DevDay d'OpenAI",
+      "excerpt": "Un modèle proche d'Astra pour un cinquième du prix, un mode ultrafast, des agents qui travaillent 24h/24… OpenAI enchaîne plus de 20 lancements…",
+      "link": "https://www.journaldunet.com/intelligence-artificielle/1555585-gpt-6-1-sol-les-agents-dots-un-abonnement-a-500-dollars-toutes-les-annonces-du-devday-d-openai/",
+      "source": "Journal du Net",
+      "pubDate": "2026-09-29T17:15:01.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Cdiscount : comment la marketplace transforme son modèle",
+      "excerpt": "Face à l'hégémonie d'Amazon et à la montée en puissance des plateformes asiatiques, Cdiscount accélère sa transformation. Reçu au siège de…",
+      "link": "https://www.ecommercemag.fr/retail-1220/strategie-retail-2163/cdiscount-comment-la-marketplace-transforme-son-modele-59827",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-09-29T16:28:31.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Plongée dans le dark web #3 : comment j'aurais pu inonder de drogue la Roumanie",
+      "excerpt": "Un dealer roumain, des colis remplis de drogue et des paiements en cryptomonnaies. Troisième volet de notre enquête sur le vaste marché du travail…",
+      "link": "https://www.journaldunet.com/cybersecurite/1555563-plongee-dans-le-dark-web-3-comment-on-voulait-m-enroler-dans-un-trafic-de-drogue-europeen/",
+      "source": "Journal du Net",
+      "pubDate": "2026-09-29T16:20:01.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Ses puces permettent aux modèles d’IA de tourner en local sur des robots humanoïdes : la start-up américaine SiMa.ai lève 150 millions de dollars",
       "excerpt": "",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/anthropic/anthropic-bientot-valorise-2000-milliards-en-bourse-retour-sur-une-croissance-fulgurante-des-depenses-qui-explosent-et-la-sortie-de-sonnet-55.PB6CAALGJJGFTCNDVRRFHBV7I4.html",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/ses-puces-permettent-aux-modeles-dia-de-tourner-en-local-sur-des-robots-humanoides-la-start-up-americaine-simaai-leve-150-millions-de-dollars.DYZD3U7VEVFIVHQAULWYGPHMDU.html",
       "source": "L'Usine Digitale",
-      "pubDate": "2026-09-29T09:08:01.000Z",
+      "pubDate": "2026-09-29T14:37:13.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Rayon lève 10 millions d’euros pour mettre l’IA au service des architectes d’intérieur",
+      "excerpt": "L’article Rayon lève 10 millions d’euros pour mettre l’IA au service des architectes d’intérieur est apparu en premier sur Maddyness - Le média pour…",
+      "link": "https://www.maddyness.com/2026/09/29/rayon-leve-10-millions-deuros-pour-mettre-lia-au-service-des-architectes-dinterieur/",
+      "source": "Maddyness",
+      "pubDate": "2026-09-29T10:35:46.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "World models : Pourquoi AMD débourse 8,2 milliards de dollars pour s’offrir World Labs, la start-up de Fei-Fei Li",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/ia-generative/world-models-pourquoi-amd-debourse-82-milliards-de-dollars-pour-soffrir-world-labs-la-start-up-de-fei-fei-li.6KSPLKZJCFGHTBEA6IYTHLQRVI.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-09-29T10:21:45.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
     {
-      "title": "La popularité d'Emmanuel Macron chute à un niveau historiquement bas de 18% selon un sondage Odoxa-Mascaret, sur fond d'inquiétude liée à la hausse des prix des carburants",
-      "excerpt": "Emmanuel Macron et Sébastien Lecornu enregistrent une forte baisse de popularité, sur fond de mécontentement face à la gestion de la crise des…",
-      "link": "https://www.journaldunet.com/business/action-publique/1555537-la-popularite-d-emmanuel-macron-chute-a-un-niveau-historiquement-bas-de-18-selon-un-sondage-odoxa-mascaret-sur-fond-d-inquietude-liee-a-la-hausse-des-prix-des-carburants/",
-      "source": "Journal du Net",
-      "pubDate": "2026-09-29T08:40:02.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "Consigne chez Carrefour : les spiritueux montrent l’exemple",
-      "excerpt": "On ne pourra pas reprocher à Carrefour de ne pas se bouger pour essayer d’imposer la consigne dans le quotidien des Français ! En marge du test…",
-      "link": "https://www.olivierdauvers.fr/2026/09/29/consigne-chez-carrefour-les-spiritueux-montrent-lexemple/",
+      "title": "[Exclu] Chronodrive et Monoprix bientôt “virés” d’Amazon",
+      "excerpt": "C’est une info que Thibaut Bayart, président de Chronodrive, a révélée lors des Ateliers du drive et du e-commerce que je co-organisais avec…",
+      "link": "https://www.olivierdauvers.fr/2026/09/29/exclu-chronodrive-et-monoprix-bientot-vires-damazon/",
       "source": "Olivier Dauvers",
-      "pubDate": "2026-09-29T08:20:08.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pubDate": "2026-09-29T09:38:48.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
       "pinned": false
     },
     {
-      "title": "Pourquoi l'IA ne doit pas seulement nous apprendre à coder plus vite",
-      "excerpt": "L'IA est en train de bouleverser la manière dont les logiciels sont conçus. Génération de code, développement de fonctionnalités, revue des pull…",
-      "link": "https://www.journaldunet.com/intelligence-artificielle/1555373-pourquoi-l-ia-ne-doit-pas-seulement-nous-apprendre-a-coder-plus-vite/",
-      "source": "Journal du Net",
-      "pubDate": "2026-09-29T08:10:30.000Z",
+      "title": "0,7 % : le vrai montant de la casse alimentaire",
+      "excerpt": "Sujet à haute valeur embarquée symbolique et économique, le gaspillage alimentaire manquait d’indicateurs mutualisés et suivis. La FCD et Perifem y…",
+      "link": "https://www.olivierdauvers.fr/2026/09/29/07-le-vrai-montant-de-la-casse-alimentaire/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-09-29T09:20:29.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
@@ -48,48 +84,12 @@
       "pinned": false
     },
     {
-      "title": "Carrefour prêt à reprendre Codifrance (Colruyt) : le billard à 4 bandes d’Alexandre Bompard",
-      "excerpt": "C’est une information de La Lettre : Carrefour s’apprêterait à reprendre le réseau de proximité Codifrance (encore propriété de Colruyt) moyennant…",
-      "link": "https://www.olivierdauvers.fr/2026/09/29/carrefour-codifrance-colruyt-le-billard-a-4-bandes-dalexandre-bompard/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-09-29T05:39:22.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "Robotique : Avec son world model Flux 3 Action, l’allemand Black Forest Labs revendique des performances supérieures à Cosmos 3 Nano de Nvidia",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/robotique-avec-son-world-model-flux-3-action-lallemand-black-forest-labs-revendique-des-performances-superieures-a-cosmos-3-nano-de-nvidia.JOGBWN7AFFBMDKEEOA4ZCQZL54.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-09-28T16:01:54.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
       "title": "ai-PULSE, Teratec, UAV Show : cinq rendez-vous tech à suivre en octobre, et notre agenda en France",
       "excerpt": "IA, commerce, drones, calcul intensif et spatial : en octobre, FRENCHWEB.FR retient cinq rendez-vous pour la pertinence de leur programme…",
       "link": "https://www.frenchweb.fr/ai-pulse-teratec-uav-show-cinq-rendez-vous-tech-a-suivre-en-octobre-et-notre-agenda-en-france/463708",
       "source": "FrenchWeb",
       "pubDate": "2026-09-28T08:42:52.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Étude Back Market : le coût humain et écologique méconnu de nos smartphones",
-      "excerpt": "Chaque téléphone mobile de deux cents grammes dissimule un fardeau industriel méconnu. Sachant que sa fabrication exige 266 kilogrammes de minéraux…",
-      "link": "https://www.ecommercemag.fr/ecommerce-green-1346/etude-back-market-le-cout-humain-et-ecologique-meconnu-de-nos-smartphones-59702",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-09-28T07:00:45.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "La flambée des prix à la pompe affole les compteurs de BlaBlaCar",
-      "excerpt": "L’article La flambée des prix à la pompe affole les compteurs de BlaBlaCar est apparu en premier sur Maddyness - Le média pour comprendre l'économie…",
-      "link": "https://www.maddyness.com/2026/09/25/la-flambee-des-prix-a-la-pompe-affole-les-compteurs-de-blablacar/",
-      "source": "Maddyness",
-      "pubDate": "2026-09-25T11:23:51.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
       "pinned": false
     },
     {
@@ -104,21 +104,66 @@
   ],
   "itemsEn": [
     {
-      "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
-      "excerpt": "Atomic's agentic supply chain software is now being used by companies like DoorDash and HelloFresh.",
-      "link": "https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/",
+      "title": "OpenAI launches Dots, its bubbly agentic avatar",
+      "excerpt": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal…",
+      "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
       "source": "TechCrunch",
-      "pubDate": "2026-09-29T09:00:00.000Z",
+      "pubDate": "2026-09-29T17:17:15.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
+      "excerpt": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+      "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+      "source": "TechCrunch",
+      "pubDate": "2026-09-29T17:15:00.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
-      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-      "excerpt": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
-      "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
-      "source": "TechCrunch",
-      "pubDate": "2026-09-29T00:30:00.000Z",
+      "title": "Wayfair ups investment in sports for values-focused brand platform",
+      "excerpt": "The retailer is amplifying its latest effort by increasing advertising investment across the networks airing football games to five times its…",
+      "link": "https://www.retaildive.com/news/wayfair-ups-investment-in-sports-for-values-focused-brand-platform/831615/",
+      "source": "Retail Dive",
+      "pubDate": "2026-09-29T15:55:00.000Z",
       "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Target cuts prices as consumer sentiment sours",
+      "excerpt": "With the holiday season ramping up, the mass retailer reduced pricing on nearly 2,000 home and apparel products.",
+      "link": "https://www.retaildive.com/news/target-cuts-prices-consumer-sentiment-sours/831627/",
+      "source": "Retail Dive",
+      "pubDate": "2026-09-29T15:42:00.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Costco continues to gain momentum in fresh food",
+      "excerpt": "Bakery and meat were strong performers during the company’s Q4, underscoring the threat the club retailer poses to traditional grocers.",
+      "link": "https://www.grocerydive.com/news/costco-earnings-fourth-quarter-2026-food-grocery/831617/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-09-29T15:20:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "AI deal-hunting is the new customer experience test for retailers",
+      "excerpt": "Retailers will keep competing hard on price, especially as shoppers become more cautious about where they spend. But a discount alone does not create…",
+      "link": "https://www.retailcustomerexperience.com/blogs/ai-deal-hunting-is-the-new-customer-experience-test-for-retailers/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-09-29T10:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Old World Christmas launches loyalty program",
+      "excerpt": "",
+      "link": "https://www.retailcustomerexperience.com/news/old-world-christmas-launches-loyalty-program/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-09-29T10:00:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
@@ -131,47 +176,11 @@
       "pinned": false
     },
     {
-      "title": "Hy-Vee looks to dramatically speed up online shopping",
-      "excerpt": "CEO Jeremy Gosch said the regional grocer is looking to cut the time it takes for shoppers to place an order on its website to no more than five…",
-      "link": "https://www.grocerydive.com/news/hy-vee-e-commerce-groceryshop-ceo-jeremy-gosch/831403/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-09-28T16:39:58.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Walmart CEO addresses dynamic pricing concerns",
-      "excerpt": "John Furner issued a letter attempting to dispel pricing concerns about digital shelf labels and Sparky, but some say a Walmart patent leaves the…",
-      "link": "https://www.retaildive.com/news/walmart-ceo-dynamic-pricing-concerns/831490/",
-      "source": "Retail Dive",
-      "pubDate": "2026-09-28T16:12:00.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "David’s Bridal wants to make it easy for vendors to engage with couples",
-      "excerpt": "The retailer’s AI-powered platform, Pearl Connect, gives vendors leads based on couples who are actively planning their weddings.",
-      "link": "https://www.retaildive.com/news/davids-bridal-wedding-vendor-platform-pearl-connect/831475/",
-      "source": "Retail Dive",
-      "pubDate": "2026-09-28T15:52:00.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
       "title": "How Mondelēz keeps Mallomars a ‘cultural icon’ after 113 years",
       "excerpt": "The chocolate-coated marshmallow cookie is only available seasonally and in select markets, but it has carved out a valuable niche for the Oreo maker…",
       "link": "https://www.fooddive.com/news/Mondelez-international-oreo-snacking-cookie-mallomars/830584/",
       "source": "Food Dive",
       "pubDate": "2026-09-28T14:40:07.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Behavior-Led Innovation: How Consumer Behavior Drives the Future of Retail",
-      "excerpt": "Retail innovation starts with the customer. As shopping behaviors evolve, they reshape expectations and influence how retailers design experiences…",
-      "link": "https://www.kioskmarketplace.com/resources/behavior-led-innovation-how-consumer-behavior-drives-the-future-of-retail/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-09-28T04:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -190,24 +199,6 @@
       "link": "https://www.retailtechnology.co.uk/rss.xml/news/8774/stylesmuggler-attack-compromises-over-3800-magento-and-adobe-commerce-stores/",
       "source": "Retail Technology",
       "pubDate": "2026-09-28T00:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Consumers are loyalty stacking at fuel pumps more than ever",
-      "excerpt": "",
-      "link": "https://www.retailcustomerexperience.com/news/consumers-are-loyalty-stacking-at-fuel-pumps-more-than-ever/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-09-25T11:00:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Grocery inflation is primed to rise",
-      "excerpt": "Elevated fuel costs could soon wear down food companies that have so far kept price increases contained, industry experts said at an FMI briefing.",
-      "link": "https://www.fooddive.com/news/grocery-inflation-fuel-prices-fmi/831249/",
-      "source": "Food Dive",
-      "pubDate": "2026-09-24T14:13:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     }
