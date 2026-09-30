@@ -1,7 +1,16 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-09-29T21:40:18.948Z",
+  "publishedAt": "2026-09-30T03:04:27.747Z",
   "itemsFr": [
+    {
+      "title": "[ IA ] Quand Claude me dit chez qui faire mes courses en drive et prépare mon panier…",
+      "excerpt": "Je vous ai déjà montré ici comment une IA pouvait prendre la main sur les courses en drive et remplir un panier en toute autonomie. Je pousse…",
+      "link": "https://www.olivierdauvers.fr/2026/09/30/ia-quand-claude-me-dit-chez-qui-faire-mes-courses-en-drive-et-prepare-mon-panier/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-09-30T00:29:00.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
     {
       "title": "GPT-6.1 Sol, les agents Dots, un abonnement à 500 dollars… Toutes les annonces du DevDay d'OpenAI",
       "excerpt": "Un modèle proche d'Astra pour un cinquième du prix, un mode ultrafast, des agents qui travaillent 24h/24… OpenAI enchaîne plus de 20 lancements…",
@@ -66,15 +75,6 @@
       "pinned": false
     },
     {
-      "title": "0,7 % : le vrai montant de la casse alimentaire",
-      "excerpt": "Sujet à haute valeur embarquée symbolique et économique, le gaspillage alimentaire manquait d’indicateurs mutualisés et suivis. La FCD et Perifem y…",
-      "link": "https://www.olivierdauvers.fr/2026/09/29/07-le-vrai-montant-de-la-casse-alimentaire/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-09-29T09:20:29.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
       "title": "NRF Retail’s Big Show Europe 2026 à Paris : 5 startups qui transforment le retail",
       "excerpt": "Le NRF Retail’s Big Show Europe a fait son retour à Paris, du 15 au 17 septembre, pour une deuxième édition placée sous une bannière fédératrice : «…",
       "link": "https://www.ecommercemag.fr/retail-1220/small-business-2166/nrf-retails-big-show-europe-2026-a-paris-5-startups-qui-transforment-le-retail-59768",
@@ -104,21 +104,21 @@
   ],
   "itemsEn": [
     {
+      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+      "excerpt": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the…",
+      "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "source": "TechCrunch",
+      "pubDate": "2026-09-29T22:20:59.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
       "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
       "excerpt": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
       "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
       "source": "TechCrunch",
       "pubDate": "2026-09-29T18:35:00.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Dutch police arrest ShinyHunters hacker accused of planning two murders",
-      "excerpt": "Dutch police said the hacker, arrested for being part of the ShinyHunters cybercriminal gang, had plans to organize the murder of two people on his…",
-      "link": "https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/",
-      "source": "TechCrunch",
-      "pubDate": "2026-09-29T17:27:09.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
     },
     {
@@ -149,18 +149,18 @@
       "pinned": false
     },
     {
-      "title": "Old World Christmas launches loyalty program",
+      "title": "Poor online brand search driving consumers to tap AI assistants",
       "excerpt": "",
-      "link": "https://www.retailcustomerexperience.com/news/old-world-christmas-launches-loyalty-program/",
+      "link": "https://www.retailcustomerexperience.com/news/poor-online-brand-search-driving-consumers-to-tap-ai-assistants/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-09-29T10:00:00.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
-      "title": "Poor online brand search driving consumers to tap AI assistants",
+      "title": "Old World Christmas launches loyalty program",
       "excerpt": "",
-      "link": "https://www.retailcustomerexperience.com/news/poor-online-brand-search-driving-consumers-to-tap-ai-assistants/",
+      "link": "https://www.retailcustomerexperience.com/news/old-world-christmas-launches-loyalty-program/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-09-29T10:00:00.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
