@@ -1,7 +1,52 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-09-30T11:36:16.697Z",
+  "publishedAt": "2026-09-30T17:16:03.719Z",
   "itemsFr": [
+    {
+      "title": "Seconde main : Cash Express lance sa marketplace pour contourner les pures players",
+      "excerpt": "Pour réduire sa dépendance aux plateformes tierces et connecter les stocks de son réseau physique, l'enseigne d'achat vente d'occasion Cash Express a…",
+      "link": "https://www.ecommercemag.fr/start-up-30401/plateforme-marketplace-30406/seconde-main-cash-express-lance-sa-marketplace-pour-contourner-les-pures-players-59903",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-09-30T14:26:08.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Recommandations produits : quatre fois plus de clics que les bannières, selon les données de 32 sites",
+      "excerpt": "Le contenu l'emporte sur l'interruption",
+      "link": "https://www.journaldunet.com/martech/1555411-recommandations-produits-quatre-fois-plus-de-clics-que-les-bannieres-selon-les-donnees-de-32-sites/",
+      "source": "Journal du Net",
+      "pubDate": "2026-09-30T14:15:25.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "L'inflation atteint 3% sur un an en septembre 2026, portée par la hausse des prix de l'énergie et des produits frais",
+      "excerpt": "L'inflation accélère en France, principalement sous l'effet de la flambée des prix de l'énergie et des produits frais, selon l'Insee.",
+      "link": "https://www.journaldunet.com/business/1555633-l-inflation-atteint-3-sur-un-an-en-septembre-2026-portee-par-la-hausse-des-prix-de-l-energie-et-des-produits-frais/",
+      "source": "Journal du Net",
+      "pubDate": "2026-09-30T14:10:13.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Un robot mobile qui déplace des lits d’hôpitaux non utilisés : L’allemand Neura Robotics se lance dans la santé",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/un-robot-mobile-qui-deplace-des-lits-dhopitaux-non-utilises-lallemand-neura-robotics-se-lance-dans-la-sante.6LUCSJEWTRABVLM6SP75DDX4JM.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-09-30T14:07:14.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "DevDay : OpenAI peut-il rattraper Anthropic et contrer les ambitions de Meta dans l’agentique personnelle ?",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/openai/devday-openai-peut-il-rattraper-anthropic-et-contrer-les-ambitions-de-meta-dans-lagentique-personnelle.TYN5VZ2N2VGTHIPRVRYQPTGWLM.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-09-30T13:11:50.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
     {
       "title": "Rakuten France : fermeture définitive de la plateforme ce 30 septembre 2026",
       "excerpt": "Après plus de deux décennies de présence en France, Rakuten met fin à son activité de marketplace. La plateforme, anciennement connue sous le nom de…",
@@ -21,39 +66,12 @@
       "pinned": false
     },
     {
-      "title": "Yves Rocher veut passer d’un modèle transactionnel à un écosystème de services",
-      "excerpt": "Alors que l’e-commerce représente 10 % de son activité en France, Yves Rocher ambitionne de doubler cette part. Mais pour Céline Damour, directrice…",
-      "link": "https://www.ecommercemag.fr/retail-1220/strategie-retail-2163/yves-rocher-veut-passer-dun-modele-transactionnel-a-un-ecosysteme-de-services-59867",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-09-30T10:06:29.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "NRF Europe 2026 : les retailers ferment la parenthèse des POC et passent à l'échelle",
       "excerpt": "L’article NRF Europe 2026 : les retailers ferment la parenthèse des POC et passent à l'échelle est apparu en premier sur Maddyness - Le média pour…",
       "link": "https://www.maddyness.com/2026/09/30/nrf-europe-2026-les-retailers-ferment-la-parenthese-des-poc-et-passent-a-lechelle/",
       "source": "Maddyness",
       "pubDate": "2026-09-30T10:00:13.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Donald Trump annonce un accord \"moralement contraignant\" d'autorégulation des firmes américaines d'IA",
-      "excerpt": "Donald Trump privilégie l'autorégulation des entreprises d'intelligence artificielle, excluant toute réglementation fédérale ou accord avec la Chine.",
-      "link": "https://www.journaldunet.com/business/1555607-donald-trump-annonce-un-accord-moralement-contraignant-d-autoregulation-des-firmes-americaines-d-ia/",
-      "source": "Journal du Net",
-      "pubDate": "2026-09-30T09:09:21.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "Cybersécurité et IA agentique : les bonnes pratiques à adopter",
-      "excerpt": "L'IA agentique transforme la cybersécurité en créant de nouveaux risques d'attaques automatisées, rendant essentielle une gouvernance stricte des…",
-      "link": "https://www.journaldunet.com/cybersecurite/1555513-cybersecurite-et-ia-agentique-les-bonnes-pratiques-a-adopter/",
-      "source": "Journal du Net",
-      "pubDate": "2026-09-30T08:21:26.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
     {
@@ -66,30 +84,12 @@
       "pinned": false
     },
     {
-      "title": "Une ex-ingénieure de Google DeepMind lance un agent IA qui utilise des humains pour accomplir les tâches trop complexes",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/ia-generative/une-ex-ingenieure-de-google-deepmind-lance-un-agent-ia-qui-utilise-des-humains-pour-accomplir-les-taches-trop-complexes.HLZLNB6EEVEARDHVE3MPTKVWRI.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-09-30T04:00:01.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
       "title": "[ IA ] Quand Claude me dit chez qui faire mes courses en drive et prépare mon panier…",
       "excerpt": "Je vous ai déjà montré ici comment une IA pouvait prendre la main sur les courses en drive et remplir un panier en toute autonomie. Je pousse…",
       "link": "https://www.olivierdauvers.fr/2026/09/30/ia-quand-claude-me-dit-chez-qui-faire-mes-courses-en-drive-et-prepare-mon-panier/",
       "source": "Olivier Dauvers",
       "pubDate": "2026-09-30T00:29:00.000Z",
       "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
-      "title": "Ses puces permettent aux modèles d’IA de tourner en local sur des robots humanoïdes : la start-up américaine SiMa.ai lève 150 millions de dollars",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/ses-puces-permettent-aux-modeles-dia-de-tourner-en-local-sur-des-robots-humanoides-la-start-up-americaine-simaai-leve-150-millions-de-dollars.DYZD3U7VEVFIVHQAULWYGPHMDU.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-09-29T14:37:13.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
@@ -113,56 +113,65 @@
   ],
   "itemsEn": [
     {
+      "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+      "excerpt": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his…",
+      "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+      "source": "TechCrunch",
+      "pubDate": "2026-09-30T16:24:23.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "DoorDash launches an AI agent you can text to order food",
+      "excerpt": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
+      "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+      "source": "TechCrunch",
+      "pubDate": "2026-09-30T16:00:24.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "1-800-Flowers to sell PersonalizationMall.com, Things Remembered",
+      "excerpt": "The $45 million transaction marks a steep drop from the $245 million purchase price for PersonalizationMall.com about six years ago.",
+      "link": "https://www.retaildive.com/news/1-800-flowers-sells-personalizationmallcom-things-remembered/831762/",
+      "source": "Retail Dive",
+      "pubDate": "2026-09-30T15:36:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "What grocers need to know about bilingual marketing",
+      "excerpt": "As grocers look to forge stronger connections with multicultural consumers, they have to prioritize authentic communication that goes beyond just…",
+      "link": "https://www.grocerydive.com/news/multicultural-grocery-bilingual-signage-packaging-marketing-Save-A-Lot-Leevers-Heritage-Grocers/831691/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-09-30T14:58:28.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Senate passes Common Cents bill",
+      "excerpt": "The measure to provide merchants a cash rounding framework and to formally phase out the penny now heads to the White House.",
+      "link": "https://www.retaildive.com/news/senate-passes-common-cents-bill/831674/",
+      "source": "Retail Dive",
+      "pubDate": "2026-09-30T14:20:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Sour power: C-stores begin to capitalize on the in-demand flavor profile",
+      "excerpt": "Sour food and beverage sales across all retail types jumped up 10.8% in dollar terms over the past year, according to Circana.",
+      "link": "https://www.fooddive.com/news/sour-power-c-stores-begin-to-capitalize-on-the-in-demand-flavor-profile/831011/",
+      "source": "Food Dive",
+      "pubDate": "2026-09-30T14:09:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
       "title": "Customer engagement strategies driving digital signage market growth",
       "excerpt": "",
       "link": "https://www.digitalsignagetoday.com/news/customer-engagement-strategies-driving-digital-signage-market-growth/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-09-30T10:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-      "excerpt": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the…",
-      "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-      "source": "TechCrunch",
-      "pubDate": "2026-09-29T22:20:59.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-      "excerpt": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
-      "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-      "source": "TechCrunch",
-      "pubDate": "2026-09-29T18:35:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Wayfair ups investment in sports for values-focused brand platform",
-      "excerpt": "The retailer is amplifying its latest effort by increasing advertising investment across the networks airing football games to five times its…",
-      "link": "https://www.retaildive.com/news/wayfair-ups-investment-in-sports-for-values-focused-brand-platform/831615/",
-      "source": "Retail Dive",
-      "pubDate": "2026-09-29T15:55:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Target cuts prices as consumer sentiment sours",
-      "excerpt": "With the holiday season ramping up, the mass retailer reduced pricing on nearly 2,000 home and apparel products.",
-      "link": "https://www.retaildive.com/news/target-cuts-prices-consumer-sentiment-sours/831627/",
-      "source": "Retail Dive",
-      "pubDate": "2026-09-29T15:42:00.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "Costco continues to gain momentum in fresh food",
-      "excerpt": "Bakery and meat were strong performers during the company’s Q4, underscoring the threat the club retailer poses to traditional grocers.",
-      "link": "https://www.grocerydive.com/news/costco-earnings-fourth-quarter-2026-food-grocery/831617/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-09-29T15:20:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -176,20 +185,11 @@
       "pinned": false
     },
     {
-      "title": "5 takeaways from Groceryshop",
-      "excerpt": "Artificial intelligence was the talk of this year’s show, but executives and analysts also had a lot to say about managing loyalty, digital…",
-      "link": "https://www.grocerydive.com/news/takeaways-groceryshop-conference-2026-las-vegas/831421/",
+      "title": "Costco continues to gain momentum in fresh food",
+      "excerpt": "Bakery and meat were strong performers during the company’s Q4, underscoring the threat the club retailer poses to traditional grocers.",
+      "link": "https://www.grocerydive.com/news/costco-earnings-fourth-quarter-2026-food-grocery/831617/",
       "source": "Grocery Dive",
-      "pubDate": "2026-09-28T17:58:57.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "How Mondelēz keeps Mallomars a ‘cultural icon’ after 113 years",
-      "excerpt": "The chocolate-coated marshmallow cookie is only available seasonally and in select markets, but it has carved out a valuable niche for the Oreo maker…",
-      "link": "https://www.fooddive.com/news/Mondelez-international-oreo-snacking-cookie-mallomars/830584/",
-      "source": "Food Dive",
-      "pubDate": "2026-09-28T14:40:07.000Z",
+      "pubDate": "2026-09-29T15:20:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
