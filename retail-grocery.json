@@ -1,7 +1,79 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-09-30T03:04:27.747Z",
+  "publishedAt": "2026-09-30T11:36:16.697Z",
   "itemsFr": [
+    {
+      "title": "Rakuten France : fermeture définitive de la plateforme ce 30 septembre 2026",
+      "excerpt": "Après plus de deux décennies de présence en France, Rakuten met fin à son activité de marketplace. La plateforme, anciennement connue sous le nom de…",
+      "link": "https://www.ecommercemag.fr/retail-1220/rakuten-france-fermeture-definitive-de-la-plateforme-ce-30-septembre-2026-59876",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-09-30T11:16:28.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Personnalisation marketing : REELEVANT s’attaque au coût de production des contenus",
+      "excerpt": "Adapter les messages aux préférences de chaque client suppose de produire, de valider et de maintenir un nombre croissant de contenus. Reelevant veut…",
+      "link": "https://www.frenchweb.fr/personnalisation-marketing-reelevant-sattaque-au-cout-de-production-des-contenus/463737",
+      "source": "FrenchWeb",
+      "pubDate": "2026-09-30T10:16:21.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Yves Rocher veut passer d’un modèle transactionnel à un écosystème de services",
+      "excerpt": "Alors que l’e-commerce représente 10 % de son activité en France, Yves Rocher ambitionne de doubler cette part. Mais pour Céline Damour, directrice…",
+      "link": "https://www.ecommercemag.fr/retail-1220/strategie-retail-2163/yves-rocher-veut-passer-dun-modele-transactionnel-a-un-ecosysteme-de-services-59867",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-09-30T10:06:29.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "NRF Europe 2026 : les retailers ferment la parenthèse des POC et passent à l'échelle",
+      "excerpt": "L’article NRF Europe 2026 : les retailers ferment la parenthèse des POC et passent à l'échelle est apparu en premier sur Maddyness - Le média pour…",
+      "link": "https://www.maddyness.com/2026/09/30/nrf-europe-2026-les-retailers-ferment-la-parenthese-des-poc-et-passent-a-lechelle/",
+      "source": "Maddyness",
+      "pubDate": "2026-09-30T10:00:13.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Donald Trump annonce un accord \"moralement contraignant\" d'autorégulation des firmes américaines d'IA",
+      "excerpt": "Donald Trump privilégie l'autorégulation des entreprises d'intelligence artificielle, excluant toute réglementation fédérale ou accord avec la Chine.",
+      "link": "https://www.journaldunet.com/business/1555607-donald-trump-annonce-un-accord-moralement-contraignant-d-autoregulation-des-firmes-americaines-d-ia/",
+      "source": "Journal du Net",
+      "pubDate": "2026-09-30T09:09:21.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "Cybersécurité et IA agentique : les bonnes pratiques à adopter",
+      "excerpt": "L'IA agentique transforme la cybersécurité en créant de nouveaux risques d'attaques automatisées, rendant essentielle une gouvernance stricte des…",
+      "link": "https://www.journaldunet.com/cybersecurite/1555513-cybersecurite-et-ia-agentique-les-bonnes-pratiques-a-adopter/",
+      "source": "Journal du Net",
+      "pubDate": "2026-09-30T08:21:26.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "EDISON IA lève 1 million d’euros pour faire passer les PME de l’IA test à l’IA rentable",
+      "excerpt": "Les entreprises n’ont jamais eu accès aussi facilement aux outils d’intelligence artificielle, mais peinent encore à les transformer en gains…",
+      "link": "https://www.frenchweb.fr/edison-ia-leve-1-me-pour-faire-passer-les-pme-de-lia-test-a-lia-rentable/463728",
+      "source": "FrenchWeb",
+      "pubDate": "2026-09-30T06:20:30.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Une ex-ingénieure de Google DeepMind lance un agent IA qui utilise des humains pour accomplir les tâches trop complexes",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/ia-generative/une-ex-ingenieure-de-google-deepmind-lance-un-agent-ia-qui-utilise-des-humains-pour-accomplir-les-taches-trop-complexes.HLZLNB6EEVEARDHVE3MPTKVWRI.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-09-30T04:00:01.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
     {
       "title": "[ IA ] Quand Claude me dit chez qui faire mes courses en drive et prépare mon panier…",
       "excerpt": "Je vous ai déjà montré ici comment une IA pouvait prendre la main sur les courses en drive et remplir un panier en toute autonomie. Je pousse…",
@@ -9,33 +81,6 @@
       "source": "Olivier Dauvers",
       "pubDate": "2026-09-30T00:29:00.000Z",
       "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
-      "title": "GPT-6.1 Sol, les agents Dots, un abonnement à 500 dollars… Toutes les annonces du DevDay d'OpenAI",
-      "excerpt": "Un modèle proche d'Astra pour un cinquième du prix, un mode ultrafast, des agents qui travaillent 24h/24… OpenAI enchaîne plus de 20 lancements…",
-      "link": "https://www.journaldunet.com/intelligence-artificielle/1555585-gpt-6-1-sol-les-agents-dots-un-abonnement-a-500-dollars-toutes-les-annonces-du-devday-d-openai/",
-      "source": "Journal du Net",
-      "pubDate": "2026-09-29T17:15:01.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "Cdiscount : comment la marketplace transforme son modèle",
-      "excerpt": "Face à l'hégémonie d'Amazon et à la montée en puissance des plateformes asiatiques, Cdiscount accélère sa transformation. Reçu au siège de…",
-      "link": "https://www.ecommercemag.fr/retail-1220/strategie-retail-2163/cdiscount-comment-la-marketplace-transforme-son-modele-59827",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-09-29T16:28:31.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Plongée dans le dark web #3 : comment j'aurais pu inonder de drogue la Roumanie",
-      "excerpt": "Un dealer roumain, des colis remplis de drogue et des paiements en cryptomonnaies. Troisième volet de notre enquête sur le vaste marché du travail…",
-      "link": "https://www.journaldunet.com/cybersecurite/1555563-plongee-dans-le-dark-web-3-comment-on-voulait-m-enroler-dans-un-trafic-de-drogue-europeen/",
-      "source": "Journal du Net",
-      "pubDate": "2026-09-29T16:20:01.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -57,15 +102,6 @@
       "pinned": false
     },
     {
-      "title": "World models : Pourquoi AMD débourse 8,2 milliards de dollars pour s’offrir World Labs, la start-up de Fei-Fei Li",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/ia-generative/world-models-pourquoi-amd-debourse-82-milliards-de-dollars-pour-soffrir-world-labs-la-start-up-de-fei-fei-li.6KSPLKZJCFGHTBEA6IYTHLQRVI.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-09-29T10:21:45.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
       "title": "[Exclu] Chronodrive et Monoprix bientôt “virés” d’Amazon",
       "excerpt": "C’est une info que Thibaut Bayart, président de Chronodrive, a révélée lors des Ateliers du drive et du e-commerce que je co-organisais avec…",
       "link": "https://www.olivierdauvers.fr/2026/09/29/exclu-chronodrive-et-monoprix-bientot-vires-damazon/",
@@ -73,36 +109,18 @@
       "pubDate": "2026-09-29T09:38:48.000Z",
       "category": "MAGASIN & EXPÉRIENCE",
       "pinned": false
-    },
-    {
-      "title": "NRF Retail’s Big Show Europe 2026 à Paris : 5 startups qui transforment le retail",
-      "excerpt": "Le NRF Retail’s Big Show Europe a fait son retour à Paris, du 15 au 17 septembre, pour une deuxième édition placée sous une bannière fédératrice : «…",
-      "link": "https://www.ecommercemag.fr/retail-1220/small-business-2166/nrf-retails-big-show-europe-2026-a-paris-5-startups-qui-transforment-le-retail-59768",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-09-29T07:20:47.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "ai-PULSE, Teratec, UAV Show : cinq rendez-vous tech à suivre en octobre, et notre agenda en France",
-      "excerpt": "IA, commerce, drones, calcul intensif et spatial : en octobre, FRENCHWEB.FR retient cinq rendez-vous pour la pertinence de leur programme…",
-      "link": "https://www.frenchweb.fr/ai-pulse-teratec-uav-show-cinq-rendez-vous-tech-a-suivre-en-octobre-et-notre-agenda-en-france/463708",
-      "source": "FrenchWeb",
-      "pubDate": "2026-09-28T08:42:52.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Les derniers chiffres financiers d’ASML révèlent l’angle mort européen : l’absence de demande",
-      "excerpt": "Porté par la course mondiale à l’intelligence artificielle, ASML relève ses prévisions et remplit ses carnets de commandes. Mais l’Europe ne…",
-      "link": "https://www.frenchweb.fr/les-derniers-chiffres-financiers-dasml-revelent-langle-mort-europeen-labsence-de-demande/463666",
-      "source": "FrenchWeb",
-      "pubDate": "2026-09-25T07:17:15.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
     }
   ],
   "itemsEn": [
+    {
+      "title": "Customer engagement strategies driving digital signage market growth",
+      "excerpt": "",
+      "link": "https://www.digitalsignagetoday.com/news/customer-engagement-strategies-driving-digital-signage-market-growth/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-09-30T10:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
       "excerpt": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the…",
@@ -141,20 +159,11 @@
     },
     {
       "title": "Costco continues to gain momentum in fresh food",
-      "excerpt": "Bakery and meat were strong performers during the club retailer’s Q4, underscoring the threat it poses to traditional grocers.",
+      "excerpt": "Bakery and meat were strong performers during the company’s Q4, underscoring the threat the club retailer poses to traditional grocers.",
       "link": "https://www.grocerydive.com/news/costco-earnings-fourth-quarter-2026-food-grocery/831617/",
       "source": "Grocery Dive",
       "pubDate": "2026-09-29T15:20:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Poor online brand search driving consumers to tap AI assistants",
-      "excerpt": "",
-      "link": "https://www.retailcustomerexperience.com/news/poor-online-brand-search-driving-consumers-to-tap-ai-assistants/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-09-29T10:00:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
