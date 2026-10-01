@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-09-30T21:40:57.466Z",
+  "publishedAt": "2026-10-01T03:10:56.598Z",
   "itemsFr": [
     {
       "title": "Seconde main : Cash Express lance sa marketplace pour contourner les pures players",
@@ -113,21 +113,30 @@
   ],
   "itemsEn": [
     {
-      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-      "excerpt": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
-      "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-      "source": "TechCrunch",
-      "pubDate": "2026-09-30T21:07:40.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "title": "Lowe’s in drone delivery first",
+      "excerpt": "Lowe’s has become the first home improvement retailer to offer drone delivery",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8772/loweas-in-drone-delivery-first/",
+      "source": "Retail Technology",
+      "pubDate": "2026-10-01T00:00:00.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "Hackers stole millions of US military personnel records during months-long data breach",
-      "excerpt": "The Department of Defense notified millions of current and former U.S. military personnel that their personal information had been stolen in a…",
-      "link": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/",
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "excerpt": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+      "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
       "source": "TechCrunch",
-      "pubDate": "2026-09-30T19:29:08.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
+      "pubDate": "2026-09-30T23:43:07.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next",
+      "excerpt": "Defense Secretary Pete Hegseth just launched a 120-day study on the future of warfare, led by Elon Musk, Palmer Luckey, and Newt Gingrich, and while…",
+      "link": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/",
+      "source": "TechCrunch",
+      "pubDate": "2026-09-30T23:08:00.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -141,7 +150,7 @@
     },
     {
       "title": "What grocers need to know about bilingual marketing",
-      "excerpt": "To forge stronger connections with multicultural consumers, grocers have to prioritize authentic communication that goes beyond just translation…",
+      "excerpt": "As grocers look to forge stronger connections with multicultural consumers, they have to prioritize authentic communication that goes beyond just…",
       "link": "https://www.grocerydive.com/news/multicultural-grocery-bilingual-signage-packaging-marketing-Save-A-Lot-Leevers-Heritage-Grocers/831691/",
       "source": "Grocery Dive",
       "pubDate": "2026-09-30T14:58:28.000Z",
@@ -159,7 +168,7 @@
     },
     {
       "title": "Sour power: C-stores begin to capitalize on the in-demand flavor profile",
-      "excerpt": "Sour food and beverage sales across all retail types jumped 10.8% in dollar terms over the past year, according to Circana.",
+      "excerpt": "Sour food and beverage sales across all retail types jumped up 10.8% in dollar terms over the past year, according to Circana.",
       "link": "https://www.fooddive.com/news/sour-power-c-stores-begin-to-capitalize-on-the-in-demand-flavor-profile/831011/",
       "source": "Food Dive",
       "pubDate": "2026-09-30T14:09:00.000Z",
@@ -168,7 +177,7 @@
     },
     {
       "title": "Customer engagement strategies driving digital signage market growth",
-      "excerpt": "",
+      "excerpt": "The retail digital signage market is enjoying robust expansion, with market value projected to increase from $24.16 billion as of 2025 to $26.11…",
       "link": "https://www.digitalsignagetoday.com/news/customer-engagement-strategies-driving-digital-signage-market-growth/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-09-30T10:00:00.000Z",
@@ -176,12 +185,12 @@
       "pinned": false
     },
     {
-      "title": "Old World Christmas launches loyalty program",
-      "excerpt": "",
-      "link": "https://www.retailcustomerexperience.com/news/old-world-christmas-launches-loyalty-program/",
+      "title": "Kroger: AI driving meaningful results",
+      "excerpt": "The Kroger Co.'s artificial intelligence strategy is improving the customer experience, making work easier for store associates and driving improved…",
+      "link": "https://www.retailcustomerexperience.com/news/kroger-ai-driving-meaningful-results/",
       "source": "Retail Customer Experience",
-      "pubDate": "2026-09-29T10:00:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pubDate": "2026-09-30T10:00:00.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
     },
     {
@@ -190,15 +199,6 @@
       "link": "https://www.grocerydive.com/news/costco-earnings-fourth-quarter-2026-food-grocery/831617/",
       "source": "Grocery Dive",
       "pubDate": "2026-09-29T15:20:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Bots welcome: Vercel CTO urges retailers to open up to agents",
-      "excerpt": "Retailers must befriend AI shopping agents rather than block them, Vercel's chief technology officer tells Miya Knights, Retail Technology Publisher…",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8773/bots-welcome:-vercel-cto-urges-retailers-to-open-up-to-agents/",
-      "source": "Retail Technology",
-      "pubDate": "2026-09-28T00:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
