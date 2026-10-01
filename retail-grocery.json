@@ -1,32 +1,86 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-01T03:10:56.598Z",
+  "publishedAt": "2026-10-01T12:05:08.447Z",
   "itemsFr": [
     {
-      "title": "Seconde main : Cash Express lance sa marketplace pour contourner les pures players",
-      "excerpt": "Pour réduire sa dépendance aux plateformes tierces et connecter les stocks de son réseau physique, l'enseigne d'achat vente d'occasion Cash Express a…",
-      "link": "https://www.ecommercemag.fr/start-up-30401/plateforme-marketplace-30406/seconde-main-cash-express-lance-sa-marketplace-pour-contourner-les-pures-players-59903",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-09-30T14:26:08.000Z",
+      "title": "Le secrétaire à la Défense US confie à Elon Musk une étude sur les guerres du futur",
+      "excerpt": "Elon Musk retrouve un rôle stratégique auprès de l'administration Trump, chargé d'anticiper les technologies militaires de demain pour le Pentagone.",
+      "link": "https://www.journaldunet.com/business/action-publique/1555667-le-secretaire-a-la-defense-confie-a-elon-musk-palmer-luckey-et-newt-gingrich-la-codirection-du-projet-meridian-une-etude-de-120-jours-sur-les-armes-et-technologies-des-guerres-du-futur/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-01T10:22:46.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "Recommandations produits : quatre fois plus de clics que les bannières, selon les données de 32 sites",
-      "excerpt": "Le contenu l'emporte sur l'interruption",
-      "link": "https://www.journaldunet.com/martech/1555411-recommandations-produits-quatre-fois-plus-de-clics-que-les-bannieres-selon-les-donnees-de-32-sites/",
-      "source": "Journal du Net",
-      "pubDate": "2026-09-30T14:15:25.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "title": "Quick commerce : la réalité des stocks rattrape la promesse de vitesse",
+      "excerpt": "Entre l'exigence d'une livraison en trente minutes et la multiplication des aléas logistiques, le quick commerce contraint les distributeurs à revoir…",
+      "link": "https://www.ecommercemag.fr/retail-1220/strategie-retail-2163/quick-commerce-la-realite-des-stocks-rattrape-la-promesse-de-vitesse-59671",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-10-01T10:15:18.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
-      "title": "L'inflation atteint 3% sur un an en septembre 2026, portée par la hausse des prix de l'énergie et des produits frais",
-      "excerpt": "L'inflation accélère en France, principalement sous l'effet de la flambée des prix de l'énergie et des produits frais, selon l'Insee.",
-      "link": "https://www.journaldunet.com/business/1555633-l-inflation-atteint-3-sur-un-an-en-septembre-2026-portee-par-la-hausse-des-prix-de-l-energie-et-des-produits-frais/",
+      "title": "Cybersécurité : les responsables sécurité face au mur de l'IA agentique",
+      "excerpt": "L'intelligence artificielle a changé d'échelle dans les entreprises :",
+      "link": "https://www.journaldunet.com/cybersecurite/1555649-cybersecurite-les-responsables-securite-face-au-mur-de-l-ia-agentique/",
       "source": "Journal du Net",
-      "pubDate": "2026-09-30T14:10:13.000Z",
+      "pubDate": "2026-10-01T09:16:52.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "Rangement de vêtements, arrosage de plantes… Le français Flourish présente un robot humanoïde domestique à 3500 dollars",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/rangement-de-vetements-arrosage-de-plantes-le-francais-flourish-presente-un-robot-humanoide-domestique-a-3500-dollars.ATUBF5K7ORBODCVA5BCHVJX65M.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-10-01T08:49:21.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "[Tribune] Du scroll au rayon : TikTok, le nouveau vendeur silencieux qu’il faut dompter !",
+      "excerpt": "Pour les marques et les retailers, la question n’est plus de savoir s'il faut investir TikTok, mais de comprendre comment convertir cette plateforme…",
+      "link": "https://www.ecommercemag.fr/retail-1220/veille-tribune-2169/tribune-du-scroll-au-rayon-tiktok-le-nouveau-vendeur-silencieux-quil-faut-dompter-59818",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-10-01T07:50:43.000Z",
       "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Derrière les Dots, OPEN AI recadre ses prix",
+      "excerpt": "Pour sa quatrième conférence annuelle destinée aux développeurs, OpenAI a présenté les dots, ses agents personnels, de nouveaux outils de travail et…",
+      "link": "https://www.frenchweb.fr/derriere-les-dots-open-ai-recadre-ses-prix/463747",
+      "source": "FrenchWeb",
+      "pubDate": "2026-10-01T07:10:32.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "L’IA ne fera pas gagner du temps aux PME tant qu’elle restera à la marge",
+      "excerpt": "L’article L’IA ne fera pas gagner du temps aux PME tant qu’elle restera à la marge est apparu en premier sur Maddyness - Le média pour comprendre…",
+      "link": "https://www.maddyness.com/2026/10/01/lia-ne-fera-pas-gagner-du-temps-aux-pme-tant-quelle-restera-a-la-marge/",
+      "source": "Maddyness",
+      "pubDate": "2026-10-01T07:00:45.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Le skyr, jusqu’où ?",
+      "excerpt": "Mais où s’arrêtera la “folie Skyr” ? Parti logiquement de l’ultra-frais, voilà le Skyr à l’assaut d’autres rayons. J’avoue qu’en découvrant les…",
+      "link": "https://www.olivierdauvers.fr/2026/10/01/le-skyr-jusquou/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-01T04:46:00.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Robotiser le geste irréversible : LUPIN DENTAL lève 15 millions d’euros pour ses robots dentaires",
+      "excerpt": "LUPIN DENTAL développe un système robotisé destiné à automatiser, sous la supervision d’un praticien, la préparation des dents pour les facettes…",
+      "link": "https://www.frenchweb.fr/robotiser-le-geste-irreversible-lupin-dental-leve-15-millions-deuros-pour-ses-robots-dentaires/463722",
+      "source": "FrenchWeb",
+      "pubDate": "2026-10-01T04:16:55.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
@@ -39,47 +93,11 @@
       "pinned": false
     },
     {
-      "title": "DevDay : OpenAI peut-il rattraper Anthropic et contrer les ambitions de Meta dans l’agentique personnelle ?",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/openai/devday-openai-peut-il-rattraper-anthropic-et-contrer-les-ambitions-de-meta-dans-lagentique-personnelle.TYN5VZ2N2VGTHIPRVRYQPTGWLM.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-09-30T13:11:50.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Rakuten France : fermeture définitive de la plateforme ce 30 septembre 2026",
-      "excerpt": "Après plus de deux décennies de présence en France, Rakuten met fin à son activité de marketplace. La plateforme, anciennement connue sous le nom de…",
-      "link": "https://www.ecommercemag.fr/retail-1220/rakuten-france-fermeture-definitive-de-la-plateforme-ce-30-septembre-2026-59876",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-09-30T11:16:28.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Personnalisation marketing : REELEVANT s’attaque au coût de production des contenus",
-      "excerpt": "Adapter les messages aux préférences de chaque client suppose de produire, de valider et de maintenir un nombre croissant de contenus. Reelevant veut…",
-      "link": "https://www.frenchweb.fr/personnalisation-marketing-reelevant-sattaque-au-cout-de-production-des-contenus/463737",
-      "source": "FrenchWeb",
-      "pubDate": "2026-09-30T10:16:21.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
       "title": "NRF Europe 2026 : les retailers ferment la parenthèse des POC et passent à l'échelle",
       "excerpt": "L’article NRF Europe 2026 : les retailers ferment la parenthèse des POC et passent à l'échelle est apparu en premier sur Maddyness - Le média pour…",
       "link": "https://www.maddyness.com/2026/09/30/nrf-europe-2026-les-retailers-ferment-la-parenthese-des-poc-et-passent-a-lechelle/",
       "source": "Maddyness",
       "pubDate": "2026-09-30T10:00:13.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "EDISON IA lève 1 million d’euros pour faire passer les PME de l’IA test à l’IA rentable",
-      "excerpt": "Les entreprises n’ont jamais eu accès aussi facilement aux outils d’intelligence artificielle, mais peinent encore à les transformer en gains…",
-      "link": "https://www.frenchweb.fr/edison-ia-leve-1-me-pour-faire-passer-les-pme-de-lia-test-a-lia-rentable/463728",
-      "source": "FrenchWeb",
-      "pubDate": "2026-09-30T06:20:30.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -91,33 +109,24 @@
       "pubDate": "2026-09-30T00:29:00.000Z",
       "category": "MAGASIN & EXPÉRIENCE",
       "pinned": false
-    },
-    {
-      "title": "Rayon lève 10 millions d’euros pour mettre l’IA au service des architectes d’intérieur",
-      "excerpt": "L’article Rayon lève 10 millions d’euros pour mettre l’IA au service des architectes d’intérieur est apparu en premier sur Maddyness - Le média pour…",
-      "link": "https://www.maddyness.com/2026/09/29/rayon-leve-10-millions-deuros-pour-mettre-lia-au-service-des-architectes-dinterieur/",
-      "source": "Maddyness",
-      "pubDate": "2026-09-29T10:35:46.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "[Exclu] Chronodrive et Monoprix bientôt “virés” d’Amazon",
-      "excerpt": "C’est une info que Thibaut Bayart, président de Chronodrive, a révélée lors des Ateliers du drive et du e-commerce que je co-organisais avec…",
-      "link": "https://www.olivierdauvers.fr/2026/09/29/exclu-chronodrive-et-monoprix-bientot-vires-damazon/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-09-29T09:38:48.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
     }
   ],
   "itemsEn": [
     {
-      "title": "Lowe’s in drone delivery first",
-      "excerpt": "Lowe’s has become the first home improvement retailer to offer drone delivery",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8772/loweas-in-drone-delivery-first/",
-      "source": "Retail Technology",
-      "pubDate": "2026-10-01T00:00:00.000Z",
+      "title": "Online retail holiday sales to cross $275B milestone",
+      "excerpt": "The U.S. 2026 online holiday shopping season will hit a record-setting $275.1 billion, illustrating a 6.7% growth compared to 2025. Cyber Monday will…",
+      "link": "https://www.retailcustomerexperience.com/news/online-retail-holiday-sales-to-cross-275b-milestone/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-01T10:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Evolving loss prevention into a CX function",
+      "excerpt": "Though retail is still the most popular way to shop, e-commerce has nearly doubled its portion of total sales in the past decade. The slow creep of…",
+      "link": "https://www.retailcustomerexperience.com/blogs/evolving-loss-prevention-into-a-cx-function/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-01T10:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -176,38 +185,11 @@
       "pinned": false
     },
     {
-      "title": "Customer engagement strategies driving digital signage market growth",
-      "excerpt": "The retail digital signage market is enjoying robust expansion, with market value projected to increase from $24.16 billion as of 2025 to $26.11…",
-      "link": "https://www.digitalsignagetoday.com/news/customer-engagement-strategies-driving-digital-signage-market-growth/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-09-30T10:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Kroger: AI driving meaningful results",
-      "excerpt": "The Kroger Co.'s artificial intelligence strategy is improving the customer experience, making work easier for store associates and driving improved…",
-      "link": "https://www.retailcustomerexperience.com/news/kroger-ai-driving-meaningful-results/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-09-30T10:00:00.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
       "title": "Costco continues to gain momentum in fresh food",
       "excerpt": "Bakery and meat were strong performers during the company’s Q4, underscoring the threat the club retailer poses to traditional grocers.",
       "link": "https://www.grocerydive.com/news/costco-earnings-fourth-quarter-2026-food-grocery/831617/",
       "source": "Grocery Dive",
       "pubDate": "2026-09-29T15:20:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "StyleSmuggler attack compromises over 3,800 Magento and Adobe Commerce stores",
-      "excerpt": "Over 3,800 online stores are said to have been compromised in a mass hacking incident that exploited a critical zero-day vulnerability affecting…",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8774/stylesmuggler-attack-compromises-over-3800-magento-and-adobe-commerce-stores/",
-      "source": "Retail Technology",
-      "pubDate": "2026-09-28T00:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     }
