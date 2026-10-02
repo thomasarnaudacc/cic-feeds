@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-01T19:58:38.473Z",
+  "publishedAt": "2026-10-02T00:21:27.208Z",
   "itemsFr": [
     {
       "title": "L'IA sait traduire. Alors pourquoi l'anglais devient-il encore plus stratégique au travail ?",
@@ -113,21 +113,21 @@
   ],
   "itemsEn": [
     {
+      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+      "excerpt": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+      "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-01T21:08:11.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
       "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
       "excerpt": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
       "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
       "source": "TechCrunch",
       "pubDate": "2026-10-01T18:14:42.000Z",
       "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-      "excerpt": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the…",
-      "link": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-01T16:44:35.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
@@ -167,18 +167,18 @@
       "pinned": false
     },
     {
-      "title": "Home Depot debuts holiday sweater in holiday décor collection",
-      "excerpt": "Is someone in the family a huge do-it-yourselfer? If so, the Home Depot holiday sweater may be this year's most favorite gift. The sweater, fashioned…",
-      "link": "https://www.retailcustomerexperience.com/news/home-depot-debuts-holiday-sweater-in-holiday-decor-collection/",
+      "title": "Evolving loss prevention into a CX function",
+      "excerpt": "Though retail is still the most popular way to shop, e-commerce has nearly doubled its portion of total sales in the past decade. The slow creep of…",
+      "link": "https://www.retailcustomerexperience.com/blogs/evolving-loss-prevention-into-a-cx-function/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-01T10:00:00.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "Online retail holiday sales to cross $275B milestone",
-      "excerpt": "The U.S. 2026 online holiday shopping season will hit a record-setting $275.1 billion, illustrating a 6.7% growth compared to 2025. Cyber Monday will…",
-      "link": "https://www.retailcustomerexperience.com/news/online-retail-holiday-sales-to-cross-275b-milestone/",
+      "title": "AI emerging as a shopping channel",
+      "excerpt": "Generative artificial intelligence is fast becoming part of the shopper journey with over a third of consumers, 34%, using AI tools to shop. That's…",
+      "link": "https://www.retailcustomerexperience.com/news/ai-emerging-as-a-shopping-channel/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-01T10:00:00.000Z",
       "category": "GRAND ANGLE",
