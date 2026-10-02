@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-02T17:04:02.417Z",
+  "publishedAt": "2026-10-02T21:36:13.766Z",
   "itemsFr": [
     {
       "title": "Cybersécurité : Anthropic accuse le modèle chinois GLM-5.3 d’être dangereux pour protéger son business model et empêcher la compétition",
@@ -104,6 +104,15 @@
   ],
   "itemsEn": [
     {
+      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "excerpt": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to…",
+      "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-02T18:11:27.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
       "title": "Ikea to shutter 3 small-format plan and order stores",
       "excerpt": "The retailer is closing locations in Washington, D.C., Virginia and Maryland, including one that opened less than a year ago, as it reevaluates its…",
       "link": "https://www.retaildive.com/news/ikea-shutters-three-small-format-plan-and-order-stores/832021/",
@@ -132,7 +141,7 @@
     },
     {
       "title": "The Friday Checkout: Has Costco become grocery’s biggest threat?",
-      "excerpt": "It’s no secret that the club retailer is a competitor. But as the company grows market share and sales expand, grocers should be increasingly worried…",
+      "excerpt": "It's no secret the club retailer is a competitor. But as the company grows market share and sales expand, grocers should be increasingly worried…",
       "link": "https://www.grocerydive.com/news/costco-grocers-biggest-threat-fresh-offerings-ecommerce-value-perception/831994/",
       "source": "Grocery Dive",
       "pubDate": "2026-10-02T13:25:10.000Z",
@@ -176,21 +185,12 @@
       "pinned": false
     },
     {
-      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
-      "excerpt": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
-      "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-01T21:08:11.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Home Depot debuts holiday sweater in holiday décor collection",
-      "excerpt": "Is someone in the family a huge do-it-yourselfer? If so, the Home Depot holiday sweater may be this year's most favorite gift. The sweater, fashioned…",
-      "link": "https://www.retailcustomerexperience.com/news/home-depot-debuts-holiday-sweater-in-holiday-decor-collection/",
+      "title": "AI emerging as a shopping channel",
+      "excerpt": "Generative artificial intelligence is fast becoming part of the shopper journey with over a third of consumers, 34%, using AI tools to shop. That's…",
+      "link": "https://www.retailcustomerexperience.com/news/ai-emerging-as-a-shopping-channel/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-01T10:00:00.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
