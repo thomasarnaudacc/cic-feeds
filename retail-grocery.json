@@ -1,22 +1,49 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-02T09:10:40.644Z",
+  "publishedAt": "2026-10-02T17:04:02.417Z",
   "itemsFr": [
     {
-      "title": "Les Etats-Unis exhortent les Européens à mettre sur le marché leurs stocks de diesel pour faire baisser le prix des carburants",
-      "excerpt": "Washington presse l'Union européenne d'agir face à la flambée historique du gazole, alors que Bruxelles réunit les Etats membres pour une réponse…",
-      "link": "https://www.journaldunet.com/economie/industrie/1555727-les-etats-unis-exhortent-les-europeens-a-mettre-sur-le-marche-leurs-stocks-de-diesel-pour-faire-baisser-le-prix-des-carburants/",
+      "title": "Cybersécurité : Anthropic accuse le modèle chinois GLM-5.3 d’être dangereux pour protéger son business model et empêcher la compétition",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/cybersecurite-anthropic-accuse-le-modele-chinois-glm-53-detre-dangereux-pour-proteger-son-business-model-et-empecher-la-competition.L5CPMKLMZVGO5IPPDTOG2K32MI.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-10-02T16:01:22.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "L'Union européenne s'oppose \"catégoriquement\" à une éventuelle interdiction des exportations américaines de gazole",
+      "excerpt": "Bruxelles rejette la menace américaine et appelle à une action collective avec l'Agence internationale de l'énergie pour contenir la flambée des prix.",
+      "link": "https://www.journaldunet.com/business/action-publique/1555751-l-union-europeenne-s-oppose-categoriquement-a-une-eventuelle-interdiction-des-exportations-americaines-de-gazole/",
       "source": "Journal du Net",
-      "pubDate": "2026-10-02T08:33:25.000Z",
+      "pubDate": "2026-10-02T14:38:38.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Manipulation d’échantillons, utilisation d’instruments… Avec sa main robotique, Honda veut simplifier la recherche dans les stations spatiales commerciales",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/manipulation-dechantillons-utilisation-dinstruments-avec-sa-main-robotique-honda-veut-simplifier-la-recherche-sur-la-station-spatiale-internationale.DLM3RPLMVNGG3FPZCVD4GI2WII.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-10-02T12:30:44.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
-      "title": "Le taux d'intérêt des obligations françaises à dix ans atteint 4,93%, son plus haut niveau depuis 2002",
-      "excerpt": "Les taux d'emprunt à long terme de la France ont bondi lors d'une émission majeure, sur fond de défiance des marchés et de présentation du budget…",
-      "link": "https://www.journaldunet.com/business/action-publique/1555725-le-taux-d-interet-des-obligations-francaises-a-dix-ans-atteint-4-93-son-plus-haut-niveau-depuis-2002/",
+      "title": "La MINUTE RETAIL : le big bang (commercial) est encore devant",
+      "excerpt": "Les dernières années ont déjà été marquées par de sacrés chamboulements dans le paysage commercial. Le remplacement en cours des enseignes Auchan…",
+      "link": "https://www.olivierdauvers.fr/2026/10/02/la-minute-retail-le-big-bang-commercial-est-encore-devant/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-02T11:43:36.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Comparatif : les neoclouds, le nouveau visage du cloud à l'ère de l'IA",
+      "excerpt": "Cette nouvelle génération de fournisseurs de cloud répond spécifiquement aux besoins de calcul intensif de l'intelligence artificielle. Qui sont ces…",
+      "link": "https://www.journaldunet.com/cloud/1555277-comparatif-les-neoclouds-le-nouveau-visage-du-cloud-a-l-ere-de-l-ia/",
       "source": "Journal du Net",
-      "pubDate": "2026-10-02T08:31:05.000Z",
+      "pubDate": "2026-10-02T10:30:32.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -48,15 +75,6 @@
       "pinned": false
     },
     {
-      "title": "Rangement de vêtements, arrosage de plantes… Le français Flourish présente un robot humanoïde domestique à 3500 dollars",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/rangement-de-vetements-arrosage-de-plantes-le-francais-flourish-presente-un-robot-humanoide-domestique-a-3500-dollars.ATUBF5K7ORBODCVA5BCHVJX65M.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-10-01T08:49:21.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
       "title": "Derrière les Dots, OPEN AI recadre ses prix",
       "excerpt": "Pour sa quatrième conférence annuelle destinée aux développeurs, OpenAI a présenté les dots, ses agents personnels, de nouveaux outils de travail et…",
       "link": "https://www.frenchweb.fr/derriere-les-dots-open-ai-recadre-ses-prix/463747",
@@ -75,15 +93,6 @@
       "pinned": false
     },
     {
-      "title": "Le skyr, jusqu’où ?",
-      "excerpt": "Mais où s’arrêtera la “folie Skyr” ? Parti logiquement de l’ultra-frais, voilà le Skyr à l’assaut d’autres rayons. J’avoue qu’en découvrant les…",
-      "link": "https://www.olivierdauvers.fr/2026/10/01/le-skyr-jusquou/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-01T04:46:00.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
       "title": "Robotiser le geste irréversible : LUPIN DENTAL lève 15 millions d’euros pour ses robots dentaires",
       "excerpt": "LUPIN DENTAL développe un système robotisé destiné à automatiser, sous la supervision d’un praticien, la préparation des dents pour les facettes…",
       "link": "https://www.frenchweb.fr/robotiser-le-geste-irreversible-lupin-dental-leve-15-millions-deuros-pour-ses-robots-dentaires/463722",
@@ -91,25 +100,79 @@
       "pubDate": "2026-10-01T04:16:55.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
-    },
-    {
-      "title": "Un robot mobile qui déplace des lits d’hôpitaux non utilisés : L’allemand Neura Robotics se lance dans la santé",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/un-robot-mobile-qui-deplace-des-lits-dhopitaux-non-utilises-lallemand-neura-robotics-se-lance-dans-la-sante.6LUCSJEWTRABVLM6SP75DDX4JM.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-09-30T14:07:14.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
     }
   ],
   "itemsEn": [
     {
+      "title": "Ikea to shutter 3 small-format plan and order stores",
+      "excerpt": "The retailer is closing locations in Washington, D.C., Virginia and Maryland, including one that opened less than a year ago, as it reevaluates its…",
+      "link": "https://www.retaildive.com/news/ikea-shutters-three-small-format-plan-and-order-stores/832021/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-02T16:04:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "8 top grocery executive changes in September",
+      "excerpt": "Stater Bros. named a new chief executive, Albertsons appointed a regional operating president and Kroger resurrected the chief store operations…",
+      "link": "https://www.grocerydive.com/news/grocery-store-executive-changes-september-2026/831990/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-10-02T15:39:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Private label brands embrace own identities in packaging design",
+      "excerpt": "Retailers are using store brand packaging to show they understand their customers’ priorities.",
+      "link": "https://www.fooddive.com/news/private-label-packaging-design-opportunities/831477/",
+      "source": "Food Dive",
+      "pubDate": "2026-10-02T13:52:00.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "The Friday Checkout: Has Costco become grocery’s biggest threat?",
+      "excerpt": "It’s no secret that the club retailer is a competitor. But as the company grows market share and sales expand, grocers should be increasingly worried…",
+      "link": "https://www.grocerydive.com/news/costco-grocers-biggest-threat-fresh-offerings-ecommerce-value-perception/831994/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-10-02T13:25:10.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "The Weekly Closeout: Revolve debuts magazine and Cato closes 120 stores",
+      "excerpt": "The fashion retailer wants to connect more deeply with shoppers through a print publication. Meanwhile, the specialty apparel brand is accelerating…",
+      "link": "https://www.retaildive.com/news/revolve-debuts-magazine-cato-closes-120-stores/831914/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-02T13:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Holiday shoppers setting budgets, planning earlier",
+      "excerpt": "Holiday shoppers, facing economic challenges, likely won't spend less this season. What they will change, however, is how they spend. Six in 10…",
+      "link": "https://www.retailcustomerexperience.com/news/holiday-shoppers-setting-budgets-planning-earlier/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-02T10:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
       "title": "Robotaxi operators will face fines for blocking first responders",
-      "excerpt": "A new California law places new rules on autonomous vehicles operators",
+      "excerpt": "A new California law places new rules on autonomous vehicles operators.",
       "link": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
       "source": "TechCrunch",
       "pubDate": "2026-10-02T00:57:57.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "PODCAST: AI and the future of shopping",
+      "excerpt": "In the latest episode of the Retail Technology podcast Counter Culture, analyst, writer and RT publisher Miya Knights joins host Bruce Ackland to…",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8760/podcast:-ai-and-the-future-of-shopping/",
+      "source": "Retail Technology",
+      "pubDate": "2026-10-02T00:00:00.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -122,57 +185,12 @@
       "pinned": false
     },
     {
-      "title": "Meta debuts AI agent for small businesses",
-      "excerpt": "After introducing Muse for personal users, the tech giant is offering its AI agent to small businesses seeking help with everyday tasks.",
-      "link": "https://www.retaildive.com/news/meta-debuts-ai-agent-muse-small-businesses/831890/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-01T16:06:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Albertsons expands its board of directors again",
-      "excerpt": "The supermarket chain made three new appointments, including former Food Lion President Meg Ham, moving its board from 11 to 14 members.",
-      "link": "https://www.grocerydive.com/news/albertsons-new-directors-interim-cfo-grocery/831877/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-01T15:25:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Kroger takes key step forward in tying retail media creative with digital sales",
-      "excerpt": "The grocer, in partnership with Vidmob and MMA Global, was able to forecast e-commerce conversion of ad creative with 81% accuracy.",
-      "link": "https://www.grocerydive.com/news/kroger-ai-and-predictive-scoring-e-commerce/831891/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-01T15:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "In New York, Nordstrom brings gourmet foods to its evolving pop-up space",
-      "excerpt": "The Corner Market features a selection of locally and globally sourced comestibles and housewares, with a focus on luxury gifting.",
-      "link": "https://www.retaildive.com/news/nordstrom-corner-market-pop-up-gourmet-food/831747/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-01T13:00:00.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
-      "title": "Online retail holiday sales to cross $275B milestone",
-      "excerpt": "The U.S. 2026 online holiday shopping season will hit a record-setting $275.1 billion, illustrating a 6.7% growth compared to 2025. Cyber Monday will…",
-      "link": "https://www.retailcustomerexperience.com/news/online-retail-holiday-sales-to-cross-275b-milestone/",
+      "title": "Home Depot debuts holiday sweater in holiday décor collection",
+      "excerpt": "Is someone in the family a huge do-it-yourselfer? If so, the Home Depot holiday sweater may be this year's most favorite gift. The sweater, fashioned…",
+      "link": "https://www.retailcustomerexperience.com/news/home-depot-debuts-holiday-sweater-in-holiday-decor-collection/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-01T10:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "AI emerging as a shopping channel",
-      "excerpt": "Generative artificial intelligence is fast becoming part of the shopper journey with over a third of consumers, 34%, using AI tools to shop. That's…",
-      "link": "https://www.retailcustomerexperience.com/news/ai-emerging-as-a-shopping-channel/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-01T10:00:00.000Z",
-      "category": "GRAND ANGLE",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
     {
@@ -190,15 +208,6 @@
       "link": "https://www.fooddive.com/news/sour-power-c-stores-begin-to-capitalize-on-the-in-demand-flavor-profile/831011/",
       "source": "Food Dive",
       "pubDate": "2026-09-30T14:09:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "StyleSmuggler attack compromises over 3,800 Magento and Adobe Commerce stores",
-      "excerpt": "Over 3,800 online stores are said to have been compromised in a mass hacking incident that exploited a critical zero-day vulnerability affecting…",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8774/stylesmuggler-attack-compromises-over-3800-magento-and-adobe-commerce-stores/",
-      "source": "Retail Technology",
-      "pubDate": "2026-09-28T00:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     }
