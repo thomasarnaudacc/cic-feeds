@@ -1,23 +1,41 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-02T00:21:27.208Z",
+  "publishedAt": "2026-10-02T09:10:40.644Z",
   "itemsFr": [
     {
-      "title": "L'IA sait traduire. Alors pourquoi l'anglais devient-il encore plus stratégique au travail ?",
-      "excerpt": "L'intelligence artificielle promet de faire disparaître les barrières linguistiques. Pourtant, au moment même où les outils de traduction…",
-      "link": "https://www.journaldunet.com/management/emploi-cadres/1555657-l-ia-sait-traduire-alors-pourquoi-l-anglais-devient-il-encore-plus-strategique-au-travail/",
+      "title": "Les Etats-Unis exhortent les Européens à mettre sur le marché leurs stocks de diesel pour faire baisser le prix des carburants",
+      "excerpt": "Washington presse l'Union européenne d'agir face à la flambée historique du gazole, alors que Bruxelles réunit les Etats membres pour une réponse…",
+      "link": "https://www.journaldunet.com/economie/industrie/1555727-les-etats-unis-exhortent-les-europeens-a-mettre-sur-le-marche-leurs-stocks-de-diesel-pour-faire-baisser-le-prix-des-carburants/",
       "source": "Journal du Net",
-      "pubDate": "2026-10-01T16:04:50.000Z",
+      "pubDate": "2026-10-02T08:33:25.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Le taux d'intérêt des obligations françaises à dix ans atteint 4,93%, son plus haut niveau depuis 2002",
+      "excerpt": "Les taux d'emprunt à long terme de la France ont bondi lors d'une émission majeure, sur fond de défiance des marchés et de présentation du budget…",
+      "link": "https://www.journaldunet.com/business/action-publique/1555725-le-taux-d-interet-des-obligations-francaises-a-dix-ans-atteint-4-93-son-plus-haut-niveau-depuis-2002/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-02T08:31:05.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "Agences, attention, le tokenmaxxing débridé va faire partir vos meilleurs talents",
-      "excerpt": "Le \"tokenmaxxing\", de plus en plus observé en entreprise, renvoie à une manière de feindre l'ultra-productivité grâce à l'IA. Il est l'apanage des…",
-      "link": "https://www.journaldunet.com/developpeur/1555345-agences-attention-le-tokenmaxxing-debride-va-faire-partir-vos-meilleurs-talents/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-01T15:06:50.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
+      "title": "GEO dans le retail : l’étude Dekuple décrypte la recommandation par l’IA",
+      "excerpt": "Face à l'émergence des moteurs d'intelligence artificielle générative, le référencement traditionnel ne suffit plus à garantir la primauté des…",
+      "link": "https://www.ecommercemag.fr/retail-1220/barometre-etude-2168/geo-dans-le-retail-letude-dekuple-decrypte-la-recommandation-par-lia-59941",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-10-02T07:00:33.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "[ ÉTUDE ] L’envie de consommer recule toujours. Lentement, mais sûrement.",
+      "excerpt": "Le baromètre trimestriel de L’Obsoco sur « l’appétence à consommer » (que je suis depuis l’origine via VIGIE GRANDE CONSO) traduit à nouveau un recul…",
+      "link": "https://www.olivierdauvers.fr/2026/10/02/etude-lenvie-de-consommer-recule-toujours-lentement-mais-surement/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-02T04:27:00.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -36,15 +54,6 @@
       "source": "L'Usine Digitale",
       "pubDate": "2026-10-01T08:49:21.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "[Tribune] Du scroll au rayon : TikTok, le nouveau vendeur silencieux qu’il faut dompter !",
-      "excerpt": "Pour les marques et les retailers, la question n’est plus de savoir s'il faut investir TikTok, mais de comprendre comment convertir cette plateforme…",
-      "link": "https://www.ecommercemag.fr/retail-1220/veille-tribune-2169/tribune-du-scroll-au-rayon-tiktok-le-nouveau-vendeur-silencieux-quil-faut-dompter-59818",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-10-01T07:50:43.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
       "pinned": false
     },
     {
@@ -91,27 +100,18 @@
       "pubDate": "2026-09-30T14:07:14.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
-    },
-    {
-      "title": "NRF Europe 2026 : les retailers ferment la parenthèse des POC et passent à l'échelle",
-      "excerpt": "L’article NRF Europe 2026 : les retailers ferment la parenthèse des POC et passent à l'échelle est apparu en premier sur Maddyness - Le média pour…",
-      "link": "https://www.maddyness.com/2026/09/30/nrf-europe-2026-les-retailers-ferment-la-parenthese-des-poc-et-passent-a-lechelle/",
-      "source": "Maddyness",
-      "pubDate": "2026-09-30T10:00:13.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "[ IA ] Quand Claude me dit chez qui faire mes courses en drive et prépare mon panier…",
-      "excerpt": "Je vous ai déjà montré ici comment une IA pouvait prendre la main sur les courses en drive et remplir un panier en toute autonomie. Je pousse…",
-      "link": "https://www.olivierdauvers.fr/2026/09/30/ia-quand-claude-me-dit-chez-qui-faire-mes-courses-en-drive-et-prepare-mon-panier/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-09-30T00:29:00.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
     }
   ],
   "itemsEn": [
+    {
+      "title": "Robotaxi operators will face fines for blocking first responders",
+      "excerpt": "A new California law places new rules on autonomous vehicles operators",
+      "link": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-02T00:57:57.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
     {
       "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
       "excerpt": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
@@ -119,15 +119,6 @@
       "source": "TechCrunch",
       "pubDate": "2026-10-01T21:08:11.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-      "excerpt": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
-      "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-01T18:14:42.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
     },
     {
@@ -167,9 +158,9 @@
       "pinned": false
     },
     {
-      "title": "Evolving loss prevention into a CX function",
-      "excerpt": "Though retail is still the most popular way to shop, e-commerce has nearly doubled its portion of total sales in the past decade. The slow creep of…",
-      "link": "https://www.retailcustomerexperience.com/blogs/evolving-loss-prevention-into-a-cx-function/",
+      "title": "Online retail holiday sales to cross $275B milestone",
+      "excerpt": "The U.S. 2026 online holiday shopping season will hit a record-setting $275.1 billion, illustrating a 6.7% growth compared to 2025. Cyber Monday will…",
+      "link": "https://www.retailcustomerexperience.com/news/online-retail-holiday-sales-to-cross-275b-milestone/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-01T10:00:00.000Z",
       "category": "GRAND ANGLE",
