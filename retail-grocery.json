@@ -1,7 +1,16 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-02T21:36:13.766Z",
+  "publishedAt": "2026-10-03T02:58:30.774Z",
   "itemsFr": [
+    {
+      "title": "SAMEDI CONSO : mon carnet (retail mais pas que…) de la semaine",
+      "excerpt": "« SAMEDI CONSO », la semaine retail (mais pas que) passée en revue. Comme toujours en totale liberté. Et tant pis si ça pique ! Âmes (trop) sensibles…",
+      "link": "https://www.olivierdauvers.fr/2026/10/03/samedi-conso-mon-carnet-retail-mais-pas-que-de-la-semaine-382/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-03T00:41:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "Cybersécurité : Anthropic accuse le modèle chinois GLM-5.3 d’être dangereux pour protéger son business model et empêcher la compétition",
       "excerpt": "",
@@ -53,15 +62,6 @@
       "link": "https://www.ecommercemag.fr/retail-1220/barometre-etude-2168/geo-dans-le-retail-letude-dekuple-decrypte-la-recommandation-par-lia-59941",
       "source": "Ecommerce Mag",
       "pubDate": "2026-10-02T07:00:33.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "[ ÉTUDE ] L’envie de consommer recule toujours. Lentement, mais sûrement.",
-      "excerpt": "Le baromètre trimestriel de L’Obsoco sur « l’appétence à consommer » (que je suis depuis l’origine via VIGIE GRANDE CONSO) traduit à nouveau un recul…",
-      "link": "https://www.olivierdauvers.fr/2026/10/02/etude-lenvie-de-consommer-recule-toujours-lentement-mais-surement/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-02T04:27:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -185,12 +185,12 @@
       "pinned": false
     },
     {
-      "title": "AI emerging as a shopping channel",
-      "excerpt": "Generative artificial intelligence is fast becoming part of the shopper journey with over a third of consumers, 34%, using AI tools to shop. That's…",
-      "link": "https://www.retailcustomerexperience.com/news/ai-emerging-as-a-shopping-channel/",
+      "title": "Home Depot debuts holiday sweater in holiday décor collection",
+      "excerpt": "Is someone in the family a huge do-it-yourselfer? If so, the Home Depot holiday sweater may be this year's most favorite gift. The sweater, fashioned…",
+      "link": "https://www.retailcustomerexperience.com/news/home-depot-debuts-holiday-sweater-in-holiday-decor-collection/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-01T10:00:00.000Z",
-      "category": "GRAND ANGLE",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
     {
