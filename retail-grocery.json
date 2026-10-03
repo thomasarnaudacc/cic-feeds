@@ -1,7 +1,16 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-03T08:53:51.991Z",
+  "publishedAt": "2026-10-03T14:04:39.420Z",
   "itemsFr": [
+    {
+      "title": "Téléphonie mobile : Carrefour remet ça à partir de lundi",
+      "excerpt": "Il n’y a encore rien d’officiel, mais c’est bien un secret de polichinelle 😉 Lundi, Carrefour reviendra sur le marché de la téléphonie mobile, 14…",
+      "link": "https://www.olivierdauvers.fr/2026/10/03/telephonie-mobile-carrefour-remet-ca-a-partir-de-lundi/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-03T08:56:59.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "SAMEDI CONSO : mon carnet (retail mais pas que…) de la semaine",
       "excerpt": "« SAMEDI CONSO », la semaine retail (mais pas que) passée en revue. Comme toujours en totale liberté. Et tant pis si ça pique ! Âmes (trop) sensibles…",
@@ -36,15 +45,6 @@
       "source": "L'Usine Digitale",
       "pubDate": "2026-10-02T12:30:44.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "La MINUTE RETAIL : le big bang (commercial) est encore devant",
-      "excerpt": "Les dernières années ont déjà été marquées par de sacrés chamboulements dans le paysage commercial. Le remplacement en cours des enseignes Auchan…",
-      "link": "https://www.olivierdauvers.fr/2026/10/02/la-minute-retail-le-big-bang-commercial-est-encore-devant/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-02T11:43:36.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -104,6 +104,15 @@
   ],
   "itemsEn": [
     {
+      "title": "All the AI agents that can live in your text messages",
+      "excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel…",
+      "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-03T14:00:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
       "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
       "excerpt": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to…",
       "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
@@ -141,7 +150,7 @@
     },
     {
       "title": "The Friday Checkout: Has Costco become grocery’s biggest threat?",
-      "excerpt": "It’s no secret that the club retailer is a competitor. But as the company grows market share and sales expand, grocers should be increasingly worried…",
+      "excerpt": "It's no secret the club retailer is a competitor. But as the company grows market share and sales expand, grocers should be increasingly worried…",
       "link": "https://www.grocerydive.com/news/costco-grocers-biggest-threat-fresh-offerings-ecommerce-value-perception/831994/",
       "source": "Grocery Dive",
       "pubDate": "2026-10-02T13:25:10.000Z",
@@ -167,15 +176,6 @@
       "pinned": false
     },
     {
-      "title": "Robotaxi operators will face fines for blocking first responders",
-      "excerpt": "A new California law places new rules on autonomous vehicles operators.",
-      "link": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-02T00:57:57.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
       "title": "PODCAST: AI and the future of shopping",
       "excerpt": "In the latest episode of the Retail Technology podcast Counter Culture, analyst, writer and RT publisher Miya Knights joins host Bruce Ackland to…",
       "link": "https://www.retailtechnology.co.uk/rss.xml/news/8760/podcast:-ai-and-the-future-of-shopping/",
@@ -185,12 +185,12 @@
       "pinned": false
     },
     {
-      "title": "AI emerging as a shopping channel",
-      "excerpt": "Generative artificial intelligence is fast becoming part of the shopper journey with over a third of consumers, 34%, using AI tools to shop. That's…",
-      "link": "https://www.retailcustomerexperience.com/news/ai-emerging-as-a-shopping-channel/",
+      "title": "Home Depot debuts holiday sweater in holiday décor collection",
+      "excerpt": "Is someone in the family a huge do-it-yourselfer? If so, the Home Depot holiday sweater may be this year's most favorite gift. The sweater, fashioned…",
+      "link": "https://www.retailcustomerexperience.com/news/home-depot-debuts-holiday-sweater-in-holiday-decor-collection/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-01T10:00:00.000Z",
-      "category": "GRAND ANGLE",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
     {
