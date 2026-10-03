@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-03T14:04:39.420Z",
+  "publishedAt": "2026-10-03T18:26:35.409Z",
   "itemsFr": [
     {
       "title": "Téléphonie mobile : Carrefour remet ça à partir de lundi",
@@ -104,20 +104,20 @@
   ],
   "itemsEn": [
     {
+      "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
+      "excerpt": "Bitchat has become largely unavailable in India as a result of the restrictions.",
+      "link": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-03T15:02:01.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
       "title": "All the AI agents that can live in your text messages",
       "excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel…",
       "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "source": "TechCrunch",
       "pubDate": "2026-10-03T14:00:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-      "excerpt": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to…",
-      "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-02T18:11:27.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
@@ -150,7 +150,7 @@
     },
     {
       "title": "The Friday Checkout: Has Costco become grocery’s biggest threat?",
-      "excerpt": "It's no secret the club retailer is a competitor. But as the company grows market share and sales expand, grocers should be increasingly worried…",
+      "excerpt": "It’s no secret that the club retailer is a competitor. But as the company grows market share and sales expand, grocers should be increasingly worried…",
       "link": "https://www.grocerydive.com/news/costco-grocers-biggest-threat-fresh-offerings-ecommerce-value-perception/831994/",
       "source": "Grocery Dive",
       "pubDate": "2026-10-02T13:25:10.000Z",
@@ -185,12 +185,12 @@
       "pinned": false
     },
     {
-      "title": "Home Depot debuts holiday sweater in holiday décor collection",
-      "excerpt": "Is someone in the family a huge do-it-yourselfer? If so, the Home Depot holiday sweater may be this year's most favorite gift. The sweater, fashioned…",
-      "link": "https://www.retailcustomerexperience.com/news/home-depot-debuts-holiday-sweater-in-holiday-decor-collection/",
+      "title": "Online retail holiday sales to cross $275B milestone",
+      "excerpt": "The U.S. 2026 online holiday shopping season will hit a record-setting $275.1 billion, illustrating a 6.7% growth compared to 2025. Cyber Monday will…",
+      "link": "https://www.retailcustomerexperience.com/news/online-retail-holiday-sales-to-cross-275b-milestone/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-01T10:00:00.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
