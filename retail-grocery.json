@@ -1,7 +1,16 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-04T11:32:06.398Z",
+  "publishedAt": "2026-10-04T16:10:55.073Z",
   "itemsFr": [
+    {
+      "title": "J-1 pour Carrefour mobile. On en sait plus sur… “le forfait des pinces” !",
+      "excerpt": "C’est demain le D-day… : le retour de Carrefour sur la téléphonie mobile (via Orange), 14 ans après avoir quitté le marché. A la veille du lancement…",
+      "link": "https://www.olivierdauvers.fr/2026/10/04/j-1-pour-carrefour-mobile-on-en-sait-plus-sur-le-forfait-des-pinces/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-04T15:26:07.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "La pharmacie, un commerce comme les autres !",
       "excerpt": "Un p’tit pas de côté aujourd’hui pour DIMANCHE INFOGRAPHIE avec l’évolution du nombre de pharmacies et de leur chiffre d’affaires moyen. Et…",
@@ -12,39 +21,12 @@
       "pinned": false
     },
     {
-      "title": "Téléphonie mobile : Carrefour remet ça à partir de lundi",
-      "excerpt": "Il n’y a encore rien d’officiel, mais c’est bien un secret de polichinelle 😉 Lundi, Carrefour reviendra sur le marché de la téléphonie mobile, 14…",
-      "link": "https://www.olivierdauvers.fr/2026/10/03/telephonie-mobile-carrefour-remet-ca-a-partir-de-lundi/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-03T08:56:59.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Cybersécurité : Anthropic accuse le modèle chinois GLM-5.3 d’être dangereux pour protéger son business model et empêcher la compétition",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/cybersecurite-anthropic-accuse-le-modele-chinois-glm-53-detre-dangereux-pour-proteger-son-business-model-et-empecher-la-competition.L5CPMKLMZVGO5IPPDTOG2K32MI.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-10-02T16:01:22.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
       "title": "L'Union européenne s'oppose \"catégoriquement\" à une éventuelle interdiction des exportations américaines de gazole",
       "excerpt": "Bruxelles rejette la menace américaine et appelle à une action collective avec l'Agence internationale de l'énergie pour contenir la flambée des prix.",
       "link": "https://www.journaldunet.com/business/action-publique/1555751-l-union-europeenne-s-oppose-categoriquement-a-une-eventuelle-interdiction-des-exportations-americaines-de-gazole/",
       "source": "Journal du Net",
       "pubDate": "2026-10-02T14:38:38.000Z",
       "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "Manipulation d’échantillons, utilisation d’instruments… Avec sa main robotique, Honda veut simplifier la recherche dans les stations spatiales commerciales",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/manipulation-dechantillons-utilisation-dinstruments-avec-sa-main-robotique-honda-veut-simplifier-la-recherche-sur-la-station-spatiale-internationale.DLM3RPLMVNGG3FPZCVD4GI2WII.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-10-02T12:30:44.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
@@ -104,21 +86,30 @@
   ],
   "itemsEn": [
     {
+      "title": "Foundations first: retailers ready IT stacks for agentic commerce",
+      "excerpt": "Composable foundations are setting the pace for agentic commerce, Miya Knights, Retail Technology Publisher, discovers at MACH X Amsterdam",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8776/foundations-first:-retailers-ready-it-stacks-for-agentic-commerce/",
+      "source": "Retail Technology",
+      "pubDate": "2026-10-04T16:08:36.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "TechCrunch Mobility: Reining in robotaxis",
+      "excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "link": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-04T16:05:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
       "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
       "excerpt": "Bitchat has become largely unavailable in India as a result of the restrictions.",
       "link": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
       "source": "TechCrunch",
       "pubDate": "2026-10-03T15:02:01.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "All the AI agents that can live in your text messages",
-      "excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel…",
-      "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-03T14:00:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
@@ -190,15 +181,6 @@
       "link": "https://www.retailcustomerexperience.com/news/online-retail-holiday-sales-to-cross-275b-milestone/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-01T10:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Lowe’s in drone delivery first",
-      "excerpt": "Lowe’s has become the first home improvement retailer to offer drone delivery",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8772/loweas-in-drone-delivery-first/",
-      "source": "Retail Technology",
-      "pubDate": "2026-10-01T00:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
