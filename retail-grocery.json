@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-03T23:26:21.733Z",
+  "publishedAt": "2026-10-04T03:27:50.020Z",
   "itemsFr": [
     {
       "title": "Téléphonie mobile : Carrefour remet ça à partir de lundi",
@@ -150,7 +150,7 @@
     },
     {
       "title": "The Friday Checkout: Has Costco become grocery’s biggest threat?",
-      "excerpt": "It’s no secret that the club retailer is a competitor. But as the company grows market share and sales expand, grocers should be increasingly worried…",
+      "excerpt": "It's no secret the club retailer is a competitor. But as the company grows market share and sales expand, grocers should be increasingly worried…",
       "link": "https://www.grocerydive.com/news/costco-grocers-biggest-threat-fresh-offerings-ecommerce-value-perception/831994/",
       "source": "Grocery Dive",
       "pubDate": "2026-10-02T13:25:10.000Z",
@@ -167,29 +167,11 @@
       "pinned": false
     },
     {
-      "title": "Holiday shoppers setting budgets, planning earlier",
-      "excerpt": "Holiday shoppers, facing economic challenges, likely won't spend less this season. What they will change, however, is how they spend. Six in 10…",
-      "link": "https://www.retailcustomerexperience.com/news/holiday-shoppers-setting-budgets-planning-earlier/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-02T10:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "PODCAST: AI and the future of shopping",
       "excerpt": "In the latest episode of the Retail Technology podcast Counter Culture, analyst, writer and RT publisher Miya Knights joins host Bruce Ackland to…",
       "link": "https://www.retailtechnology.co.uk/rss.xml/news/8760/podcast:-ai-and-the-future-of-shopping/",
       "source": "Retail Technology",
       "pubDate": "2026-10-02T00:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Evolving loss prevention into a CX function",
-      "excerpt": "Though retail is still the most popular way to shop, e-commerce has nearly doubled its portion of total sales in the past decade. The slow creep of…",
-      "link": "https://www.retailcustomerexperience.com/blogs/evolving-loss-prevention-into-a-cx-function/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-01T10:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
