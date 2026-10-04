@@ -1,22 +1,22 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-04T03:27:50.020Z",
+  "publishedAt": "2026-10-04T11:32:06.398Z",
   "itemsFr": [
+    {
+      "title": "La pharmacie, un commerce comme les autres !",
+      "excerpt": "Un p’tit pas de côté aujourd’hui pour DIMANCHE INFOGRAPHIE avec l’évolution du nombre de pharmacies et de leur chiffre d’affaires moyen. Et…",
+      "link": "https://www.olivierdauvers.fr/2026/10/04/la-pharmacie-un-commerce-comme-les-autres/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-04T05:10:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "Téléphonie mobile : Carrefour remet ça à partir de lundi",
       "excerpt": "Il n’y a encore rien d’officiel, mais c’est bien un secret de polichinelle 😉 Lundi, Carrefour reviendra sur le marché de la téléphonie mobile, 14…",
       "link": "https://www.olivierdauvers.fr/2026/10/03/telephonie-mobile-carrefour-remet-ca-a-partir-de-lundi/",
       "source": "Olivier Dauvers",
       "pubDate": "2026-10-03T08:56:59.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "SAMEDI CONSO : mon carnet (retail mais pas que…) de la semaine",
-      "excerpt": "« SAMEDI CONSO », la semaine retail (mais pas que) passée en revue. Comme toujours en totale liberté. Et tant pis si ça pique ! Âmes (trop) sensibles…",
-      "link": "https://www.olivierdauvers.fr/2026/10/03/samedi-conso-mon-carnet-retail-mais-pas-que-de-la-semaine-382/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-03T00:41:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -150,7 +150,7 @@
     },
     {
       "title": "The Friday Checkout: Has Costco become grocery’s biggest threat?",
-      "excerpt": "It's no secret the club retailer is a competitor. But as the company grows market share and sales expand, grocers should be increasingly worried…",
+      "excerpt": "It’s no secret that the club retailer is a competitor. But as the company grows market share and sales expand, grocers should be increasingly worried…",
       "link": "https://www.grocerydive.com/news/costco-grocers-biggest-threat-fresh-offerings-ecommerce-value-perception/831994/",
       "source": "Grocery Dive",
       "pubDate": "2026-10-02T13:25:10.000Z",
@@ -167,11 +167,29 @@
       "pinned": false
     },
     {
+      "title": "Holiday shoppers setting budgets, planning earlier",
+      "excerpt": "Holiday shoppers, facing economic challenges, likely won't spend less this season. What they will change, however, is how they spend. Six in 10…",
+      "link": "https://www.retailcustomerexperience.com/news/holiday-shoppers-setting-budgets-planning-earlier/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-02T10:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
       "title": "PODCAST: AI and the future of shopping",
       "excerpt": "In the latest episode of the Retail Technology podcast Counter Culture, analyst, writer and RT publisher Miya Knights joins host Bruce Ackland to…",
       "link": "https://www.retailtechnology.co.uk/rss.xml/news/8760/podcast:-ai-and-the-future-of-shopping/",
       "source": "Retail Technology",
       "pubDate": "2026-10-02T00:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Online retail holiday sales to cross $275B milestone",
+      "excerpt": "The U.S. 2026 online holiday shopping season will hit a record-setting $275.1 billion, illustrating a 6.7% growth compared to 2025. Cyber Monday will…",
+      "link": "https://www.retailcustomerexperience.com/news/online-retail-holiday-sales-to-cross-275b-milestone/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-01T10:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
