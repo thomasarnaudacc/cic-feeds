@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-04T16:10:55.073Z",
+  "publishedAt": "2026-10-04T20:39:41.216Z",
   "itemsFr": [
     {
       "title": "J-1 pour Carrefour mobile. On en sait plus sur… “le forfait des pinces” !",
@@ -86,15 +86,6 @@
   ],
   "itemsEn": [
     {
-      "title": "Foundations first: retailers ready IT stacks for agentic commerce",
-      "excerpt": "Composable foundations are setting the pace for agentic commerce, Miya Knights, Retail Technology Publisher, discovers at MACH X Amsterdam",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8776/foundations-first:-retailers-ready-it-stacks-for-agentic-commerce/",
-      "source": "Retail Technology",
-      "pubDate": "2026-10-04T16:08:36.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "TechCrunch Mobility: Reining in robotaxis",
       "excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
       "link": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
@@ -176,11 +167,20 @@
       "pinned": false
     },
     {
-      "title": "Online retail holiday sales to cross $275B milestone",
-      "excerpt": "The U.S. 2026 online holiday shopping season will hit a record-setting $275.1 billion, illustrating a 6.7% growth compared to 2025. Cyber Monday will…",
-      "link": "https://www.retailcustomerexperience.com/news/online-retail-holiday-sales-to-cross-275b-milestone/",
+      "title": "Evolving loss prevention into a CX function",
+      "excerpt": "Though retail is still the most popular way to shop, e-commerce has nearly doubled its portion of total sales in the past decade. The slow creep of…",
+      "link": "https://www.retailcustomerexperience.com/blogs/evolving-loss-prevention-into-a-cx-function/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-01T10:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Lowe’s in drone delivery first",
+      "excerpt": "Lowe’s has become the first home improvement retailer to offer drone delivery",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8772/loweas-in-drone-delivery-first/",
+      "source": "Retail Technology",
+      "pubDate": "2026-10-01T00:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
