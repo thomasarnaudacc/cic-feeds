@@ -1,7 +1,34 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-05T13:04:44.847Z",
+  "publishedAt": "2026-10-05T21:43:59.476Z",
   "itemsFr": [
+    {
+      "title": "“Satisfait ou Remboursé”, c’est ça… (épisode 6)",
+      "excerpt": "Avec ma complice Flavie Flament, nous voici déjà au 6e numéro de la nouvelle émission conso de RTL : Satisfait ou Remboursé (tous les samedis matins…",
+      "link": "https://www.olivierdauvers.fr/2026/10/05/satisfait-ou-rembourse-cest-ca-episode-6/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-05T16:06:10.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "Kawasaki prévoit de commercialiser son premier robot humanoïde dès 2030",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/kawasaki-prevoit-de-commercialiser-son-premier-robot-humanoide-des-2030.TO3GPUCAFJFHFO6NNVAFJEZEGU.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-10-05T15:56:18.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Etudes : les AI Overviews s'imposent fortementen France",
+      "excerpt": "Les requêtes informationnelles, longues et certains secteurs sont particulièrement impactés.",
+      "link": "https://www.journaldunet.com/seo/1555167-qui-est-le-plus-touche-par-le-lancement-des-ai-overviews-en-france/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-05T13:32:42.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "Avec sa plateforme d’intelligence artificielle North 2, le canadien Cohere veut devancer Mistral sur les enjeux de souveraineté",
       "excerpt": "",
@@ -48,38 +75,11 @@
       "pinned": false
     },
     {
-      "title": "Naming par IA : 9 noms sur 12 déjà déposés ou à risque",
-      "excerpt": "J'ai soumis le brief réel d'une boutique en ligne à quatre assistants IA, soit 160 noms au total. La consigne anti-cliché a été largement ignorée…",
-      "link": "https://www.journaldunet.com/intelligence-artificielle/1555681-naming-par-ia-9-noms-sur-12-deja-deposes-ou-a-risque/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-05T06:48:57.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
       "title": "[ RETAIL INSIDE ] Quand un banal hyper Tesco de Budapest illustre la stratégie de conquête (par l’offre) de Lego…",
       "excerpt": "Hormis son implantation face au stade Puskas de Budapest, l’hyper Tesco est banal (ce qui ne signifie pas médiocre 😉 ). Banal dans ses actifs et…",
       "link": "https://www.olivierdauvers.fr/2026/10/05/retail-inside-quand-un-banal-hyper-tesco-de-budapest-illustre-la-strategie-de-conquete-par-loffre-de-lego/",
       "source": "Olivier Dauvers",
       "pubDate": "2026-10-05T04:34:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Fleuret AI lève 4 millions d’euros pour automatiser le pentest et bâtir une cybersécurité offensive européenne",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/start-up/financement/levee-de-fonds/fleuret-ai-leve-4-millions-deuros-pour-automatiser-le-pentest-et-batir-une-cybersecurite-offensive-europeenne.ODAPH3J4ORF3TOZVPUAFIN4SVQ.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-10-05T04:06:40.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "J-1 pour Carrefour mobile. On en sait plus sur… “le forfait des pinces” !",
-      "excerpt": "C’est demain le D-day… : le retour de Carrefour sur la téléphonie mobile (via Orange), 14 ans après avoir quitté le marché. A la veille du lancement…",
-      "link": "https://www.olivierdauvers.fr/2026/10/04/j-1-pour-carrefour-mobile-on-en-sait-plus-sur-le-forfait-des-pinces/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-04T15:26:07.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -104,30 +104,84 @@
   ],
   "itemsEn": [
     {
-      "title": "Can Safeworld convince people that gen AI robots won’t hurt them?",
-      "excerpt": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
-      "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-05T12:00:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "title": "Albertsons retail media head departs",
+      "excerpt": "Brian Monahan has left Albertsons Media Collective after serving for one year as senior vice president of the division.",
+      "link": "https://www.grocerydive.com/news/albertsons-media-collectives-head-departs-brian-monahan/832189/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-10-05T20:29:53.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
       "pinned": false
     },
     {
-      "title": "Keeping the lines open: How to power retail’s busiest moments",
-      "excerpt": "Consumers are tired of nonstop spam calls, suspicious of unknown numbers and frustrated by poor connections and dropped calls during important…",
-      "link": "https://www.retaildive.com/spons/keeping-the-lines-open-how-to-power-retails-busiest-moments/831722/",
+      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+      "excerpt": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating…",
+      "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-05T18:54:30.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+      "excerpt": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+      "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-05T18:29:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Halloween spending creeps up this year",
+      "excerpt": "While budgets for the holiday increase, one in five shoppers plan to use buy now, pay later or other financing services, according to Deloitte.",
+      "link": "https://www.retaildive.com/news/halloween-holiday-retail-consumer-spending-2026/832125/",
       "source": "Retail Dive",
-      "pubDate": "2026-10-05T09:00:00.000Z",
+      "pubDate": "2026-10-05T15:43:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "The warehouse costs hiding in plain sight",
-      "excerpt": "Most warehouse costs don't show up on any report. The visibility gap is why.",
-      "link": "https://www.retaildive.com/spons/the-warehouse-costs-hiding-in-plain-sight/831224/",
+      "title": "Target’s digital holiday catalog features toys — and a way to incorporate handwritten wish lists",
+      "excerpt": "The retailer’s kids catalog is focused on interactive experiences including demonstrations and video reviews.",
+      "link": "https://www.retaildive.com/news/target-digital-holiday-catalog-toys-wish-lists/832099/",
       "source": "Retail Dive",
-      "pubDate": "2026-10-05T09:00:00.000Z",
+      "pubDate": "2026-10-05T15:35:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Has Publix lost its magic?",
+      "excerpt": "The highly regarded regional supermarket chain typically outperforms its conventional peers. But that hasn’t been the case lately as the grocer’s…",
+      "link": "https://www.grocerydive.com/news/publix-sales-growth-grocery-traditional-supermarkets/831920/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-10-05T15:11:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "6 food manufacturers talk supply chain tactics",
+      "excerpt": "General Mills, Nestlé and more discussed how they are cutting operational costs, navigating uneven freight rates and sharpening demand forecasting at…",
+      "link": "https://www.fooddive.com/news/6-food-manufacturers-talk-supply-chain-tactics/832033/",
+      "source": "Food Dive",
+      "pubDate": "2026-10-05T13:25:00.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Costco ranks top on experience report rankings",
+      "excerpt": "Costco knocked supermarket chain H-E-B to second place to take the first spot in the second annual ChangeUp \"2026 Experience Report,\" which ranks the…",
+      "link": "https://www.retailcustomerexperience.com/news/costco-ranks-top-on-experience-report-rankings/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-05T10:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Tech institute deploys Amazon's Just Walk Out checkout-free technology",
+      "excerpt": "365 Retail Markets and Evergreen Refreshments have opened a checkout-free store in the cafeteria at Lake Washington Institute of Technology in…",
+      "link": "https://www.retailcustomerexperience.com/news/tech-institute-deploys-amazons-just-walk-out-checkout-free-technology/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-05T10:00:00.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -145,42 +199,6 @@
       "link": "https://www.retailtechnology.co.uk/rss.xml/news/8776/foundations-first:-retailers-ready-it-stacks-for-agentic-commerce/",
       "source": "Retail Technology",
       "pubDate": "2026-10-05T00:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "TechCrunch Mobility: Reining in robotaxis",
-      "excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "link": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-04T16:05:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "8 top grocery executive changes in September",
-      "excerpt": "Stater Bros. named a new chief executive, Albertsons appointed a regional operating president and Kroger resurrected the chief store operations…",
-      "link": "https://www.grocerydive.com/news/grocery-store-executive-changes-september-2026/831990/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-02T15:39:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Private label brands embrace own identities in packaging design",
-      "excerpt": "Retailers are using store brand packaging to show they understand their customers’ priorities.",
-      "link": "https://www.fooddive.com/news/private-label-packaging-design-opportunities/831477/",
-      "source": "Food Dive",
-      "pubDate": "2026-10-02T13:52:00.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "The Friday Checkout: Has Costco become grocery’s biggest threat?",
-      "excerpt": "It’s no secret that the club retailer is a competitor. But as the company grows market share and sales expand, grocers should be increasingly worried…",
-      "link": "https://www.grocerydive.com/news/costco-grocers-biggest-threat-fresh-offerings-ecommerce-value-perception/831994/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-02T13:25:10.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
