@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-04T23:43:15.931Z",
+  "publishedAt": "2026-10-05T03:06:37.616Z",
   "itemsFr": [
     {
       "title": "J-1 pour Carrefour mobile. On en sait plus sur… “le forfait des pinces” !",
@@ -86,6 +86,15 @@
   ],
   "itemsEn": [
     {
+      "title": "Foundations first: retailers ready IT stacks for agentic commerce",
+      "excerpt": "Composable foundations are setting the pace for agentic commerce, Miya Knights, Retail Technology Publisher, discovers at MACH X Amsterdam",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8776/foundations-first:-retailers-ready-it-stacks-for-agentic-commerce/",
+      "source": "Retail Technology",
+      "pubDate": "2026-10-05T00:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
       "title": "TechCrunch Mobility: Reining in robotaxis",
       "excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
       "link": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
@@ -132,7 +141,7 @@
     },
     {
       "title": "The Friday Checkout: Has Costco become grocery’s biggest threat?",
-      "excerpt": "It’s no secret that the club retailer is a competitor. But as the company grows market share and sales expand, grocers should be increasingly worried…",
+      "excerpt": "It's no secret the club retailer is a competitor. But as the company grows market share and sales expand, grocers should be increasingly worried…",
       "link": "https://www.grocerydive.com/news/costco-grocers-biggest-threat-fresh-offerings-ecommerce-value-perception/831994/",
       "source": "Grocery Dive",
       "pubDate": "2026-10-02T13:25:10.000Z",
@@ -149,6 +158,15 @@
       "pinned": false
     },
     {
+      "title": "Holiday shoppers setting budgets, planning earlier",
+      "excerpt": "Holiday shoppers, facing economic challenges, likely won't spend less this season. What they will change, however, is how they spend. Six in 10…",
+      "link": "https://www.retailcustomerexperience.com/news/holiday-shoppers-setting-budgets-planning-earlier/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-02T10:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
       "title": "PODCAST: AI and the future of shopping",
       "excerpt": "In the latest episode of the Retail Technology podcast Counter Culture, analyst, writer and RT publisher Miya Knights joins host Bruce Ackland to…",
       "link": "https://www.retailtechnology.co.uk/rss.xml/news/8760/podcast:-ai-and-the-future-of-shopping/",
@@ -158,11 +176,11 @@
       "pinned": false
     },
     {
-      "title": "Lowe’s in drone delivery first",
-      "excerpt": "Lowe’s has become the first home improvement retailer to offer drone delivery",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8772/loweas-in-drone-delivery-first/",
-      "source": "Retail Technology",
-      "pubDate": "2026-10-01T00:00:00.000Z",
+      "title": "AI emerging as a shopping channel",
+      "excerpt": "Generative artificial intelligence is fast becoming part of the shopper journey with over a third of consumers, 34%, using AI tools to shop. That's…",
+      "link": "https://www.retailcustomerexperience.com/news/ai-emerging-as-a-shopping-channel/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-01T10:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
