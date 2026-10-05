@@ -1,7 +1,79 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-05T03:06:37.616Z",
+  "publishedAt": "2026-10-05T13:04:44.847Z",
   "itemsFr": [
+    {
+      "title": "Avec sa plateforme d’intelligence artificielle North 2, le canadien Cohere veut devancer Mistral sur les enjeux de souveraineté",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/ia-generative/avec-sa-plateforme-dintelligence-artificielle-north-2-le-canadien-cohere-veut-devancer-mistral-sur-les-enjeux-de-souverainete.5BKLBRTNEFHYJGU7TOPKYR6IZY.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-10-05T12:49:30.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "IA agentique : comment Decathlon anticipe le commerce de demain",
+      "excerpt": "À l’occasion d’un échange croisé entre Decathlon et Purse, Ismael Ghozael, VP Product & Platforms de Decathlon, et Pascal Roche, CEO de Purse, ont…",
+      "link": "https://www.ecommercemag.fr/paiements-1291/ia-agentique-comment-decathlon-anticipe-le-commerce-de-demain-59981",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-10-05T12:38:09.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Solopreneurs : comment l’IA agentique change les règles de l'entrepreneuriat",
+      "excerpt": "L’article Solopreneurs : comment l’IA agentique change les règles de l'entrepreneuriat est apparu en premier sur Maddyness - Le média pour comprendre…",
+      "link": "https://www.maddyness.com/2026/10/05/solopreneurs-comment-lia-agentique-change-les-regles-de-lentrepreneuriat/",
+      "source": "Maddyness",
+      "pubDate": "2026-10-05T09:41:22.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Jules fait peau neuve et double son offre à Carré Sénart",
+      "excerpt": "Implantée à Lieusaint depuis 2017, l'enseigne de prêt-à-porter masculin Jules dévoile une troisième métamorphose de son point de vente de Westfield…",
+      "link": "https://www.ecommercemag.fr/retail-1220/strategie-retail-2163/jules-fait-peau-neuve-et-double-son-offre-a-carre-senart-59974",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-10-05T08:04:38.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Commerce agentique : l'IA choisit, mais ne paie pas (encore)",
+      "excerpt": "Si 31% des cyberacheteurs français utilisent déjà l'IA générative pour leurs achats, ils manquent encore de confiance et de solutions pour lui…",
+      "link": "https://www.journaldunet.com/intelligence-artificielle/1555709-commerce-agentique-l-ia-choisit-mais-ne-paie-pas-encore/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-05T07:43:18.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Naming par IA : 9 noms sur 12 déjà déposés ou à risque",
+      "excerpt": "J'ai soumis le brief réel d'une boutique en ligne à quatre assistants IA, soit 160 noms au total. La consigne anti-cliché a été largement ignorée…",
+      "link": "https://www.journaldunet.com/intelligence-artificielle/1555681-naming-par-ia-9-noms-sur-12-deja-deposes-ou-a-risque/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-05T06:48:57.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "[ RETAIL INSIDE ] Quand un banal hyper Tesco de Budapest illustre la stratégie de conquête (par l’offre) de Lego…",
+      "excerpt": "Hormis son implantation face au stade Puskas de Budapest, l’hyper Tesco est banal (ce qui ne signifie pas médiocre 😉 ). Banal dans ses actifs et…",
+      "link": "https://www.olivierdauvers.fr/2026/10/05/retail-inside-quand-un-banal-hyper-tesco-de-budapest-illustre-la-strategie-de-conquete-par-loffre-de-lego/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-05T04:34:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Fleuret AI lève 4 millions d’euros pour automatiser le pentest et bâtir une cybersécurité offensive européenne",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/start-up/financement/levee-de-fonds/fleuret-ai-leve-4-millions-deuros-pour-automatiser-le-pentest-et-batir-une-cybersecurite-offensive-europeenne.ODAPH3J4ORF3TOZVPUAFIN4SVQ.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-10-05T04:06:40.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
     {
       "title": "J-1 pour Carrefour mobile. On en sait plus sur… “le forfait des pinces” !",
       "excerpt": "C’est demain le D-day… : le retour de Carrefour sur la téléphonie mobile (via Orange), 14 ans après avoir quitté le marché. A la veille du lancement…",
@@ -12,65 +84,11 @@
       "pinned": false
     },
     {
-      "title": "La pharmacie, un commerce comme les autres !",
-      "excerpt": "Un p’tit pas de côté aujourd’hui pour DIMANCHE INFOGRAPHIE avec l’évolution du nombre de pharmacies et de leur chiffre d’affaires moyen. Et…",
-      "link": "https://www.olivierdauvers.fr/2026/10/04/la-pharmacie-un-commerce-comme-les-autres/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-04T05:10:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "L'Union européenne s'oppose \"catégoriquement\" à une éventuelle interdiction des exportations américaines de gazole",
-      "excerpt": "Bruxelles rejette la menace américaine et appelle à une action collective avec l'Agence internationale de l'énergie pour contenir la flambée des prix.",
-      "link": "https://www.journaldunet.com/business/action-publique/1555751-l-union-europeenne-s-oppose-categoriquement-a-une-eventuelle-interdiction-des-exportations-americaines-de-gazole/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-02T14:38:38.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "Comparatif : les neoclouds, le nouveau visage du cloud à l'ère de l'IA",
-      "excerpt": "Cette nouvelle génération de fournisseurs de cloud répond spécifiquement aux besoins de calcul intensif de l'intelligence artificielle. Qui sont ces…",
-      "link": "https://www.journaldunet.com/cloud/1555277-comparatif-les-neoclouds-le-nouveau-visage-du-cloud-a-l-ere-de-l-ia/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-02T10:30:32.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "GEO dans le retail : l’étude Dekuple décrypte la recommandation par l’IA",
-      "excerpt": "Face à l'émergence des moteurs d'intelligence artificielle générative, le référencement traditionnel ne suffit plus à garantir la primauté des…",
-      "link": "https://www.ecommercemag.fr/retail-1220/barometre-etude-2168/geo-dans-le-retail-letude-dekuple-decrypte-la-recommandation-par-lia-59941",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-10-02T07:00:33.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Quick commerce : la réalité des stocks rattrape la promesse de vitesse",
-      "excerpt": "Entre l'exigence d'une livraison en trente minutes et la multiplication des aléas logistiques, le quick commerce contraint les distributeurs à revoir…",
-      "link": "https://www.ecommercemag.fr/retail-1220/strategie-retail-2163/quick-commerce-la-realite-des-stocks-rattrape-la-promesse-de-vitesse-59671",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-10-01T10:15:18.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
       "title": "Derrière les Dots, OPEN AI recadre ses prix",
       "excerpt": "Pour sa quatrième conférence annuelle destinée aux développeurs, OpenAI a présenté les dots, ses agents personnels, de nouveaux outils de travail et…",
       "link": "https://www.frenchweb.fr/derriere-les-dots-open-ai-recadre-ses-prix/463747",
       "source": "FrenchWeb",
       "pubDate": "2026-10-01T07:10:32.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "L’IA ne fera pas gagner du temps aux PME tant qu’elle restera à la marge",
-      "excerpt": "L’article L’IA ne fera pas gagner du temps aux PME tant qu’elle restera à la marge est apparu en premier sur Maddyness - Le média pour comprendre…",
-      "link": "https://www.maddyness.com/2026/10/01/lia-ne-fera-pas-gagner-du-temps-aux-pme-tant-quelle-restera-a-la-marge/",
-      "source": "Maddyness",
-      "pubDate": "2026-10-01T07:00:45.000Z",
       "category": "OFFRE, PRIX & MERCHANDISING",
       "pinned": false
     },
@@ -85,6 +103,42 @@
     }
   ],
   "itemsEn": [
+    {
+      "title": "Can Safeworld convince people that gen AI robots won’t hurt them?",
+      "excerpt": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
+      "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-05T12:00:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Keeping the lines open: How to power retail’s busiest moments",
+      "excerpt": "Consumers are tired of nonstop spam calls, suspicious of unknown numbers and frustrated by poor connections and dropped calls during important…",
+      "link": "https://www.retaildive.com/spons/keeping-the-lines-open-how-to-power-retails-busiest-moments/831722/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-05T09:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "The warehouse costs hiding in plain sight",
+      "excerpt": "Most warehouse costs don't show up on any report. The visibility gap is why.",
+      "link": "https://www.retaildive.com/spons/the-warehouse-costs-hiding-in-plain-sight/831224/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-05T09:00:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "How food and beverage manufacturers can navigate a tight craft labor market",
+      "excerpt": "Data center and big capital programs are tightening the labor market. Food manufacturers need to rethink workforce planning to help protect food…",
+      "link": "https://www.fooddive.com/spons/how-food-and-beverage-manufacturers-can-navigate-a-tight-craft-labor-market/831836/",
+      "source": "Food Dive",
+      "pubDate": "2026-10-05T09:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "Foundations first: retailers ready IT stacks for agentic commerce",
       "excerpt": "Composable foundations are setting the pace for agentic commerce, Miya Knights, Retail Technology Publisher, discovers at MACH X Amsterdam",
@@ -101,24 +155,6 @@
       "source": "TechCrunch",
       "pubDate": "2026-10-04T16:05:00.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
-      "excerpt": "Bitchat has become largely unavailable in India as a result of the restrictions.",
-      "link": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-03T15:02:01.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "Ikea to shutter 3 small-format plan and order stores",
-      "excerpt": "The retailer is closing locations in Washington, D.C., Virginia and Maryland, including one that opened less than a year ago, as it reevaluates its…",
-      "link": "https://www.retaildive.com/news/ikea-shutters-three-small-format-plan-and-order-stores/832021/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-02T16:04:00.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -141,28 +177,10 @@
     },
     {
       "title": "The Friday Checkout: Has Costco become grocery’s biggest threat?",
-      "excerpt": "It's no secret the club retailer is a competitor. But as the company grows market share and sales expand, grocers should be increasingly worried…",
+      "excerpt": "It’s no secret that the club retailer is a competitor. But as the company grows market share and sales expand, grocers should be increasingly worried…",
       "link": "https://www.grocerydive.com/news/costco-grocers-biggest-threat-fresh-offerings-ecommerce-value-perception/831994/",
       "source": "Grocery Dive",
       "pubDate": "2026-10-02T13:25:10.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "The Weekly Closeout: Revolve debuts magazine and Cato closes 120 stores",
-      "excerpt": "The fashion retailer wants to connect more deeply with shoppers through a print publication. Meanwhile, the specialty apparel brand is accelerating…",
-      "link": "https://www.retaildive.com/news/revolve-debuts-magazine-cato-closes-120-stores/831914/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-02T13:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Holiday shoppers setting budgets, planning earlier",
-      "excerpt": "Holiday shoppers, facing economic challenges, likely won't spend less this season. What they will change, however, is how they spend. Six in 10…",
-      "link": "https://www.retailcustomerexperience.com/news/holiday-shoppers-setting-budgets-planning-earlier/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-02T10:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -172,24 +190,6 @@
       "link": "https://www.retailtechnology.co.uk/rss.xml/news/8760/podcast:-ai-and-the-future-of-shopping/",
       "source": "Retail Technology",
       "pubDate": "2026-10-02T00:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "AI emerging as a shopping channel",
-      "excerpt": "Generative artificial intelligence is fast becoming part of the shopper journey with over a third of consumers, 34%, using AI tools to shop. That's…",
-      "link": "https://www.retailcustomerexperience.com/news/ai-emerging-as-a-shopping-channel/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-01T10:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Sour power: C-stores begin to capitalize on the in-demand flavor profile",
-      "excerpt": "Sour food and beverage sales across all retail types jumped 10.8% in dollar terms over the past year, according to Circana.",
-      "link": "https://www.fooddive.com/news/sour-power-c-stores-begin-to-capitalize-on-the-in-demand-flavor-profile/831011/",
-      "source": "Food Dive",
-      "pubDate": "2026-09-30T14:09:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     }
