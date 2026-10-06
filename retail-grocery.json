@@ -1,7 +1,52 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-06T03:55:40.468Z",
+  "publishedAt": "2026-10-06T12:27:07.009Z",
   "itemsFr": [
+    {
+      "title": "Pourquoi l'IA agentique va redéfinir le Retail",
+      "excerpt": "L'IA agentique redéfinit le Retail en passant de l'assistance à l'action. Elle automatise les opérations, fluidifie l'expérience client et renforce…",
+      "link": "https://www.journaldunet.com/retail/1555359-pourquoi-l-ia-agentique-va-redefinir-le-retail/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-06T11:00:15.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Le Cyber Resilience Act ou la fin du logiciel livré puis oublié",
+      "excerpt": "Le CRA fait de la cybersécurité une responsabilité continue : les entreprises doivent sécuriser leurs produits tout au long de leur vie et démontrer…",
+      "link": "https://www.journaldunet.com/cybersecurite/1555827-le-cyber-resilience-act-ou-la-fin-du-logiciel-livre-puis-oublie/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-06T09:59:35.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "Dataiku et Scaleway officialisent leur alliance : la souveraineté numérique s’impose comme nouveau standard du marché de l’IA",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/ia-generative/dataiku-et-scaleway-officialisent-leur-alliance-la-souverainete-numerique-simpose-comme-nouveau-standard-du-marche-de-lia.GMJAR7VRRVDORFGFRORNBBUOLY.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-10-06T07:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Ce distributeur appose lui-même le Nutri-Score des marques en rayon…",
+      "excerpt": "Le combat en France pour rendre obligatoire le Nutri-Score sur les emballages n’est pas gagné (#euphémisme), malgré le succès d’une pétition en ce…",
+      "link": "https://www.olivierdauvers.fr/2026/10/06/ce-distributeur-appose-lui-meme-le-nutri-score-des-marques-en-rayon/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-06T05:28:53.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Pourquoi Schneider Electric débourse 20 milliards d’euros pour s’offrir l’américain PTC",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/logiciels-applications/conception/plm/pourquoi-schneider-electric-debourse-20-milliards-deuros-pour-soffrir-lamericain-ptc.MTGRDVHLS5FTZD6TMA7P3HUKQE.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-10-06T05:25:47.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
     {
       "title": "“Satisfait ou Remboursé”, c’est ça… (épisode 6)",
       "excerpt": "Avec ma complice Flavie Flament, nous voici déjà au 6e numéro de la nouvelle émission conso de RTL : Satisfait ou Remboursé (tous les samedis matins…",
@@ -9,33 +54,6 @@
       "source": "Olivier Dauvers",
       "pubDate": "2026-10-05T16:06:10.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "Kawasaki prévoit de commercialiser son premier robot humanoïde dès 2030",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/kawasaki-prevoit-de-commercialiser-son-premier-robot-humanoide-des-2030.TO3GPUCAFJFHFO6NNVAFJEZEGU.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-10-05T15:56:18.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Etudes : les AI Overviews s'imposent fortementen France",
-      "excerpt": "Les requêtes informationnelles, longues et certains secteurs sont particulièrement impactés.",
-      "link": "https://www.journaldunet.com/seo/1555167-qui-est-le-plus-touche-par-le-lancement-des-ai-overviews-en-france/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-05T13:32:42.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Avec sa plateforme d’intelligence artificielle North 2, le canadien Cohere veut devancer Mistral sur les enjeux de souveraineté",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/ia-generative/avec-sa-plateforme-dintelligence-artificielle-north-2-le-canadien-cohere-veut-devancer-mistral-sur-les-enjeux-de-souverainete.5BKLBRTNEFHYJGU7TOPKYR6IZY.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-10-05T12:49:30.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -66,24 +84,6 @@
       "pinned": false
     },
     {
-      "title": "Commerce agentique : l'IA choisit, mais ne paie pas (encore)",
-      "excerpt": "Si 31% des cyberacheteurs français utilisent déjà l'IA générative pour leurs achats, ils manquent encore de confiance et de solutions pour lui…",
-      "link": "https://www.journaldunet.com/intelligence-artificielle/1555709-commerce-agentique-l-ia-choisit-mais-ne-paie-pas-encore/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-05T07:43:18.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "[ RETAIL INSIDE ] Quand un banal hyper Tesco de Budapest illustre la stratégie de conquête (par l’offre) de Lego…",
-      "excerpt": "Hormis son implantation face au stade Puskas de Budapest, l’hyper Tesco est banal (ce qui ne signifie pas médiocre 😉 ). Banal dans ses actifs et…",
-      "link": "https://www.olivierdauvers.fr/2026/10/05/retail-inside-quand-un-banal-hyper-tesco-de-budapest-illustre-la-strategie-de-conquete-par-loffre-de-lego/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-05T04:34:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Derrière les Dots, OPEN AI recadre ses prix",
       "excerpt": "Pour sa quatrième conférence annuelle destinée aux développeurs, OpenAI a présenté les dots, ses agents personnels, de nouveaux outils de travail et…",
       "link": "https://www.frenchweb.fr/derriere-les-dots-open-ai-recadre-ses-prix/463747",
@@ -103,6 +103,33 @@
     }
   ],
   "itemsEn": [
+    {
+      "title": "Target’s turnaround has seen early success. Now comes the holidays.",
+      "excerpt": "The mass retailer’s performance in recent quarters pleased analysts. But can it deliver the gift of consistency and value to consumers in Q4?",
+      "link": "https://www.retaildive.com/news/target-retail-holiday-season-performance/831858/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-06T11:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Before you cut the in-store budget, ask how the number was built",
+      "excerpt": "Ask a brand marketer why they have not moved more budget into in-store retail media and you get the same answer: the ROAS does not compare favorably…",
+      "link": "https://www.retailcustomerexperience.com/blogs/before-you-cut-the-in-store-budget-ask-how-the-number-was-built/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-06T10:00:00.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
+    {
+      "title": "Retail Control Systems debuts commerce platform for thrift retailers",
+      "excerpt": "Retail Control Systems, a retail technology provider, has launched Brijjworks, a unified thrift commerce platform designed specifically for…",
+      "link": "https://www.retailcustomerexperience.com/news/retail-control-systems-debuts-commerce-platform-for-thrift-retailers/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-06T10:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
       "excerpt": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.",
@@ -140,15 +167,6 @@
       "pinned": false
     },
     {
-      "title": "Target’s digital holiday catalog features toys — and a way to incorporate handwritten wish lists",
-      "excerpt": "The retailer’s kids catalog is focused on interactive experiences including demonstrations and video reviews.",
-      "link": "https://www.retaildive.com/news/target-digital-holiday-catalog-toys-wish-lists/832099/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-05T15:35:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Has Publix lost its magic?",
       "excerpt": "The highly regarded regional supermarket chain typically outperforms its conventional peers. But that hasn’t been the case lately as the grocer’s…",
       "link": "https://www.grocerydive.com/news/publix-sales-growth-grocery-traditional-supermarkets/831920/",
@@ -164,24 +182,6 @@
       "source": "Food Dive",
       "pubDate": "2026-10-05T13:25:00.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Tech institute deploys Amazon's Just Walk Out checkout-free technology",
-      "excerpt": "365 Retail Markets and Evergreen Refreshments have opened a checkout-free store in the cafeteria at Lake Washington Institute of Technology in…",
-      "link": "https://www.retailcustomerexperience.com/news/tech-institute-deploys-amazons-just-walk-out-checkout-free-technology/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-05T10:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Meijer opens Michigan supercenter",
-      "excerpt": "Supermarket chain Meijer has opened a 159,000-square-foot supercenter in Southeast Michigan. The store is located at 48025 Five Mile Road, near the…",
-      "link": "https://www.retailcustomerexperience.com/news/meijer-opens-michigan-supercenter/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-05T10:00:00.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
