@@ -1,32 +1,50 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-06T12:27:07.009Z",
+  "publishedAt": "2026-10-06T19:54:39.758Z",
   "itemsFr": [
     {
-      "title": "Pourquoi l'IA agentique va redéfinir le Retail",
-      "excerpt": "L'IA agentique redéfinit le Retail en passant de l'assistance à l'action. Elle automatise les opérations, fluidifie l'expérience client et renforce…",
-      "link": "https://www.journaldunet.com/retail/1555359-pourquoi-l-ia-agentique-va-redefinir-le-retail/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-06T11:00:15.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "title": "L’Europe tient une nouvelle licorne dans la robotique “next-gen” : la start-up allemande RobCo atteint une valorisation d’un milliard de dollars",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/leurope-tient-une-nouvelle-licorne-dans-la-robotique-next-gen-la-start-up-allemande-robco-atteint-une-valorisation-dun-milliard-de-dollars.CI5PJVRSUZHMBCXRLFQRFRDREY.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-10-06T16:25:30.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
-      "title": "Le Cyber Resilience Act ou la fin du logiciel livré puis oublié",
-      "excerpt": "Le CRA fait de la cybersécurité une responsabilité continue : les entreprises doivent sécuriser leurs produits tout au long de leur vie et démontrer…",
-      "link": "https://www.journaldunet.com/cybersecurite/1555827-le-cyber-resilience-act-ou-la-fin-du-logiciel-livre-puis-oublie/",
+      "title": "Cybersécurité : et si le dark web devenait votre allié ?",
+      "excerpt": "Les cyberattaques se succèdent. Les grandes institutions et entreprises n'y échappent pas. Et si ces attaques pouvaient être évitées ? Les anticiper…",
+      "link": "https://www.journaldunet.com/cybersecurite/1555831-cybersecurite-et-si-le-dark-web-devenait-votre-allie/",
       "source": "Journal du Net",
-      "pubDate": "2026-10-06T09:59:35.000Z",
+      "pubDate": "2026-10-06T15:14:08.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
     {
-      "title": "Dataiku et Scaleway officialisent leur alliance : la souveraineté numérique s’impose comme nouveau standard du marché de l’IA",
+      "title": "Plongée dans le dark web #6 : comment j'aurais pu devenir voleur, manipulateur ou transporteur de drogue en quelques clics",
+      "excerpt": "Sur le dark net, les offres d'emploi s'adressent aussi bien à des petites mains peu qualifiées qu'à des experts chevronnés en cybersécurité.",
+      "link": "https://www.journaldunet.com/cybersecurite/1555889-plongee-dans-le-dark-web-6-cambrioleur-manipulateur-chercheur-de-cibles-ces-offres-d-emploi-accessibles-en-quelques-clics/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-06T13:21:10.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "Mistral AI veut revenir dans la course à l’IA avec son nouveau modèle",
+      "excerpt": "L’article Mistral AI veut revenir dans la course à l’IA avec son nouveau modèle est apparu en premier sur Maddyness - Le média pour comprendre…",
+      "link": "https://www.maddyness.com/2026/10/06/mistral-ai-veut-revenir-dans-la-course-a-lia-avec-son-nouveau-modele/",
+      "source": "Maddyness",
+      "pubDate": "2026-10-06T12:59:59.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "Runway fait le pari de l’ouverture pour accélérer dans la robotique avec son world action model Praxis-1",
       "excerpt": "",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/ia-generative/dataiku-et-scaleway-officialisent-leur-alliance-la-souverainete-numerique-simpose-comme-nouveau-standard-du-marche-de-lia.GMJAR7VRRVDORFGFRORNBBUOLY.html",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/runway-fait-le-pari-de-louverture-pour-accelerer-dans-la-robotique-avec-son-world-action-model-praxis-1.DDZP6L246BFPFOYBB2B2L6FKHU.html",
       "source": "L'Usine Digitale",
-      "pubDate": "2026-10-06T07:00:00.000Z",
-      "category": "GRAND ANGLE",
+      "pubDate": "2026-10-06T12:35:33.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
@@ -36,15 +54,6 @@
       "source": "Olivier Dauvers",
       "pubDate": "2026-10-06T05:28:53.000Z",
       "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "Pourquoi Schneider Electric débourse 20 milliards d’euros pour s’offrir l’américain PTC",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/logiciels-applications/conception/plm/pourquoi-schneider-electric-debourse-20-milliards-deuros-pour-soffrir-lamericain-ptc.MTGRDVHLS5FTZD6TMA7P3HUKQE.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-10-06T05:25:47.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
     {
@@ -104,21 +113,75 @@
   ],
   "itemsEn": [
     {
-      "title": "Target’s turnaround has seen early success. Now comes the holidays.",
-      "excerpt": "The mass retailer’s performance in recent quarters pleased analysts. But can it deliver the gift of consistency and value to consumers in Q4?",
-      "link": "https://www.retaildive.com/news/target-retail-holiday-season-performance/831858/",
+      "title": "Hark releases an AI personal assistant with a focus on privacy",
+      "excerpt": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
+      "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-06T18:22:45.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Walmart defends pricing practices, again",
+      "excerpt": "The retailer says it won't renew a key patent that could leverage scan-and-go tech to personalize prices. It's one of several that has drawn the…",
+      "link": "https://www.retaildive.com/news/walmart-defends-dynamic-pricing-practices-again/832248/",
       "source": "Retail Dive",
-      "pubDate": "2026-10-06T11:00:00.000Z",
+      "pubDate": "2026-10-06T16:44:00.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Where do associates fit in an AI world?",
+      "excerpt": "Customers are arriving at stores more educated than ever, but associates still need to support or build on what those shoppers learned from AI…",
+      "link": "https://www.retaildive.com/news/where-do-associates-fit-in-an-ai-world-retail/831640/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-06T16:14:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "Before you cut the in-store budget, ask how the number was built",
-      "excerpt": "Ask a brand marketer why they have not moved more budget into in-store retail media and you get the same answer: the ROAS does not compare favorably…",
-      "link": "https://www.retailcustomerexperience.com/blogs/before-you-cut-the-in-store-budget-ask-how-the-number-was-built/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-06T10:00:00.000Z",
+      "title": "LibreOffice says ‘no AI’ is now a software feature",
+      "excerpt": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
+      "link": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-06T15:25:00.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "The Giant Company launches store tours for GLP-1 users",
+      "excerpt": "The chain is hosting sessions at six stores as the grocery industry steps up efforts to support consumers taking the popular medications.",
+      "link": "https://www.grocerydive.com/news/the-giant-company-glp1-tours-weight-loss-grocery-supermarkets/832234/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-10-06T15:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Top grocery trade shows in 2027",
+      "excerpt": "From broadly focused retail industry shows to category-specific events, here’s a look at key grocery events happening in 2027.​",
+      "link": "https://www.grocerydive.com/news/2027-top-grocery-conferences/830733/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-10-06T14:46:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Kraft Mac & Cheese enters first new category in decades with cheesy ramen",
+      "excerpt": "The launch comes as owner Kraft Heinz invests $700 million into marketing, sales, and R&D under CEO Steve Cahillane to drive growth.",
+      "link": "https://www.fooddive.com/news/kraft-mac-and-cheese-cheesy-ramen-product-innovation/832222/",
+      "source": "Food Dive",
+      "pubDate": "2026-10-06T13:16:00.000Z",
       "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
+    {
+      "title": "Nutella maker Ferrero building a sweets ‘powerhouse’ in the US",
+      "excerpt": "The company is increasing marketing and innovation as it aims to nearly double sales to $20 billion through a portfolio of candies, cereals and more.",
+      "link": "https://www.fooddive.com/news/Ferrero-Nutella-innovation-snacking-Hershey-Mars/832071/",
+      "source": "Food Dive",
+      "pubDate": "2026-10-06T13:00:00.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -131,66 +194,12 @@
       "pinned": false
     },
     {
-      "title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
-      "excerpt": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.",
-      "link": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-05T21:54:01.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Albertsons retail media head departs",
-      "excerpt": "Brian Monahan has left Albertsons Media Collective after serving for one year as senior vice president of the division.",
-      "link": "https://www.grocerydive.com/news/albertsons-media-collectives-head-departs-brian-monahan/832189/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-05T20:29:53.000Z",
+      "title": "Before you cut the in-store budget, ask how the number was built",
+      "excerpt": "Ask a brand marketer why they have not moved more budget into in-store retail media and you get the same answer: the ROAS does not compare favorably…",
+      "link": "https://www.retailcustomerexperience.com/blogs/before-you-cut-the-in-store-budget-ask-how-the-number-was-built/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-06T10:00:00.000Z",
       "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
-      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-      "excerpt": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating…",
-      "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-05T18:54:30.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Halloween spending creeps up this year",
-      "excerpt": "While budgets for the holiday increase, one in five shoppers plan to use buy now, pay later or other financing services, according to Deloitte.",
-      "link": "https://www.retaildive.com/news/halloween-holiday-retail-consumer-spending-2026/832125/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-05T15:43:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Has Publix lost its magic?",
-      "excerpt": "The highly regarded regional supermarket chain typically outperforms its conventional peers. But that hasn’t been the case lately as the grocer’s…",
-      "link": "https://www.grocerydive.com/news/publix-sales-growth-grocery-traditional-supermarkets/831920/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-05T15:11:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "6 food manufacturers talk supply chain tactics",
-      "excerpt": "General Mills, Nestlé and more discussed how they are cutting operational costs, navigating uneven freight rates and sharpening demand forecasting at…",
-      "link": "https://www.fooddive.com/news/6-food-manufacturers-talk-supply-chain-tactics/832033/",
-      "source": "Food Dive",
-      "pubDate": "2026-10-05T13:25:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "How food and beverage manufacturers can navigate a tight craft labor market",
-      "excerpt": "Data center and big capital programs are tightening the labor market. Food manufacturers need to rethink workforce planning to help protect food…",
-      "link": "https://www.fooddive.com/spons/how-food-and-beverage-manufacturers-can-navigate-a-tight-craft-labor-market/831836/",
-      "source": "Food Dive",
-      "pubDate": "2026-10-05T09:00:00.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
