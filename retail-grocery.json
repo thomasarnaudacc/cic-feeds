@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-05T21:43:59.476Z",
+  "publishedAt": "2026-10-06T03:55:40.468Z",
   "itemsFr": [
     {
       "title": "“Satisfait ou Remboursé”, c’est ça… (épisode 6)",
@@ -104,6 +104,15 @@
   ],
   "itemsEn": [
     {
+      "title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
+      "excerpt": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.",
+      "link": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-05T21:54:01.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
       "title": "Albertsons retail media head departs",
       "excerpt": "Brian Monahan has left Albertsons Media Collective after serving for one year as senior vice president of the division.",
       "link": "https://www.grocerydive.com/news/albertsons-media-collectives-head-departs-brian-monahan/832189/",
@@ -118,15 +127,6 @@
       "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
       "source": "TechCrunch",
       "pubDate": "2026-10-05T18:54:30.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-      "excerpt": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
-      "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-05T18:29:00.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
@@ -167,18 +167,18 @@
       "pinned": false
     },
     {
-      "title": "Costco ranks top on experience report rankings",
-      "excerpt": "Costco knocked supermarket chain H-E-B to second place to take the first spot in the second annual ChangeUp \"2026 Experience Report,\" which ranks the…",
-      "link": "https://www.retailcustomerexperience.com/news/costco-ranks-top-on-experience-report-rankings/",
+      "title": "Tech institute deploys Amazon's Just Walk Out checkout-free technology",
+      "excerpt": "365 Retail Markets and Evergreen Refreshments have opened a checkout-free store in the cafeteria at Lake Washington Institute of Technology in…",
+      "link": "https://www.retailcustomerexperience.com/news/tech-institute-deploys-amazons-just-walk-out-checkout-free-technology/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-05T10:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "Tech institute deploys Amazon's Just Walk Out checkout-free technology",
-      "excerpt": "365 Retail Markets and Evergreen Refreshments have opened a checkout-free store in the cafeteria at Lake Washington Institute of Technology in…",
-      "link": "https://www.retailcustomerexperience.com/news/tech-institute-deploys-amazons-just-walk-out-checkout-free-technology/",
+      "title": "Meijer opens Michigan supercenter",
+      "excerpt": "Supermarket chain Meijer has opened a 159,000-square-foot supercenter in Southeast Michigan. The store is located at 48025 Five Mile Road, near the…",
+      "link": "https://www.retailcustomerexperience.com/news/meijer-opens-michigan-supercenter/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-05T10:00:00.000Z",
       "category": "GRAND ANGLE",
