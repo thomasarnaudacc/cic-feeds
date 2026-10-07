@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-06T19:54:39.758Z",
+  "publishedAt": "2026-10-07T00:14:33.812Z",
   "itemsFr": [
     {
       "title": "L’Europe tient une nouvelle licorne dans la robotique “next-gen” : la start-up allemande RobCo atteint une valorisation d’un milliard de dollars",
@@ -113,12 +113,39 @@
   ],
   "itemsEn": [
     {
-      "title": "Hark releases an AI personal assistant with a focus on privacy",
-      "excerpt": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
-      "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-06T18:22:45.000Z",
+      "title": "Governed speed: retailers slow down to scale AI agents",
+      "excerpt": "Governance, product data and the build-or-buy question shape agentic progress, Miya Knights, Retail Technology Publisher, reports from MACH X…",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8777/governed-speed:-retailers-slow-down-to-scale-ai-agents/",
+      "source": "Retail Technology",
+      "pubDate": "2026-10-07T00:00:00.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "How to find out if Amazon thinks you have ‘flat buttocks’",
+      "excerpt": "\"I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless,\" one shopper wrote on…",
+      "link": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-06T22:55:39.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
+      "excerpt": "Apple appears poised to push into the smart home market with a slate of new devices and a key partner.",
+      "link": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-06T22:53:09.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Top retail trade shows in 2027",
+      "excerpt": "These events feature C-suite speakers who will discuss AI-driven solutions, understanding consumer behavior and leveraging technology, among other…",
+      "link": "https://www.retaildive.com/news/top-retail-trade-shows-in-2027/832294/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-06T21:47:00.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -128,24 +155,6 @@
       "source": "Retail Dive",
       "pubDate": "2026-10-06T16:44:00.000Z",
       "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "Where do associates fit in an AI world?",
-      "excerpt": "Customers are arriving at stores more educated than ever, but associates still need to support or build on what those shoppers learned from AI…",
-      "link": "https://www.retaildive.com/news/where-do-associates-fit-in-an-ai-world-retail/831640/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-06T16:14:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "LibreOffice says ‘no AI’ is now a software feature",
-      "excerpt": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
-      "link": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-06T15:25:00.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
     {
@@ -159,7 +168,7 @@
     },
     {
       "title": "Top grocery trade shows in 2027",
-      "excerpt": "From broadly focused retail industry shows to category-specific events, here’s a look at key grocery events happening in 2027.​",
+      "excerpt": "From broadly focused retail industry shows to category-specific events, here’s a look at the key grocery events happening in 2027.​",
       "link": "https://www.grocerydive.com/news/2027-top-grocery-conferences/830733/",
       "source": "Grocery Dive",
       "pubDate": "2026-10-06T14:46:00.000Z",
@@ -168,7 +177,7 @@
     },
     {
       "title": "Kraft Mac & Cheese enters first new category in decades with cheesy ramen",
-      "excerpt": "The launch comes as owner Kraft Heinz invests $700 million into marketing, sales, and R&D under CEO Steve Cahillane to drive growth.",
+      "excerpt": "The cheesy ramen offering comes as Kraft Heinz invests $700 million into marketing, sales, and R&D under CEO Steve Cahillane to drive growth.",
       "link": "https://www.fooddive.com/news/kraft-mac-and-cheese-cheesy-ramen-product-innovation/832222/",
       "source": "Food Dive",
       "pubDate": "2026-10-06T13:16:00.000Z",
@@ -177,7 +186,7 @@
     },
     {
       "title": "Nutella maker Ferrero building a sweets ‘powerhouse’ in the US",
-      "excerpt": "The company is increasing marketing and innovation as it aims to nearly double sales to $20 billion through a portfolio of candies, cereals and more.",
+      "excerpt": "The food giant is increasing marketing and innovation as it aims to nearly double sales to $20 billion within the next decade behind a portfolio of…",
       "link": "https://www.fooddive.com/news/Ferrero-Nutella-innovation-snacking-Hershey-Mars/832071/",
       "source": "Food Dive",
       "pubDate": "2026-10-06T13:00:00.000Z",
@@ -194,9 +203,9 @@
       "pinned": false
     },
     {
-      "title": "Before you cut the in-store budget, ask how the number was built",
-      "excerpt": "Ask a brand marketer why they have not moved more budget into in-store retail media and you get the same answer: the ROAS does not compare favorably…",
-      "link": "https://www.retailcustomerexperience.com/blogs/before-you-cut-the-in-store-budget-ask-how-the-number-was-built/",
+      "title": "Most c-store consumers engaging with AI",
+      "excerpt": "Most c-store shoppers, 80%, have engaged with artificial intelligence with most interactions happening at a self-checkout kiosk. That's a top finding…",
+      "link": "https://www.retailcustomerexperience.com/news/most-c-store-consumers-engaging-with-ai/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-06T10:00:00.000Z",
       "category": "MAGASIN & EXPÉRIENCE",
@@ -208,15 +217,6 @@
       "link": "https://www.retailtechnology.co.uk/rss.xml/news/8776/foundations-first:-retailers-ready-it-stacks-for-agentic-commerce/",
       "source": "Retail Technology",
       "pubDate": "2026-10-05T00:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "PODCAST: AI and the future of shopping",
-      "excerpt": "In the latest episode of the Retail Technology podcast Counter Culture, analyst, writer and RT publisher Miya Knights joins host Bruce Ackland to…",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8760/podcast:-ai-and-the-future-of-shopping/",
-      "source": "Retail Technology",
-      "pubDate": "2026-10-02T00:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     }
