@@ -1,22 +1,49 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-07T09:33:01.544Z",
+  "publishedAt": "2026-10-07T18:09:06.765Z",
   "itemsFr": [
     {
-      "title": "Le FMI alerte que l'inflation mondiale atteindra 4,7% en 2026, aggravant durablement les inégalités et la pauvreté",
-      "excerpt": "L'institution internationale prévient que la hausse des prix, alimentée par les crises successives, menace durablement le pouvoir d'achat et creuse…",
-      "link": "https://www.journaldunet.com/business/1555943-le-fmi-alerte-que-l-inflation-mondiale-atteindra-4-7-en-2026-aggravant-durablement-les-inegalites-et-la-pauvrete/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-07T09:16:41.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
+      "title": "Marques en période de crise : que veulent vraiment les Français ?",
+      "excerpt": "Alors que les crises se succèdent et bouleversent les habitudes de consommation, les Français attendent-ils davantage des marques ? Une étude menée…",
+      "link": "https://www.ecommercemag.fr/marketing-1221/marques-en-periode-de-crise-que-veulent-vraiment-les-francais-60056",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-10-07T14:55:23.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
     {
-      "title": "L'euro remonte de 0,34% face au dollar, porté par l'accalmie sur les taux obligataires français malgré les inquiétudes sur la dette",
-      "excerpt": "La monnaie unique européenne profite d'un répit sur les taux français, mais la défiance liée à la dette et à l'incertitude politique demeure.",
-      "link": "https://www.journaldunet.com/business/1555939-l-euro-remonte-de-0-34-face-au-dollar-porte-par-l-accalmie-sur-les-taux-obligataires-francais-malgre-les-inquietudes-sur-la-dette/",
+      "title": "De Treezor à BoursoBank, SOCIETE GENERALE redessine ses priorités numériques",
+      "excerpt": "Société Générale recentre ses moyens sur ses métiers établis et leur transformation. Les cessions de Shine et de Treezor, la croissance de BoursoBank…",
+      "link": "https://www.frenchweb.fr/de-treezor-a-boursobank-societe-generale-redessine-ses-priorites-numeriques/463787",
+      "source": "FrenchWeb",
+      "pubDate": "2026-10-07T14:10:48.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
+    {
+      "title": "Sébastien Lecornu va s'exprimer mercredi soir à 18h30 depuis Matignon sur la crise des lycées",
+      "excerpt": "Le Premier ministre doit prendre la parole alors que la contestation lycéenne s'intensifie et que le pays traverse plusieurs crises majeures.",
+      "link": "https://www.journaldunet.com/business/action-publique/1555977-sebastien-lecornu-va-s-exprimer-mercredi-soir-a-18h30-depuis-matignon-sur-la-crise-des-lycees-au-lendemain-d-une-mobilisation-massive/",
       "source": "Journal du Net",
-      "pubDate": "2026-10-07T08:54:01.000Z",
+      "pubDate": "2026-10-07T13:38:33.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "Orange muscle son offre SecNumCloud pour les applications critiques et l’intelligence artificielle",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/informatique/cloud/orange-muscle-son-offre-secnumcloud-pour-les-applications-critiques-et-lintelligence-artificielle.CTOAOCTNYREDDANZ5R3EB3VB4M.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-10-07T13:16:30.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "IA générative, commerce agentique : la prochaine révolution se jouera au moment du paiement",
+      "excerpt": "L'intelligence artificielle entre dans une nouvelle phase. Après avoir accompagné les consommateurs dans leurs recherches et leurs prises de…",
+      "link": "https://www.journaldunet.com/fintech/1555483-ia-generative-commerce-agentique-la-prochaine-revolution-se-jouera-au-moment-du-paiement/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-07T13:13:48.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -82,42 +109,78 @@
       "pubDate": "2026-10-06T12:59:59.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
-    },
-    {
-      "title": "Runway fait le pari de l’ouverture pour accélérer dans la robotique avec son world action model Praxis-1",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/runway-fait-le-pari-de-louverture-pour-accelerer-dans-la-robotique-avec-son-world-action-model-praxis-1.DDZP6L246BFPFOYBB2B2L6FKHU.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-10-06T12:35:33.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "IA agentique : comment Decathlon anticipe le commerce de demain",
-      "excerpt": "À l’occasion d’un échange croisé entre Decathlon et Purse, Ismael Ghozael, VP Product & Platforms de Decathlon, et Pascal Roche, CEO de Purse, ont…",
-      "link": "https://www.ecommercemag.fr/paiements-1291/ia-agentique-comment-decathlon-anticipe-le-commerce-de-demain-59981",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-10-05T12:38:09.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Avis clients : arrêtons de compter les étoiles, commençons à lire les verbatims",
-      "excerpt": "Par Zoé Frézouls, Consultante Content Marketing Senior chez Black Pepper by CyberCité, le hub Content Marketing de CyberCité. Les marques n’ont…",
-      "link": "https://www.frenchweb.fr/avis-clients-arretons-de-compter-les-etoiles-commencons-a-lire-les-verbatims/463799",
-      "source": "FrenchWeb",
-      "pubDate": "2026-10-05T08:29:49.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
     }
   ],
   "itemsEn": [
     {
-      "title": "Spotify expands audiobooks to over 180 markets",
-      "excerpt": "Spotify will make 350,000 titles available in over 120 languages for this expansion",
-      "link": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
+      "title": "Bloom raises $3.6M to become the ‘Alibaba’ of American manufacturing",
+      "excerpt": "The Detroit startup has widened its scope beyond mobility to help drone and robotics companies find U.S.-based manufacturers, shippers, and more.",
+      "link": "https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/",
       "source": "TechCrunch",
-      "pubDate": "2026-10-07T07:00:00.000Z",
+      "pubDate": "2026-10-07T15:00:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "TikTok to add AI-powered discovery and one-click checkout",
+      "excerpt": "The social media platform is hoping to capitalize on its role as a product discovery engine by adding a conversational AI agent and simpler checkout.",
+      "link": "https://www.retaildive.com/news/tiktok-ai-powered-discovery-one-click-checkout/832326/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-07T14:20:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Coca-Cola steps into better-for-you soda market with prebiotics",
+      "excerpt": "The soda giant is entering the buzzy category and will compete with Olipop and PepsiCo-owned Poppi.",
+      "link": "https://www.fooddive.com/news/coca-cola-prebiotic-soda-functional-beverage-innovation/832361/",
+      "source": "Food Dive",
+      "pubDate": "2026-10-07T14:11:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Grocery trade groups caution FTC on overly broad pricing enforcement",
+      "excerpt": "Both FMI and the NGA called for the agency to distinguish between personalized pricing and personalized promotions.",
+      "link": "https://www.grocerydive.com/news/fmi-nga-ftc-personalized-pricing-enforcement/832299/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-10-07T14:01:00.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Ring’s first smart lock can be hand-cranked when its battery dies",
+      "excerpt": "Amazon-owned Ring is entering the smart lock market with a device designed to tackle a common concern: getting locked out when the battery dies.",
+      "link": "https://techcrunch.com/2026/10/07/rings-first-smart-lock-can-be-hand-cranked-when-its-battery-dies/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-07T14:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Walmart expands drone delivery of groceries and other goods",
+      "excerpt": "By next year, the retailer and partner Wing plan to offer aerial delivery from more than 270 stores across the country.",
+      "link": "https://www.grocerydive.com/news/walmart-wing-drone-expansion-denver-seattle/832290/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-10-07T13:30:16.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Target leads in grocery delivery, Safeway in curbside pickup",
+      "excerpt": "Target is the top-performing retailer for grocery delivery and Safeway is the top when it comes to curbside delivery. Those are the top findings from…",
+      "link": "https://www.retailcustomerexperience.com/news/target-leads-in-grocery-delivery-safeway-in-curbside-pickup/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-07T10:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Publix opening NC store in late October",
+      "excerpt": "Publix plans to open a store in North Carolina on Oct. 28. The Publix Super Market at Commons at Carolina Shores in Calabash is located at 9770 Ocean…",
+      "link": "https://www.retailcustomerexperience.com/news/publix-opening-nc-store-in-late-october/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-07T10:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -131,15 +194,6 @@
       "pinned": false
     },
     {
-      "title": "How to find out if Amazon thinks you have ‘flat buttocks’",
-      "excerpt": "\"I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless,\" one shopper wrote on…",
-      "link": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-06T22:55:39.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Top retail trade shows in 2027",
       "excerpt": "These events feature C-suite speakers who will discuss AI-driven solutions, understanding consumer behavior and leveraging technology, among other…",
       "link": "https://www.retaildive.com/news/top-retail-trade-shows-in-2027/832294/",
@@ -149,65 +203,11 @@
       "pinned": false
     },
     {
-      "title": "Walmart defends pricing practices, again",
-      "excerpt": "The retailer says it won't renew a key patent that could leverage scan-and-go tech to personalize prices. It's one of several that has drawn the…",
-      "link": "https://www.retaildive.com/news/walmart-defends-dynamic-pricing-practices-again/832248/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-06T16:44:00.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "The Giant Company launches store tours for GLP-1 users",
-      "excerpt": "The chain is hosting sessions at six stores as the grocery industry steps up efforts to support consumers taking the popular medications.",
-      "link": "https://www.grocerydive.com/news/the-giant-company-glp1-tours-weight-loss-grocery-supermarkets/832234/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-06T15:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Top grocery trade shows in 2027",
-      "excerpt": "From broadly focused retail industry shows to category-specific events, here’s a look at the key grocery events happening in 2027.​",
-      "link": "https://www.grocerydive.com/news/2027-top-grocery-conferences/830733/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-06T14:46:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Kraft Mac & Cheese enters first new category in decades with cheesy ramen",
-      "excerpt": "The cheesy ramen offering comes as Kraft Heinz invests $700 million into marketing, sales, and R&D under CEO Steve Cahillane to drive growth.",
+      "excerpt": "The launch comes as owner Kraft Heinz invests $700 million into marketing, sales, and R&D under CEO Steve Cahillane to drive growth.",
       "link": "https://www.fooddive.com/news/kraft-mac-and-cheese-cheesy-ramen-product-innovation/832222/",
       "source": "Food Dive",
       "pubDate": "2026-10-06T13:16:00.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
-      "title": "Nutella maker Ferrero building a sweets ‘powerhouse’ in the US",
-      "excerpt": "The food giant is increasing marketing and innovation as it aims to nearly double sales to $20 billion within the next decade behind a portfolio of…",
-      "link": "https://www.fooddive.com/news/Ferrero-Nutella-innovation-snacking-Hershey-Mars/832071/",
-      "source": "Food Dive",
-      "pubDate": "2026-10-06T13:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Retail Control Systems debuts commerce platform for thrift retailers",
-      "excerpt": "Retail Control Systems, a retail technology provider, has launched Brijjworks, a unified thrift commerce platform designed specifically for…",
-      "link": "https://www.retailcustomerexperience.com/news/retail-control-systems-debuts-commerce-platform-for-thrift-retailers/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-06T10:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Most c-store consumers engaging with AI",
-      "excerpt": "Most c-store shoppers, 80%, have engaged with artificial intelligence with most interactions happening at a self-checkout kiosk. That's a top finding…",
-      "link": "https://www.retailcustomerexperience.com/news/most-c-store-consumers-engaging-with-ai/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-06T10:00:00.000Z",
       "category": "MAGASIN & EXPÉRIENCE",
       "pinned": false
     },
