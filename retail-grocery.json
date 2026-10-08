@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-07T18:09:06.765Z",
+  "publishedAt": "2026-10-08T00:35:34.398Z",
   "itemsFr": [
     {
       "title": "Marques en période de crise : que veulent vraiment les Français ?",
@@ -113,12 +113,30 @@
   ],
   "itemsEn": [
     {
-      "title": "Bloom raises $3.6M to become the ‘Alibaba’ of American manufacturing",
-      "excerpt": "The Detroit startup has widened its scope beyond mobility to help drone and robotics companies find U.S.-based manufacturers, shippers, and more.",
-      "link": "https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/",
+      "title": "CASE STUDY: Cloud move secures Maggs Bros' heritage",
+      "excerpt": "Antiquarian bookseller Maggs Bros moves its entire server estate to Microsoft Azure, safeguarding irreplaceable provenance records and laying the…",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8778/case-study:-cloud-move-secures-maggs-bros-heritage/",
+      "source": "Retail Technology",
+      "pubDate": "2026-10-08T00:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
+      "excerpt": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.",
+      "link": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
       "source": "TechCrunch",
-      "pubDate": "2026-10-07T15:00:00.000Z",
+      "pubDate": "2026-10-07T23:36:57.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "excerpt": "The developer of Hermes Agent raised a $90 million Series B.",
+      "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-07T20:48:45.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
@@ -149,15 +167,6 @@
       "pinned": false
     },
     {
-      "title": "Ring’s first smart lock can be hand-cranked when its battery dies",
-      "excerpt": "Amazon-owned Ring is entering the smart lock market with a device designed to tackle a common concern: getting locked out when the battery dies.",
-      "link": "https://techcrunch.com/2026/10/07/rings-first-smart-lock-can-be-hand-cranked-when-its-battery-dies/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-07T14:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Walmart expands drone delivery of groceries and other goods",
       "excerpt": "By next year, the retailer and partner Wing plan to offer aerial delivery from more than 270 stores across the country.",
       "link": "https://www.grocerydive.com/news/walmart-wing-drone-expansion-denver-seattle/832290/",
@@ -167,18 +176,18 @@
       "pinned": false
     },
     {
-      "title": "Target leads in grocery delivery, Safeway in curbside pickup",
-      "excerpt": "Target is the top-performing retailer for grocery delivery and Safeway is the top when it comes to curbside delivery. Those are the top findings from…",
-      "link": "https://www.retailcustomerexperience.com/news/target-leads-in-grocery-delivery-safeway-in-curbside-pickup/",
+      "title": "Publix opening NC store in late October",
+      "excerpt": "Publix plans to open a store in North Carolina on Oct. 28. The Publix Super Market at Commons at Carolina Shores in Calabash is located at 9770 Ocean…",
+      "link": "https://www.retailcustomerexperience.com/news/publix-opening-nc-store-in-late-october/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-07T10:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "Publix opening NC store in late October",
-      "excerpt": "Publix plans to open a store in North Carolina on Oct. 28. The Publix Super Market at Commons at Carolina Shores in Calabash is located at 9770 Ocean…",
-      "link": "https://www.retailcustomerexperience.com/news/publix-opening-nc-store-in-late-october/",
+      "title": "Holiday shoppers looking for free shipping, easy returns",
+      "excerpt": "In addition to looking for the best deals this holiday season consumers are expecting free shipping and easy returns. That's a top finding from the…",
+      "link": "https://www.retailcustomerexperience.com/news/holiday-shoppers-looking-for-free-shipping-easy-returns/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-07T10:00:00.000Z",
       "category": "GRAND ANGLE",
@@ -209,15 +218,6 @@
       "source": "Food Dive",
       "pubDate": "2026-10-06T13:16:00.000Z",
       "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
-      "title": "Foundations first: retailers ready IT stacks for agentic commerce",
-      "excerpt": "Composable foundations are setting the pace for agentic commerce, Miya Knights, Retail Technology Publisher, discovers at MACH X Amsterdam",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8776/foundations-first:-retailers-ready-it-stacks-for-agentic-commerce/",
-      "source": "Retail Technology",
-      "pubDate": "2026-10-05T00:00:00.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     }
   ]
