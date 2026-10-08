@@ -1,31 +1,76 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-08T00:35:34.398Z",
+  "publishedAt": "2026-10-08T09:43:59.218Z",
   "itemsFr": [
+    {
+      "title": "[Exclu] PrimaPrix ferme ses trois magasins lillois",
+      "excerpt": "C’est un premier accroc dans la jeune histoire (2022) de PrimaPrix en France. Les trois magasins lillois tirent le rideau ces prochains jours. Lille…",
+      "link": "https://www.olivierdauvers.fr/2026/10/08/exclu-primaprix-ferme-ses-trois-magasins-lillois/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-08T08:34:00.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "IA agentique : le véritable défi n'est plus technologique, mais organisationnel",
+      "excerpt": "L'IA agentique ne se joue plus sur la technologie, mais sur l'organisation. Pour créer de la valeur, les entreprises doivent cadrer les décisions…",
+      "link": "https://www.journaldunet.com/intelligence-artificielle/1555985-ia-agentique-le-veritable-defi-n-est-plus-technologique-mais-organisationnel/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-08T08:05:09.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Les mythes de l’IA et de la tech – Debunk #5 : « L'IA en entreprise, c'est l'IA générative »",
+      "excerpt": "L’article Les mythes de l’IA et de la tech – Debunk #5 : « L'IA en entreprise, c'est l'IA générative » est apparu en premier sur Maddyness - Le média…",
+      "link": "https://www.maddyness.com/2026/10/08/mythes-ia-debunk-5-ia-tabulaire/",
+      "source": "Maddyness",
+      "pubDate": "2026-10-08T07:00:58.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Dans le retail, la donnée locale est le maillon manquant de la personnalisation par l'IA",
+      "excerpt": "Alors que l'IA se déploie dans le retail, son manque d'accès aux données locales limite la pertinence de ses réponses et recommandations, au risque…",
+      "link": "https://www.journaldunet.com/retail/1555389-dans-le-retail-la-donnee-locale-est-le-maillon-manquant-de-la-personnalisation-par-l-ia/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-08T07:00:23.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "[ EXCLU ] Intermarché remet plus de 100 millions dans les prix (et offre du carburant)",
+      "excerpt": "Dans la comm’, il y a un principe intangible : le timing est aussi important que le message ! Voilà pourquoi Intermarché “remet du prix” et, surtout…",
+      "link": "https://www.olivierdauvers.fr/2026/10/08/exclu-intermarche-remet-plus-de-100-millions-dans-les-prix-et-offre-du-carburant/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-08T05:51:08.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Avec environ 8,9 millions d’euros, NETSEC veut changer l’économie de l’infogérance",
+      "excerpt": "Le prestataire franco-italien veut réunir gestion informatique et cybersécurité dans un abonnement par salarié. L’automatisation doit lui permettre…",
+      "link": "https://www.frenchweb.fr/avec-environ-89-millions-deuros-netsec-veut-changer-leconomie-de-linfogerance/463825",
+      "source": "FrenchWeb",
+      "pubDate": "2026-10-08T05:35:46.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "Comment choisir, acheter et déployer ses services informatiques et de cybersécurité ?",
+      "excerpt": "Confier son informatique et sa cybersécurité à un prestataire engage le fonctionnement quotidien de l’entreprise, son budget et sa capacité à réagir…",
+      "link": "https://www.frenchweb.fr/comment-choisir-acheter-et-deployer-ses-services-informatiques-et-de-cybersecurite/463826",
+      "source": "FrenchWeb",
+      "pubDate": "2026-10-08T05:09:44.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
     {
       "title": "Marques en période de crise : que veulent vraiment les Français ?",
       "excerpt": "Alors que les crises se succèdent et bouleversent les habitudes de consommation, les Français attendent-ils davantage des marques ? Une étude menée…",
       "link": "https://www.ecommercemag.fr/marketing-1221/marques-en-periode-de-crise-que-veulent-vraiment-les-francais-60056",
       "source": "Ecommerce Mag",
       "pubDate": "2026-10-07T14:55:23.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "De Treezor à BoursoBank, SOCIETE GENERALE redessine ses priorités numériques",
-      "excerpt": "Société Générale recentre ses moyens sur ses métiers établis et leur transformation. Les cessions de Shine et de Treezor, la croissance de BoursoBank…",
-      "link": "https://www.frenchweb.fr/de-treezor-a-boursobank-societe-generale-redessine-ses-priorites-numeriques/463787",
-      "source": "FrenchWeb",
-      "pubDate": "2026-10-07T14:10:48.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "Sébastien Lecornu va s'exprimer mercredi soir à 18h30 depuis Matignon sur la crise des lycées",
-      "excerpt": "Le Premier ministre doit prendre la parole alors que la contestation lycéenne s'intensifie et que le pays traverse plusieurs crises majeures.",
-      "link": "https://www.journaldunet.com/business/action-publique/1555977-sebastien-lecornu-va-s-exprimer-mercredi-soir-a-18h30-depuis-matignon-sur-la-crise-des-lycees-au-lendemain-d-une-mobilisation-massive/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-07T13:38:33.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
@@ -39,39 +84,12 @@
       "pinned": false
     },
     {
-      "title": "IA générative, commerce agentique : la prochaine révolution se jouera au moment du paiement",
-      "excerpt": "L'intelligence artificielle entre dans une nouvelle phase. Après avoir accompagné les consommateurs dans leurs recherches et leurs prises de…",
-      "link": "https://www.journaldunet.com/fintech/1555483-ia-generative-commerce-agentique-la-prochaine-revolution-se-jouera-au-moment-du-paiement/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-07T13:13:48.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Comment Oxxius, une PME bretonne, s’est fait une place dans la course mondiale aux lasers",
       "excerpt": "L’article Comment Oxxius, une PME bretonne, s’est fait une place dans la course mondiale aux lasers est apparu en premier sur Maddyness - Le média…",
       "link": "https://www.maddyness.com/2026/10/07/oxxius-pme-bretonne-lasers/",
       "source": "Maddyness",
       "pubDate": "2026-10-07T08:00:00.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "CLEAVR lève 8 millions d’euros pour automatiser l’encaissement des factures",
-      "excerpt": "Une facture émise ne fait pas encore de la trésorerie. Entre son envoi et son règlement, les équipes financières doivent retrouver un interlocuteur…",
-      "link": "https://www.frenchweb.fr/cleavr-leve-8-millions-deuros-pour-automatiser-lencaissement-des-factures/463793",
-      "source": "FrenchWeb",
-      "pubDate": "2026-10-07T07:52:12.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
-      "title": "Guerre de la chocolatine : Auchan tacle Lidl (mais m’enfume d’une bouchée !)",
-      "excerpt": "Là, on atteint quand même un stade jamais vu en matière de guerre des prix… La guerre de… la chocolatine ! À Lidl qui a choisi d’en faire un produit…",
-      "link": "https://www.olivierdauvers.fr/2026/10/07/guerre-de-la-chocolatine-auchan-tacle-lidl-mais-menfume-dune-bouchee/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-07T07:50:56.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
       "pinned": false
     },
     {
@@ -84,30 +102,12 @@
       "pinned": false
     },
     {
-      "title": "[ RETAIL INSIDE ] Leclerc Geispolsheim (67) : voilà à quoi devra ressembler un hyper demain. A un “temple de la bouffe” !",
-      "excerpt": "L’hyper de demain sera alimentaire ou ne sera pas ! Il faut en effet être grandement naïf pour imaginer que le non-alimentaire de destination (les…",
-      "link": "https://www.olivierdauvers.fr/2026/10/07/retail-inside-leclerc-geispolsheim-67-voila-a-quoi-devra-ressembler-un-hyper-demain-a-un-temple-de-la-bouffe/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-07T04:53:50.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "L’Europe tient une nouvelle licorne dans la robotique “next-gen” : la start-up allemande RobCo atteint une valorisation d’un milliard de dollars",
       "excerpt": "",
       "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/leurope-tient-une-nouvelle-licorne-dans-la-robotique-next-gen-la-start-up-allemande-robco-atteint-une-valorisation-dun-milliard-de-dollars.CI5PJVRSUZHMBCXRLFQRFRDREY.html",
       "source": "L'Usine Digitale",
       "pubDate": "2026-10-06T16:25:30.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Mistral AI veut revenir dans la course à l’IA avec son nouveau modèle",
-      "excerpt": "L’article Mistral AI veut revenir dans la course à l’IA avec son nouveau modèle est apparu en premier sur Maddyness - Le média pour comprendre…",
-      "link": "https://www.maddyness.com/2026/10/06/mistral-ai-veut-revenir-dans-la-course-a-lia-avec-son-nouveau-modele/",
-      "source": "Maddyness",
-      "pubDate": "2026-10-06T12:59:59.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     }
   ],
@@ -185,9 +185,9 @@
       "pinned": false
     },
     {
-      "title": "Holiday shoppers looking for free shipping, easy returns",
-      "excerpt": "In addition to looking for the best deals this holiday season consumers are expecting free shipping and easy returns. That's a top finding from the…",
-      "link": "https://www.retailcustomerexperience.com/news/holiday-shoppers-looking-for-free-shipping-easy-returns/",
+      "title": "Target leads in grocery delivery, Safeway in curbside pickup",
+      "excerpt": "Target is the top-performing retailer for grocery delivery and Safeway is the top when it comes to curbside delivery. Those are the top findings from…",
+      "link": "https://www.retailcustomerexperience.com/news/target-leads-in-grocery-delivery-safeway-in-curbside-pickup/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-07T10:00:00.000Z",
       "category": "GRAND ANGLE",
