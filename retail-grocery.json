@@ -1,7 +1,52 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-09T00:50:38.735Z",
+  "publishedAt": "2026-10-09T09:49:07.648Z",
   "itemsFr": [
+    {
+      "title": "Dégrader la rentabilité des investissements publicitaires des annonceurs ne sauvera pas la presse !",
+      "excerpt": "Deux ans après les États généraux de l'information, le projet de loi gouvernemental s'éloigne de leur logique de transparence et d'incitation pour…",
+      "link": "https://www.journaldunet.com/adtech/1555899-degrader-la-rentabilite-des-investissements-publicitaires-des-annonceurs-ne-sauvera-pas-la-presse/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-09T09:22:04.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
+    {
+      "title": "La fin de la forteresse numérique : comment l'IA redéfinit les règles de la fidélité",
+      "excerpt": "Les assistants IA déplacent la relation client hors des canaux des enseignes. Pour rester influents, les programmes de fidélité doivent devenir…",
+      "link": "https://www.journaldunet.com/retail/1555643-la-fin-de-la-forteresse-numerique-comment-l-ia-redefinit-les-regles-de-la-fidelite/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-09T07:00:11.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Études consommateurs : ce que l’IA change dans l’économie du métier",
+      "excerpt": "L’automatisation des entretiens et de l’analyse modifie les coûts de production des études. Elle ouvre aussi une négociation sur leur prix, leur…",
+      "link": "https://www.frenchweb.fr/etudes-consommateurs-ce-que-lia-change-dans-leconomie-du-metier/463865",
+      "source": "FrenchWeb",
+      "pubDate": "2026-10-09T06:51:37.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Parts de marché : le drive à Leclerc, la LAD à Carrefour",
+      "excerpt": "Et hop, une nouvelle p’tite infographie spéciale e-commerce alimentaire… Avec les parts de marché (dissociées) du drive et de la livraison à…",
+      "link": "https://www.olivierdauvers.fr/2026/10/09/parts-de-marche-le-drive-a-leclerc-la-lad-a-carrefour/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-09T06:20:34.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "VERSO lève 5,4 millions d’euros : une nouvelle génération de plateformes d’études consommateurs émerge",
+      "excerpt": "La startup parisienne rejoint un marché où Outset, GetWhy et Listen Labs automatisent la conduite des entretiens et l’analyse des réponses. Ces…",
+      "link": "https://www.frenchweb.fr/verso-leve-54-millions-deuros-une-nouvelle-generation-de-plateformes-detudes-consommateurs-emerge/463862",
+      "source": "FrenchWeb",
+      "pubDate": "2026-10-09T05:04:01.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "[ EXCLU ] DISTRI PRIX Octobre : Les U corrigent Les Mousquetaires",
       "excerpt": "Nouvelle livraison de l’indice DISTRI PRIX (A3 Distrib / Ed. Dauvers) sur la base des prix observés en drives en octobre. Enseignement principal …",
@@ -12,39 +57,12 @@
       "pinned": false
     },
     {
-      "title": "Toc-toc, y’a quelqu’un chez Leclerc…?",
-      "excerpt": "Toc-toc, y’a quelqu’un chez Leclerc…? Suis chez vous, à Brest-Gouesnou, et j’avais une question cohérence de prix. Et comme vous êtes les rois du…",
-      "link": "https://www.olivierdauvers.fr/2026/10/08/toc-toc-ya-quelquun-chez-leclerc/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-08T16:55:26.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
       "title": "La start-up Mecka AI, soutenue par Nvidia et Samsung, lève 60 millions de dollars pour transformer l’entraînement des robots",
       "excerpt": "",
       "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/la-start-up-mecka-ai-soutenue-par-nvidia-et-samsung-leve-60-millions-de-dollars-pour-transformer-lentrainement-des-robots.QUWZ7DM37NBHNBASPSLR7PTDQE.html",
       "source": "L'Usine Digitale",
       "pubDate": "2026-10-08T16:48:10.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Les embauches en CDI des jeunes actifs reculent dans les métiers exposés à l'IA générative",
-      "excerpt": "Les jeunes actifs subissent de plein fouet l'impact de l'intelligence artificielle générative sur le marché du travail, selon une vaste étude menée…",
-      "link": "https://www.journaldunet.com/business/action-publique/1556107-les-embauches-en-cdi-des-jeunes-actifs-reculent-dans-les-metiers-exposes-a-l-ia-generative/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-08T16:17:26.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Une information trouvée sur Internet peut-elle réellement devenir une preuve ?",
-      "excerpt": "Une information trouvée en ligne peut devenir une preuve, à condition d'être vérifiée, contextualisée et correctement documentée.",
-      "link": "https://www.journaldunet.com/management/direction-generale/1555999-une-information-trouvee-sur-internet-peut-elle-reellement-devenir-une-preuve/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-08T15:37:29.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
     },
     {
@@ -72,24 +90,6 @@
       "source": "Maddyness",
       "pubDate": "2026-10-08T07:00:58.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Avec environ 8,9 millions d’euros, NETSEC veut changer l’économie de l’infogérance",
-      "excerpt": "Le prestataire franco-italien veut réunir gestion informatique et cybersécurité dans un abonnement par salarié. L’automatisation doit lui permettre…",
-      "link": "https://www.frenchweb.fr/avec-environ-89-millions-deuros-netsec-veut-changer-leconomie-de-linfogerance/463825",
-      "source": "FrenchWeb",
-      "pubDate": "2026-10-08T05:35:46.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "Comment choisir, acheter et déployer ses services informatiques et de cybersécurité ?",
-      "excerpt": "Confier son informatique et sa cybersécurité à un prestataire engage le fonctionnement quotidien de l’entreprise, son budget et sa capacité à réagir…",
-      "link": "https://www.frenchweb.fr/comment-choisir-acheter-et-deployer-ses-services-informatiques-et-de-cybersecurite/463826",
-      "source": "FrenchWeb",
-      "pubDate": "2026-10-08T05:09:44.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
     {
@@ -132,7 +132,7 @@
     },
     {
       "title": "Oterra teams with HowGood to track sustainability of natural colors",
-      "excerpt": "As demand for natural dyes expands, companies are investing in environmental reporting and other metrics that are commonplace within more mainstream…",
+      "excerpt": "As demand for natural dyes grows, companies are investing in environmental reporting metrics common within mainstream ingredients.",
       "link": "https://www.fooddive.com/news/oterra-howgood-sustainability-natural-colors/832530/",
       "source": "Food Dive",
       "pubDate": "2026-10-08T18:06:00.000Z",
@@ -176,21 +176,30 @@
       "pinned": false
     },
     {
-      "title": "AI, social media, digital shopping: What retailers need to do to grab Gen Alpha, Gen Z shoppers",
-      "excerpt": "One of the biggest trends in retail customer experience is product discovery, with strong assistance via AI, being embedded in the growing number of…",
-      "link": "https://www.retailcustomerexperience.com/articles/ai-social-media-digital-shopping-what-retailers-need-to-do-to-grab-gen-alpha-gen-z-shoppers/",
+      "title": "World Market debuts 250th store",
+      "excerpt": "World Market, a specialty retailer, has opened its 250th store. The 18,362-square-foot store is in West Jordan, Utah, at Jordan Landing. The opening…",
+      "link": "https://www.retailcustomerexperience.com/news/world-market-debuts-250th-store/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-08T10:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "Kroger updates employee work dress requirements",
-      "excerpt": "Kroger has updated its employee work apparel requirements and is mandating all employees wear company-issue shirts. Prior, store and company…",
-      "link": "https://www.retailcustomerexperience.com/news/kroger-updates-employee-work-dress-requirements/",
+      "title": "Governed speed: retailers slow down to scale AI agents",
+      "excerpt": "Governance, product data and the build-or-buy question shape agentic progress, Miya Knights, Retail Technology Publisher, reports from MACH X…",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8777/governed-speed:-retailers-slow-down-to-scale-ai-agents/",
+      "source": "Retail Technology",
+      "pubDate": "2026-10-07T00:00:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "AI, social media, digital shopping: What retailers need to do to grab Gen Alpha, Gen Z shoppers",
+      "excerpt": "One of the biggest trends in retail customer experience is product discovery, with strong assistance via AI, being embedded in the growing number of…",
+      "link": "https://www.retailcustomerexperience.com/articles/ai-social-media-digital-shopping-what-retailers-need-to-do-to-grab-gen-alpha-gen-z-shoppers/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-08T10:00:00.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -209,15 +218,6 @@
       "source": "Food Dive",
       "pubDate": "2026-10-07T14:11:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Governed speed: retailers slow down to scale AI agents",
-      "excerpt": "Governance, product data and the build-or-buy question shape agentic progress, Miya Knights, Retail Technology Publisher, reports from MACH X…",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8777/governed-speed:-retailers-slow-down-to-scale-ai-agents/",
-      "source": "Retail Technology",
-      "pubDate": "2026-10-07T00:00:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     }
   ]
