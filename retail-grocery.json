@@ -1,7 +1,16 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-09T17:44:38.778Z",
+  "publishedAt": "2026-10-09T22:01:25.683Z",
   "itemsFr": [
+    {
+      "title": "Comment c’était les courses il y a 60 ans…?",
+      "excerpt": "RTL fête aujourd’hui ses 60 ans. Ma chronique du jour s’est donc mis à l’heure de 1966 : comment c’était les courses en 1966 ? et… à quel prix ? Ici…",
+      "link": "https://www.olivierdauvers.fr/2026/10/09/comment-cetait-les-courses-il-y-a-60-ans/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-09T19:37:44.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
     {
       "title": "Après Waymo et Wayve, Pony.ai se lance à son tour dans la course aux taxis autonomes à Londres avec Uber",
       "excerpt": "",
@@ -66,15 +75,6 @@
       "pinned": false
     },
     {
-      "title": "Parts de marché : le drive à Leclerc, la LAD à Carrefour",
-      "excerpt": "Et hop, une nouvelle p’tite infographie spéciale e-commerce alimentaire… Avec les parts de marché (dissociées) du drive et de la livraison à…",
-      "link": "https://www.olivierdauvers.fr/2026/10/09/parts-de-marche-le-drive-a-leclerc-la-lad-a-carrefour/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-09T06:20:34.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "VERSO lève 5,4 millions d’euros : une nouvelle génération de plateformes d’études consommateurs émerge",
       "excerpt": "La startup parisienne rejoint un marché où Outset, GetWhy et Listen Labs automatisent la conduite des entretiens et l’analyse des réponses. Ces…",
       "link": "https://www.frenchweb.fr/verso-leve-54-millions-deuros-une-nouvelle-generation-de-plateformes-detudes-consommateurs-emerge/463862",
@@ -124,7 +124,7 @@
     {
       "title": "The Friday Checkout: Why Kroger and Target store workers are dressing to impress",
       "excerpt": "Both retailers have reportedly introduced new dress codes for their workers as they continue looking for ways to elevate the shopping experience.",
-      "link": "https://www.grocerydive.com/news/the-friday-checkout-why-kroger-and-target-store-workers-are-dressing-to-im/832556/",
+      "link": "https://www.grocerydive.com/news/kroger-target-dress-code-update-in-store-experience/832556/",
       "source": "Grocery Dive",
       "pubDate": "2026-10-09T15:41:00.000Z",
       "category": "GRAND ANGLE",
@@ -167,18 +167,18 @@
       "pinned": false
     },
     {
-      "title": "US holiday shoppers reaching for gift cards given tight budgets",
-      "excerpt": "Gift cards will play a significant role in holiday shopping this year as 93% of U.S. shoppers who have set a spending budget plan to buy gift cards…",
-      "link": "https://www.retailcustomerexperience.com/news/us-holiday-shoppers-reaching-for-gift-cards-given-tight-budgets/",
+      "title": "Lowe’s launches drone delivery, live pilot in North Carolina",
+      "excerpt": "Home improvement retailer Lowe's is piloting drone delivery at a store in Matthews, North Carolina. The service delivers to customers in as little as…",
+      "link": "https://www.retailcustomerexperience.com/news/lowes-launches-drone-delivery-live-pilot-in-north-carolina/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-09T10:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "Lowe’s launches drone delivery, live pilot in North Carolina",
-      "excerpt": "Home improvement retailer Lowe's is piloting drone delivery at a store in Matthews, North Carolina. The service delivers to customers in as little as…",
-      "link": "https://www.retailcustomerexperience.com/news/lowes-launches-drone-delivery-live-pilot-in-north-carolina/",
+      "title": "US holiday shoppers reaching for gift cards given tight budgets",
+      "excerpt": "Gift cards will play a significant role in holiday shopping this year as 93% of U.S. shoppers who have set a spending budget plan to buy gift cards…",
+      "link": "https://www.retailcustomerexperience.com/news/us-holiday-shoppers-reaching-for-gift-cards-given-tight-budgets/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-09T10:00:00.000Z",
       "category": "GRAND ANGLE",
