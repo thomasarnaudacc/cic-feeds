@@ -1,7 +1,16 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-08T18:11:28.431Z",
+  "publishedAt": "2026-10-09T00:50:38.735Z",
   "itemsFr": [
+    {
+      "title": "[ EXCLU ] DISTRI PRIX Octobre : Les U corrigent Les Mousquetaires",
+      "excerpt": "Nouvelle livraison de l’indice DISTRI PRIX (A3 Distrib / Ed. Dauvers) sur la base des prix observés en drives en octobre. Enseignement principal …",
+      "link": "https://www.olivierdauvers.fr/2026/10/09/exclu-distri-prix-octobre-les-u-corrigent-les-mousquetaires/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-09T00:40:00.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
     {
       "title": "Toc-toc, y’a quelqu’un chez Leclerc…?",
       "excerpt": "Toc-toc, y’a quelqu’un chez Leclerc…? Suis chez vous, à Brest-Gouesnou, et j’avais une question cohérence de prix. Et comme vous êtes les rois du…",
@@ -57,15 +66,6 @@
       "pinned": false
     },
     {
-      "title": "[ EXCLU ] PrimaPrix ferme ses trois magasins lillois",
-      "excerpt": "C’est un premier accroc dans la jeune histoire (2022) de PrimaPrix en France. Les trois magasins lillois tirent le rideau ces prochains jours. Lille…",
-      "link": "https://www.olivierdauvers.fr/2026/10/08/exclu-primaprix-ferme-ses-trois-magasins-lillois/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-08T08:34:00.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
       "title": "Les mythes de l’IA et de la tech – Debunk #5 : « L'IA en entreprise, c'est l'IA générative »",
       "excerpt": "L’article Les mythes de l’IA et de la tech – Debunk #5 : « L'IA en entreprise, c'est l'IA générative » est apparu en premier sur Maddyness - Le média…",
       "link": "https://www.maddyness.com/2026/10/08/mythes-ia-debunk-5-ia-tabulaire/",
@@ -113,21 +113,30 @@
   ],
   "itemsEn": [
     {
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "excerpt": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are…",
+      "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-08T20:04:26.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
+    {
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "excerpt": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to…",
+      "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-08T18:18:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
       "title": "Oterra teams with HowGood to track sustainability of natural colors",
       "excerpt": "As demand for natural dyes expands, companies are investing in environmental reporting and other metrics that are commonplace within more mainstream…",
       "link": "https://www.fooddive.com/news/oterra-howgood-sustainability-natural-colors/832530/",
       "source": "Food Dive",
       "pubDate": "2026-10-08T18:06:00.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "A startup founder who served time in prison is looking to court an untapped market: ex-cons",
-      "excerpt": "Richard Bronson, a former Stratton Oakmont partner who served time in federal prison for securities violations, has launched Commissary Club, a…",
-      "link": "https://techcrunch.com/2026/10/08/a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-08T16:45:00.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -149,15 +158,6 @@
       "pinned": false
     },
     {
-      "title": "Natura’s $99 smart ring puts AI agents on your finger",
-      "excerpt": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices …",
-      "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-08T16:00:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
       "title": "Publix now has 10 Kentucky stores. Here’s how the grocer is growing in the state.",
       "excerpt": "Since its arrival just over two years ago, the Florida-based supermarket chain has expanded rapidly in the Bluegrass State.",
       "link": "https://www.grocerydive.com/news/mapping-publix-kentucky-expansion-10th-store/832442/",
@@ -176,9 +176,9 @@
       "pinned": false
     },
     {
-      "title": "World Market debuts 250th store",
-      "excerpt": "World Market, a specialty retailer, has opened its 250th store. The 18,362-square-foot store is in West Jordan, Utah, at Jordan Landing. The opening…",
-      "link": "https://www.retailcustomerexperience.com/news/world-market-debuts-250th-store/",
+      "title": "AI, social media, digital shopping: What retailers need to do to grab Gen Alpha, Gen Z shoppers",
+      "excerpt": "One of the biggest trends in retail customer experience is product discovery, with strong assistance via AI, being embedded in the growing number of…",
+      "link": "https://www.retailcustomerexperience.com/articles/ai-social-media-digital-shopping-what-retailers-need-to-do-to-grab-gen-alpha-gen-z-shoppers/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-08T10:00:00.000Z",
       "category": "GRAND ANGLE",
