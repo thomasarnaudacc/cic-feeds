@@ -1,23 +1,50 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-09T09:49:07.648Z",
+  "publishedAt": "2026-10-09T17:44:38.778Z",
   "itemsFr": [
     {
-      "title": "Dégrader la rentabilité des investissements publicitaires des annonceurs ne sauvera pas la presse !",
-      "excerpt": "Deux ans après les États généraux de l'information, le projet de loi gouvernemental s'éloigne de leur logique de transparence et d'incitation pour…",
-      "link": "https://www.journaldunet.com/adtech/1555899-degrader-la-rentabilite-des-investissements-publicitaires-des-annonceurs-ne-sauvera-pas-la-presse/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-09T09:22:04.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
+      "title": "Après Waymo et Wayve, Pony.ai se lance à son tour dans la course aux taxis autonomes à Londres avec Uber",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/vehicule-autonome/apres-waymo-et-wayve-ponyai-se-lance-a-son-tour-dans-la-course-aux-taxis-autonomes-a-londres-avec-uber.2CYL7QOLGFBUZFLXSVDMHZ2PEE.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-10-09T16:02:53.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
     {
-      "title": "La fin de la forteresse numérique : comment l'IA redéfinit les règles de la fidélité",
-      "excerpt": "Les assistants IA déplacent la relation client hors des canaux des enseignes. Pour rester influents, les programmes de fidélité doivent devenir…",
-      "link": "https://www.journaldunet.com/retail/1555643-la-fin-de-la-forteresse-numerique-comment-l-ia-redefinit-les-regles-de-la-fidelite/",
+      "title": "L'UE soutient 46 nouveaux projets de terres rares pour réduire sa dépendance à la Chine",
+      "excerpt": "L'UE accélère le développement de projets d'extraction, de raffinage et de recyclage de terres rares pour sécuriser ses approvisionnements face au…",
+      "link": "https://www.journaldunet.com/economie/industrie/1556365-l-ue-soutient-46-nouveaux-projets-de-terres-rares-pour-reduire-sa-dependance-a-la-chine/",
       "source": "Journal du Net",
-      "pubDate": "2026-10-09T07:00:11.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pubDate": "2026-10-09T14:39:15.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "« On ne voit pas encore émerger d’attaques complètement autonomes » : le président d’InterCERT France appelle au réalisme face au marketing des laboratoires d’IA",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/cybersecurite/on-ne-voit-pas-encore-emerger-dattaques-completement-autonomes-le-president-dintercert-france-appelle-au-realisme-face-au-marketing-des-laboratoires-dia.7RZF3KP5B5H7DPD37AVIQ65YOE.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-10-09T14:38:19.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "La Chine et l'Union européenne s'accordent sur le commerce des véhicules hybrides",
+      "excerpt": "Pékin et Bruxelles s'accordent sur le commerce des véhicules hybrides et s'engagent à renforcer leur dialogue, notamment sur les exportations de…",
+      "link": "https://www.journaldunet.com/economie/industrie/1556359-la-chine-et-l-union-europeenne-s-accordent-sur-le-commerce-des-vehicules-hybrides/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-09T14:35:26.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "La MINUTE RETAIL : Négos : concilier l’inconciliable…",
+      "excerpt": "A la une cette semaine : les négos qui s’annoncent. Encore lentement, mais sûrement. Tout aussi sûrement, l’enjeu se dessine : comment rapprocher des…",
+      "link": "https://www.olivierdauvers.fr/2026/10/09/la-minute-retail-negos-concilier-linconciliable/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-09T12:42:10.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -27,6 +54,15 @@
       "source": "FrenchWeb",
       "pubDate": "2026-10-09T06:51:37.000Z",
       "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Les mythes de l’IA et de la tech – Debunk #5 : « L'IA en entreprise, c'est l'IA générative »",
+      "excerpt": "L’article Les mythes de l’IA et de la tech – Debunk #5 : « L'IA en entreprise, c'est l'IA générative » est apparu en premier sur Maddyness - Le média…",
+      "link": "https://www.maddyness.com/2026/10/08/mythes-ia-debunk-5-ia-tabulaire/",
+      "source": "Maddyness",
+      "pubDate": "2026-10-08T07:00:58.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
@@ -48,48 +84,12 @@
       "pinned": false
     },
     {
-      "title": "[ EXCLU ] DISTRI PRIX Octobre : Les U corrigent Les Mousquetaires",
-      "excerpt": "Nouvelle livraison de l’indice DISTRI PRIX (A3 Distrib / Ed. Dauvers) sur la base des prix observés en drives en octobre. Enseignement principal …",
-      "link": "https://www.olivierdauvers.fr/2026/10/09/exclu-distri-prix-octobre-les-u-corrigent-les-mousquetaires/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-09T00:40:00.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "La start-up Mecka AI, soutenue par Nvidia et Samsung, lève 60 millions de dollars pour transformer l’entraînement des robots",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/la-start-up-mecka-ai-soutenue-par-nvidia-et-samsung-leve-60-millions-de-dollars-pour-transformer-lentrainement-des-robots.QUWZ7DM37NBHNBASPSLR7PTDQE.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-10-08T16:48:10.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Scality veut sortir du simple stockage pour prendre une place dans les infrastructures dédiées à l’inférence de modèles d’IA",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/ia-generative/scality-veut-sortir-du-simple-stockage-pour-prendre-une-place-dans-les-infrastructures-dediees-a-linference-de-modeles-dia.FYN7EVZZSBEUZDT6KPGIHN75FQ.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-10-08T12:00:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
       "title": "Marché de la seconde main : le prix supplante le réflexe écologique",
       "excerpt": "Selon le baromètre Novascope d'Enov publié en septembre 2026, 73 % des Français ont acheté un produit d'occasion au cours de l'année. Mais derrière…",
       "link": "https://www.ecommercemag.fr/retail-1220/barometre-etude-2168/marche-de-la-seconde-main-le-prix-supplante-le-reflexe-ecologique-60072",
       "source": "Ecommerce Mag",
       "pubDate": "2026-10-08T10:03:27.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Les mythes de l’IA et de la tech – Debunk #5 : « L'IA en entreprise, c'est l'IA générative »",
-      "excerpt": "L’article Les mythes de l’IA et de la tech – Debunk #5 : « L'IA en entreprise, c'est l'IA générative » est apparu en premier sur Maddyness - Le média…",
-      "link": "https://www.maddyness.com/2026/10/08/mythes-ia-debunk-5-ia-tabulaire/",
-      "source": "Maddyness",
-      "pubDate": "2026-10-08T07:00:58.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
@@ -100,34 +100,97 @@
       "pubDate": "2026-10-07T14:55:23.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
-    },
-    {
-      "title": "Comment Oxxius, une PME bretonne, s’est fait une place dans la course mondiale aux lasers",
-      "excerpt": "L’article Comment Oxxius, une PME bretonne, s’est fait une place dans la course mondiale aux lasers est apparu en premier sur Maddyness - Le média…",
-      "link": "https://www.maddyness.com/2026/10/07/oxxius-pme-bretonne-lasers/",
-      "source": "Maddyness",
-      "pubDate": "2026-10-07T08:00:00.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
     }
   ],
   "itemsEn": [
     {
-      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-      "excerpt": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are…",
-      "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "title": "Danu Robotics’ fight to build a better recycling robot",
+      "excerpt": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
+      "link": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
       "source": "TechCrunch",
-      "pubDate": "2026-10-08T20:04:26.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
+      "pubDate": "2026-10-09T16:45:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
-      "title": "Google brings agentic AI to Gemini, starting with businesses",
-      "excerpt": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to…",
-      "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "title": "Nearly half of shoppers are worried about affording holiday gifts this year",
+      "excerpt": "Concerns about the job market, as well as personal and household debt, are affecting how much consumers plan to spend this season, per an ICSC report.",
+      "link": "https://www.retaildive.com/news/shoppers-worried-affording-holidays-icsc/832615/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-09T15:51:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "The Friday Checkout: Why Kroger and Target store workers are dressing to impress",
+      "excerpt": "Both retailers have reportedly introduced new dress codes for their workers as they continue looking for ways to elevate the shopping experience.",
+      "link": "https://www.grocerydive.com/news/the-friday-checkout-why-kroger-and-target-store-workers-are-dressing-to-im/832556/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-10-09T15:41:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Bloomingdale’s merchant jumps to Bluemercury",
+      "excerpt": "Stacie Borteck Dattner will report to Bluemercury CEO Alexandre Choueiri, the former Kering Beauté executive who arrived in August.",
+      "link": "https://www.retaildive.com/news/bloomingdales-merchant-bluemercury/832597/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-09T15:33:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Albertsons continues consolidating internal departments",
+      "excerpt": "The grocer is bringing its retail media arm under its merchandising organization, with CMO Emily Turner overseeing the combined organization.",
+      "link": "https://www.grocerydive.com/news/albertsons-media-collective-consolidating-departments-merchandising-media-operations/832605/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-10-09T15:00:00.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Surveillance company Flock cuts staff as privacy backlash grows",
+      "excerpt": "Flock would not say if CEO Garrett Langley would take a pay cut following the reduction in workforce.",
+      "link": "https://techcrunch.com/2026/10/09/surveillance-company-flock-cuts-staff-as-privacy-backlash-grows/",
       "source": "TechCrunch",
-      "pubDate": "2026-10-08T18:18:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pubDate": "2026-10-09T13:40:36.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "Molson Coors taps chief supply chain officer for Americas",
+      "excerpt": "Matthew Hook will step into the role with a mandate of continuing to modernize operations and boost service levels.",
+      "link": "https://www.fooddive.com/news/molson-coors-taps-chief-supply-chain-officer-for-americas/832543/",
+      "source": "Food Dive",
+      "pubDate": "2026-10-09T13:39:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "US holiday shoppers reaching for gift cards given tight budgets",
+      "excerpt": "Gift cards will play a significant role in holiday shopping this year as 93% of U.S. shoppers who have set a spending budget plan to buy gift cards…",
+      "link": "https://www.retailcustomerexperience.com/news/us-holiday-shoppers-reaching-for-gift-cards-given-tight-budgets/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-09T10:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Lowe’s launches drone delivery, live pilot in North Carolina",
+      "excerpt": "Home improvement retailer Lowe's is piloting drone delivery at a store in Matthews, North Carolina. The service delivers to customers in as little as…",
+      "link": "https://www.retailcustomerexperience.com/news/lowes-launches-drone-delivery-live-pilot-in-north-carolina/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-09T10:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "AI in fashion at Gap",
+      "excerpt": "Fashion retailer Gap Inc is unveiling a suite of AI-powered shopping tools across its brands network",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8779/ai-in-fashion-at-gap/",
+      "source": "Retail Technology",
+      "pubDate": "2026-10-09T00:00:00.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -140,83 +203,11 @@
       "pinned": false
     },
     {
-      "title": "Wholesale, tariff refunds deliver for Levi’s in rough Q3",
-      "excerpt": "The denim maker’s direct-to-consumer sales were unexpectedly weak, and profits and margins were propped up by the trade reimbursements.",
-      "link": "https://www.retaildive.com/news/levis-q3-wholesale-tariff-refunds-deliver/832468/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-08T16:23:00.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "Amazon retail division hit by job cuts",
-      "excerpt": "The e-commerce giant is changing the structure of its stores business, impacting hundreds of employees.",
-      "link": "https://www.retaildive.com/news/amazon-retail-stores-division-layoffs/832501/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-08T16:08:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Publix now has 10 Kentucky stores. Here’s how the grocer is growing in the state.",
-      "excerpt": "Since its arrival just over two years ago, the Florida-based supermarket chain has expanded rapidly in the Bluegrass State.",
-      "link": "https://www.grocerydive.com/news/mapping-publix-kentucky-expansion-10th-store/832442/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-08T14:57:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Grocery consumption shifts require smaller packages, NielsenIQ finds",
-      "excerpt": "Brands and packaging converters need to evolve alongside consumers, including by taking into account generational differences in consumption, the…",
-      "link": "https://www.grocerydive.com/news/grocery-consumption-shifts-demand-smaller-packages-nielseniq-report/832409/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-08T14:33:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "World Market debuts 250th store",
-      "excerpt": "World Market, a specialty retailer, has opened its 250th store. The 18,362-square-foot store is in West Jordan, Utah, at Jordan Landing. The opening…",
-      "link": "https://www.retailcustomerexperience.com/news/world-market-debuts-250th-store/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-08T10:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Governed speed: retailers slow down to scale AI agents",
-      "excerpt": "Governance, product data and the build-or-buy question shape agentic progress, Miya Knights, Retail Technology Publisher, reports from MACH X…",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8777/governed-speed:-retailers-slow-down-to-scale-ai-agents/",
-      "source": "Retail Technology",
-      "pubDate": "2026-10-07T00:00:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "AI, social media, digital shopping: What retailers need to do to grab Gen Alpha, Gen Z shoppers",
-      "excerpt": "One of the biggest trends in retail customer experience is product discovery, with strong assistance via AI, being embedded in the growing number of…",
-      "link": "https://www.retailcustomerexperience.com/articles/ai-social-media-digital-shopping-what-retailers-need-to-do-to-grab-gen-alpha-gen-z-shoppers/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-08T10:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "CASE STUDY: Cloud move secures Maggs Bros' heritage",
       "excerpt": "Antiquarian bookseller Maggs Bros moves its entire server estate to Microsoft Azure, safeguarding irreplaceable provenance records and laying the…",
       "link": "https://www.retailtechnology.co.uk/rss.xml/news/8778/case-study:-cloud-move-secures-maggs-bros-heritage/",
       "source": "Retail Technology",
       "pubDate": "2026-10-08T00:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Coca-Cola steps into better-for-you soda market with prebiotics",
-      "excerpt": "The soda giant is entering the buzzy category and will compete with Olipop and PepsiCo-owned Poppi.",
-      "link": "https://www.fooddive.com/news/coca-cola-prebiotic-soda-functional-beverage-innovation/832361/",
-      "source": "Food Dive",
-      "pubDate": "2026-10-07T14:11:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     }
