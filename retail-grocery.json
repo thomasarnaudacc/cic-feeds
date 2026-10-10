@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-10T11:36:34.301Z",
+  "publishedAt": "2026-10-10T16:37:23.375Z",
   "itemsFr": [
     {
       "title": "SAMEDI CONSO : mon carnet (retail mais pas que…) de la semaine",
@@ -104,21 +104,21 @@
   ],
   "itemsEn": [
     {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel…",
+      "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-10T14:00:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
       "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
       "excerpt": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
       "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
       "source": "TechCrunch",
       "pubDate": "2026-10-10T00:18:32.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Danu Robotics’ fight to build a better recycling robot",
-      "excerpt": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
-      "link": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-09T16:45:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
@@ -133,7 +133,7 @@
     {
       "title": "The Friday Checkout: Why Kroger and Target store workers are dressing to impress",
       "excerpt": "Both retailers have reportedly introduced new dress codes for their workers as they continue looking for ways to elevate the shopping experience.",
-      "link": "https://www.grocerydive.com/news/the-friday-checkout-why-kroger-and-target-store-workers-are-dressing-to-im/832556/",
+      "link": "https://www.grocerydive.com/news/kroger-target-dress-code-update-in-store-experience/832556/",
       "source": "Grocery Dive",
       "pubDate": "2026-10-09T15:41:00.000Z",
       "category": "GRAND ANGLE",
@@ -167,18 +167,18 @@
       "pinned": false
     },
     {
-      "title": "US holiday shoppers reaching for gift cards given tight budgets",
-      "excerpt": "Gift cards will play a significant role in holiday shopping this year as 93% of U.S. shoppers who have set a spending budget plan to buy gift cards…",
-      "link": "https://www.retailcustomerexperience.com/news/us-holiday-shoppers-reaching-for-gift-cards-given-tight-budgets/",
+      "title": "Lowe’s launches drone delivery, live pilot in North Carolina",
+      "excerpt": "Home improvement retailer Lowe's is piloting drone delivery at a store in Matthews, North Carolina. The service delivers to customers in as little as…",
+      "link": "https://www.retailcustomerexperience.com/news/lowes-launches-drone-delivery-live-pilot-in-north-carolina/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-09T10:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "Lowe’s launches drone delivery, live pilot in North Carolina",
-      "excerpt": "Home improvement retailer Lowe's is piloting drone delivery at a store in Matthews, North Carolina. The service delivers to customers in as little as…",
-      "link": "https://www.retailcustomerexperience.com/news/lowes-launches-drone-delivery-live-pilot-in-north-carolina/",
+      "title": "Kroger testing 24-hour store hours",
+      "excerpt": "Supermarket chain Kroger is reportedly testing 24-hour service in a small pilot program. The pilot is running in one Cincinnati, Ohio, location and…",
+      "link": "https://www.retailcustomerexperience.com/news/kroger-testing-24-hour-store-hours/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-09T10:00:00.000Z",
       "category": "GRAND ANGLE",
