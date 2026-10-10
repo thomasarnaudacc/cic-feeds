@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-09T22:01:25.683Z",
+  "publishedAt": "2026-10-10T03:26:23.312Z",
   "itemsFr": [
     {
       "title": "Comment c’était les courses il y a 60 ans…?",
@@ -104,6 +104,15 @@
   ],
   "itemsEn": [
     {
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "excerpt": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-10T00:18:32.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
       "title": "Danu Robotics’ fight to build a better recycling robot",
       "excerpt": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
       "link": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
@@ -124,7 +133,7 @@
     {
       "title": "The Friday Checkout: Why Kroger and Target store workers are dressing to impress",
       "excerpt": "Both retailers have reportedly introduced new dress codes for their workers as they continue looking for ways to elevate the shopping experience.",
-      "link": "https://www.grocerydive.com/news/kroger-target-dress-code-update-in-store-experience/832556/",
+      "link": "https://www.grocerydive.com/news/the-friday-checkout-why-kroger-and-target-store-workers-are-dressing-to-im/832556/",
       "source": "Grocery Dive",
       "pubDate": "2026-10-09T15:41:00.000Z",
       "category": "GRAND ANGLE",
@@ -149,15 +158,6 @@
       "pinned": false
     },
     {
-      "title": "Surveillance company Flock cuts staff as privacy backlash grows",
-      "excerpt": "Flock would not say if CEO Garrett Langley would take a pay cut following the reduction in workforce.",
-      "link": "https://techcrunch.com/2026/10/09/surveillance-company-flock-cuts-staff-as-privacy-backlash-grows/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-09T13:40:36.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
       "title": "Molson Coors taps chief supply chain officer for Americas",
       "excerpt": "Matthew Hook will step into the role with a mandate of continuing to modernize operations and boost service levels.",
       "link": "https://www.fooddive.com/news/molson-coors-taps-chief-supply-chain-officer-for-americas/832543/",
@@ -167,9 +167,9 @@
       "pinned": false
     },
     {
-      "title": "Lowe’s launches drone delivery, live pilot in North Carolina",
-      "excerpt": "Home improvement retailer Lowe's is piloting drone delivery at a store in Matthews, North Carolina. The service delivers to customers in as little as…",
-      "link": "https://www.retailcustomerexperience.com/news/lowes-launches-drone-delivery-live-pilot-in-north-carolina/",
+      "title": "Kroger testing 24-hour store hours",
+      "excerpt": "Supermarket chain Kroger is reportedly testing 24-hour service in a small pilot program. The pilot is running in one Cincinnati, Ohio, location and…",
+      "link": "https://www.retailcustomerexperience.com/news/kroger-testing-24-hour-store-hours/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-09T10:00:00.000Z",
       "category": "GRAND ANGLE",
