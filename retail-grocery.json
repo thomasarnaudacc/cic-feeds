@@ -1,7 +1,16 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-10T03:26:23.312Z",
+  "publishedAt": "2026-10-10T11:36:34.301Z",
   "itemsFr": [
+    {
+      "title": "SAMEDI CONSO : mon carnet (retail mais pas que…) de la semaine",
+      "excerpt": "« SAMEDI CONSO », la semaine retail (mais pas que) passée en revue. Comme toujours en totale liberté. Et tant pis si ça pique ! Âmes (trop) sensibles…",
+      "link": "https://www.olivierdauvers.fr/2026/10/10/samedi-conso-mon-carnet-retail-mais-pas-que-de-la-semaine-383/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-10T06:00:06.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "Comment c’était les courses il y a 60 ans…?",
       "excerpt": "RTL fête aujourd’hui ses 60 ans. Ma chronique du jour s’est donc mis à l’heure de 1966 : comment c’était les courses en 1966 ? et… à quel prix ? Ici…",
@@ -48,20 +57,20 @@
       "pinned": false
     },
     {
-      "title": "La MINUTE RETAIL : Négos : concilier l’inconciliable…",
-      "excerpt": "A la une cette semaine : les négos qui s’annoncent. Encore lentement, mais sûrement. Tout aussi sûrement, l’enjeu se dessine : comment rapprocher des…",
-      "link": "https://www.olivierdauvers.fr/2026/10/09/la-minute-retail-negos-concilier-linconciliable/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-09T12:42:10.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Études consommateurs : ce que l’IA change dans l’économie du métier",
       "excerpt": "L’automatisation des entretiens et de l’analyse modifie les coûts de production des études. Elle ouvre aussi une négociation sur leur prix, leur…",
       "link": "https://www.frenchweb.fr/etudes-consommateurs-ce-que-lia-change-dans-leconomie-du-metier/463865",
       "source": "FrenchWeb",
       "pubDate": "2026-10-09T06:51:37.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "VERSO lève 5,4 millions d’euros : une nouvelle génération de plateformes d’études consommateurs émerge",
+      "excerpt": "La startup parisienne rejoint un marché où Outset, GetWhy et Listen Labs automatisent la conduite des entretiens et l’analyse des réponses. Ces…",
+      "link": "https://www.frenchweb.fr/verso-leve-54-millions-deuros-une-nouvelle-generation-de-plateformes-detudes-consommateurs-emerge/463862",
+      "source": "FrenchWeb",
+      "pubDate": "2026-10-09T05:04:01.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -72,15 +81,6 @@
       "source": "Maddyness",
       "pubDate": "2026-10-08T07:00:58.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "VERSO lève 5,4 millions d’euros : une nouvelle génération de plateformes d’études consommateurs émerge",
-      "excerpt": "La startup parisienne rejoint un marché où Outset, GetWhy et Listen Labs automatisent la conduite des entretiens et l’analyse des réponses. Ces…",
-      "link": "https://www.frenchweb.fr/verso-leve-54-millions-deuros-une-nouvelle-generation-de-plateformes-detudes-consommateurs-emerge/463862",
-      "source": "FrenchWeb",
-      "pubDate": "2026-10-09T05:04:01.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -167,18 +167,18 @@
       "pinned": false
     },
     {
-      "title": "Kroger testing 24-hour store hours",
-      "excerpt": "Supermarket chain Kroger is reportedly testing 24-hour service in a small pilot program. The pilot is running in one Cincinnati, Ohio, location and…",
-      "link": "https://www.retailcustomerexperience.com/news/kroger-testing-24-hour-store-hours/",
+      "title": "US holiday shoppers reaching for gift cards given tight budgets",
+      "excerpt": "Gift cards will play a significant role in holiday shopping this year as 93% of U.S. shoppers who have set a spending budget plan to buy gift cards…",
+      "link": "https://www.retailcustomerexperience.com/news/us-holiday-shoppers-reaching-for-gift-cards-given-tight-budgets/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-09T10:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "US holiday shoppers reaching for gift cards given tight budgets",
-      "excerpt": "Gift cards will play a significant role in holiday shopping this year as 93% of U.S. shoppers who have set a spending budget plan to buy gift cards…",
-      "link": "https://www.retailcustomerexperience.com/news/us-holiday-shoppers-reaching-for-gift-cards-given-tight-budgets/",
+      "title": "Lowe’s launches drone delivery, live pilot in North Carolina",
+      "excerpt": "Home improvement retailer Lowe's is piloting drone delivery at a store in Matthews, North Carolina. The service delivers to customers in as little as…",
+      "link": "https://www.retailcustomerexperience.com/news/lowes-launches-drone-delivery-live-pilot-in-north-carolina/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-09T10:00:00.000Z",
       "category": "GRAND ANGLE",
