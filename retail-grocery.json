@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-11T04:34:24.124Z",
+  "publishedAt": "2026-10-11T11:49:56.449Z",
   "itemsFr": [
     {
       "title": "SAMEDI CONSO : mon carnet (retail mais pas que…) de la semaine",
@@ -164,6 +164,24 @@
       "source": "Food Dive",
       "pubDate": "2026-10-09T13:39:00.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Kroger testing 24-hour store hours",
+      "excerpt": "Supermarket chain Kroger is reportedly testing 24-hour service in a small pilot program. The pilot is running in one Cincinnati, Ohio, location and…",
+      "link": "https://www.retailcustomerexperience.com/news/kroger-testing-24-hour-store-hours/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-09T10:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "US holiday shoppers reaching for gift cards given tight budgets",
+      "excerpt": "Gift cards will play a significant role in holiday shopping this year as 93% of U.S. shoppers who have set a spending budget plan to buy gift cards…",
+      "link": "https://www.retailcustomerexperience.com/news/us-holiday-shoppers-reaching-for-gift-cards-given-tight-budgets/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-09T10:00:00.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
