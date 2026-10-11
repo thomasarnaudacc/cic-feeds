@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-11T11:49:56.449Z",
+  "publishedAt": "2026-10-11T17:02:58.981Z",
   "itemsFr": [
     {
       "title": "SAMEDI CONSO : mon carnet (retail mais pas que…) de la semaine",
@@ -21,30 +21,12 @@
       "pinned": false
     },
     {
-      "title": "Après Waymo et Wayve, Pony.ai se lance à son tour dans la course aux taxis autonomes à Londres avec Uber",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/vehicule-autonome/apres-waymo-et-wayve-ponyai-se-lance-a-son-tour-dans-la-course-aux-taxis-autonomes-a-londres-avec-uber.2CYL7QOLGFBUZFLXSVDMHZ2PEE.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-10-09T16:02:53.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
       "title": "L'UE soutient 46 nouveaux projets de terres rares pour réduire sa dépendance à la Chine",
       "excerpt": "L'UE accélère le développement de projets d'extraction, de raffinage et de recyclage de terres rares pour sécuriser ses approvisionnements face au…",
       "link": "https://www.journaldunet.com/economie/industrie/1556365-l-ue-soutient-46-nouveaux-projets-de-terres-rares-pour-reduire-sa-dependance-a-la-chine/",
       "source": "Journal du Net",
       "pubDate": "2026-10-09T14:39:15.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "« On ne voit pas encore émerger d’attaques complètement autonomes » : le président d’InterCERT France appelle au réalisme face au marketing des laboratoires d’IA",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/cybersecurite/on-ne-voit-pas-encore-emerger-dattaques-completement-autonomes-le-president-dintercert-france-appelle-au-realisme-face-au-marketing-des-laboratoires-dia.7RZF3KP5B5H7DPD37AVIQ65YOE.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-10-09T14:38:19.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -75,21 +57,21 @@
       "pinned": false
     },
     {
-      "title": "Les mythes de l’IA et de la tech – Debunk #5 : « L'IA en entreprise, c'est l'IA générative »",
-      "excerpt": "L’article Les mythes de l’IA et de la tech – Debunk #5 : « L'IA en entreprise, c'est l'IA générative » est apparu en premier sur Maddyness - Le média…",
-      "link": "https://www.maddyness.com/2026/10/08/mythes-ia-debunk-5-ia-tabulaire/",
-      "source": "Maddyness",
-      "pubDate": "2026-10-08T07:00:58.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
       "title": "Marché de la seconde main : le prix supplante le réflexe écologique",
       "excerpt": "Selon le baromètre Novascope d'Enov publié en septembre 2026, 73 % des Français ont acheté un produit d'occasion au cours de l'année. Mais derrière…",
       "link": "https://www.ecommercemag.fr/retail-1220/barometre-etude-2168/marche-de-la-seconde-main-le-prix-supplante-le-reflexe-ecologique-60072",
       "source": "Ecommerce Mag",
       "pubDate": "2026-10-08T10:03:27.000Z",
       "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Les mythes de l’IA et de la tech – Debunk #5 : « L'IA en entreprise, c'est l'IA générative »",
+      "excerpt": "L’article Les mythes de l’IA et de la tech – Debunk #5 : « L'IA en entreprise, c'est l'IA générative » est apparu en premier sur Maddyness - Le média…",
+      "link": "https://www.maddyness.com/2026/10/08/mythes-ia-debunk-5-ia-tabulaire/",
+      "source": "Maddyness",
+      "pubDate": "2026-10-08T07:00:58.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
@@ -133,7 +115,7 @@
     {
       "title": "The Friday Checkout: Why Kroger and Target store workers are dressing to impress",
       "excerpt": "Both retailers have reportedly introduced new dress codes for their workers as they continue looking for ways to elevate the shopping experience.",
-      "link": "https://www.grocerydive.com/news/the-friday-checkout-why-kroger-and-target-store-workers-are-dressing-to-im/832556/",
+      "link": "https://www.grocerydive.com/news/kroger-target-dress-code-update-in-store-experience/832556/",
       "source": "Grocery Dive",
       "pubDate": "2026-10-09T15:41:00.000Z",
       "category": "GRAND ANGLE",
@@ -167,18 +149,18 @@
       "pinned": false
     },
     {
-      "title": "Kroger testing 24-hour store hours",
-      "excerpt": "Supermarket chain Kroger is reportedly testing 24-hour service in a small pilot program. The pilot is running in one Cincinnati, Ohio, location and…",
-      "link": "https://www.retailcustomerexperience.com/news/kroger-testing-24-hour-store-hours/",
+      "title": "Lowe’s launches drone delivery, live pilot in North Carolina",
+      "excerpt": "Home improvement retailer Lowe's is piloting drone delivery at a store in Matthews, North Carolina. The service delivers to customers in as little as…",
+      "link": "https://www.retailcustomerexperience.com/news/lowes-launches-drone-delivery-live-pilot-in-north-carolina/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-09T10:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "US holiday shoppers reaching for gift cards given tight budgets",
-      "excerpt": "Gift cards will play a significant role in holiday shopping this year as 93% of U.S. shoppers who have set a spending budget plan to buy gift cards…",
-      "link": "https://www.retailcustomerexperience.com/news/us-holiday-shoppers-reaching-for-gift-cards-given-tight-budgets/",
+      "title": "Kroger testing 24-hour store hours",
+      "excerpt": "Supermarket chain Kroger is reportedly testing 24-hour service in a small pilot program. The pilot is running in one Cincinnati, Ohio, location and…",
+      "link": "https://www.retailcustomerexperience.com/news/kroger-testing-24-hour-store-hours/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-09T10:00:00.000Z",
       "category": "GRAND ANGLE",
