@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-11T21:15:09.006Z",
+  "publishedAt": "2026-10-12T03:22:29.367Z",
   "itemsFr": [
     {
       "title": "SAMEDI CONSO : mon carnet (retail mais pas que…) de la semaine",
@@ -86,6 +86,15 @@
   ],
   "itemsEn": [
     {
+      "title": "Retail security: ensuring it’s a habit, not a crisis",
+      "excerpt": "Retail’s external security basics need clear owners and continuous checks, argues Andrew J. Jenkinson, independent cybersecurity analyst and…",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8780/retail-security:-ensuring-itas-a-habit-not-a-crisis/",
+      "source": "Retail Technology",
+      "pubDate": "2026-10-12T00:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
       "title": "Here are the top AI agents that can live in your text messages",
       "excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel…",
       "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
@@ -115,7 +124,7 @@
     {
       "title": "The Friday Checkout: Why Kroger and Target store workers are dressing to impress",
       "excerpt": "Both retailers have reportedly introduced new dress codes for their workers as they continue looking for ways to elevate the shopping experience.",
-      "link": "https://www.grocerydive.com/news/the-friday-checkout-why-kroger-and-target-store-workers-are-dressing-to-im/832556/",
+      "link": "https://www.grocerydive.com/news/kroger-target-dress-code-update-in-store-experience/832556/",
       "source": "Grocery Dive",
       "pubDate": "2026-10-09T15:41:00.000Z",
       "category": "GRAND ANGLE",
@@ -149,18 +158,18 @@
       "pinned": false
     },
     {
-      "title": "US holiday shoppers reaching for gift cards given tight budgets",
-      "excerpt": "Gift cards will play a significant role in holiday shopping this year as 93% of U.S. shoppers who have set a spending budget plan to buy gift cards…",
-      "link": "https://www.retailcustomerexperience.com/news/us-holiday-shoppers-reaching-for-gift-cards-given-tight-budgets/",
+      "title": "Kroger testing 24-hour store hours",
+      "excerpt": "Supermarket chain Kroger is reportedly testing 24-hour service in a small pilot program. The pilot is running in one Cincinnati, Ohio, location and…",
+      "link": "https://www.retailcustomerexperience.com/news/kroger-testing-24-hour-store-hours/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-09T10:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "Kroger testing 24-hour store hours",
-      "excerpt": "Supermarket chain Kroger is reportedly testing 24-hour service in a small pilot program. The pilot is running in one Cincinnati, Ohio, location and…",
-      "link": "https://www.retailcustomerexperience.com/news/kroger-testing-24-hour-store-hours/",
+      "title": "US holiday shoppers reaching for gift cards given tight budgets",
+      "excerpt": "Gift cards will play a significant role in holiday shopping this year as 93% of U.S. shoppers who have set a spending budget plan to buy gift cards…",
+      "link": "https://www.retailcustomerexperience.com/news/us-holiday-shoppers-reaching-for-gift-cards-given-tight-budgets/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-09T10:00:00.000Z",
       "category": "GRAND ANGLE",
@@ -182,15 +191,6 @@
       "source": "Food Dive",
       "pubDate": "2026-10-08T18:06:00.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "CASE STUDY: Cloud move secures Maggs Bros' heritage",
-      "excerpt": "Antiquarian bookseller Maggs Bros moves its entire server estate to Microsoft Azure, safeguarding irreplaceable provenance records and laying the…",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8778/case-study:-cloud-move-secures-maggs-bros-heritage/",
-      "source": "Retail Technology",
-      "pubDate": "2026-10-08T00:00:00.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     }
   ]
