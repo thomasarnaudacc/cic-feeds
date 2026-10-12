@@ -1,14 +1,23 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-12T13:55:44.455Z",
+  "publishedAt": "2026-10-12T22:19:12.164Z",
   "itemsFr": [
     {
-      "title": "Une cyberattaque détruit des stocks alimentaires chez Intermarché et Coopérative U",
-      "excerpt": "Une attaque informatique inédite a frappé les systèmes de réfrigération de grandes enseignes, provoquant la destruction massive de denrées…",
-      "link": "https://www.journaldunet.com/business/1556467-une-cyberattaque-detruit-des-stocks-alimentaires-chez-intermarche-et-cooperative-u/",
+      "title": "Proton VPN Plus à prix réduit : une formule complète pour les petites équipes",
+      "excerpt": "Proton VPN Plus passe à 2,99 € par mois pendant deux ans, avec dix appareils protégés, plus de 20 000 serveurs et plusieurs fonctions pensées pour la…",
+      "link": "https://www.journaldunet.com/cybersecurite/vpn/1555931-proton-vpn-plus-a-prix-reduit-une-formule-complete-pour-les-petites-equipes/",
       "source": "Journal du Net",
-      "pubDate": "2026-10-12T13:53:52.000Z",
-      "category": "GRAND ANGLE",
+      "pubDate": "2026-10-12T17:59:02.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "\"La connexion de Values.media à TF1, M6 et France Télévisions en agent to agent est live\"",
+      "excerpt": "Après TF1, Values.media teste l'achat agentique du sponsoring en TV linéaire avec M6 et France Télévisions. Les explications d'Emmanuel Crego…",
+      "link": "https://www.journaldunet.com/adtech/1555955-la-connexion-de-values-media-a-m6-et-france-televisions-en-agent-to-agent-est-live/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-12T14:13:16.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
@@ -21,30 +30,12 @@
       "pinned": false
     },
     {
-      "title": "Arrêtez de contacter plus, commencez à contacter juste !",
-      "excerpt": "Depuis le 11 août, le décret opt-in change la donne pour tous les acteurs du retail qui font de l'acquisition et de la fidélisation client par SMS…",
-      "link": "https://www.journaldunet.com/retail/1555963-tech-for-retail-arreter-de-contacter-plus-commencer-a-contacter-juste/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-12T12:30:12.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Amazon à Beauvais : 200 M€ et 1 000 CDI pour le 10e site français",
       "excerpt": "Inauguré le 9 octobre à Beauvais, le dixième centre de distribution français d'Amazon concrétise la suite du déploiement industriel en France. Avec…",
       "link": "https://www.ecommercemag.fr/logistique-1222/strategie-logistique-2177/amazon-a-beauvais-200-me-et-1-000-cdi-pour-le-10e-site-francais-60159",
       "source": "Ecommerce Mag",
       "pubDate": "2026-10-12T07:49:30.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Comment c’était les courses il y a 60 ans…?",
-      "excerpt": "RTL fête aujourd’hui ses 60 ans. Ma chronique du jour s’est donc mis à l’heure de 1966 : comment c’était les courses en 1966 ? et… à quel prix ? Ici…",
-      "link": "https://www.olivierdauvers.fr/2026/10/09/comment-cetait-les-courses-il-y-a-60-ans/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-09T19:37:44.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
     {
@@ -66,6 +57,15 @@
       "pinned": false
     },
     {
+      "title": "Comment c’était les courses il y a 60 ans…?",
+      "excerpt": "RTL fête aujourd’hui ses 60 ans. Ma chronique du jour s’est donc mis à l’heure de 1966 : comment c’était les courses en 1966 ? et… à quel prix ? Ici…",
+      "link": "https://www.olivierdauvers.fr/2026/10/09/comment-cetait-les-courses-il-y-a-60-ans/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-09T19:37:44.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
       "title": "Études consommateurs : ce que l’IA change dans l’économie du métier",
       "excerpt": "L’automatisation des entretiens et de l’analyse modifie les coûts de production des études. Elle ouvre aussi une négociation sur leur prix, leur…",
       "link": "https://www.frenchweb.fr/etudes-consommateurs-ce-que-lia-change-dans-leconomie-du-metier/463865",
@@ -77,29 +77,47 @@
   ],
   "itemsEn": [
     {
-      "title": "Target denies cooperating with ICE. Here’s why that may not matter.",
-      "excerpt": "Whether they own or lease store property, retailers probably need formal policies about whether law enforcement agencies can establish operational…",
-      "link": "https://www.retaildive.com/news/target-denies-cooperating-with-ice-heres-why-that-may-not-matter/832645/",
+      "title": "Lowe’s launches Black Friday deals in October",
+      "excerpt": "As shoppers seek Black Friday and Cyber Week discounts, Lowe’s is spreading out its sales events.",
+      "link": "https://www.retaildive.com/news/lowes-launches-black-friday-deals-in-october/832730/",
       "source": "Retail Dive",
-      "pubDate": "2026-10-12T13:17:00.000Z",
+      "pubDate": "2026-10-12T15:55:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "Tractor Supply opens Idaho distribution center with automation, dedicated AI team",
-      "excerpt": "The retailer's site in Nampa will distribute inventory to 123 stores and includes a group that aims to \"apply practical artificial intelligence to…",
-      "link": "https://www.retaildive.com/news/tractor-supply-opens-idaho-distribution-center-with-automation-dedicated-a/832591/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-12T13:00:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "excerpt": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+      "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-12T15:31:19.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
       "pinned": false
     },
     {
-      "title": "When AI becomes the shopper: Why retailers must rethink customer experience",
-      "excerpt": "When OpenAI introduced shopping capabilities in ChatGPT, my first thought wasn't about consumers. It was about retailers. Having spent years working…",
-      "link": "https://www.retailcustomerexperience.com/blogs/when-ai-becomes-the-shopper-why-retailers-must-rethink-customer-experience/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-12T10:00:00.000Z",
+      "title": "Ross opens 51 new stores",
+      "excerpt": "The off-price retailer completed its fiscal year 2026 store growth plan of opening 115 new locations, including its first in Massachusetts.",
+      "link": "https://www.retaildive.com/news/ross-opens-51-new-stores/832721/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-12T15:18:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "PepsiCo puts ‘all the urgency’ into turning around soft drinks",
+      "excerpt": "The beverage giant is planning to add more functional benefits to Poppi, its newly acquired better-for-you soda brand.",
+      "link": "https://www.fooddive.com/news/pepsico-soda-business-turnaround-poppi-mountain-dew/832737/",
+      "source": "Food Dive",
+      "pubDate": "2026-10-12T15:03:00.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
+    {
+      "title": "Where are the gaps in grocers’ prepared food offerings?",
+      "excerpt": "A quarter of surveyed shoppers said their grocer’s deli-prepared foods section lacks variety, especially in health-focused products and global…",
+      "link": "https://www.grocerydive.com/news/grocery-foodservice-prepared-offerings-multicultural-foods-fmi-report/832690/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-10-12T14:54:45.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -107,6 +125,15 @@
       "title": "Holiday shoppers starting earlier, budgets climb to $849",
       "excerpt": "Holiday shopping has started this year, and consumers are planning to spend more despite continued concerns about prices and the economy. The data…",
       "link": "https://www.retailcustomerexperience.com/news/holiday-shoppers-starting-earlier-budgets-climb-to-849/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-12T10:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "When AI becomes the shopper: Why retailers must rethink customer experience",
+      "excerpt": "When OpenAI introduced shopping capabilities in ChatGPT, my first thought wasn't about consumers. It was about retailers. Having spent years working…",
+      "link": "https://www.retailcustomerexperience.com/blogs/when-ai-becomes-the-shopper-why-retailers-must-rethink-customer-experience/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-12T10:00:00.000Z",
       "category": "GRAND ANGLE",
@@ -122,21 +149,12 @@
       "pinned": false
     },
     {
-      "title": "Here are the top AI agents that can live in your text messages",
-      "excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel…",
-      "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-10T14:00:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-      "excerpt": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
-      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-10T00:18:32.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "title": "Molson Coors taps chief supply chain officer for Americas",
+      "excerpt": "Matthew Hook will step into the role with a mandate of continuing to modernize operations and boost service levels.",
+      "link": "https://www.fooddive.com/news/molson-coors-taps-chief-supply-chain-officer-for-americas/832543/",
+      "source": "Food Dive",
+      "pubDate": "2026-10-09T13:39:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
@@ -149,39 +167,12 @@
       "pinned": false
     },
     {
-      "title": "Albertsons continues consolidating internal departments",
-      "excerpt": "The grocer is bringing its retail media arm under its merchandising organization, with CMO Emily Turner overseeing the combined organization.",
-      "link": "https://www.grocerydive.com/news/albertsons-media-collective-consolidating-departments-merchandising-media-operations/832605/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-09T15:00:00.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "Molson Coors taps chief supply chain officer for Americas",
-      "excerpt": "Matthew Hook will step into the role with a mandate of continuing to modernize operations and boost service levels.",
-      "link": "https://www.fooddive.com/news/molson-coors-taps-chief-supply-chain-officer-for-americas/832543/",
-      "source": "Food Dive",
-      "pubDate": "2026-10-09T13:39:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
       "title": "AI in fashion at Gap",
       "excerpt": "Fashion retailer Gap Inc is unveiling a suite of AI-powered shopping tools across its brands network",
       "link": "https://www.retailtechnology.co.uk/rss.xml/news/8779/ai-in-fashion-at-gap/",
       "source": "Retail Technology",
       "pubDate": "2026-10-09T00:00:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Oterra teams with HowGood to track sustainability of natural colors",
-      "excerpt": "As demand for natural dyes grows, companies are investing in environmental reporting metrics common within mainstream ingredients.",
-      "link": "https://www.fooddive.com/news/oterra-howgood-sustainability-natural-colors/832530/",
-      "source": "Food Dive",
-      "pubDate": "2026-10-08T18:06:00.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     }
   ]
