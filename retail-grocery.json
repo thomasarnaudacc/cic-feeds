@@ -1,13 +1,40 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-12T03:22:29.367Z",
+  "publishedAt": "2026-10-12T13:55:44.455Z",
   "itemsFr": [
     {
-      "title": "SAMEDI CONSO : mon carnet (retail mais pas que…) de la semaine",
-      "excerpt": "« SAMEDI CONSO », la semaine retail (mais pas que) passée en revue. Comme toujours en totale liberté. Et tant pis si ça pique ! Âmes (trop) sensibles…",
-      "link": "https://www.olivierdauvers.fr/2026/10/10/samedi-conso-mon-carnet-retail-mais-pas-que-de-la-semaine-383/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-10T06:00:06.000Z",
+      "title": "Une cyberattaque détruit des stocks alimentaires chez Intermarché et Coopérative U",
+      "excerpt": "Une attaque informatique inédite a frappé les systèmes de réfrigération de grandes enseignes, provoquant la destruction massive de denrées…",
+      "link": "https://www.journaldunet.com/business/1556467-une-cyberattaque-detruit-des-stocks-alimentaires-chez-intermarche-et-cooperative-u/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-12T13:53:52.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Cyberattaque dans les supermarchés : des millions d’euros de pertes redoutées",
+      "excerpt": "Une attaque informatique visant les installations frigorifiques de Coopérative U, Intermarché et E.Leclerc a perturbé la conservation des produits…",
+      "link": "https://www.ecommercemag.fr/retail-1220/cyberattaque-dans-les-supermarches-des-millions-deuros-de-pertes-redoutees-60171",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-10-12T13:41:31.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Arrêtez de contacter plus, commencez à contacter juste !",
+      "excerpt": "Depuis le 11 août, le décret opt-in change la donne pour tous les acteurs du retail qui font de l'acquisition et de la fidélisation client par SMS…",
+      "link": "https://www.journaldunet.com/retail/1555963-tech-for-retail-arreter-de-contacter-plus-commencer-a-contacter-juste/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-12T12:30:12.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Amazon à Beauvais : 200 M€ et 1 000 CDI pour le 10e site français",
+      "excerpt": "Inauguré le 9 octobre à Beauvais, le dixième centre de distribution français d'Amazon concrétise la suite du déploiement industriel en France. Avec…",
+      "link": "https://www.ecommercemag.fr/logistique-1222/strategie-logistique-2177/amazon-a-beauvais-200-me-et-1-000-cdi-pour-le-10e-site-francais-60159",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-10-12T07:49:30.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -21,20 +48,20 @@
       "pinned": false
     },
     {
-      "title": "L'UE soutient 46 nouveaux projets de terres rares pour réduire sa dépendance à la Chine",
-      "excerpt": "L'UE accélère le développement de projets d'extraction, de raffinage et de recyclage de terres rares pour sécuriser ses approvisionnements face au…",
-      "link": "https://www.journaldunet.com/economie/industrie/1556365-l-ue-soutient-46-nouveaux-projets-de-terres-rares-pour-reduire-sa-dependance-a-la-chine/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-09T14:39:15.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "title": "LEDGER : un implant matériel met à l’épreuve la sécurité de sa chaîne de distribution",
+      "excerpt": "Ledger a confirmé, samedi 10 octobre, la présence d’un implant matériel non autorisé dans l’appareil d’un utilisateur concerné par son enquête sur…",
+      "link": "https://www.frenchweb.fr/ledger-un-implant-materiel-met-a-lepreuve-la-securite-de-sa-chaine-de-distribution/463895",
+      "source": "FrenchWeb",
+      "pubDate": "2026-10-12T05:32:17.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "La Chine et l'Union européenne s'accordent sur le commerce des véhicules hybrides",
-      "excerpt": "Pékin et Bruxelles s'accordent sur le commerce des véhicules hybrides et s'engagent à renforcer leur dialogue, notamment sur les exportations de…",
-      "link": "https://www.journaldunet.com/economie/industrie/1556359-la-chine-et-l-union-europeenne-s-accordent-sur-le-commerce-des-vehicules-hybrides/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-09T14:35:26.000Z",
+      "title": "SAMEDI CONSO : mon carnet (retail mais pas que…) de la semaine",
+      "excerpt": "« SAMEDI CONSO », la semaine retail (mais pas que) passée en revue. Comme toujours en totale liberté. Et tant pis si ça pique ! Âmes (trop) sensibles…",
+      "link": "https://www.olivierdauvers.fr/2026/10/10/samedi-conso-mon-carnet-retail-mais-pas-que-de-la-semaine-383/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-10T06:00:06.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -46,45 +73,45 @@
       "pubDate": "2026-10-09T06:51:37.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
-    },
-    {
-      "title": "VERSO lève 5,4 millions d’euros : une nouvelle génération de plateformes d’études consommateurs émerge",
-      "excerpt": "La startup parisienne rejoint un marché où Outset, GetWhy et Listen Labs automatisent la conduite des entretiens et l’analyse des réponses. Ces…",
-      "link": "https://www.frenchweb.fr/verso-leve-54-millions-deuros-une-nouvelle-generation-de-plateformes-detudes-consommateurs-emerge/463862",
-      "source": "FrenchWeb",
-      "pubDate": "2026-10-09T05:04:01.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Marché de la seconde main : le prix supplante le réflexe écologique",
-      "excerpt": "Selon le baromètre Novascope d'Enov publié en septembre 2026, 73 % des Français ont acheté un produit d'occasion au cours de l'année. Mais derrière…",
-      "link": "https://www.ecommercemag.fr/retail-1220/barometre-etude-2168/marche-de-la-seconde-main-le-prix-supplante-le-reflexe-ecologique-60072",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-10-08T10:03:27.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Les mythes de l’IA et de la tech – Debunk #5 : « L'IA en entreprise, c'est l'IA générative »",
-      "excerpt": "L’article Les mythes de l’IA et de la tech – Debunk #5 : « L'IA en entreprise, c'est l'IA générative » est apparu en premier sur Maddyness - Le média…",
-      "link": "https://www.maddyness.com/2026/10/08/mythes-ia-debunk-5-ia-tabulaire/",
-      "source": "Maddyness",
-      "pubDate": "2026-10-08T07:00:58.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Marques en période de crise : que veulent vraiment les Français ?",
-      "excerpt": "Alors que les crises se succèdent et bouleversent les habitudes de consommation, les Français attendent-ils davantage des marques ? Une étude menée…",
-      "link": "https://www.ecommercemag.fr/marketing-1221/marques-en-periode-de-crise-que-veulent-vraiment-les-francais-60056",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-10-07T14:55:23.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
     }
   ],
   "itemsEn": [
+    {
+      "title": "Target denies cooperating with ICE. Here’s why that may not matter.",
+      "excerpt": "Whether they own or lease store property, retailers probably need formal policies about whether law enforcement agencies can establish operational…",
+      "link": "https://www.retaildive.com/news/target-denies-cooperating-with-ice-heres-why-that-may-not-matter/832645/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-12T13:17:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Tractor Supply opens Idaho distribution center with automation, dedicated AI team",
+      "excerpt": "The retailer's site in Nampa will distribute inventory to 123 stores and includes a group that aims to \"apply practical artificial intelligence to…",
+      "link": "https://www.retaildive.com/news/tractor-supply-opens-idaho-distribution-center-with-automation-dedicated-a/832591/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-12T13:00:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "When AI becomes the shopper: Why retailers must rethink customer experience",
+      "excerpt": "When OpenAI introduced shopping capabilities in ChatGPT, my first thought wasn't about consumers. It was about retailers. Having spent years working…",
+      "link": "https://www.retailcustomerexperience.com/blogs/when-ai-becomes-the-shopper-why-retailers-must-rethink-customer-experience/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-12T10:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Holiday shoppers starting earlier, budgets climb to $849",
+      "excerpt": "Holiday shopping has started this year, and consumers are planning to spend more despite continued concerns about prices and the economy. The data…",
+      "link": "https://www.retailcustomerexperience.com/news/holiday-shoppers-starting-earlier-budgets-climb-to-849/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-12T10:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "Retail security: ensuring it’s a habit, not a crisis",
       "excerpt": "Retail’s external security basics need clear owners and continuous checks, argues Andrew J. Jenkinson, independent cybersecurity analyst and…",
@@ -113,29 +140,11 @@
       "pinned": false
     },
     {
-      "title": "Nearly half of shoppers are worried about affording holiday gifts this year",
-      "excerpt": "Concerns about the job market, as well as personal and household debt, are affecting how much consumers plan to spend this season, per an ICSC report.",
-      "link": "https://www.retaildive.com/news/shoppers-worried-affording-holidays-icsc/832615/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-09T15:51:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "The Friday Checkout: Why Kroger and Target store workers are dressing to impress",
       "excerpt": "Both retailers have reportedly introduced new dress codes for their workers as they continue looking for ways to elevate the shopping experience.",
       "link": "https://www.grocerydive.com/news/kroger-target-dress-code-update-in-store-experience/832556/",
       "source": "Grocery Dive",
       "pubDate": "2026-10-09T15:41:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Bloomingdale’s merchant jumps to Bluemercury",
-      "excerpt": "Stacie Borteck Dattner will report to Bluemercury CEO Alexandre Choueiri, the former Kering Beauté executive who arrived in August.",
-      "link": "https://www.retaildive.com/news/bloomingdales-merchant-bluemercury/832597/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-09T15:33:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -155,24 +164,6 @@
       "source": "Food Dive",
       "pubDate": "2026-10-09T13:39:00.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Kroger testing 24-hour store hours",
-      "excerpt": "Supermarket chain Kroger is reportedly testing 24-hour service in a small pilot program. The pilot is running in one Cincinnati, Ohio, location and…",
-      "link": "https://www.retailcustomerexperience.com/news/kroger-testing-24-hour-store-hours/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-09T10:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "US holiday shoppers reaching for gift cards given tight budgets",
-      "excerpt": "Gift cards will play a significant role in holiday shopping this year as 93% of U.S. shoppers who have set a spending budget plan to buy gift cards…",
-      "link": "https://www.retailcustomerexperience.com/news/us-holiday-shoppers-reaching-for-gift-cards-given-tight-budgets/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-09T10:00:00.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
