@@ -1,41 +1,59 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-13T04:37:31.184Z",
+  "publishedAt": "2026-10-13T13:12:28.897Z",
   "itemsFr": [
     {
-      "title": "Proton VPN Plus à prix réduit : une formule complète pour les petites équipes",
-      "excerpt": "Proton VPN Plus passe à 2,99 € par mois pendant deux ans, avec dix appareils protégés, plus de 20 000 serveurs et plusieurs fonctions pensées pour la…",
-      "link": "https://www.journaldunet.com/cybersecurite/vpn/1555931-proton-vpn-plus-a-prix-reduit-une-formule-complete-pour-les-petites-equipes/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-12T17:59:02.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
+      "title": "King Jouet accélère sur les « kidultes » et porte son réseau dédié à six magasins",
+      "excerpt": "Portée par un marché adulte qui pèse désormais 30 % du secteur du jouet, l'enseigne familiale française renforce son concept KingDultes. Deux…",
+      "link": "https://www.ecommercemag.fr/retail-1220/strategie-retail-2163/king-jouet-accelere-sur-les-kidultes-et-porte-son-reseau-dedie-a-six-magasins-60213",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-10-13T10:52:43.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "\"La connexion de Values.media à TF1, M6 et France Télévisions en agent to agent est live\"",
-      "excerpt": "Après TF1, Values.media teste l'achat agentique du sponsoring en TV linéaire avec M6 et France Télévisions. Les explications d'Emmanuel Crego…",
-      "link": "https://www.journaldunet.com/adtech/1555955-la-connexion-de-values-media-a-m6-et-france-televisions-en-agent-to-agent-est-live/",
+      "title": "L'IA autonome ne peut pas faire l'impasse sur le référentiel IT",
+      "excerpt": "En cybersécurité, l'essor de l'IA soulève une question clé : sur quelles données et quels référentiels s'appuyer pour renforcer la résilience des…",
+      "link": "https://www.journaldunet.com/cybersecurite/1556357-l-ia-autonome-ne-peut-pas-faire-l-impasse-sur-le-referentiel-it/",
       "source": "Journal du Net",
-      "pubDate": "2026-10-12T14:13:16.000Z",
+      "pubDate": "2026-10-13T08:07:01.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "IA agentique : le nouveau collaborateur que personne ne contrôle",
+      "excerpt": "Avec l'IA agentique, l'enjeu n'est plus la fiabilité mais le contrôle : agents ciblés, retard des dirigeants, souveraineté… Seule une gouvernance…",
+      "link": "https://www.journaldunet.com/cybersecurite/1555967-ia-agentique-le-nouveau-collaborateur-que-personne-ne-controle/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-13T07:59:38.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
-      "title": "Cyberattaque dans les supermarchés : des millions d’euros de pertes redoutées",
-      "excerpt": "Une attaque informatique visant les installations frigorifiques de Coopérative U, Intermarché et E.Leclerc a perturbé la conservation des produits…",
-      "link": "https://www.ecommercemag.fr/retail-1220/cyberattaque-dans-les-supermarches-des-millions-deuros-de-pertes-redoutees-60171",
+      "title": "Reconditionné : Save lance son site e-commerce adossé à ses 130 boutiques",
+      "excerpt": "Le spécialiste de la réparation Save déploie sa boutique web dédiée aux smartphones reconditionnés. Fort de son maillage physique, l'enseigne associe…",
+      "link": "https://www.ecommercemag.fr/retail-1220/reconditionne-save-lance-son-site-e-commerce-adosse-a-ses-130-boutiques-60205",
       "source": "Ecommerce Mag",
-      "pubDate": "2026-10-12T13:41:31.000Z",
+      "pubDate": "2026-10-13T07:23:19.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "Amazon à Beauvais : 200 M€ et 1 000 CDI pour le 10e site français",
-      "excerpt": "Inauguré le 9 octobre à Beauvais, le dixième centre de distribution français d'Amazon concrétise la suite du déploiement industriel en France. Avec…",
-      "link": "https://www.ecommercemag.fr/logistique-1222/strategie-logistique-2177/amazon-a-beauvais-200-me-et-1-000-cdi-pour-le-10e-site-francais-60159",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-10-12T07:49:30.000Z",
-      "category": "GRAND ANGLE",
+      "title": "CARBONFARM lève 7 millions d’euros pour rendre la réduction du méthane des rizières mesurable et finançable",
+      "excerpt": "La société française annonce une série A de 7 millions d’euros pour développer ses programmes de décarbonation du riz. Son approche associe suivi…",
+      "link": "https://www.frenchweb.fr/carbonfarm-leve-7-millions-deuros-pour-rendre-la-reduction-du-methane-des-rizieres-mesurable-et-financable/463919",
+      "source": "FrenchWeb",
+      "pubDate": "2026-10-13T06:55:49.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "Wavo lève 10 millions d’euros pour transformer le stock des PME en trésorerie",
+      "excerpt": "L’article Wavo lève 10 millions d’euros pour transformer le stock des PME en trésorerie est apparu en premier sur Maddyness - Le média pour…",
+      "link": "https://www.maddyness.com/2026/10/13/wavo-leve-10-millions-deuros-pour-transformer-le-stock-des-pme-en-tresorerie/",
+      "source": "Maddyness",
+      "pubDate": "2026-10-13T06:00:34.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
@@ -64,18 +82,54 @@
       "pubDate": "2026-10-09T19:37:44.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
-    },
-    {
-      "title": "Études consommateurs : ce que l’IA change dans l’économie du métier",
-      "excerpt": "L’automatisation des entretiens et de l’analyse modifie les coûts de production des études. Elle ouvre aussi une négociation sur leur prix, leur…",
-      "link": "https://www.frenchweb.fr/etudes-consommateurs-ce-que-lia-change-dans-leconomie-du-metier/463865",
-      "source": "FrenchWeb",
-      "pubDate": "2026-10-09T06:51:37.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
     }
   ],
   "itemsEn": [
+    {
+      "title": "Reporter’s notebook: Inside Scheels’ sporting goods wonderland",
+      "excerpt": "Come for the sporting goods, stay for the animatronic Abe Lincoln. And whatever you do, don’t expect your average retail experience.",
+      "link": "https://www.retaildive.com/news/scheels-store-experience-retail-best-kept-secret/831211/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-13T13:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+      "excerpt": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing…",
+      "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-13T13:00:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Giraffe Bio aims its bespoke biomolecules at the looming copper shortage",
+      "excerpt": "As AI data centers and EVs drive up demand for copper, Giraffe Bio has unearthed a $6.4 million seed round to help miners extract more of the mineral.",
+      "link": "https://techcrunch.com/2026/10/13/giraffe-bio-aims-its-bespoke-biomolecules-at-the-looming-copper-shortage/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-13T12:40:00.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
+    {
+      "title": "Gen Z, Gen Alpha and the AI-ificiation of retail this holiday season",
+      "excerpt": "AI is “rewiring” the brains of today’s youth, at the same time that they’re craving physical experiences. Can retailers strike the right balance?",
+      "link": "https://www.retaildive.com/news/gen-z-gen-alpha-holiday-shopping-retail-trends/831838/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-13T11:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Amazon cut hundreds of corporate roles in retail division",
+      "excerpt": "Amazon has cut just under 1,000 corporate roles within its retail division. The white-collar job cuts, confirmed by Amazon, took place within the…",
+      "link": "https://www.retailcustomerexperience.com/news/amazon-cut-hundreds-of-corporate-roles-in-retail-division/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-13T10:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "TikTok joins agentic AI trend",
       "excerpt": "Social media giant TikTok is launching an agentic AI service to enable users to find products on the platform and buy directly from a brand with one…",
@@ -83,33 +137,6 @@
       "source": "Retail Technology",
       "pubDate": "2026-10-13T00:00:00.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Lowe’s launches Black Friday deals in October",
-      "excerpt": "As shoppers seek Black Friday and Cyber Week discounts, Lowe’s is spreading out its sales events.",
-      "link": "https://www.retaildive.com/news/lowes-launches-black-friday-deals-in-october/832730/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-12T15:55:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Microsoft president says UK is best placed to drive AI regulation",
-      "excerpt": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
-      "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-12T15:31:19.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
-      "title": "Ross opens 51 new stores",
-      "excerpt": "The off-price retailer completed its fiscal year 2026 store growth plan of opening 115 new locations, including its first in Massachusetts.",
-      "link": "https://www.retaildive.com/news/ross-opens-51-new-stores/832721/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-12T15:18:00.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -143,15 +170,6 @@
       "title": "When AI becomes the shopper: Why retailers must rethink customer experience",
       "excerpt": "When OpenAI introduced shopping capabilities in ChatGPT, my first thought wasn't about consumers. It was about retailers. Having spent years working…",
       "link": "https://www.retailcustomerexperience.com/blogs/when-ai-becomes-the-shopper-why-retailers-must-rethink-customer-experience/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-12T10:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Holiday shoppers starting earlier, budgets climb to $849",
-      "excerpt": "Holiday shopping has started this year, and consumers are planning to spend more despite continued concerns about prices and the economy. The data…",
-      "link": "https://www.retailcustomerexperience.com/news/holiday-shoppers-starting-earlier-budgets-climb-to-849/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-12T10:00:00.000Z",
       "category": "GRAND ANGLE",
