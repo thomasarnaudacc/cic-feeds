@@ -1,40 +1,67 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-13T13:12:28.897Z",
+  "publishedAt": "2026-10-13T20:26:50.605Z",
   "itemsFr": [
+    {
+      "title": "CarbonFarm lève 7 millions d’euros pour réduire les émissions de méthane dans les rizières",
+      "excerpt": "L’article CarbonFarm lève 7 millions d’euros pour réduire les émissions de méthane dans les rizières est apparu en premier sur Maddyness - Le média…",
+      "link": "https://www.maddyness.com/2026/10/13/carbonfarm-leve-7-millions-deuros-pour-reduire-les-emissions-de-methane-dans-les-rizieres/",
+      "source": "Maddyness",
+      "pubDate": "2026-10-13T16:20:27.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "Workday mise tout sur l’IA agentique avec Anthropic et renforce sa plateforme RH et finance avec l’acquisition de C1.ai",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/ia-generative/workday-mise-tout-sur-lia-agentique-avec-anthropic-et-renforce-sa-plateforme-rh-et-finance-avec-lacquisition-de-c1ai.MEM33LYVA5DFLHE3S2UK4WLUAQ.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-10-13T16:02:50.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "La transmission d'entreprise, angle mort de notre politique économique",
+      "excerpt": "500 000 entreprises devront changer de mains. Pourtant, la transmission reste le grand angle mort de notre économie : le vrai défi n'est pas le prix…",
+      "link": "https://www.journaldunet.com/management/emploi-cadres/1556453-la-transmission-d-entreprise-angle-mort-de-notre-politique-economique/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-13T16:00:02.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Frigos de supermarchés sabotés : des contrôleurs Danfoss obsolètes, des failles documentées et des responsabilités à éclaircir",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/cybersecurite/frigos-de-supermarches-sabotes-des-controleurs-danfoss-obsoletes-des-failles-documentees-et-des-responsabilites-a-eclaircir.OUL4TOPO3BFNTNXUC4QILX3OAY.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-10-13T15:29:13.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Carrefour, Intermarché, Chronodrive… Les notes Yuka débarquent sur les sites de courses en ligne",
+      "excerpt": "Depuis ce mardi 13 octobre 2026, les scores de l’application Yuka commencent à apparaître directement sur les sites de courses en ligne de plusieurs…",
+      "link": "https://www.ecommercemag.fr/retail-1220/carrefour-intermarche-chronodrive-les-notes-yuka-debarquent-sur-les-sites-de-courses-en-ligne-60228",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-10-13T14:43:14.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "Le spectaculaire (mais fragile) rebond de l'industrie européenne",
+      "excerpt": "Après des années de marasme, l'industrie européenne tire profit du réarmement, du boom de l'IA et de certaines perturbations dans le commerce…",
+      "link": "https://www.journaldunet.com/economie/industrie/1556515-le-spectaculaire-mais-fragile-rebond-de-l-industrie-europeenne/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-13T13:45:07.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "King Jouet accélère sur les « kidultes » et porte son réseau dédié à six magasins",
       "excerpt": "Portée par un marché adulte qui pèse désormais 30 % du secteur du jouet, l'enseigne familiale française renforce son concept KingDultes. Deux…",
       "link": "https://www.ecommercemag.fr/retail-1220/strategie-retail-2163/king-jouet-accelere-sur-les-kidultes-et-porte-son-reseau-dedie-a-six-magasins-60213",
       "source": "Ecommerce Mag",
       "pubDate": "2026-10-13T10:52:43.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "L'IA autonome ne peut pas faire l'impasse sur le référentiel IT",
-      "excerpt": "En cybersécurité, l'essor de l'IA soulève une question clé : sur quelles données et quels référentiels s'appuyer pour renforcer la résilience des…",
-      "link": "https://www.journaldunet.com/cybersecurite/1556357-l-ia-autonome-ne-peut-pas-faire-l-impasse-sur-le-referentiel-it/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-13T08:07:01.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "IA agentique : le nouveau collaborateur que personne ne contrôle",
-      "excerpt": "Avec l'IA agentique, l'enjeu n'est plus la fiabilité mais le contrôle : agents ciblés, retard des dirigeants, souveraineté… Seule une gouvernance…",
-      "link": "https://www.journaldunet.com/cybersecurite/1555967-ia-agentique-le-nouveau-collaborateur-que-personne-ne-controle/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-13T07:59:38.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Reconditionné : Save lance son site e-commerce adossé à ses 130 boutiques",
-      "excerpt": "Le spécialiste de la réparation Save déploie sa boutique web dédiée aux smartphones reconditionnés. Fort de son maillage physique, l'enseigne associe…",
-      "link": "https://www.ecommercemag.fr/retail-1220/reconditionne-save-lance-son-site-e-commerce-adosse-a-ses-130-boutiques-60205",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-10-13T07:23:19.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -86,38 +113,56 @@
   ],
   "itemsEn": [
     {
+      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+      "excerpt": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
+      "link": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-13T18:30:00.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
+    {
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "excerpt": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before…",
+      "link": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-13T17:30:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Albertsons hastens cost-cutting drive as sales continue to flounder",
+      "excerpt": "As the grocer recorded its third consecutive quarter of falling identical sales growth, its CEO indicated that layoffs and store closures in certain…",
+      "link": "https://www.grocerydive.com/news/albertsons-second-quarter-2026-earnings-turnaround-grocery-supermarkets/832830/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-10-13T16:28:00.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
+    {
+      "title": "Nordstrom expands FAO Schwarz offerings, debuts new app features for holidays",
+      "excerpt": "The department store revamped its Nordy marketing character and is offering same-day beauty deliveries at select locations this season.",
+      "link": "https://www.retaildive.com/news/nordstrom-expands-fao-schwarz-offerings-new-app-features-holiday/832853/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-13T15:55:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Justin Timberlake, Jessica Biel enter protein soda market",
+      "excerpt": "Proda is betting the celebrity backing will help the brand enter more mainstream retail outlets.",
+      "link": "https://www.fooddive.com/news/justin-timberlake-jessica-biel-protein-soda-proda/832787/",
+      "source": "Food Dive",
+      "pubDate": "2026-10-13T13:09:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
       "title": "Reporter’s notebook: Inside Scheels’ sporting goods wonderland",
       "excerpt": "Come for the sporting goods, stay for the animatronic Abe Lincoln. And whatever you do, don’t expect your average retail experience.",
       "link": "https://www.retaildive.com/news/scheels-store-experience-retail-best-kept-secret/831211/",
       "source": "Retail Dive",
       "pubDate": "2026-10-13T13:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-      "excerpt": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing…",
-      "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-13T13:00:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Giraffe Bio aims its bespoke biomolecules at the looming copper shortage",
-      "excerpt": "As AI data centers and EVs drive up demand for copper, Giraffe Bio has unearthed a $6.4 million seed round to help miners extract more of the mineral.",
-      "link": "https://techcrunch.com/2026/10/13/giraffe-bio-aims-its-bespoke-biomolecules-at-the-looming-copper-shortage/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-13T12:40:00.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
-      "title": "Gen Z, Gen Alpha and the AI-ificiation of retail this holiday season",
-      "excerpt": "AI is “rewiring” the brains of today’s youth, at the same time that they’re craving physical experiences. Can retailers strike the right balance?",
-      "link": "https://www.retaildive.com/news/gen-z-gen-alpha-holiday-shopping-retail-trends/831838/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-13T11:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -158,15 +203,6 @@
       "pinned": false
     },
     {
-      "title": "Where are the gaps in grocers’ prepared food offerings?",
-      "excerpt": "A quarter of surveyed shoppers said their grocer’s deli-prepared foods section lacks variety, especially in health-focused products and global…",
-      "link": "https://www.grocerydive.com/news/grocery-foodservice-prepared-offerings-multicultural-foods-fmi-report/832690/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-12T14:54:45.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "When AI becomes the shopper: Why retailers must rethink customer experience",
       "excerpt": "When OpenAI introduced shopping capabilities in ChatGPT, my first thought wasn't about consumers. It was about retailers. Having spent years working…",
       "link": "https://www.retailcustomerexperience.com/blogs/when-ai-becomes-the-shopper-why-retailers-must-rethink-customer-experience/",
@@ -182,15 +218,6 @@
       "source": "Retail Technology",
       "pubDate": "2026-10-12T00:00:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Molson Coors taps chief supply chain officer for Americas",
-      "excerpt": "Matthew Hook will step into the role with a mandate of continuing to modernize operations and boost service levels.",
-      "link": "https://www.fooddive.com/news/molson-coors-taps-chief-supply-chain-officer-for-americas/832543/",
-      "source": "Food Dive",
-      "pubDate": "2026-10-09T13:39:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     }
   ]
