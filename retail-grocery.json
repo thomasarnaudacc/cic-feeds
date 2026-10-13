@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-12T22:19:12.164Z",
+  "publishedAt": "2026-10-13T04:37:31.184Z",
   "itemsFr": [
     {
       "title": "Proton VPN Plus à prix réduit : une formule complète pour les petites équipes",
@@ -77,6 +77,15 @@
   ],
   "itemsEn": [
     {
+      "title": "TikTok joins agentic AI trend",
+      "excerpt": "Social media giant TikTok is launching an agentic AI service to enable users to find products on the platform and buy directly from a brand with one…",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8782/tiktok-joins-agentic-ai-trend/",
+      "source": "Retail Technology",
+      "pubDate": "2026-10-13T00:00:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
       "title": "Lowe’s launches Black Friday deals in October",
       "excerpt": "As shoppers seek Black Friday and Cyber Week discounts, Lowe’s is spreading out its sales events.",
       "link": "https://www.retaildive.com/news/lowes-launches-black-friday-deals-in-october/832730/",
@@ -113,6 +122,15 @@
       "pinned": false
     },
     {
+      "title": "Ahold Delhaize experiencing cybersecurity issue",
+      "excerpt": "The company said it took some systems offline as part of “precautionary measures.” Websites for all five of the grocer’s U.S. banners were down…",
+      "link": "https://www.grocerydive.com/news/ahold-delhaize-adusa-cybersecurity/832734/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-10-12T15:00:00.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
       "title": "Where are the gaps in grocers’ prepared food offerings?",
       "excerpt": "A quarter of surveyed shoppers said their grocer’s deli-prepared foods section lacks variety, especially in health-focused products and global…",
       "link": "https://www.grocerydive.com/news/grocery-foodservice-prepared-offerings-multicultural-foods-fmi-report/832690/",
@@ -122,18 +140,18 @@
       "pinned": false
     },
     {
-      "title": "Holiday shoppers starting earlier, budgets climb to $849",
-      "excerpt": "Holiday shopping has started this year, and consumers are planning to spend more despite continued concerns about prices and the economy. The data…",
-      "link": "https://www.retailcustomerexperience.com/news/holiday-shoppers-starting-earlier-budgets-climb-to-849/",
+      "title": "When AI becomes the shopper: Why retailers must rethink customer experience",
+      "excerpt": "When OpenAI introduced shopping capabilities in ChatGPT, my first thought wasn't about consumers. It was about retailers. Having spent years working…",
+      "link": "https://www.retailcustomerexperience.com/blogs/when-ai-becomes-the-shopper-why-retailers-must-rethink-customer-experience/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-12T10:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "When AI becomes the shopper: Why retailers must rethink customer experience",
-      "excerpt": "When OpenAI introduced shopping capabilities in ChatGPT, my first thought wasn't about consumers. It was about retailers. Having spent years working…",
-      "link": "https://www.retailcustomerexperience.com/blogs/when-ai-becomes-the-shopper-why-retailers-must-rethink-customer-experience/",
+      "title": "Holiday shoppers starting earlier, budgets climb to $849",
+      "excerpt": "Holiday shopping has started this year, and consumers are planning to spend more despite continued concerns about prices and the economy. The data…",
+      "link": "https://www.retailcustomerexperience.com/news/holiday-shoppers-starting-earlier-budgets-climb-to-849/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-12T10:00:00.000Z",
       "category": "GRAND ANGLE",
@@ -155,24 +173,6 @@
       "source": "Food Dive",
       "pubDate": "2026-10-09T13:39:00.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "The Friday Checkout: Why Kroger and Target store workers are dressing to impress",
-      "excerpt": "Both retailers have reportedly introduced new dress codes for their workers as they continue looking for ways to elevate the shopping experience.",
-      "link": "https://www.grocerydive.com/news/kroger-target-dress-code-update-in-store-experience/832556/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-09T15:41:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "AI in fashion at Gap",
-      "excerpt": "Fashion retailer Gap Inc is unveiling a suite of AI-powered shopping tools across its brands network",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8779/ai-in-fashion-at-gap/",
-      "source": "Retail Technology",
-      "pubDate": "2026-10-09T00:00:00.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     }
   ]
