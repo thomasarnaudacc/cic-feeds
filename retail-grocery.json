@@ -1,22 +1,49 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-14T08:13:09.447Z",
+  "publishedAt": "2026-10-14T14:12:40.050Z",
   "itemsFr": [
+    {
+      "title": "Google déploie Gemini 4 Argon à grande échelle... mais le prix de l’API va doubler le 1er décembre",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/big-tech/google/google-deploie-gemini-4-argon-a-grande-echelle-mais-le-prix-de-lapi-va-doubler-le-1er-decembre.OWFAMXUYN5DDVCHVLJM2RA4LIM.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-10-14T13:53:36.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "[ RETAIL INSIDE ] Chatillon, le Top 1 des Auchan Super est désormais un Intermarché (le Top 125)",
+      "excerpt": "Après un premier test sur trois magasins, Auchan a entamé aujourd’hui la grande bascule de ses supermarchés vers l’enseigne Intermarché (selon le…",
+      "link": "https://www.olivierdauvers.fr/2026/10/14/retail-inside-chatillon-le-top-1-des-auchan-super-est-desormais-un-intermarche-le-125e/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-14T13:42:43.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Neura Robotics passe un cap avec son modèle multimodal Neuron AI qui regroupe tous les modes de perception dans une seule architecture",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/neura-robotics-passe-un-cap-avec-son-modele-multimodal-neuron-ai-qui-regroupe-tous-les-modes-de-perception-dans-une-seule-architecture.SX6E4PGX2ZADJPTX5Z7OOQMSOA.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-10-14T13:15:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Acheter ou louer en 2027 : les Français croient-ils encore à la pierre ?",
+      "excerpt": "Vendeurs attachés aux anciens prix, acheteurs inquiets de perdre de l'argent : en 2027, de nombreux Français pourraient préférer attendre plutôt que…",
+      "link": "https://www.journaldunet.com/economie/immobilier/1556537-acheter-ou-louer-en-2027-les-francais-croient-ils-encore-a-la-pierre/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-14T12:47:37.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
     {
       "title": "Après le clic : pourquoi, sur mobile, l'IA passe par les apps",
       "excerpt": "Selon l'ACPM, deux mois après l'arrivée des résumés IA de Google en France, les sites d'information ont perdu près d'un quart de leurs visites en un…",
       "link": "https://www.journaldunet.com/intelligence-artificielle/1556465-apres-le-clic-pourquoi-sur-mobile-l-ia-passe-par-les-apps/",
       "source": "Journal du Net",
       "pubDate": "2026-10-14T07:56:34.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "L'IA en RH : l'essentiel se joue avant la technologie",
-      "excerpt": "En RH, la valeur de l'IA ne se mesure pas au nombre de tâches automatisées, mais aux progrès concrets qu'elle apporte aux collaborateurs, sans…",
-      "link": "https://www.journaldunet.com/e-rh/1556473-l-ia-en-rh-l-essentiel-se-joue-avant-la-technologie/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-14T07:56:05.000Z",
       "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
     },
@@ -45,24 +72,6 @@
       "source": "Maddyness",
       "pubDate": "2026-10-13T16:20:27.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "Workday mise tout sur l’IA agentique avec Anthropic et renforce sa plateforme RH et finance avec l’acquisition de C1.ai",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/ia-generative/workday-mise-tout-sur-lia-agentique-avec-anthropic-et-renforce-sa-plateforme-rh-et-finance-avec-lacquisition-de-c1ai.MEM33LYVA5DFLHE3S2UK4WLUAQ.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-10-13T16:02:50.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Frigos de supermarchés sabotés : des contrôleurs Danfoss obsolètes, des failles documentées et des responsabilités à éclaircir",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/cybersecurite/frigos-de-supermarches-sabotes-des-controleurs-danfoss-obsoletes-des-failles-documentees-et-des-responsabilites-a-eclaircir.OUL4TOPO3BFNTNXUC4QILX3OAY.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-10-13T15:29:13.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -100,18 +109,27 @@
       "pubDate": "2026-10-10T06:00:06.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
-    },
-    {
-      "title": "Comment c’était les courses il y a 60 ans…?",
-      "excerpt": "RTL fête aujourd’hui ses 60 ans. Ma chronique du jour s’est donc mis à l’heure de 1966 : comment c’était les courses en 1966 ? et… à quel prix ? Ici…",
-      "link": "https://www.olivierdauvers.fr/2026/10/09/comment-cetait-les-courses-il-y-a-60-ans/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-09T19:37:44.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
     }
   ],
   "itemsEn": [
+    {
+      "title": "North Carolina Costco plans move forward",
+      "excerpt": "The plan to build a Costco in Asheville, North Carolina, is moving forward after the city's planning and zoning commission approved the wholesaler's…",
+      "link": "https://www.retailcustomerexperience.com/news/north-carolina-costco-plans-move-forward/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-14T10:00:00.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
+    {
+      "title": "Near majority of consumers tapping AI for deal hunting",
+      "excerpt": "A near majority, 69%, of holiday shoppers are reaching for AI agents to price compare and find the best deals. Those are findings from Bread…",
+      "link": "https://www.retailcustomerexperience.com/news/near-majority-of-consumers-tapping-ai-for-deal-hunting/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-14T10:00:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
     {
       "title": "Retailers want AI while consumers are cautious",
       "excerpt": "New research from Scurri has revealed a gap between retailers’ AI ambitions and consumers’ expectations of transparency, control and human support",
@@ -119,6 +137,15 @@
       "source": "Retail Technology",
       "pubDate": "2026-10-14T00:00:00.000Z",
       "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Nordstrom app gets Christmas makeover",
+      "excerpt": "Just in time for the holidays, Nordstrom is launching new app features that make shopping in store and online easier and more personal",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8784/nordstrom-app-gets-christmas-makeover/",
+      "source": "Retail Technology",
+      "pubDate": "2026-10-14T00:00:00.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
       "pinned": false
     },
     {
@@ -176,24 +203,6 @@
       "pinned": false
     },
     {
-      "title": "Amazon cut hundreds of corporate roles in retail division",
-      "excerpt": "Amazon has cut just under 1,000 corporate roles within its retail division. The white-collar job cuts, confirmed by Amazon, took place within the…",
-      "link": "https://www.retailcustomerexperience.com/news/amazon-cut-hundreds-of-corporate-roles-in-retail-division/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-13T10:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "TikTok joins agentic AI trend",
-      "excerpt": "Social media giant TikTok is launching an agentic AI service to enable users to find products on the platform and buy directly from a brand with one…",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8782/tiktok-joins-agentic-ai-trend/",
-      "source": "Retail Technology",
-      "pubDate": "2026-10-13T00:00:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
       "title": "PepsiCo puts ‘all the urgency’ into turning around soft drinks",
       "excerpt": "The beverage giant is planning to add more functional benefits to Poppi, its newly acquired better-for-you soda brand.",
       "link": "https://www.fooddive.com/news/pepsico-soda-business-turnaround-poppi-mountain-dew/832737/",
@@ -209,15 +218,6 @@
       "source": "Grocery Dive",
       "pubDate": "2026-10-12T15:00:00.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "When AI becomes the shopper: Why retailers must rethink customer experience",
-      "excerpt": "When OpenAI introduced shopping capabilities in ChatGPT, my first thought wasn't about consumers. It was about retailers. Having spent years working…",
-      "link": "https://www.retailcustomerexperience.com/blogs/when-ai-becomes-the-shopper-why-retailers-must-rethink-customer-experience/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-12T10:00:00.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     }
   ]
