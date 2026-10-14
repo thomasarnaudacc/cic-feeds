@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-14T19:04:29.020Z",
+  "publishedAt": "2026-10-14T23:33:04.280Z",
   "itemsFr": [
     {
       "title": "La France insoumise présente un contre-budget pour 2027 axé sur la réduction de la dette",
@@ -113,21 +113,30 @@
   ],
   "itemsEn": [
     {
+      "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
+      "excerpt": "Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its…",
+      "link": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-14T22:00:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+      "excerpt": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about…",
+      "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-14T21:30:33.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
       "title": "Retail Technology: Proving the Business Case",
-      "excerpt": "The strongest business cases therefore begin before a product is selected. They establish current performance, specify the intended operational…",
+      "excerpt": "The strongest business cases begin before a product is selected. They establish current performance, specify the intended operational change and…",
       "link": "https://www.retailcustomerexperience.com/resources/retail-technology-proving-the-business-case/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-14T18:52:42.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
-      "excerpt": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
-      "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-14T18:00:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
@@ -146,15 +155,6 @@
       "source": "Retail Dive",
       "pubDate": "2026-10-14T15:27:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
-      "excerpt": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
-      "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-14T15:00:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
