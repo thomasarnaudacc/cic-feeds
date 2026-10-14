@@ -1,7 +1,16 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-14T14:12:40.050Z",
+  "publishedAt": "2026-10-14T19:04:29.020Z",
   "itemsFr": [
+    {
+      "title": "La France insoumise présente un contre-budget pour 2027 axé sur la réduction de la dette",
+      "excerpt": "Le parti de Jean-Luc Mélenchon dévoile un contre-budget pour 2027, axé sur la réduction de la dette et une rupture avec la politique économique…",
+      "link": "https://www.journaldunet.com/business/action-publique/1556637-la-france-insoumise-presente-un-contre-budget-pour-2027-axe-sur-la-reduction-de-la-dette/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-14T14:48:01.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
     {
       "title": "Google déploie Gemini 4 Argon à grande échelle... mais le prix de l’API va doubler le 1er décembre",
       "excerpt": "",
@@ -36,15 +45,6 @@
       "source": "Journal du Net",
       "pubDate": "2026-10-14T12:47:37.000Z",
       "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "Après le clic : pourquoi, sur mobile, l'IA passe par les apps",
-      "excerpt": "Selon l'ACPM, deux mois après l'arrivée des résumés IA de Google en France, les sites d'information ont perdu près d'un quart de leurs visites en un…",
-      "link": "https://www.journaldunet.com/intelligence-artificielle/1556465-apres-le-clic-pourquoi-sur-mobile-l-ia-passe-par-les-apps/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-14T07:56:34.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
     },
     {
@@ -113,21 +113,75 @@
   ],
   "itemsEn": [
     {
+      "title": "Retail Technology: Proving the Business Case",
+      "excerpt": "The strongest business cases therefore begin before a product is selected. They establish current performance, specify the intended operational…",
+      "link": "https://www.retailcustomerexperience.com/resources/retail-technology-proving-the-business-case/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-14T18:52:42.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+      "excerpt": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
+      "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-14T18:00:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Target wants more efficient stores. An upgraded employee app could help.",
+      "excerpt": "The retailer’s myDay app features a newly customizable home screen functionality and will soon include access to AI-backed insights.",
+      "link": "https://www.retaildive.com/news/target-upgrades-store-operations-app-employees/832989/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-14T16:35:00.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
+    {
+      "title": "Moody’s upgrades retail and apparel outlook as tariffs ease",
+      "excerpt": "The firm now expects “solid household finances” to lead to more stability in the sector, although rising energy costs and geopolitical risks are…",
+      "link": "https://www.retaildive.com/news/moodys-retail-apparel-outlook-boosted-tariff-refunds/832964/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-14T15:27:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
+      "excerpt": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
+      "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-14T15:00:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Amazon to close grocery partner storefronts",
+      "excerpt": "The company will shutter an unspecified number of retailer-specific storefronts on Amazon.com as it focuses on new services and simplifying its…",
+      "link": "https://www.grocerydive.com/news/amazon-grocery-partners-individual-storefronts-closing/832902/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-10-14T14:39:33.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Ahold Delhaize USA banners remain offline",
+      "excerpt": "The websites and apps for the five chains have been down for several days as the parent company contends with a cybersecurity incident.",
+      "link": "https://www.grocerydive.com/news/ahold-delhaize-usa-sites-still-down/832900/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-10-14T14:34:00.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
       "title": "North Carolina Costco plans move forward",
       "excerpt": "The plan to build a Costco in Asheville, North Carolina, is moving forward after the city's planning and zoning commission approved the wholesaler's…",
       "link": "https://www.retailcustomerexperience.com/news/north-carolina-costco-plans-move-forward/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-14T10:00:00.000Z",
       "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "Near majority of consumers tapping AI for deal hunting",
-      "excerpt": "A near majority, 69%, of holiday shoppers are reaching for AI agents to price compare and find the best deals. Those are findings from Bread…",
-      "link": "https://www.retailcustomerexperience.com/news/near-majority-of-consumers-tapping-ai-for-deal-hunting/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-14T10:00:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
@@ -149,56 +203,11 @@
       "pinned": false
     },
     {
-      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-      "excerpt": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local…",
-      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-13T23:05:34.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-      "excerpt": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
-      "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-13T23:00:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Albertsons hastens cost-cutting drive as sales continue to flounder",
-      "excerpt": "As the grocer recorded its third consecutive quarter of falling identical sales growth, its CEO indicated that layoffs and store closures in certain…",
-      "link": "https://www.grocerydive.com/news/albertsons-second-quarter-2026-earnings-turnaround-grocery-supermarkets/832830/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-13T16:28:00.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
-      "title": "Nordstrom expands FAO Schwarz offerings, debuts new app features for holidays",
-      "excerpt": "The department store revamped its Nordy marketing character and is offering same-day beauty deliveries at select locations this season.",
-      "link": "https://www.retaildive.com/news/nordstrom-expands-fao-schwarz-offerings-new-app-features-holiday/832853/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-13T15:55:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Justin Timberlake, Jessica Biel enter protein soda market",
       "excerpt": "Proda is betting the celebrity backing will help the brand enter more mainstream retail outlets.",
       "link": "https://www.fooddive.com/news/justin-timberlake-jessica-biel-protein-soda-proda/832787/",
       "source": "Food Dive",
       "pubDate": "2026-10-13T13:09:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Reporter’s notebook: Inside Scheels’ sporting goods wonderland",
-      "excerpt": "Come for the sporting goods, stay for the animatronic Abe Lincoln. And whatever you do, don’t expect your average retail experience.",
-      "link": "https://www.retaildive.com/news/scheels-store-experience-retail-best-kept-secret/831211/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-13T13:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -209,15 +218,6 @@
       "source": "Food Dive",
       "pubDate": "2026-10-12T15:03:00.000Z",
       "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "Ahold Delhaize experiencing cybersecurity issue",
-      "excerpt": "The company said it took some systems offline as part of “precautionary measures.” Websites for all five of the grocer’s U.S. banners were down…",
-      "link": "https://www.grocerydive.com/news/ahold-delhaize-adusa-cybersecurity/832734/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-12T15:00:00.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     }
   ]
