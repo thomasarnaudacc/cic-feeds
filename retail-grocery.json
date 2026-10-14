@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-13T20:26:50.605Z",
+  "publishedAt": "2026-10-14T00:02:17.870Z",
   "itemsFr": [
     {
       "title": "CarbonFarm lève 7 millions d’euros pour réduire les émissions de méthane dans les rizières",
@@ -113,20 +113,29 @@
   ],
   "itemsEn": [
     {
-      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
-      "excerpt": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
-      "link": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-13T18:30:00.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
+      "title": "Retailers want AI while consumers are cautious",
+      "excerpt": "New research from Scurri has revealed a gap between retailers’ AI ambitions and consumers’ expectations of transparency, control and human support",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8783/retailers-want-ai-while-consumers-are-cautious/",
+      "source": "Retail Technology",
+      "pubDate": "2026-10-14T00:00:00.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-      "excerpt": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before…",
-      "link": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+      "excerpt": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local…",
+      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
       "source": "TechCrunch",
-      "pubDate": "2026-10-13T17:30:00.000Z",
+      "pubDate": "2026-10-13T23:05:34.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+      "excerpt": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+      "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-13T23:00:00.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
@@ -208,15 +217,6 @@
       "link": "https://www.retailcustomerexperience.com/blogs/when-ai-becomes-the-shopper-why-retailers-must-rethink-customer-experience/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-12T10:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Retail security: ensuring it’s a habit, not a crisis",
-      "excerpt": "Retail’s external security basics need clear owners and continuous checks, argues Andrew J. Jenkinson, independent cybersecurity analyst and…",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8780/retail-security:-ensuring-itas-a-habit-not-a-crisis/",
-      "source": "Retail Technology",
-      "pubDate": "2026-10-12T00:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     }
