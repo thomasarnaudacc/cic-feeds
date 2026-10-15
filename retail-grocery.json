@@ -1,7 +1,43 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-15T02:25:56.907Z",
+  "publishedAt": "2026-10-15T07:50:55.933Z",
   "itemsFr": [
+    {
+      "title": "Back Market dévoile une nouvelle offre pour prolonger la durée de vie des smartphones et des MacBook",
+      "excerpt": "L’article Back Market dévoile une nouvelle offre pour prolonger la durée de vie des smartphones et des MacBook est apparu en premier sur Maddyness …",
+      "link": "https://www.maddyness.com/2026/10/15/back-market-devoile-une-nouvelle-offre-pour-prolonger-la-duree-de-vie-des-smartphones-et-des-macbook/",
+      "source": "Maddyness",
+      "pubDate": "2026-10-15T07:00:21.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "RAJA intègre le calage carton au cœur du colis",
+      "excerpt": "Le groupe RAJA commercialise un emballage e-commerce doté d'un calage alvéolaire en carton. Conçue pour simplifier la préparation des commandes et…",
+      "link": "https://www.ecommercemag.fr/logistique-1222/raja-integre-le-calage-carton-au-coeur-du-colis-60249",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-10-15T07:00:18.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "IA réputation : les enseignements du Baromètre CAC 40 2026",
+      "excerpt": "Un dirigeant qui observe qu’une intelligence artificielle générative mentionne son entreprise en tire souvent une conclusion hâtive : être cité, ce…",
+      "link": "https://www.frenchweb.fr/ia-reputation-les-enseignements-du-barometre-cac-40-2026/463942",
+      "source": "FrenchWeb",
+      "pubDate": "2026-10-15T06:15:17.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Piratage des frigos : les images (peut-être) plus terribles que les pertes financières",
+      "excerpt": "Les images du piratage informatique des frigos de plusieurs enseignes sont nombreuses. J’en ai choisi une, celle-ci, postée sur Facebook par…",
+      "link": "https://www.olivierdauvers.fr/2026/10/15/piratage-des-frigos-les-images-peut-etre-plus-terribles-que-les-pertes-financieres/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-15T05:31:46.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "La France insoumise présente un contre-budget pour 2027 axé sur la réduction de la dette",
       "excerpt": "Le parti de Jean-Luc Mélenchon dévoile un contre-budget pour 2027, axé sur la réduction de la dette et une rupture avec la politique économique…",
@@ -73,42 +109,6 @@
       "pubDate": "2026-10-13T16:20:27.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
-    },
-    {
-      "title": "Carrefour, Intermarché, Chronodrive… Les notes Yuka débarquent sur les sites de courses en ligne",
-      "excerpt": "Depuis ce mardi 13 octobre 2026, les scores de l’application Yuka commencent à apparaître directement sur les sites de courses en ligne de plusieurs…",
-      "link": "https://www.ecommercemag.fr/retail-1220/carrefour-intermarche-chronodrive-les-notes-yuka-debarquent-sur-les-sites-de-courses-en-ligne-60228",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-10-13T14:43:14.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "CARBONFARM lève 7 millions d’euros pour rendre la réduction du méthane des rizières mesurable et finançable",
-      "excerpt": "La société française annonce une série A de 7 millions d’euros pour développer ses programmes de décarbonation du riz. Son approche associe suivi…",
-      "link": "https://www.frenchweb.fr/carbonfarm-leve-7-millions-deuros-pour-rendre-la-reduction-du-methane-des-rizieres-mesurable-et-financable/463919",
-      "source": "FrenchWeb",
-      "pubDate": "2026-10-13T06:55:49.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "Wavo lève 10 millions d’euros pour transformer le stock des PME en trésorerie",
-      "excerpt": "L’article Wavo lève 10 millions d’euros pour transformer le stock des PME en trésorerie est apparu en premier sur Maddyness - Le média pour…",
-      "link": "https://www.maddyness.com/2026/10/13/wavo-leve-10-millions-deuros-pour-transformer-le-stock-des-pme-en-tresorerie/",
-      "source": "Maddyness",
-      "pubDate": "2026-10-13T06:00:34.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "SAMEDI CONSO : mon carnet (retail mais pas que…) de la semaine",
-      "excerpt": "« SAMEDI CONSO », la semaine retail (mais pas que) passée en revue. Comme toujours en totale liberté. Et tant pis si ça pique ! Âmes (trop) sensibles…",
-      "link": "https://www.olivierdauvers.fr/2026/10/10/samedi-conso-mon-carnet-retail-mais-pas-que-de-la-semaine-383/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-10T06:00:06.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
     }
   ],
   "itemsEn": [
@@ -176,12 +176,12 @@
       "pinned": false
     },
     {
-      "title": "Amazon eyes drone delivery in South Carolina",
-      "excerpt": "Amazon hopes to launch drone delivery in the Grand Strand area of South Carolina. The omnichannel retailer is aiming to use its North Myrtle Beach…",
-      "link": "https://www.retailcustomerexperience.com/news/amazon-eyes-drone-delivery-in-south-carolina/",
+      "title": "North Carolina Costco plans move forward",
+      "excerpt": "The plan to build a Costco in Asheville, North Carolina, is moving forward after the city's planning and zoning commission approved the wholesaler's…",
+      "link": "https://www.retailcustomerexperience.com/news/north-carolina-costco-plans-move-forward/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-14T10:00:00.000Z",
-      "category": "GRAND ANGLE",
+      "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
     },
     {
