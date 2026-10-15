@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-15T18:46:30.873Z",
+  "publishedAt": "2026-10-15T23:26:13.666Z",
   "itemsFr": [
     {
       "title": "CTV, réseaux sociaux, IA générative : la vérification publicitaire face à la fragmentation des médias",
@@ -113,6 +113,15 @@
   ],
   "itemsEn": [
     {
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "excerpt": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block…",
+      "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-15T19:14:26.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
+    {
       "title": "Bealls to debut mobile app",
       "excerpt": "The app is intended to create a more connected shopping experience across channels, while also supporting the retailer’s strategy around loyalty.",
       "link": "https://www.retaildive.com/news/bealls-debuts-mobile-app-marketing-campaign/832855/",
@@ -158,15 +167,6 @@
       "pinned": false
     },
     {
-      "title": "C-store shoppers favor faster checkout but want human assistance",
-      "excerpt": "Convenience store customers are increasingly comfortable with AI-powered technology, particularly when it speeds up checkout, but many still want…",
-      "link": "https://www.retailcustomerexperience.com/news/c-store-shoppers-favor-faster-checkout-but-want-human-assistance/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-15T10:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Belgian retailer expands Toshiba self-checkout to 150 stores",
       "excerpt": "Belgian retailer Colruyt Group has installed 454 Toshiba self-checkout systems across 150 stores as part of an ongoing expansion of its self-service…",
       "link": "https://www.retailcustomerexperience.com/news/belgian-retailer-expands-toshiba-self-checkout-to-150-stores/",
@@ -176,12 +176,12 @@
       "pinned": false
     },
     {
-      "title": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
-      "excerpt": "At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's surveillance technology despite growing privacy concerns, arguing that its…",
-      "link": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-15T00:49:31.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "title": "C-store shoppers favor faster checkout but want human assistance",
+      "excerpt": "Convenience store customers are increasingly comfortable with AI-powered technology, particularly when it speeds up checkout, but many still want…",
+      "link": "https://www.retailcustomerexperience.com/news/c-store-shoppers-favor-faster-checkout-but-want-human-assistance/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-15T10:00:00.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
