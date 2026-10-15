@@ -1,7 +1,43 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-15T13:48:12.440Z",
+  "publishedAt": "2026-10-15T18:46:30.873Z",
   "itemsFr": [
+    {
+      "title": "CTV, réseaux sociaux, IA générative : la vérification publicitaire face à la fragmentation des médias",
+      "excerpt": "La vérification est le nouveau pilier du pilotage média",
+      "link": "https://www.journaldunet.com/adtech/1556491-ctv-reseaux-sociaux-ia-generative-la-verification-publicitaire-face-a-la-fragmentation-des-medias/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-15T17:22:15.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Des robots humanoïdes dans des micro-usines conteneurisées : Le pari ambitieux de la start-up suédoise 120ft",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/des-robots-humanoides-dans-des-micro-usines-conteneurisees-le-pari-ambitieux-de-la-start-up-suedoise-120ft.E4Q55YITAFHL5GPZDQAN62VDOA.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-10-15T15:47:49.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "De la promesse aux preuves : comment le groupe Lefebvre fait auditer la gouvernance de son assistant juridique GenIA-L",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/de-la-promesse-aux-preuves-comment-le-groupe-lefebvre-fait-auditer-la-gouvernance-de-son-assistant-juridique-genia-l.HJQOQ3XSMNGWHH6QGZO2MVAOPY.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-10-15T15:42:47.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "\"Bien\" automatiser dans le secteur logistique : comment créer de la valeur en résolvant les bons problèmes",
+      "excerpt": "\"Bien\" automatiser dans le secteur logistique : comment créer de la valeur en résolvant les bons problèmes Par Adrien Dubois, Directeur Commercial…",
+      "link": "https://www.journaldunet.com/management/direction-generale/1556511-bien-automatiser-dans-le-secteur-logistique-comment-creer-de-la-valeur-en-resolvant-les-bons-problemes/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-15T14:09:55.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
     {
       "title": "[ RETAIL INSIDE ] Découvrez le “nouvel” Intermarché de Noisy le Grand (93)",
       "excerpt": "S’il n’est officiellement pas nouveau, Intermarché Noisy le Grand a tellement changé qu’il en a néanmoins l’apparence. En quelques mois, ce…",
@@ -12,48 +48,12 @@
       "pinned": false
     },
     {
-      "title": "Cohere, le rival canadien de Mistral AI, s’empare de la start-up de cybersécurité Aisle pour protéger les systèmes les plus critiques",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/start-up/financement/acquisition/cohere-le-rival-canadien-de-mistral-ai-sempare-de-la-start-up-de-cybersecurite-aisle-pour-proteger-les-systemes-les-plus-critiques.BEEPQH4PVNEHHC5E2QNGQXJB2A.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-10-15T12:45:42.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
       "title": "IA et data dans l’agroalimentaire : SIAL Paris 2026 décrypte les nouveaux leviers de croissance",
       "excerpt": "L’intelligence artificielle et la data ne se limitent plus à l’innovation technologique : elles deviennent des leviers stratégiques pour les…",
       "link": "https://www.frenchweb.fr/ia-et-data-dans-lagroalimentaire-sial-paris-2026-decrypte-les-nouveaux-leviers-de-croissance/463952",
       "source": "FrenchWeb",
       "pubDate": "2026-10-15T12:32:42.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Frigos sabotés : la grande distribution paie le prix de ses lacunes en cybersécurité",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/cybersecurite/le-recap-cyber/frigos-sabotes-la-grande-distribution-paie-le-prix-de-ses-lacunes-en-cybersecurite.NLVXT4OWNNDYRMHZA3FSRT2IKQ.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-10-15T12:00:00.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "Les candidats à la présidentielle exposent leurs solutions pour sauver une presse en crise",
-      "excerpt": "Les principaux candidats à la présidentielle ont exposé mercredi leurs solutions pour répondre à la crise profonde que traverse la presse, lors d'une…",
-      "link": "https://www.journaldunet.com/business/action-publique/1556673-les-candidats-a-la-presidentielle-exposent-leurs-solutions-pour-la-presse-en-crise/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-15T11:10:57.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "La SNCF annonce l'inauguration du nouveau TGV Inoui Paris-Marseille le 6 novembre",
-      "excerpt": "Le nouveau TGV Inoui, attendu depuis des mois, sera inauguré le 6 novembre sur la ligne Paris-Marseille, avec une capacité et des performances…",
-      "link": "https://www.journaldunet.com/economie/industrie/1556671-la-sncf-annonce-l-inauguration-du-nouveau-tgv-inoui-paris-marseille-le-6-novembre/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-15T11:02:32.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
     {
@@ -113,9 +113,54 @@
   ],
   "itemsEn": [
     {
-      "title": "Checkout donation ask can ding customer satisfaction",
-      "excerpt": "Retailers that ask customers to make charitable donations at checkout kiosks may unintentionally create negative shopping experiences, according to…",
-      "link": "https://www.retailcustomerexperience.com/news/checkout-donation-ask-can-ding-customer-satisfaction/",
+      "title": "Bealls to debut mobile app",
+      "excerpt": "The app is intended to create a more connected shopping experience across channels, while also supporting the retailer’s strategy around loyalty.",
+      "link": "https://www.retaildive.com/news/bealls-debuts-mobile-app-marketing-campaign/832855/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-15T16:03:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Lululemon restructures raw materials team, lays off 7 people",
+      "excerpt": "The changes came in August, a spokesperson told Retail Dive, just a few weeks before the arrival of new CEO Heidi O’Neill.",
+      "link": "https://www.retaildive.com/news/lululemon-restructures-raw-materials-team-layoffs/833106/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-15T15:49:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "AI agents are coming to Rivian’s cars",
+      "excerpt": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
+      "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-15T15:02:36.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Pardon the Disruption: Kroger’s really big layoff plan carries some really big risks",
+      "excerpt": "But the strategy, outlined earlier this week by CEO Greg Foran, also sends a clear message to employees as well as the industry.",
+      "link": "https://www.grocerydive.com/news/pardon-the-disruption-kroger-layoffs-plan-message/833061/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-10-15T14:53:28.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
+    {
+      "title": "Albertsons retail media arm taps former Walmart exec",
+      "excerpt": "Steve Shee stepped into a vice president role in the division around the same time as the retail media arm’s leader departed.",
+      "link": "https://www.grocerydive.com/news/albertsons-media-collective-retail-media-executive/833020/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-10-15T14:00:00.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
+    {
+      "title": "C-store shoppers favor faster checkout but want human assistance",
+      "excerpt": "Convenience store customers are increasingly comfortable with AI-powered technology, particularly when it speeds up checkout, but many still want…",
+      "link": "https://www.retailcustomerexperience.com/news/c-store-shoppers-favor-faster-checkout-but-want-human-assistance/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-15T10:00:00.000Z",
       "category": "GRAND ANGLE",
@@ -158,66 +203,12 @@
       "pinned": false
     },
     {
-      "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
-      "excerpt": "Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its…",
-      "link": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-14T22:00:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Target wants more efficient stores. An upgraded employee app could help.",
-      "excerpt": "The retailer’s myDay app features a newly customizable home screen functionality and will soon include access to AI-backed insights.",
-      "link": "https://www.retaildive.com/news/target-upgrades-store-operations-app-employees/832989/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-14T16:35:00.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "Moody’s upgrades retail and apparel outlook as tariffs ease",
-      "excerpt": "The firm now expects “solid household finances” to lead to more stability in the sector, although rising energy costs and geopolitical risks are…",
-      "link": "https://www.retaildive.com/news/moodys-retail-apparel-outlook-boosted-tariff-refunds/832964/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-14T15:27:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Amazon to close grocery partner storefronts",
-      "excerpt": "The company will shutter an unspecified number of retailer-specific storefronts on Amazon.com as it focuses on new services and simplifying its…",
-      "link": "https://www.grocerydive.com/news/amazon-grocery-partners-individual-storefronts-closing/832902/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-14T14:39:33.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Ahold Delhaize USA banners remain offline",
-      "excerpt": "The websites and apps for the five chains have been down for several days as the parent company contends with a cybersecurity incident.",
-      "link": "https://www.grocerydive.com/news/ahold-delhaize-usa-sites-still-down/832900/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-14T14:34:00.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
       "title": "Justin Timberlake, Jessica Biel enter protein soda market",
       "excerpt": "Proda is betting the celebrity backing will help the brand enter more mainstream retail outlets.",
       "link": "https://www.fooddive.com/news/justin-timberlake-jessica-biel-protein-soda-proda/832787/",
       "source": "Food Dive",
       "pubDate": "2026-10-13T13:09:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "PepsiCo puts ‘all the urgency’ into turning around soft drinks",
-      "excerpt": "The beverage giant is planning to add more functional benefits to Poppi, its newly acquired better-for-you soda brand.",
-      "link": "https://www.fooddive.com/news/pepsico-soda-business-turnaround-poppi-mountain-dew/832737/",
-      "source": "Food Dive",
-      "pubDate": "2026-10-12T15:03:00.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
     }
   ]
