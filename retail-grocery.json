@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-14T23:33:04.280Z",
+  "publishedAt": "2026-10-15T02:25:56.907Z",
   "itemsFr": [
     {
       "title": "La France insoumise présente un contre-budget pour 2027 axé sur la réduction de la dette",
@@ -113,21 +113,21 @@
   ],
   "itemsEn": [
     {
+      "title": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
+      "excerpt": "At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's surveillance technology despite growing privacy concerns, arguing that its…",
+      "link": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-15T00:49:31.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
       "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
       "excerpt": "Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its…",
       "link": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
       "source": "TechCrunch",
       "pubDate": "2026-10-14T22:00:00.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
-      "excerpt": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about…",
-      "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-14T21:30:33.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
     {
@@ -176,12 +176,12 @@
       "pinned": false
     },
     {
-      "title": "North Carolina Costco plans move forward",
-      "excerpt": "The plan to build a Costco in Asheville, North Carolina, is moving forward after the city's planning and zoning commission approved the wholesaler's…",
-      "link": "https://www.retailcustomerexperience.com/news/north-carolina-costco-plans-move-forward/",
+      "title": "Amazon eyes drone delivery in South Carolina",
+      "excerpt": "Amazon hopes to launch drone delivery in the Grand Strand area of South Carolina. The omnichannel retailer is aiming to use its North Myrtle Beach…",
+      "link": "https://www.retailcustomerexperience.com/news/amazon-eyes-drone-delivery-in-south-carolina/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-14T10:00:00.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
