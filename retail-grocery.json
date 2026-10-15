@@ -1,7 +1,79 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-15T07:50:55.933Z",
+  "publishedAt": "2026-10-15T13:48:12.440Z",
   "itemsFr": [
+    {
+      "title": "[ RETAIL INSIDE ] Découvrez le “nouvel” Intermarché de Noisy le Grand (93)",
+      "excerpt": "S’il n’est officiellement pas nouveau, Intermarché Noisy le Grand a tellement changé qu’il en a néanmoins l’apparence. En quelques mois, ce…",
+      "link": "https://www.olivierdauvers.fr/2026/10/15/retail-inside-decouvrez-le-nouvel-intermarche-de-noisy-le-grand-93/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-15T13:16:38.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Cohere, le rival canadien de Mistral AI, s’empare de la start-up de cybersécurité Aisle pour protéger les systèmes les plus critiques",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/start-up/financement/acquisition/cohere-le-rival-canadien-de-mistral-ai-sempare-de-la-start-up-de-cybersecurite-aisle-pour-proteger-les-systemes-les-plus-critiques.BEEPQH4PVNEHHC5E2QNGQXJB2A.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-10-15T12:45:42.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "IA et data dans l’agroalimentaire : SIAL Paris 2026 décrypte les nouveaux leviers de croissance",
+      "excerpt": "L’intelligence artificielle et la data ne se limitent plus à l’innovation technologique : elles deviennent des leviers stratégiques pour les…",
+      "link": "https://www.frenchweb.fr/ia-et-data-dans-lagroalimentaire-sial-paris-2026-decrypte-les-nouveaux-leviers-de-croissance/463952",
+      "source": "FrenchWeb",
+      "pubDate": "2026-10-15T12:32:42.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Frigos sabotés : la grande distribution paie le prix de ses lacunes en cybersécurité",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/cybersecurite/le-recap-cyber/frigos-sabotes-la-grande-distribution-paie-le-prix-de-ses-lacunes-en-cybersecurite.NLVXT4OWNNDYRMHZA3FSRT2IKQ.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-10-15T12:00:00.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Les candidats à la présidentielle exposent leurs solutions pour sauver une presse en crise",
+      "excerpt": "Les principaux candidats à la présidentielle ont exposé mercredi leurs solutions pour répondre à la crise profonde que traverse la presse, lors d'une…",
+      "link": "https://www.journaldunet.com/business/action-publique/1556673-les-candidats-a-la-presidentielle-exposent-leurs-solutions-pour-la-presse-en-crise/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-15T11:10:57.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "La SNCF annonce l'inauguration du nouveau TGV Inoui Paris-Marseille le 6 novembre",
+      "excerpt": "Le nouveau TGV Inoui, attendu depuis des mois, sera inauguré le 6 novembre sur la ligne Paris-Marseille, avec une capacité et des performances…",
+      "link": "https://www.journaldunet.com/economie/industrie/1556671-la-sncf-annonce-l-inauguration-du-nouveau-tgv-inoui-paris-marseille-le-6-novembre/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-15T11:02:32.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "Fallait-il (vraiment) sortir les escargots (Lanvin) ?",
+      "excerpt": "En général, les escargots débarquent à la pluie, donc au mauvais temps. En version Lanvin, les voilà pourtant en rayon dès cette semaine, alors que…",
+      "link": "https://www.olivierdauvers.fr/2026/10/15/fallait-il-vraiment-sortir-les-escargots-lanvin/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-15T09:25:40.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Avec ARTSPER, Maurice Lévy poursuit la consolidation du marché de l’art en ligne",
+      "excerpt": "Après ArtMajeur, YourArt acquiert Artsper et son réseau de galeries. Le groupe fondé par Maurice Lévy entend conserver les deux marques tout en…",
+      "link": "https://www.frenchweb.fr/avec-artsper-maurice-levy-poursuit-la-consolidation-du-marche-de-lart-en-ligne/463950",
+      "source": "FrenchWeb",
+      "pubDate": "2026-10-15T09:00:01.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "Back Market dévoile une nouvelle offre pour prolonger la durée de vie des smartphones et des MacBook",
       "excerpt": "L’article Back Market dévoile une nouvelle offre pour prolonger la durée de vie des smartphones et des MacBook est apparu en premier sur Maddyness …",
@@ -21,83 +93,11 @@
       "pinned": false
     },
     {
-      "title": "IA réputation : les enseignements du Baromètre CAC 40 2026",
-      "excerpt": "Un dirigeant qui observe qu’une intelligence artificielle générative mentionne son entreprise en tire souvent une conclusion hâtive : être cité, ce…",
-      "link": "https://www.frenchweb.fr/ia-reputation-les-enseignements-du-barometre-cac-40-2026/463942",
-      "source": "FrenchWeb",
-      "pubDate": "2026-10-15T06:15:17.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Piratage des frigos : les images (peut-être) plus terribles que les pertes financières",
-      "excerpt": "Les images du piratage informatique des frigos de plusieurs enseignes sont nombreuses. J’en ai choisi une, celle-ci, postée sur Facebook par…",
-      "link": "https://www.olivierdauvers.fr/2026/10/15/piratage-des-frigos-les-images-peut-etre-plus-terribles-que-les-pertes-financieres/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-15T05:31:46.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "La France insoumise présente un contre-budget pour 2027 axé sur la réduction de la dette",
-      "excerpt": "Le parti de Jean-Luc Mélenchon dévoile un contre-budget pour 2027, axé sur la réduction de la dette et une rupture avec la politique économique…",
-      "link": "https://www.journaldunet.com/business/action-publique/1556637-la-france-insoumise-presente-un-contre-budget-pour-2027-axe-sur-la-reduction-de-la-dette/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-14T14:48:01.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Google déploie Gemini 4 Argon à grande échelle... mais le prix de l’API va doubler le 1er décembre",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/big-tech/google/google-deploie-gemini-4-argon-a-grande-echelle-mais-le-prix-de-lapi-va-doubler-le-1er-decembre.OWFAMXUYN5DDVCHVLJM2RA4LIM.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-10-14T13:53:36.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "[ RETAIL INSIDE ] Chatillon, le Top 1 des Auchan Super est désormais un Intermarché (le Top 125)",
-      "excerpt": "Après un premier test sur trois magasins, Auchan a entamé aujourd’hui la grande bascule de ses supermarchés vers l’enseigne Intermarché (selon le…",
-      "link": "https://www.olivierdauvers.fr/2026/10/14/retail-inside-chatillon-le-top-1-des-auchan-super-est-desormais-un-intermarche-le-125e/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-14T13:42:43.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Neura Robotics passe un cap avec son modèle multimodal Neuron AI qui regroupe tous les modes de perception dans une seule architecture",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/neura-robotics-passe-un-cap-avec-son-modele-multimodal-neuron-ai-qui-regroupe-tous-les-modes-de-perception-dans-une-seule-architecture.SX6E4PGX2ZADJPTX5Z7OOQMSOA.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-10-14T13:15:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Acheter ou louer en 2027 : les Français croient-ils encore à la pierre ?",
-      "excerpt": "Vendeurs attachés aux anciens prix, acheteurs inquiets de perdre de l'argent : en 2027, de nombreux Français pourraient préférer attendre plutôt que…",
-      "link": "https://www.journaldunet.com/economie/immobilier/1556537-acheter-ou-louer-en-2027-les-francais-croient-ils-encore-a-la-pierre/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-14T12:47:37.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
       "title": "YouTube déploie l’affiliation Shopping en France",
       "excerpt": "En déployant son offre d'affiliation Shopping en France, YouTube accélère sa transition vers le e-commerce. Forte de 43 millions d'utilisateurs…",
       "link": "https://www.ecommercemag.fr/marketing-1221/youtube-deploie-laffiliation-shopping-en-france-60230",
       "source": "Ecommerce Mag",
       "pubDate": "2026-10-14T07:00:56.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "La croissance de votre scale-up va trop vite pour vos équipes finances, voici la marche à suivre",
-      "excerpt": "Les chiffres d’affaires des entreprises d’IA atteignent des sommets qu’on n’avait pas observés depuis la bulle Internet. Certaines entreprises…",
-      "link": "https://www.frenchweb.fr/la-croissance-de-votre-scale-up-va-trop-vite-pour-vos-equipes-finances-voici-la-marche-a-suivre/463930",
-      "source": "FrenchWeb",
-      "pubDate": "2026-10-14T05:36:01.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -113,6 +113,24 @@
   ],
   "itemsEn": [
     {
+      "title": "Checkout donation ask can ding customer satisfaction",
+      "excerpt": "Retailers that ask customers to make charitable donations at checkout kiosks may unintentionally create negative shopping experiences, according to…",
+      "link": "https://www.retailcustomerexperience.com/news/checkout-donation-ask-can-ding-customer-satisfaction/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-15T10:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Belgian retailer expands Toshiba self-checkout to 150 stores",
+      "excerpt": "Belgian retailer Colruyt Group has installed 454 Toshiba self-checkout systems across 150 stores as part of an ongoing expansion of its self-service…",
+      "link": "https://www.retailcustomerexperience.com/news/belgian-retailer-expands-toshiba-self-checkout-to-150-stores/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-15T10:00:00.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
+    {
       "title": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
       "excerpt": "At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's surveillance technology despite growing privacy concerns, arguing that its…",
       "link": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
@@ -122,21 +140,30 @@
       "pinned": false
     },
     {
+      "title": "PODCAST: AI and the future of shopping",
+      "excerpt": "In the latest episode of the Retail Technology podcast Counter Culture, analyst, writer and RT publisher Miya Knights joins host Bruce Ackland to…",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8760/podcast:-ai-and-the-future-of-shopping/",
+      "source": "Retail Technology",
+      "pubDate": "2026-10-15T00:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Nordstrom app gets Christmas makeover",
+      "excerpt": "Just in time for the holidays, Nordstrom is launching new app features that make shopping in store and online easier and more personal",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8784/nordstrom-app-gets-christmas-makeover/",
+      "source": "Retail Technology",
+      "pubDate": "2026-10-15T00:00:00.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
+    {
       "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
       "excerpt": "Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its…",
       "link": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
       "source": "TechCrunch",
       "pubDate": "2026-10-14T22:00:00.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Retail Technology: Proving the Business Case",
-      "excerpt": "The strongest business cases begin before a product is selected. They establish current performance, specify the intended operational change and…",
-      "link": "https://www.retailcustomerexperience.com/resources/retail-technology-proving-the-business-case/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-14T18:52:42.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -173,33 +200,6 @@
       "source": "Grocery Dive",
       "pubDate": "2026-10-14T14:34:00.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "North Carolina Costco plans move forward",
-      "excerpt": "The plan to build a Costco in Asheville, North Carolina, is moving forward after the city's planning and zoning commission approved the wholesaler's…",
-      "link": "https://www.retailcustomerexperience.com/news/north-carolina-costco-plans-move-forward/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-14T10:00:00.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "Retailers want AI while consumers are cautious",
-      "excerpt": "New research from Scurri has revealed a gap between retailers’ AI ambitions and consumers’ expectations of transparency, control and human support",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8783/retailers-want-ai-while-consumers-are-cautious/",
-      "source": "Retail Technology",
-      "pubDate": "2026-10-14T00:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Nordstrom app gets Christmas makeover",
-      "excerpt": "Just in time for the holidays, Nordstrom is launching new app features that make shopping in store and online easier and more personal",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8784/nordstrom-app-gets-christmas-makeover/",
-      "source": "Retail Technology",
-      "pubDate": "2026-10-14T00:00:00.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
       "pinned": false
     },
     {
