@@ -1,7 +1,25 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-16T13:38:06.145Z",
+  "publishedAt": "2026-10-16T18:32:16.917Z",
   "itemsFr": [
+    {
+      "title": "Intelligence artificielle et anglais professionnel : pourquoi savoir traduire ne suffit plus pour réussir à l'international",
+      "excerpt": "L'intelligence artificielle révolutionne la communication internationale, mais savoir traduire ne suffit plus. Pour les entreprises, la véritable…",
+      "link": "https://www.journaldunet.com/management/formation/1556761-intelligence-artificielle-et-anglais-professionnel-pourquoi-savoir-traduire-ne-suffit-plus-pour-reussir-a-l-international/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-16T15:49:15.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Robotique, drones, systèmes autonomes… 17% des start-up françaises développent ou intègrent des solutions d’IA physique",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/robotique-drones-systemes-autonomes-17-des-start-up-francaises-developpent-ou-integrent-des-solutions-dia-physique.6CZOK3BIHRG45CXNK6KJUPJNWI.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-10-16T14:26:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
     {
       "title": "Le mot IA ne fait plus vendre. Comment parler à vos clients B2B quand la hype retombe",
       "excerpt": "Pendant que les marchés se demandent si l'IA sera rentable, les acheteurs se méfient de ceux qui s'en vantent. L'étiquette 'propulsé par l'IA' passe…",
@@ -9,15 +27,6 @@
       "source": "Journal du Net",
       "pubDate": "2026-10-16T12:21:52.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Le prochain virage omnicanal du retail : les chatbots et les fils d'actualité",
-      "excerpt": "À force d'être répété partout, le mot \"omnicanal\" finit par se vider de son sens.",
-      "link": "https://www.journaldunet.com/adtech/1556541-le-prochain-virage-omnicanal-du-retail-les-chatbots-et-les-fils-d-actualite/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-16T12:15:13.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
@@ -84,15 +93,6 @@
       "pinned": false
     },
     {
-      "title": "Des robots humanoïdes dans des micro-usines conteneurisées : Le pari ambitieux de la start-up suédoise 120ft",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/des-robots-humanoides-dans-des-micro-usines-conteneurisees-le-pari-ambitieux-de-la-start-up-suedoise-120ft.E4Q55YITAFHL5GPZDQAN62VDOA.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-10-15T15:47:49.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
       "title": "RAJA intègre le calage carton au cœur du colis",
       "excerpt": "Le groupe RAJA commercialise un emballage e-commerce doté d'un calage alvéolaire en carton. Conçue pour simplifier la préparation des commandes et…",
       "link": "https://www.ecommercemag.fr/logistique-1222/raja-integre-le-calage-carton-au-coeur-du-colis-60249",
@@ -113,12 +113,48 @@
   ],
   "itemsEn": [
     {
-      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
-      "excerpt": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level…",
-      "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "excerpt": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive…",
+      "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
       "source": "TechCrunch",
-      "pubDate": "2026-10-16T12:55:09.000Z",
+      "pubDate": "2026-10-16T17:52:24.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "excerpt": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,”…",
+      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-16T16:30:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Halloween without candy? What shoppers are cutting from budgets this year",
+      "excerpt": "Nearly two-thirds of shoppers plan to skip some purchases this year, including staple items like costumes and candy, a new LendingTree survey finds.",
+      "link": "https://www.retaildive.com/news/halloween-without-candy-holiday-shoppers-cutting-budgets/833212/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-16T16:09:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Nordstrom Rack comes back to San Francisco",
+      "excerpt": "The off-price retailer left its Union Square location three years ago but is reopening a 51,500-square-foot store in fall 2027 as the city’s retail…",
+      "link": "https://www.retaildive.com/news/nordstrom-rack-returns-san-francisco-store-opening/833229/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-16T15:55:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Inside Omaha Steaks’ efforts to ditch marketing bull and attract Gen Z",
+      "excerpt": "The century-old meat delivery company emphasizes credibility for a “No Bull” campaign that spans TV, radio, paid social and influencer partnerships.",
+      "link": "https://www.fooddive.com/news/inside-omaha-steaks-efforts-to-ditch-marketing-bull-and-attract-gen-z/833235/",
+      "source": "Food Dive",
+      "pubDate": "2026-10-16T14:45:00.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -136,33 +172,6 @@
       "link": "https://www.retailcustomerexperience.com/news/convenience-retailer-expands-autonomous-apartment-retail-network-to-5-locations/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-16T10:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-      "excerpt": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block…",
-      "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-15T19:14:26.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "Bealls to debut mobile app",
-      "excerpt": "The app is intended to create a more connected shopping experience across channels, while also supporting the retailer’s strategy around loyalty.",
-      "link": "https://www.retaildive.com/news/bealls-debuts-mobile-app-marketing-campaign/832855/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-15T16:03:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Lululemon restructures raw materials team, lays off 7 people",
-      "excerpt": "The changes came in August, a spokesperson told Retail Dive, just a few weeks before the arrival of new CEO Heidi O’Neill.",
-      "link": "https://www.retaildive.com/news/lululemon-restructures-raw-materials-team-layoffs/833106/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-15T15:49:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -200,15 +209,6 @@
       "source": "Retail Technology",
       "pubDate": "2026-10-15T00:00:00.000Z",
       "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
-      "title": "Justin Timberlake, Jessica Biel enter protein soda market",
-      "excerpt": "Proda is betting the celebrity backing will help the brand enter more mainstream retail outlets.",
-      "link": "https://www.fooddive.com/news/justin-timberlake-jessica-biel-protein-soda-proda/832787/",
-      "source": "Food Dive",
-      "pubDate": "2026-10-13T13:09:00.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     }
   ]
