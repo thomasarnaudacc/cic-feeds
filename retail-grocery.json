@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-16T18:32:16.917Z",
+  "publishedAt": "2026-10-16T23:08:43.674Z",
   "itemsFr": [
     {
       "title": "Intelligence artificielle et anglais professionnel : pourquoi savoir traduire ne suffit plus pour réussir à l'international",
@@ -113,21 +113,21 @@
   ],
   "itemsEn": [
     {
+      "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
+      "excerpt": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
+      "link": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-16T19:40:00.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
       "title": "India becomes the latest country to report rogue AI agent activity",
       "excerpt": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive…",
       "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
       "source": "TechCrunch",
       "pubDate": "2026-10-16T17:52:24.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "excerpt": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,”…",
-      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-16T16:30:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
