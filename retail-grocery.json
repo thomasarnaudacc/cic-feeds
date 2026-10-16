@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-15T23:26:13.666Z",
+  "publishedAt": "2026-10-16T02:19:43.031Z",
   "itemsFr": [
     {
       "title": "CTV, réseaux sociaux, IA générative : la vérification publicitaire face à la fragmentation des médias",
@@ -167,18 +167,18 @@
       "pinned": false
     },
     {
-      "title": "Belgian retailer expands Toshiba self-checkout to 150 stores",
-      "excerpt": "Belgian retailer Colruyt Group has installed 454 Toshiba self-checkout systems across 150 stores as part of an ongoing expansion of its self-service…",
-      "link": "https://www.retailcustomerexperience.com/news/belgian-retailer-expands-toshiba-self-checkout-to-150-stores/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-15T10:00:00.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
       "title": "C-store shoppers favor faster checkout but want human assistance",
       "excerpt": "Convenience store customers are increasingly comfortable with AI-powered technology, particularly when it speeds up checkout, but many still want…",
       "link": "https://www.retailcustomerexperience.com/news/c-store-shoppers-favor-faster-checkout-but-want-human-assistance/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-15T10:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Checkout donation ask can ding customer satisfaction",
+      "excerpt": "Retailers that ask customers to make charitable donations at checkout kiosks may unintentionally create negative shopping experiences, according to…",
+      "link": "https://www.retailcustomerexperience.com/news/checkout-donation-ask-can-ding-customer-satisfaction/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-15T10:00:00.000Z",
       "category": "GRAND ANGLE",
