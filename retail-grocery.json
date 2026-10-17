@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-17T19:52:29.005Z",
+  "publishedAt": "2026-10-17T22:46:37.401Z",
   "itemsFr": [
     {
       "title": "[ RETAIL INSIDE ] L’incroyable théatralisation Halloween d’Auchan Petite Forêt",
@@ -113,21 +113,21 @@
   ],
   "itemsEn": [
     {
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "excerpt": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-17T20:21:19.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
+    {
       "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
       "excerpt": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
       "link": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
       "source": "TechCrunch",
       "pubDate": "2026-10-16T19:40:00.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "India becomes the latest country to report rogue AI agent activity",
-      "excerpt": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive…",
-      "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-16T17:52:24.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
