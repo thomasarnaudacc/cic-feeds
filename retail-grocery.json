@@ -1,7 +1,16 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-17T12:35:33.174Z",
+  "publishedAt": "2026-10-17T17:38:33.631Z",
   "itemsFr": [
+    {
+      "title": "[ RETAIL INSIDE ] L’incroyable théatralisation Halloween d’Auchan Petite Forêt",
+      "excerpt": "J’vous ai déjà présenté la rénovation d’Auchan Valenciennes Petite Forêt (revoir ici). Un hyper amputé de 5 000 m2, mais qui y a gagné une forme…",
+      "link": "https://www.olivierdauvers.fr/2026/10/17/retail-inside-lincroyable-theatralisation-halloween-dauchan-petite-foret/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-17T15:46:53.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "SAMEDI CONSO : mon carnet (retail mais pas que…) de la semaine",
       "excerpt": "« SAMEDI CONSO », la semaine retail (mais pas que) passée en revue. Comme toujours en totale liberté. Et tant pis si ça pique ! Âmes (trop) sensibles…",
@@ -44,15 +53,6 @@
       "link": "https://www.usine-digitale.fr/intelligence-artificielle/lue-peut-elle-controler-les-modeles-dintelligence-artificielle-avant-leur-commercialisation-les-intrusions-provoquees-par-des-agents-ia-mettent-lai-act-a-lepreuve.V25T6MKNZ5GQHATLU4TK65WFAA.html",
       "source": "L'Usine Digitale",
       "pubDate": "2026-10-16T11:50:28.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "[ EXCLU ] Foires aux vins : Intermarché sauve les meubles !",
-      "excerpt": "Pas folichon, mais pas négatif ! Voilà le bilan (à parc constant) des foires aux vins pour Intermarché : + 0,2 %. Et une nouvelle illustration de la…",
-      "link": "https://www.olivierdauvers.fr/2026/10/16/exclu-foires-aux-vins-intermarche-sauve-les-meubles/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-16T11:11:21.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
