@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-18T19:52:16.149Z",
+  "publishedAt": "2026-10-18T22:40:50.778Z",
   "itemsFr": [
     {
       "title": "Gifi : dépôt de bilan en vue",
@@ -95,20 +95,20 @@
   ],
   "itemsEn": [
     {
+      "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+      "excerpt": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be…",
+      "link": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-18T21:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
       "title": "Disney agrees to hire the majority of Character.AI’s workforce",
       "excerpt": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking…",
       "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
       "source": "TechCrunch",
       "pubDate": "2026-10-18T16:30:00.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-      "excerpt": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
-      "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-17T20:21:19.000Z",
       "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
     },
