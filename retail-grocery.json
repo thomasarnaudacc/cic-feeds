@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-18T12:52:53.474Z",
+  "publishedAt": "2026-10-18T17:40:31.778Z",
   "itemsFr": [
     {
       "title": "[ RETAIL INSIDE ] L’incroyable théatralisation Halloween d’Auchan Petite Forêt",
@@ -27,15 +27,6 @@
       "source": "Journal du Net",
       "pubDate": "2026-10-16T15:49:15.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Robotique, drones, systèmes autonomes… 17% des start-up françaises développent ou intègrent des solutions d’IA physique",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/robotique-drones-systemes-autonomes-17-des-start-up-francaises-developpent-ou-integrent-des-solutions-dia-physique.6CZOK3BIHRG45CXNK6KJUPJNWI.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-10-16T14:26:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
@@ -104,21 +95,21 @@
   ],
   "itemsEn": [
     {
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "excerpt": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney…",
+      "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-18T16:30:00.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
+    {
       "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
       "excerpt": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
       "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
       "source": "TechCrunch",
       "pubDate": "2026-10-17T20:21:19.000Z",
       "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
-      "excerpt": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
-      "link": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-16T19:40:00.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
     {
