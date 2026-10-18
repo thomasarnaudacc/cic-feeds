@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-17T22:46:37.401Z",
+  "publishedAt": "2026-10-18T02:12:05.619Z",
   "itemsFr": [
     {
       "title": "[ RETAIL INSIDE ] L’incroyable théatralisation Halloween d’Auchan Petite Forêt",
@@ -158,21 +158,21 @@
       "pinned": false
     },
     {
-      "title": "Love's retail media campaign drives big sales",
-      "excerpt": "Love's Media Group reported that an eight-week advertising campaign for an unnamed beverage brand generated a 23% increase in incremental unit sales…",
-      "link": "https://www.retailcustomerexperience.com/news/loves-retail-media-campaign-drives-big-sales/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-16T10:00:00.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
       "title": "Convenience retailer expands autonomous apartment retail network to 5 locations",
       "excerpt": "Urban Value Corner Store has expanded its residential retail network to 14 locations, including five autonomous stores and nine staffed locations…",
       "link": "https://www.retailcustomerexperience.com/news/convenience-retailer-expands-autonomous-apartment-retail-network-to-5-locations/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-16T10:00:00.000Z",
       "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Love's retail media campaign drives big sales",
+      "excerpt": "Love's Media Group reported that an eight-week advertising campaign for an unnamed beverage brand generated a 23% increase in incremental unit sales…",
+      "link": "https://www.retailcustomerexperience.com/news/loves-retail-media-campaign-drives-big-sales/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-16T10:00:00.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
       "pinned": false
     },
     {
