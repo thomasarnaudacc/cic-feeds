@@ -1,22 +1,22 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-18T17:40:31.778Z",
+  "publishedAt": "2026-10-18T19:52:16.149Z",
   "itemsFr": [
+    {
+      "title": "Gifi : dépôt de bilan en vue",
+      "excerpt": "C’est une information du quotidien Sud-Ouest, généralement bien informé concernant Gifi (dont le siège est à Villeneuve-sur-Lot) : Gifi devrait se…",
+      "link": "https://www.olivierdauvers.fr/2026/10/18/gifi-depot-de-bilan-en-vue/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-18T18:50:25.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
     {
       "title": "[ RETAIL INSIDE ] L’incroyable théatralisation Halloween d’Auchan Petite Forêt",
       "excerpt": "J’vous ai déjà présenté la rénovation d’Auchan Valenciennes Petite Forêt (revoir ici). Un hyper amputé de 5 000 m2, mais qui y a gagné une forme…",
       "link": "https://www.olivierdauvers.fr/2026/10/17/retail-inside-lincroyable-theatralisation-halloween-dauchan-petite-foret/",
       "source": "Olivier Dauvers",
       "pubDate": "2026-10-17T15:46:53.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "SAMEDI CONSO : mon carnet (retail mais pas que…) de la semaine",
-      "excerpt": "« SAMEDI CONSO », la semaine retail (mais pas que) passée en revue. Comme toujours en totale liberté. Et tant pis si ça pique ! Âmes (trop) sensibles…",
-      "link": "https://www.olivierdauvers.fr/2026/10/17/samedi-conso-mon-carnet-retail-mais-pas-que-de-la-semaine-384/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-17T00:07:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -96,7 +96,7 @@
   "itemsEn": [
     {
       "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-      "excerpt": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney…",
+      "excerpt": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking…",
       "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
       "source": "TechCrunch",
       "pubDate": "2026-10-18T16:30:00.000Z",
@@ -131,12 +131,30 @@
       "pinned": false
     },
     {
+      "title": "Albertsons expands board for third time in 5 weeks",
+      "excerpt": "The grocery company has grown its board from 10 members in September to 15 with its latest appointment.",
+      "link": "https://www.grocerydive.com/news/albertsons-adds-another-board-member/833164/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-10-16T14:47:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
       "title": "Inside Omaha Steaks’ efforts to ditch marketing bull and attract Gen Z",
       "excerpt": "The century-old meat delivery company emphasizes credibility for a “No Bull” campaign that spans TV, radio, paid social and influencer partnerships.",
       "link": "https://www.fooddive.com/news/inside-omaha-steaks-efforts-to-ditch-marketing-bull-and-attract-gen-z/833235/",
       "source": "Food Dive",
       "pubDate": "2026-10-16T14:45:00.000Z",
       "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "The Friday Checkout: Ahold Delhaize’s digital disaster is a customer retention nightmare",
+      "excerpt": "The cybersecurity incident that struck the grocer has restricted people’s access to its loyalty programs, posing a significant risk to the company’s…",
+      "link": "https://www.grocerydive.com/news/the-friday-checkout-ahold-delhaizes-digital-disaster-is-a-customer-retent/833220/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-10-16T13:34:18.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
     {
@@ -154,24 +172,6 @@
       "link": "https://www.retailcustomerexperience.com/news/loves-retail-media-campaign-drives-big-sales/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-16T10:00:00.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
-      "title": "Pardon the Disruption: Kroger’s really big layoff plan carries some really big risks",
-      "excerpt": "But the strategy, outlined earlier this week by CEO Greg Foran, also sends a clear message to employees as well as the industry.",
-      "link": "https://www.grocerydive.com/news/pardon-the-disruption-kroger-layoffs-plan-message/833061/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-15T14:53:28.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "Albertsons retail media arm taps former Walmart exec",
-      "excerpt": "Steve Shee stepped into a vice president role in the division around the same time as the retail media arm’s leader departed.",
-      "link": "https://www.grocerydive.com/news/albertsons-media-collective-retail-media-executive/833020/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-15T14:00:00.000Z",
       "category": "MAGASIN & EXPÉRIENCE",
       "pinned": false
     },
