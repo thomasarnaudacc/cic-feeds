@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-18T07:34:02.093Z",
+  "publishedAt": "2026-10-18T12:52:53.474Z",
   "itemsFr": [
     {
       "title": "[ RETAIL INSIDE ] L’incroyable théatralisation Halloween d’Auchan Petite Forêt",
@@ -44,15 +44,6 @@
       "link": "https://www.journaldunet.com/martech/1556721-le-mot-ia-ne-fait-plus-vendre-comment-parler-a-vos-clients-b2b-quand-la-hype-retombe/",
       "source": "Journal du Net",
       "pubDate": "2026-10-16T12:21:52.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "L’UE peut-elle contrôler les modèles d’intelligence artificielle avant leur commercialisation ? Les intrusions provoquées par des agents IA mettent l’AI Act à l’épreuve",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/lue-peut-elle-controler-les-modeles-dintelligence-artificielle-avant-leur-commercialisation-les-intrusions-provoquees-par-des-agents-ia-mettent-lai-act-a-lepreuve.V25T6MKNZ5GQHATLU4TK65WFAA.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-10-16T11:50:28.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
