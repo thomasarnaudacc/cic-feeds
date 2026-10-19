@@ -1,7 +1,43 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-19T02:28:05.997Z",
+  "publishedAt": "2026-10-19T08:17:36.573Z",
   "itemsFr": [
+    {
+      "title": "Violences du 17 octobre : 1 500 commerces touchés, des centaines de millions d’euros de dégâts",
+      "excerpt": "Au lendemain des manifestations du 17 octobre 2026, le bilan des violences et des pillages met en lumière l’ampleur des dégâts subis par les…",
+      "link": "https://www.ecommercemag.fr/retail-1220/violences-du-17-octobre-1-500-commerces-touches-des-centaines-de-millions-deuros-de-degats-60332",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-10-19T08:12:27.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Carrefour rachète Codifrance pour 152 millions d’euros",
+      "excerpt": "Le groupe Carrefour a conclu un accord avec Colruyt Group en vue d'acquérir Codifrance, spécialiste de l'affiliation et de la distribution…",
+      "link": "https://www.ecommercemag.fr/retail-1220/strategie-retail-2163/carrefour-rachete-codifrance-pour-152-millions-deuros-60338",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-10-19T07:55:41.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "French Tech 2030 : derrière les 80 lauréats, la carte des ambitions industrielles françaises",
+      "excerpt": "Calcul, composants, communications spatiales, énergie, santé : la troisième promotion de French Tech 2030 dessine les capacités technologiques que…",
+      "link": "https://www.frenchweb.fr/french-tech-2030-derriere-les-80-laureats-la-carte-des-ambitions-industrielles-francaises/463972",
+      "source": "FrenchWeb",
+      "pubDate": "2026-10-19T04:57:58.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "[ EXCLU ] La visite de chantier du projet “Carrefour Frais”",
+      "excerpt": "Montigny-lès-Cormeilles (95) est le premier des dix hypermarchés Carrefour qu’Alexandre Bompard veut transformer en spécialiste “frais et discount”…",
+      "link": "https://www.olivierdauvers.fr/2026/10/19/exclu-la-visite-de-chantier-du-projet-carrefour-frais/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-19T04:15:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "Gifi : dépôt de bilan en vue",
       "excerpt": "C’est une information du quotidien Sud-Ouest, généralement bien informé concernant Gifi (dont le siège est à Villeneuve-sur-Lot) : Gifi devrait se…",
@@ -9,15 +45,6 @@
       "source": "Olivier Dauvers",
       "pubDate": "2026-10-18T18:50:25.000Z",
       "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "[ RETAIL INSIDE ] L’incroyable théatralisation Halloween d’Auchan Petite Forêt",
-      "excerpt": "J’vous ai déjà présenté la rénovation d’Auchan Valenciennes Petite Forêt (revoir ici). Un hyper amputé de 5 000 m2, mais qui y a gagné une forme…",
-      "link": "https://www.olivierdauvers.fr/2026/10/17/retail-inside-lincroyable-theatralisation-halloween-dauchan-petite-foret/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-17T15:46:53.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -63,33 +90,6 @@
       "source": "FrenchWeb",
       "pubDate": "2026-10-16T05:32:25.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "FoodTech, data et investissement : comment repérer les innovations qui transformeront l’agroalimentaire ?",
-      "excerpt": "Entre essor de l’intelligence artificielle, émergence de nouveaux modèles économiques et multiplication des start-up FoodTech, l’industrie…",
-      "link": "https://www.frenchweb.fr/foodtech-data-et-investissement-comment-reperer-les-innovations-qui-transformeront-lagroalimentaire/463961",
-      "source": "FrenchWeb",
-      "pubDate": "2026-10-16T05:00:23.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "RAJA intègre le calage carton au cœur du colis",
-      "excerpt": "Le groupe RAJA commercialise un emballage e-commerce doté d'un calage alvéolaire en carton. Conçue pour simplifier la préparation des commandes et…",
-      "link": "https://www.ecommercemag.fr/logistique-1222/raja-integre-le-calage-carton-au-coeur-du-colis-60249",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-10-15T07:00:18.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "YouTube déploie l’affiliation Shopping en France",
-      "excerpt": "En déployant son offre d'affiliation Shopping en France, YouTube accélère sa transition vers le e-commerce. Forte de 43 millions d'utilisateurs…",
-      "link": "https://www.ecommercemag.fr/marketing-1221/youtube-deploie-laffiliation-shopping-en-france-60230",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-10-14T07:00:56.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     }
   ],
@@ -167,21 +167,21 @@
       "pinned": false
     },
     {
-      "title": "Love's retail media campaign drives big sales",
-      "excerpt": "Love's Media Group reported that an eight-week advertising campaign for an unnamed beverage brand generated a 23% increase in incremental unit sales…",
-      "link": "https://www.retailcustomerexperience.com/news/loves-retail-media-campaign-drives-big-sales/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-16T10:00:00.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
       "title": "Convenience retailer expands autonomous apartment retail network to 5 locations",
       "excerpt": "Urban Value Corner Store has expanded its residential retail network to 14 locations, including five autonomous stores and nine staffed locations…",
       "link": "https://www.retailcustomerexperience.com/news/convenience-retailer-expands-autonomous-apartment-retail-network-to-5-locations/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-16T10:00:00.000Z",
       "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Love's retail media campaign drives big sales",
+      "excerpt": "Love's Media Group reported that an eight-week advertising campaign for an unnamed beverage brand generated a 23% increase in incremental unit sales…",
+      "link": "https://www.retailcustomerexperience.com/news/loves-retail-media-campaign-drives-big-sales/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-16T10:00:00.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
       "pinned": false
     },
     {
