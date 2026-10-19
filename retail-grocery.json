@@ -1,23 +1,77 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-19T08:17:36.573Z",
+  "publishedAt": "2026-10-19T16:01:42.715Z",
   "itemsFr": [
     {
-      "title": "Violences du 17 octobre : 1 500 commerces touchés, des centaines de millions d’euros de dégâts",
-      "excerpt": "Au lendemain des manifestations du 17 octobre 2026, le bilan des violences et des pillages met en lumière l’ampleur des dégâts subis par les…",
-      "link": "https://www.ecommercemag.fr/retail-1220/violences-du-17-octobre-1-500-commerces-touches-des-centaines-de-millions-deuros-de-degats-60332",
+      "title": "VPN, antivirus, données personnelles : Surfshark One promet beaucoup pour 2,49 €/mois, mais que vaut son offre ?",
+      "excerpt": "Avec Surfshark One, VPN, antivirus et alertes de fuite de données sont réunis dans un même abonnement. Une offre complète affichée à partir de 2,49…",
+      "link": "https://www.journaldunet.com/cybersecurite/vpn/1556797-vpn-antivirus-donnees-personnelles-surfshark-one-promet-beaucoup-pour-2-49-eur-mois-mais-que-vaut-son-offre/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-19T15:30:06.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "OpenAI prépare un robot humanoïde qui pourrait être présenté dès 2027",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/openai-prepare-un-robot-humanoide-qui-pourrait-etre-presente-des-2027.FDY3CAZ7FJDHTMIFMDADODRL5Y.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-10-19T14:55:18.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Au moins 3 000 commerces dégradés ou pillés : le gouvernement annonce des aides",
+      "excerpt": "Au moins 3 000 commerces auraient subi des dégradations ou des pillages, selon le ministre du Commerce et des PME, Serge Papin. Le gouvernement…",
+      "link": "https://www.ecommercemag.fr/retail-1220/veille-tribune-2169/au-moins-3-000-commerces-degrades-ou-pilles-le-gouvernement-annonce-des-aides-60352",
       "source": "Ecommerce Mag",
-      "pubDate": "2026-10-19T08:12:27.000Z",
+      "pubDate": "2026-10-19T14:20:50.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "Carrefour rachète Codifrance pour 152 millions d’euros",
-      "excerpt": "Le groupe Carrefour a conclu un accord avec Colruyt Group en vue d'acquérir Codifrance, spécialiste de l'affiliation et de la distribution…",
-      "link": "https://www.ecommercemag.fr/retail-1220/strategie-retail-2163/carrefour-rachete-codifrance-pour-152-millions-deuros-60338",
+      "title": "En quête de souveraineté, la start-up suédoise Tandem Health va proposer son assistant médical IA sur l’infrastructure cloud 100% européenne de Scaleway",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/informatique/cloud/en-quete-de-souverainete-la-start-up-suedoise-tandem-health-va-proposer-son-assistant-medical-ia-sur-linfrastructure-cloud-100-europeenne-de-scaleway.Y75NMNPWURE37PBIX4RAUTAI34.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-10-19T14:16:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Shadow AI : les salariés ont-ils compris avant leurs dirigeants où se trouvent les vrais gains de productivité ?",
+      "excerpt": "Les salariés utilisent parfois l'IA sans autorisation pour contourner des outils inadaptés. Et si ces usages révélaient surtout ce qui complique…",
+      "link": "https://www.journaldunet.com/intelligence-artificielle/1556805-shadow-ai-les-salaries-ont-ils-compris-avant-leurs-dirigeants-ou-se-trouvent-les-vrais-gains-de-productivite/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-19T13:52:34.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
+    {
+      "title": "Le marché français de la seconde main marque le pas",
+      "excerpt": "L'achat de seconde main recule à 29 % dans l'Hexagone, distancié par une moyenne européenne en hausse à 36 %. Selon l'édition 2026 du Baromètre du…",
+      "link": "https://www.ecommercemag.fr/retail-1220/barometre-etude-2168/le-marche-francais-de-la-seconde-main-marque-le-pas-60305",
       "source": "Ecommerce Mag",
-      "pubDate": "2026-10-19T07:55:41.000Z",
+      "pubDate": "2026-10-19T11:09:25.000Z",
       "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "[ LESSIVE ] Affichage du prix à la dose : pourquoi c’est (encore) à moi de m’en occuper ???",
+      "excerpt": "Passage par Leclerc Brest Gouesnou la semaine dernière. Et toujours ce même étonnement devant les “foires à la lessive” : ces opérations où, réunies…",
+      "link": "https://www.olivierdauvers.fr/2026/10/19/lessive-affichage-du-prix-a-la-dose-pourquoi-cest-encore-a-moi-de-men-occuper/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-19T09:40:00.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Pourquoi l’Europe pourrait devenir le premier marché mondial des robots humanoïdes",
+      "excerpt": "Les robots humanoïdes ne sont plus un simple exercice de démonstration technologique, depuis deux ans, les annonces se multiplient : Tesla accélère…",
+      "link": "https://www.frenchweb.fr/pourquoi-leurope-pourrait-devenir-le-premier-marche-mondial-des-robots-humanoides/462732",
+      "source": "FrenchWeb",
+      "pubDate": "2026-10-19T05:52:25.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
@@ -39,33 +93,6 @@
       "pinned": false
     },
     {
-      "title": "Gifi : dépôt de bilan en vue",
-      "excerpt": "C’est une information du quotidien Sud-Ouest, généralement bien informé concernant Gifi (dont le siège est à Villeneuve-sur-Lot) : Gifi devrait se…",
-      "link": "https://www.olivierdauvers.fr/2026/10/18/gifi-depot-de-bilan-en-vue/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-18T18:50:25.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "Intelligence artificielle et anglais professionnel : pourquoi savoir traduire ne suffit plus pour réussir à l'international",
-      "excerpt": "L'intelligence artificielle révolutionne la communication internationale, mais savoir traduire ne suffit plus. Pour les entreprises, la véritable…",
-      "link": "https://www.journaldunet.com/management/formation/1556761-intelligence-artificielle-et-anglais-professionnel-pourquoi-savoir-traduire-ne-suffit-plus-pour-reussir-a-l-international/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-16T15:49:15.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Le mot IA ne fait plus vendre. Comment parler à vos clients B2B quand la hype retombe",
-      "excerpt": "Pendant que les marchés se demandent si l'IA sera rentable, les acheteurs se méfient de ceux qui s'en vantent. L'étiquette 'propulsé par l'IA' passe…",
-      "link": "https://www.journaldunet.com/martech/1556721-le-mot-ia-ne-fait-plus-vendre-comment-parler-a-vos-clients-b2b-quand-la-hype-retombe/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-16T12:21:52.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Deeptech : découvrez la nouvelle promotion du French Tech 2030",
       "excerpt": "L’article Deeptech : découvrez la nouvelle promotion du French Tech 2030 est apparu en premier sur Maddyness - Le média pour comprendre l'économie de…",
       "link": "https://www.maddyness.com/2026/10/16/deeptech-decouvrez-la-nouvelle-promotion-du-french-tech-2030/",
@@ -82,18 +109,45 @@
       "pubDate": "2026-10-16T07:00:45.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
-    },
-    {
-      "title": "Positive lance ses MCP pour connecter les assistants IA directement aux campagnes marketing et commerciales des PME",
-      "excerpt": "Un seul agent IA peut désormais orchestrer l’ensemble du parcours, de la visibilité dans les moteurs de recherche jusqu’aux ventes, sans changer…",
-      "link": "https://www.frenchweb.fr/positive-lance-ses-mcp-pour-connecter-les-assistants-ia-directement-aux-campagnes-marketing-et-commerciales-des-pme/463945",
-      "source": "FrenchWeb",
-      "pubDate": "2026-10-16T05:32:25.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
     }
   ],
   "itemsEn": [
+    {
+      "title": "Walmart opens next-gen California facility to boost West Coast fulfillment",
+      "excerpt": "The 900,000-square-foot site is equipped with an automated storage and retrieval system to help increase order capacity to enable faster shipping.",
+      "link": "https://www.retaildive.com/news/walmart-opens-next-gen-california-fulfillment-center-west-coast/832749/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-19T15:22:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Former Estée Lauder exec no longer with Gap Inc.",
+      "excerpt": "John Demsey began advising for the retailer about a year ago as the company sought to revamp its beauty business.",
+      "link": "https://www.retaildive.com/news/gap-john-demsey-executive-director-beauty-exits/833283/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-19T14:47:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Navy Exchange launches 24-hour micro market",
+      "excerpt": "Naval Support Activity Souda Bay in Greece has opened a fully automated Navy Exchange micro market designed to provide military personnel with…",
+      "link": "https://www.retailcustomerexperience.com/news/navy-exchange-launches-24-hour-micro-market/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-19T10:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Beyond the hype: What retailers actually learn when agentic AI hits the sales floor",
+      "excerpt": "There is a consensus in every prediction this year that agentic AI will have an effect on retail. What is not discussed at all is what follows: the…",
+      "link": "https://www.retailcustomerexperience.com/blogs/beyond-the-hype-what-retailers-actually-learn-when-agentic-ai-hits-the-sales-floor/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-19T10:00:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
     {
       "title": "Bealls launches new app",
       "excerpt": "Clothing retailer Bealls has launched a new mobile app, representing the next phase of guest engagement and loyalty efforts",
@@ -122,24 +176,6 @@
       "pinned": false
     },
     {
-      "title": "Halloween without candy? What shoppers are cutting from budgets this year",
-      "excerpt": "Nearly two-thirds of shoppers plan to skip some purchases this year, including staple items like costumes and candy, a new LendingTree survey finds.",
-      "link": "https://www.retaildive.com/news/halloween-without-candy-holiday-shoppers-cutting-budgets/833212/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-16T16:09:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Nordstrom Rack comes back to San Francisco",
-      "excerpt": "The off-price retailer left its Union Square location three years ago but is reopening a 51,500-square-foot store in fall 2027 as the city’s retail…",
-      "link": "https://www.retaildive.com/news/nordstrom-rack-returns-san-francisco-store-opening/833229/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-16T15:55:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Albertsons expands board for third time in 5 weeks",
       "excerpt": "The grocery company has grown its board from 10 members in September to 15 with its latest appointment.",
       "link": "https://www.grocerydive.com/news/albertsons-adds-another-board-member/833164/",
@@ -164,24 +200,6 @@
       "source": "Grocery Dive",
       "pubDate": "2026-10-16T13:34:18.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "Convenience retailer expands autonomous apartment retail network to 5 locations",
-      "excerpt": "Urban Value Corner Store has expanded its residential retail network to 14 locations, including five autonomous stores and nine staffed locations…",
-      "link": "https://www.retailcustomerexperience.com/news/convenience-retailer-expands-autonomous-apartment-retail-network-to-5-locations/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-16T10:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Love's retail media campaign drives big sales",
-      "excerpt": "Love's Media Group reported that an eight-week advertising campaign for an unnamed beverage brand generated a 23% increase in incremental unit sales…",
-      "link": "https://www.retailcustomerexperience.com/news/loves-retail-media-campaign-drives-big-sales/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-16T10:00:00.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
       "pinned": false
     },
     {
