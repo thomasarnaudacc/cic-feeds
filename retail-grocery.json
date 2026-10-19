@@ -1,7 +1,16 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-19T16:01:42.715Z",
+  "publishedAt": "2026-10-19T21:52:16.568Z",
   "itemsFr": [
+    {
+      "title": "Pillages du 17 octobre : Serge Papin promet que « cela ne se reproduira pas »",
+      "excerpt": "Deux jours après les pillages survenus en marge de la mobilisation du 17 octobre, le ministre du Commerce Serge Papin s’est rendu lundi dans le 10ᵉ…",
+      "link": "https://www.ecommercemag.fr/retail-1220/pillages-du-17-octobre-serge-papin-promet-que-cela-ne-se-reproduira-pas-60358",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-10-19T17:00:08.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
     {
       "title": "VPN, antivirus, données personnelles : Surfshark One promet beaucoup pour 2,49 €/mois, mais que vaut son offre ?",
       "excerpt": "Avec Surfshark One, VPN, antivirus et alertes de fuite de données sont réunis dans un même abonnement. Une offre complète affichée à partir de 2,49…",
@@ -45,15 +54,6 @@
       "source": "Journal du Net",
       "pubDate": "2026-10-19T13:52:34.000Z",
       "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "Le marché français de la seconde main marque le pas",
-      "excerpt": "L'achat de seconde main recule à 29 % dans l'Hexagone, distancié par une moyenne européenne en hausse à 36 %. Selon l'édition 2026 du Baromètre du…",
-      "link": "https://www.ecommercemag.fr/retail-1220/barometre-etude-2168/le-marche-francais-de-la-seconde-main-marque-le-pas-60305",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-10-19T11:09:25.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -113,6 +113,33 @@
   ],
   "itemsEn": [
     {
+      "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+      "excerpt": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant…",
+      "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-19T18:49:04.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
+      "excerpt": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo…",
+      "link": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-19T18:00:39.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Dick’s Sporting Goods’ seasonal hiring slips",
+      "excerpt": "The athletics retailer is echoing a national pattern of retailers pulling back on hiring workers for the holidays.",
+      "link": "https://www.retaildive.com/news/dicks-sporting-goods-seasonal-hiring-down/833348/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-19T16:12:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
       "title": "Walmart opens next-gen California facility to boost West Coast fulfillment",
       "excerpt": "The 900,000-square-foot site is equipped with an automated storage and retrieval system to help increase order capacity to enable faster shipping.",
       "link": "https://www.retaildive.com/news/walmart-opens-next-gen-california-fulfillment-center-west-coast/832749/",
@@ -122,21 +149,12 @@
       "pinned": false
     },
     {
-      "title": "Former Estée Lauder exec no longer with Gap Inc.",
-      "excerpt": "John Demsey began advising for the retailer about a year ago as the company sought to revamp its beauty business.",
-      "link": "https://www.retaildive.com/news/gap-john-demsey-executive-director-beauty-exits/833283/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-19T14:47:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Navy Exchange launches 24-hour micro market",
-      "excerpt": "Naval Support Activity Souda Bay in Greece has opened a fully automated Navy Exchange micro market designed to provide military personnel with…",
-      "link": "https://www.retailcustomerexperience.com/news/navy-exchange-launches-24-hour-micro-market/",
+      "title": "Kroger laying off 3K corporate staffers",
+      "excerpt": "Supermarket brand Kroger is cutting 3,000 corporate-level jobs over the next three years. The workforce reduction is part of the grocer's strategy to…",
+      "link": "https://www.retailcustomerexperience.com/news/kroger-laying-off-3k-corporate-staffers/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-19T10:00:00.000Z",
-      "category": "GRAND ANGLE",
+      "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
     },
     {
@@ -155,24 +173,6 @@
       "source": "Retail Technology",
       "pubDate": "2026-10-19T00:00:00.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
-      "excerpt": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be…",
-      "link": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-18T21:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-      "excerpt": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking…",
-      "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-18T16:30:00.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
     },
     {
