@@ -1,7 +1,52 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-20T02:40:51.768Z",
+  "publishedAt": "2026-10-20T08:02:35.809Z",
   "itemsFr": [
+    {
+      "title": "Le drive-to-store gagne du terrain dans le mix média avec des investissements en hausse de 21%",
+      "excerpt": "Alors que les crises et les incertitudes se cumulent, les annonceurs misent sur ce levier pour générer des ventes, et notamment en digital (+33,4%)",
+      "link": "https://www.journaldunet.com/adtech/1556793-le-drive-to-store-gagne-du-terrain-dans-le-mix-media-avec-des-investissements-en-hausse-de-21/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-20T08:00:17.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
+    {
+      "title": "Black Friday, Noël, soldes : comment préparer sa fin d’année avant le rush",
+      "excerpt": "Avec Positive User, la plateforme de marketing automation multicanal qui génère en quelques minutes un plan de fin d’année prêt à l’emploi. Chaque…",
+      "link": "https://www.frenchweb.fr/black-friday-noel-soldes-comment-preparer-sa-fin-dannee-avant-le-rush/463996",
+      "source": "FrenchWeb",
+      "pubDate": "2026-10-20T05:48:39.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Pourquoi l’IA e-commerce doit désormais intervenir au moment de la décision d’achat",
+      "excerpt": "L’IA a profondément fait évoluer la manière dont les internautes cherchent une information. Ils ne se contentent plus de saisir quelques mots-clés …",
+      "link": "https://www.frenchweb.fr/pourquoi-lia-e-commerce-doit-desormais-intervenir-au-moment-de-la-decision-dachat/463651",
+      "source": "FrenchWeb",
+      "pubDate": "2026-10-20T05:36:17.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Thibaud Hug de Larauze, co-fondateur de Back Market : «Je ne vais pas quitter la France si l'extrême-droite ou l'extrême-gauche s'impose»",
+      "excerpt": "L’article Thibaud Hug de Larauze, co-fondateur de Back Market : «Je ne vais pas quitter la France si l'extrême-droite ou l'extrême-gauche s'impose»…",
+      "link": "https://www.maddyness.com/2026/10/20/thibaud-hug-de-larauze-co-fondateur-de-back-market-je-ne-vais-pas-quitter-la-france-si-lextreme-droite-ou-lextreme-gauche-simpose/",
+      "source": "Maddyness",
+      "pubDate": "2026-10-20T05:00:48.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "[ TECH ] Quelques Intermarché s’approprient le sommelier virtuel de Graffiti",
+      "excerpt": "Le sommelier virtuel de Graffiti est une aspérité séduisante de l’Intermarché de Noisy-le-Grand (en plus du reste, revoir ma visite ici). L’appli se…",
+      "link": "https://www.olivierdauvers.fr/2026/10/20/tech-quelques-intermarche-sapproprient-le-sommelier-virtuel-de-graffiti/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-20T04:35:36.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "Pillages du 17 octobre : Serge Papin promet que « cela ne se reproduira pas »",
       "excerpt": "Deux jours après les pillages survenus en marge de la mobilisation du 17 octobre, le ministre du Commerce Serge Papin s’est rendu lundi dans le 10ᵉ…",
@@ -48,15 +93,6 @@
       "pinned": false
     },
     {
-      "title": "Shadow AI : les salariés ont-ils compris avant leurs dirigeants où se trouvent les vrais gains de productivité ?",
-      "excerpt": "Les salariés utilisent parfois l'IA sans autorisation pour contourner des outils inadaptés. Et si ces usages révélaient surtout ce qui complique…",
-      "link": "https://www.journaldunet.com/intelligence-artificielle/1556805-shadow-ai-les-salaries-ont-ils-compris-avant-leurs-dirigeants-ou-se-trouvent-les-vrais-gains-de-productivite/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-19T13:52:34.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
       "title": "[ LESSIVE ] Affichage du prix à la dose : pourquoi c’est (encore) à moi de m’en occuper ???",
       "excerpt": "Passage par Leclerc Brest Gouesnou la semaine dernière. Et toujours ce même étonnement devant les “foires à la lessive” : ces opérations où, réunies…",
       "link": "https://www.olivierdauvers.fr/2026/10/19/lessive-affichage-du-prix-a-la-dose-pourquoi-cest-encore-a-moi-de-men-occuper/",
@@ -66,48 +102,12 @@
       "pinned": false
     },
     {
-      "title": "Pourquoi l’Europe pourrait devenir le premier marché mondial des robots humanoïdes",
-      "excerpt": "Les robots humanoïdes ne sont plus un simple exercice de démonstration technologique, depuis deux ans, les annonces se multiplient : Tesla accélère…",
-      "link": "https://www.frenchweb.fr/pourquoi-leurope-pourrait-devenir-le-premier-marche-mondial-des-robots-humanoides/462732",
-      "source": "FrenchWeb",
-      "pubDate": "2026-10-19T05:52:25.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "French Tech 2030 : derrière les 80 lauréats, la carte des ambitions industrielles françaises",
-      "excerpt": "Calcul, composants, communications spatiales, énergie, santé : la troisième promotion de French Tech 2030 dessine les capacités technologiques que…",
-      "link": "https://www.frenchweb.fr/french-tech-2030-derriere-les-80-laureats-la-carte-des-ambitions-industrielles-francaises/463972",
-      "source": "FrenchWeb",
-      "pubDate": "2026-10-19T04:57:58.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "[ EXCLU ] La visite de chantier du projet “Carrefour Frais”",
-      "excerpt": "Montigny-lès-Cormeilles (95) est le premier des dix hypermarchés Carrefour qu’Alexandre Bompard veut transformer en spécialiste “frais et discount”…",
-      "link": "https://www.olivierdauvers.fr/2026/10/19/exclu-la-visite-de-chantier-du-projet-carrefour-frais/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-19T04:15:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Deeptech : découvrez la nouvelle promotion du French Tech 2030",
       "excerpt": "L’article Deeptech : découvrez la nouvelle promotion du French Tech 2030 est apparu en premier sur Maddyness - Le média pour comprendre l'économie de…",
       "link": "https://www.maddyness.com/2026/10/16/deeptech-decouvrez-la-nouvelle-promotion-du-french-tech-2030/",
       "source": "Maddyness",
       "pubDate": "2026-10-16T08:23:07.000Z",
       "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "La présidentielle 2027 se jouera sous haute intelligence artificielle",
-      "excerpt": "L’article La présidentielle 2027 se jouera sous haute intelligence artificielle est apparu en premier sur Maddyness - Le média pour comprendre…",
-      "link": "https://www.maddyness.com/2026/10/16/la-presidentielle-2027-se-jouera-sous-haute-intelligence-artificielle/",
-      "source": "Maddyness",
-      "pubDate": "2026-10-16T07:00:45.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     }
   ],
@@ -158,21 +158,30 @@
       "pinned": false
     },
     {
+      "title": "How Ahold Delhaize USA’s banners are reaching shoppers amid outages",
+      "excerpt": "Roughly a week after all five banners’ websites and apps became inoperable, the chains are touting deals on social media to keep customers shopping.",
+      "link": "https://www.grocerydive.com/news/ahold-delhaize-usa-cybersecurity-website-app-outage-loyalty-programs/833360/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-10-19T15:16:32.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Kroger laying off 3K corporate staffers",
+      "excerpt": "Supermarket brand Kroger is cutting 3,000 corporate-level jobs over the next three years. The workforce reduction is part of the grocer's strategy to…",
+      "link": "https://www.retailcustomerexperience.com/news/kroger-laying-off-3k-corporate-staffers/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-19T10:00:00.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
+    {
       "title": "Beyond the hype: What retailers actually learn when agentic AI hits the sales floor",
       "excerpt": "There is a consensus in every prediction this year that agentic AI will have an effect on retail. What is not discussed at all is what follows: the…",
       "link": "https://www.retailcustomerexperience.com/blogs/beyond-the-hype-what-retailers-actually-learn-when-agentic-ai-hits-the-sales-floor/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-19T10:00:00.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Navy Exchange launches 24-hour micro market",
-      "excerpt": "Naval Support Activity Souda Bay in Greece has opened a fully automated Navy Exchange micro market designed to provide military personnel with…",
-      "link": "https://www.retailcustomerexperience.com/news/navy-exchange-launches-24-hour-micro-market/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-19T10:00:00.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -200,15 +209,6 @@
       "source": "Food Dive",
       "pubDate": "2026-10-16T14:45:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "The Friday Checkout: Ahold Delhaize’s digital disaster is a customer retention nightmare",
-      "excerpt": "The cybersecurity incident that struck the grocer has restricted people’s access to its loyalty programs, posing a significant risk to the company’s…",
-      "link": "https://www.grocerydive.com/news/the-friday-checkout-ahold-delhaizes-digital-disaster-is-a-customer-retent/833220/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-16T13:34:18.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     }
   ]
