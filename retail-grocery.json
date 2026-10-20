@@ -1,14 +1,68 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-20T08:02:35.809Z",
+  "publishedAt": "2026-10-20T13:58:39.866Z",
   "itemsFr": [
     {
-      "title": "Le drive-to-store gagne du terrain dans le mix média avec des investissements en hausse de 21%",
-      "excerpt": "Alors que les crises et les incertitudes se cumulent, les annonceurs misent sur ce levier pour générer des ventes, et notamment en digital (+33,4%)",
-      "link": "https://www.journaldunet.com/adtech/1556793-le-drive-to-store-gagne-du-terrain-dans-le-mix-media-avec-des-investissements-en-hausse-de-21/",
+      "title": "Siemens et Nvidia accélèrent dans la course aux usines autonomes pilotées par l’intelligence artificielle",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/ia-generative/siemens-et-nvidia-accelerent-dans-la-course-aux-usines-autonomes-pilotees-par-lintelligence-artificielle.VYYZOT53IVACPD7SAOK2ZMJFAQ.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-10-20T11:47:46.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "\"Avec le commerce agentique, nous nous dirigeons peut-être vers une ère du zéro clic\"",
+      "excerpt": "Alors que le Mastercard Innovation Forum aura lieu le 5 novembre, Roxane Laigle, CEO et cofondatrice de Lemrock, revient sur les défis du commerce…",
+      "link": "https://www.journaldunet.com/retail/1556869-nous-nous-dirigeons-peut-etre-vers-une-ere-du-zero-clic/",
       "source": "Journal du Net",
-      "pubDate": "2026-10-20T08:00:17.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
+      "pubDate": "2026-10-20T11:46:25.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Le groupe Casino devient Plesio et réaffirme son ambition dans le commerce de proximité",
+      "excerpt": "Le distributeur français annonce une nouvelle identité pour fédérer ses sept enseignes autour d’une stratégie axée sur les commerces de proximité, la…",
+      "link": "https://www.ecommercemag.fr/retail-1220/le-groupe-casino-devient-plesio-et-reaffirme-son-ambition-dans-le-commerce-de-proximite-60394",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-10-20T11:04:30.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Palmier Pro : peut-on vraiment confier un montage vidéo complet à un agent IA ?",
+      "excerpt": "Analyser des rushes, construire une timeline ou encore créer une version verticale depuis un simple prompt : c'est la promesse de Palmier Pro. Nous…",
+      "link": "https://www.journaldunet.com/intelligence-artificielle/1556809-palmier-pro-peut-on-vraiment-confier-un-montage-video-complet-a-un-agent-ia/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-20T10:32:40.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Remplacer le personnel de sécurité par des robots : Pourquoi SoftBank étudie le rachat d’Allied Universal",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/remplacer-le-personnel-de-securite-par-des-robots-pourquoi-softbank-etudie-le-rachat-dallied-universal.VZSU5ZB645A5PP4WGB4RGN2LGU.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-10-20T10:04:14.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Produits volés : Bercy met à l’épreuve la traçabilité des plateformes",
+      "excerpt": "Des marchandises dérobées dans les commerces lors des pillages du week-end ont été retrouvées sur des sites de vente en ligne, selon le gouvernement…",
+      "link": "https://www.frenchweb.fr/produits-voles-bercy-met-a-lepreuve-la-tracabilite-des-plateformes/464004",
+      "source": "FrenchWeb",
+      "pubDate": "2026-10-20T08:54:56.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "Logistique : CEVA réunit Colis Privé et Paack pour le dernier kilomètre",
+      "excerpt": "CEVA Logistics rassemble désormais Colis Privé et Paack sous une bannière unique. Ce rapprochement crée un acteur important de la livraison du…",
+      "link": "https://www.ecommercemag.fr/logistique-1222/logistique-ceva-reunit-colis-prive-et-paack-pour-le-dernier-kilometre-60368",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-10-20T08:08:16.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
@@ -18,15 +72,6 @@
       "source": "FrenchWeb",
       "pubDate": "2026-10-20T05:48:39.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Pourquoi l’IA e-commerce doit désormais intervenir au moment de la décision d’achat",
-      "excerpt": "L’IA a profondément fait évoluer la manière dont les internautes cherchent une information. Ils ne se contentent plus de saisir quelques mots-clés …",
-      "link": "https://www.frenchweb.fr/pourquoi-lia-e-commerce-doit-desormais-intervenir-au-moment-de-la-decision-dachat/463651",
-      "source": "FrenchWeb",
-      "pubDate": "2026-10-20T05:36:17.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -48,51 +93,6 @@
       "pinned": false
     },
     {
-      "title": "Pillages du 17 octobre : Serge Papin promet que « cela ne se reproduira pas »",
-      "excerpt": "Deux jours après les pillages survenus en marge de la mobilisation du 17 octobre, le ministre du Commerce Serge Papin s’est rendu lundi dans le 10ᵉ…",
-      "link": "https://www.ecommercemag.fr/retail-1220/pillages-du-17-octobre-serge-papin-promet-que-cela-ne-se-reproduira-pas-60358",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-10-19T17:00:08.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "VPN, antivirus, données personnelles : Surfshark One promet beaucoup pour 2,49 €/mois, mais que vaut son offre ?",
-      "excerpt": "Avec Surfshark One, VPN, antivirus et alertes de fuite de données sont réunis dans un même abonnement. Une offre complète affichée à partir de 2,49…",
-      "link": "https://www.journaldunet.com/cybersecurite/vpn/1556797-vpn-antivirus-donnees-personnelles-surfshark-one-promet-beaucoup-pour-2-49-eur-mois-mais-que-vaut-son-offre/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-19T15:30:06.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "OpenAI prépare un robot humanoïde qui pourrait être présenté dès 2027",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/openai-prepare-un-robot-humanoide-qui-pourrait-etre-presente-des-2027.FDY3CAZ7FJDHTMIFMDADODRL5Y.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-10-19T14:55:18.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Au moins 3 000 commerces dégradés ou pillés : le gouvernement annonce des aides",
-      "excerpt": "Au moins 3 000 commerces auraient subi des dégradations ou des pillages, selon le ministre du Commerce et des PME, Serge Papin. Le gouvernement…",
-      "link": "https://www.ecommercemag.fr/retail-1220/veille-tribune-2169/au-moins-3-000-commerces-degrades-ou-pilles-le-gouvernement-annonce-des-aides-60352",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-10-19T14:20:50.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "En quête de souveraineté, la start-up suédoise Tandem Health va proposer son assistant médical IA sur l’infrastructure cloud 100% européenne de Scaleway",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/informatique/cloud/en-quete-de-souverainete-la-start-up-suedoise-tandem-health-va-proposer-son-assistant-medical-ia-sur-linfrastructure-cloud-100-europeenne-de-scaleway.Y75NMNPWURE37PBIX4RAUTAI34.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-10-19T14:16:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
       "title": "[ LESSIVE ] Affichage du prix à la dose : pourquoi c’est (encore) à moi de m’en occuper ???",
       "excerpt": "Passage par Leclerc Brest Gouesnou la semaine dernière. Et toujours ce même étonnement devant les “foires à la lessive” : ces opérations où, réunies…",
       "link": "https://www.olivierdauvers.fr/2026/10/19/lessive-affichage-du-prix-a-la-dose-pourquoi-cest-encore-a-moi-de-men-occuper/",
@@ -100,25 +100,52 @@
       "pubDate": "2026-10-19T09:40:00.000Z",
       "category": "OFFRE, PRIX & MERCHANDISING",
       "pinned": false
-    },
-    {
-      "title": "Deeptech : découvrez la nouvelle promotion du French Tech 2030",
-      "excerpt": "L’article Deeptech : découvrez la nouvelle promotion du French Tech 2030 est apparu en premier sur Maddyness - Le média pour comprendre l'économie de…",
-      "link": "https://www.maddyness.com/2026/10/16/deeptech-decouvrez-la-nouvelle-promotion-du-french-tech-2030/",
-      "source": "Maddyness",
-      "pubDate": "2026-10-16T08:23:07.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
     }
   ],
   "itemsEn": [
     {
-      "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
-      "excerpt": "Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch.",
-      "link": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
+      "title": "SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
+      "excerpt": "Reliable Robotics extended its Series D round with $115 million in equity and $25 million in debt.",
+      "link": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/",
       "source": "TechCrunch",
-      "pubDate": "2026-10-20T02:00:00.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
+      "pubDate": "2026-10-20T13:17:36.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "excerpt": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is…",
+      "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-20T13:00:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Shoppers expect less for more this holiday season. That could mean a sales decline.",
+      "excerpt": "Some of the latest projections suggest spending could drop, but even those that predict growth recognize consumers are pressured.",
+      "link": "https://www.retaildive.com/news/holiday-season-retail-spending-sales-decline-outlook/832624/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-20T11:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Target makes store operations app smarter",
+      "excerpt": "Target has updated its myDay app, used by more than 350,000 team members, to give store leaders more insight into what's happening from fulfillment…",
+      "link": "https://www.retailcustomerexperience.com/news/target-makes-store-operations-app-smarter/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-20T10:00:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Southwest Airlines revamps rewards loyalty program",
+      "excerpt": "Southwest Airlines has updated its Rapid Rewards program with a new lineup of silver, gold and platinum tiers as well as new 'milestone' rewards. The…",
+      "link": "https://www.retailcustomerexperience.com/news/southwest-airlines-revamps-rewards-loyalty-program/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-20T10:00:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
@@ -131,57 +158,12 @@
       "pinned": false
     },
     {
-      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-      "excerpt": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
-      "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-19T22:04:28.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
       "title": "Dick’s Sporting Goods’ seasonal hiring slips",
       "excerpt": "The athletics retailer is echoing a national pattern of retailers pulling back on hiring workers for the holidays.",
       "link": "https://www.retaildive.com/news/dicks-sporting-goods-seasonal-hiring-down/833348/",
       "source": "Retail Dive",
       "pubDate": "2026-10-19T16:12:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Walmart opens next-gen California facility to boost West Coast fulfillment",
-      "excerpt": "The 900,000-square-foot site is equipped with an automated storage and retrieval system to help increase order capacity to enable faster shipping.",
-      "link": "https://www.retaildive.com/news/walmart-opens-next-gen-california-fulfillment-center-west-coast/832749/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-19T15:22:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "How Ahold Delhaize USA’s banners are reaching shoppers amid outages",
-      "excerpt": "Roughly a week after all five banners’ websites and apps became inoperable, the chains are touting deals on social media to keep customers shopping.",
-      "link": "https://www.grocerydive.com/news/ahold-delhaize-usa-cybersecurity-website-app-outage-loyalty-programs/833360/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-19T15:16:32.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Kroger laying off 3K corporate staffers",
-      "excerpt": "Supermarket brand Kroger is cutting 3,000 corporate-level jobs over the next three years. The workforce reduction is part of the grocer's strategy to…",
-      "link": "https://www.retailcustomerexperience.com/news/kroger-laying-off-3k-corporate-staffers/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-19T10:00:00.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "Beyond the hype: What retailers actually learn when agentic AI hits the sales floor",
-      "excerpt": "There is a consensus in every prediction this year that agentic AI will have an effect on retail. What is not discussed at all is what follows: the…",
-      "link": "https://www.retailcustomerexperience.com/blogs/beyond-the-hype-what-retailers-actually-learn-when-agentic-ai-hits-the-sales-floor/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-19T10:00:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
@@ -209,6 +191,15 @@
       "source": "Food Dive",
       "pubDate": "2026-10-16T14:45:00.000Z",
       "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "The Friday Checkout: Ahold Delhaize’s digital disaster is a customer retention nightmare",
+      "excerpt": "The cybersecurity incident that struck the grocer has restricted people’s access to its loyalty programs, posing a significant risk to the company’s…",
+      "link": "https://www.grocerydive.com/news/the-friday-checkout-ahold-delhaizes-digital-disaster-is-a-customer-retent/833220/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-10-16T13:34:18.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     }
   ]
