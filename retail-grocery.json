@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-20T18:50:07.965Z",
+  "publishedAt": "2026-10-20T23:32:32.741Z",
   "itemsFr": [
     {
       "title": "Carrefour : résultats T3 en croissance, mais des inquiétudes pour le T4 (au point de revenir sur les objectifs financiers annuels)",
@@ -104,6 +104,15 @@
   ],
   "itemsEn": [
     {
+      "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
+      "excerpt": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps…",
+      "link": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-20T20:00:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
       "title": "ChatGPT now lets you lock your chats",
       "excerpt": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep…",
       "link": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
@@ -119,15 +128,6 @@
       "source": "Retail Dive",
       "pubDate": "2026-10-20T16:26:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’",
-      "excerpt": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
-      "link": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-20T16:20:06.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
@@ -158,21 +158,21 @@
       "pinned": false
     },
     {
-      "title": "Target makes store operations app smarter",
-      "excerpt": "Target has updated its myDay app, used by more than 350,000 team members, to give store leaders more insight into what's happening from fulfillment…",
-      "link": "https://www.retailcustomerexperience.com/news/target-makes-store-operations-app-smarter/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-20T10:00:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
       "title": "Southwest Airlines revamps rewards loyalty program",
       "excerpt": "Southwest Airlines has updated its Rapid Rewards program with a new lineup of silver, gold and platinum tiers as well as new 'milestone' rewards. The…",
       "link": "https://www.retailcustomerexperience.com/news/southwest-airlines-revamps-rewards-loyalty-program/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-20T10:00:00.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Target makes store operations app smarter",
+      "excerpt": "Target has updated its myDay app, used by more than 350,000 team members, to give store leaders more insight into what's happening from fulfillment…",
+      "link": "https://www.retailcustomerexperience.com/news/target-makes-store-operations-app-smarter/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-20T10:00:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
