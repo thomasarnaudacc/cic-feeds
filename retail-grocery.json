@@ -1,7 +1,25 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-20T13:58:39.866Z",
+  "publishedAt": "2026-10-20T18:50:07.965Z",
   "itemsFr": [
+    {
+      "title": "Carrefour : résultats T3 en croissance, mais des inquiétudes pour le T4 (au point de revenir sur les objectifs financiers annuels)",
+      "excerpt": "L’heure des bilans pour le T3 de Carrefour. Une fois n’est pas coutume, pour l’essentiel dans le vert. A l’échelle des pays, seule la Pologne détonne…",
+      "link": "https://www.olivierdauvers.fr/2026/10/20/carrefour-resultats-t3-en-croissance-mais-des-inquietudes-pour-le-t4-au-point-de-revenir-sur-les-objectifs-financiers-annuels/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-20T16:41:33.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Parts de marché NielsenIQ P10 / Carrefour : le bouillon des hypers, l’envolée de la proxi !",
+      "excerpt": "Publication cet après-midi des traditionnelles parts de marché des enseignes, calculées par NielsenIQ (avant, demain, la version Worldpanel). Une…",
+      "link": "https://www.olivierdauvers.fr/2026/10/20/parts-de-marche-nielseniq-p10-carrefour-le-bouillon-des-hypers-lenvolee-de-la-proxi/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-20T15:35:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "Siemens et Nvidia accélèrent dans la course aux usines autonomes pilotées par l’intelligence artificielle",
       "excerpt": "",
@@ -82,52 +100,61 @@
       "pubDate": "2026-10-20T05:00:48.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
-    },
-    {
-      "title": "[ TECH ] Quelques Intermarché s’approprient le sommelier virtuel de Graffiti",
-      "excerpt": "Le sommelier virtuel de Graffiti est une aspérité séduisante de l’Intermarché de Noisy-le-Grand (en plus du reste, revoir ma visite ici). L’appli se…",
-      "link": "https://www.olivierdauvers.fr/2026/10/20/tech-quelques-intermarche-sapproprient-le-sommelier-virtuel-de-graffiti/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-20T04:35:36.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "[ LESSIVE ] Affichage du prix à la dose : pourquoi c’est (encore) à moi de m’en occuper ???",
-      "excerpt": "Passage par Leclerc Brest Gouesnou la semaine dernière. Et toujours ce même étonnement devant les “foires à la lessive” : ces opérations où, réunies…",
-      "link": "https://www.olivierdauvers.fr/2026/10/19/lessive-affichage-du-prix-a-la-dose-pourquoi-cest-encore-a-moi-de-men-occuper/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-19T09:40:00.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
     }
   ],
   "itemsEn": [
     {
-      "title": "SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
-      "excerpt": "Reliable Robotics extended its Series D round with $115 million in equity and $25 million in debt.",
-      "link": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/",
+      "title": "ChatGPT now lets you lock your chats",
+      "excerpt": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep…",
+      "link": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
       "source": "TechCrunch",
-      "pubDate": "2026-10-20T13:17:36.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pubDate": "2026-10-20T18:36:53.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
     },
     {
-      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-      "excerpt": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is…",
-      "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-20T13:00:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Shoppers expect less for more this holiday season. That could mean a sales decline.",
-      "excerpt": "Some of the latest projections suggest spending could drop, but even those that predict growth recognize consumers are pressured.",
-      "link": "https://www.retaildive.com/news/holiday-season-retail-spending-sales-decline-outlook/832624/",
+      "title": "Walmart enlists Sam’s Club in latest challenge to Amazon Prime",
+      "excerpt": "The retail giant has bundled its Walmart+ and Sam’s Club Plus memberships for a savings of nearly $100, which could appeal to stressed-out consumers.",
+      "link": "https://www.retaildive.com/news/walmart-sams-club-membership-challenge-to-amazon-prime/833447/",
       "source": "Retail Dive",
-      "pubDate": "2026-10-20T11:00:00.000Z",
+      "pubDate": "2026-10-20T16:26:00.000Z",
       "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’",
+      "excerpt": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
+      "link": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-20T16:20:06.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Can Best Buy be the new gaming boss?",
+      "excerpt": "The electronics retailer is piloting a gaming hub that brings together content, deals and preorders, and will also open a dedicated gaming hub inside…",
+      "link": "https://www.retaildive.com/news/best-buy-gaming-boss-digital-hub-pilot/833471/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-20T16:20:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "FMI urges USDA to drop SNAP food restrictions",
+      "excerpt": "The trade group said the state-specific waivers exceed the agency’s authority and unduly burden retailers and consumers.",
+      "link": "https://www.grocerydive.com/news/fmi-urges-usda-drop-state-snap-food-restrictions/833400/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-10-20T15:40:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Ahold Delhaize says there’s no evidence cybersecurity incident compromised personal data",
+      "excerpt": "The grocery company's U.S. banner sites and apps came back online Tuesday morning, after being shut down for more than a week.",
+      "link": "https://www.grocerydive.com/news/ahold-delhaize-adusa-cybersecurity-update/833414/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-10-20T14:52:55.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
     {
@@ -158,15 +185,6 @@
       "pinned": false
     },
     {
-      "title": "Dick’s Sporting Goods’ seasonal hiring slips",
-      "excerpt": "The athletics retailer is echoing a national pattern of retailers pulling back on hiring workers for the holidays.",
-      "link": "https://www.retaildive.com/news/dicks-sporting-goods-seasonal-hiring-down/833348/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-19T16:12:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Bealls launches new app",
       "excerpt": "Clothing retailer Bealls has launched a new mobile app, representing the next phase of guest engagement and loyalty efforts",
       "link": "https://www.retailtechnology.co.uk/rss.xml/news/8785/bealls-launches-new-app/",
@@ -176,30 +194,12 @@
       "pinned": false
     },
     {
-      "title": "Albertsons expands board for third time in 5 weeks",
-      "excerpt": "The grocery company has grown its board from 10 members in September to 15 with its latest appointment.",
-      "link": "https://www.grocerydive.com/news/albertsons-adds-another-board-member/833164/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-16T14:47:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Inside Omaha Steaks’ efforts to ditch marketing bull and attract Gen Z",
       "excerpt": "The century-old meat delivery company emphasizes credibility for a “No Bull” campaign that spans TV, radio, paid social and influencer partnerships.",
       "link": "https://www.fooddive.com/news/inside-omaha-steaks-efforts-to-ditch-marketing-bull-and-attract-gen-z/833235/",
       "source": "Food Dive",
       "pubDate": "2026-10-16T14:45:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "The Friday Checkout: Ahold Delhaize’s digital disaster is a customer retention nightmare",
-      "excerpt": "The cybersecurity incident that struck the grocer has restricted people’s access to its loyalty programs, posing a significant risk to the company’s…",
-      "link": "https://www.grocerydive.com/news/the-friday-checkout-ahold-delhaizes-digital-disaster-is-a-customer-retent/833220/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-16T13:34:18.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     }
   ]
