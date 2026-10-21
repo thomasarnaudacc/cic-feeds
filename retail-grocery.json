@@ -1,22 +1,40 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-21T02:34:58.500Z",
+  "publishedAt": "2026-10-21T08:07:53.345Z",
   "itemsFr": [
+    {
+      "title": "Jusqu'où peut-on déléguer notre pouvoir aux agents IA ?",
+      "excerpt": "Les agents IA exigent une gouvernance stricte : identité propre, privilèges limités, traçabilité des actions et contrôle humain pour concilier…",
+      "link": "https://www.journaldunet.com/intelligence-artificielle/1556839-jusqu-ou-peut-on-deleguer-notre-pouvoir-aux-agents-ia/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-21T08:04:56.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "[ AUCHAN > INTERMARCHÉ ] Quand on veut tuer son chien… (vous connaissez la suite !)",
+      "excerpt": "C’est un classique des changements d’enseigne : il faut éviter toute forme de nostalgie. Eliminer (dans la tête des clients) le souvenir de…",
+      "link": "https://www.olivierdauvers.fr/2026/10/21/auchan-intermarche-quand-on-veut-tuer-son-chien-vous-connaissez-la-suite/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-21T06:15:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Système d'information, qui traite vos alertes à 3 heures du matin ?",
+      "excerpt": "Le dispositif de sécurité de la plupart des ETI a été construit pour les heures ouvrées. Mais la menace n'a pas d'horaires. Aujourd'hui, il existe…",
+      "link": "https://www.journaldunet.com/cybersecurite/1556353-systeme-d-information-qui-traite-vos-alertes-a-3-heures-du-matin/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-21T06:00:02.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
     {
       "title": "Carrefour : résultats T3 en croissance, mais des inquiétudes pour le T4 (au point de revenir sur les objectifs financiers annuels)",
       "excerpt": "L’heure des bilans pour le T3 de Carrefour. Une fois n’est pas coutume, pour l’essentiel dans le vert. A l’échelle des pays, seule la Pologne détonne…",
       "link": "https://www.olivierdauvers.fr/2026/10/20/carrefour-resultats-t3-en-croissance-mais-des-inquietudes-pour-le-t4-au-point-de-revenir-sur-les-objectifs-financiers-annuels/",
       "source": "Olivier Dauvers",
       "pubDate": "2026-10-20T16:41:33.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Parts de marché NielsenIQ P10 / Carrefour : le bouillon des hypers, l’envolée de la proxi !",
-      "excerpt": "Publication cet après-midi des traditionnelles parts de marché des enseignes, calculées par NielsenIQ (avant, demain, la version Worldpanel). Une…",
-      "link": "https://www.olivierdauvers.fr/2026/10/20/parts-de-marche-nielseniq-p10-carrefour-le-bouillon-des-hypers-lenvolee-de-la-proxi/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-20T15:35:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -30,30 +48,12 @@
       "pinned": false
     },
     {
-      "title": "\"Avec le commerce agentique, nous nous dirigeons peut-être vers une ère du zéro clic\"",
-      "excerpt": "Alors que le Mastercard Innovation Forum aura lieu le 5 novembre, Roxane Laigle, CEO et cofondatrice de Lemrock, revient sur les défis du commerce…",
-      "link": "https://www.journaldunet.com/retail/1556869-nous-nous-dirigeons-peut-etre-vers-une-ere-du-zero-clic/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-20T11:46:25.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Le groupe Casino devient Plesio et réaffirme son ambition dans le commerce de proximité",
       "excerpt": "Le distributeur français annonce une nouvelle identité pour fédérer ses sept enseignes autour d’une stratégie axée sur les commerces de proximité, la…",
       "link": "https://www.ecommercemag.fr/retail-1220/le-groupe-casino-devient-plesio-et-reaffirme-son-ambition-dans-le-commerce-de-proximite-60394",
       "source": "Ecommerce Mag",
       "pubDate": "2026-10-20T11:04:30.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Palmier Pro : peut-on vraiment confier un montage vidéo complet à un agent IA ?",
-      "excerpt": "Analyser des rushes, construire une timeline ou encore créer une version verticale depuis un simple prompt : c'est la promesse de Palmier Pro. Nous…",
-      "link": "https://www.journaldunet.com/intelligence-artificielle/1556809-palmier-pro-peut-on-vraiment-confier-un-montage-video-complet-a-un-agent-ia/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-20T10:32:40.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
@@ -167,21 +167,21 @@
       "pinned": false
     },
     {
-      "title": "Target makes store operations app smarter",
-      "excerpt": "Target has updated its myDay app, used by more than 350,000 team members, to give store leaders more insight into what's happening from fulfillment…",
-      "link": "https://www.retailcustomerexperience.com/news/target-makes-store-operations-app-smarter/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-20T10:00:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
       "title": "Southwest Airlines revamps rewards loyalty program",
       "excerpt": "Southwest Airlines has updated its Rapid Rewards program with a new lineup of silver, gold and platinum tiers as well as new 'milestone' rewards. The…",
       "link": "https://www.retailcustomerexperience.com/news/southwest-airlines-revamps-rewards-loyalty-program/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-20T10:00:00.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Target makes store operations app smarter",
+      "excerpt": "Target has updated its myDay app, used by more than 350,000 team members, to give store leaders more insight into what's happening from fulfillment…",
+      "link": "https://www.retailcustomerexperience.com/news/target-makes-store-operations-app-smarter/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-20T10:00:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
