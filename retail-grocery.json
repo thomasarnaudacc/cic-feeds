@@ -1,14 +1,32 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-21T14:14:43.604Z",
+  "publishedAt": "2026-10-21T19:02:30.595Z",
   "itemsFr": [
     {
-      "title": "Les stratégies ESG ne manquent pas. Ce qui manque, c'est leur exécution.",
-      "excerpt": "Alors que les engagements ESG se multiplient et que les réglementations se renforcent, le défi majeur des stratégies de durabilité n'est plus…",
-      "link": "https://www.journaldunet.com/management/direction-generale/1556905-les-strategies-esg-ne-manquent-pas-ce-qui-manque-c-est-leur-execution/",
+      "title": "Comment Nvidia muscle sa chaîne d’approvisionnement en Asie pour servir ses projets de data centers IA en Europe",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/electronique/nvidia/comment-nvidia-muscle-sa-chaine-dapprovisionnement-en-asie-pour-servir-ses-projets-de-data-centers-ia-en-europe.43XVC7CBL5A6TE7QRH2NJIH2QY.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-10-21T17:27:27.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "GEO local : pourquoi être visible sur Google ne suffit plus aux PME",
+      "excerpt": "Les assistants IA ne citent qu'une poignée d'entreprises. Pour une PME locale, être visible passe désormais par la cohérence, les avis réels et les…",
+      "link": "https://www.journaldunet.com/seo/1555997-geo-local-pourquoi-etre-visible-sur-google-ne-suffit-plus-aux-pme/",
       "source": "Journal du Net",
-      "pubDate": "2026-10-21T13:49:22.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pubDate": "2026-10-21T14:54:20.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "IA génératives : pour un même acheteur, quatre moteurs décrivent quatre marchés différents",
+      "excerpt": "Mêmes questions d'acheteur, quatre IA, trois passages : le leader change d'un moteur à l'autre, et être nommé ne veut pas dire être recommandé.",
+      "link": "https://www.journaldunet.com/seo/1556079-ia-generatives-pour-un-meme-acheteur-quatre-moteurs-decrivent-quatre-marches-differents/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-21T14:54:11.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
@@ -30,21 +48,12 @@
       "pinned": false
     },
     {
-      "title": "Comment Nvidia muscle sa chaîne d’approvisionnement en Asie pour servir ses projets de data centers IA en Europe",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/electronique/nvidia/comment-nvidia-muscle-sa-chaine-dapprovisionnement-en-asie-pour-servir-ses-projets-de-data-centers-ia-en-europe.43XVC7CBL5A6TE7QRH2NJIH2QY.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-10-21T11:59:42.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Cloud : les transformations qui façonneront les infrastructures d'ici 2030",
-      "excerpt": "À l'horizon 2030, la performance du Cloud ne se mesurera plus seulement en puissance. IA, résilience, cybersécurité, hybridation et énergie vont…",
-      "link": "https://www.journaldunet.com/cloud/1555873-cloud-les-transformations-qui-faconneront-les-infrastructures-d-ici-2030/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-21T09:41:22.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
+      "title": "(Tribune) Gouvernance de l’IA : la meilleure est celle qui ne se voit pas",
+      "excerpt": "À mesure que les agents d’IA s’invitent dans les parcours d’achat, la confiance devient un enjeu stratégique pour les retailers. Transparence…",
+      "link": "https://www.ecommercemag.fr/techno-ux-1226/veille-tribune-2199/gouvernance-de-lia-la-meilleure-est-celle-qui-ne-se-voit-pas-60402",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-10-21T10:49:44.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -54,6 +63,15 @@
       "source": "Olivier Dauvers",
       "pubDate": "2026-10-21T08:43:33.000Z",
       "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
+    {
+      "title": "Seconde main : la revente s’impose comme un pilier du pouvoir d’achat",
+      "excerpt": "Face aux contraintes économiques, la revente et l'achat d'occasion sont devenus des habitudes ancrées chez près de 80 % des Français. Selon l'étude…",
+      "link": "https://www.ecommercemag.fr/ecommerce-green-1346/developpement-durable-2323/seconde-main-la-revente-simpose-comme-un-pilier-du-pouvoir-dachat-60422",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-10-21T08:13:19.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -85,6 +103,33 @@
     }
   ],
   "itemsEn": [
+    {
+      "title": "Target touts holiday bargains as consumers stress out about their finances",
+      "excerpt": "The offer includes what the mass merchant calls “luxe-for-less gifting.” But with apparel and home in turnaround mode, its strongest category is toys.",
+      "link": "https://www.retaildive.com/news/target-holiday-bargains-consumer-stress-toys-ai/833564/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-21T15:45:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Shipt expands roster of grocery partnerships",
+      "excerpt": "The Target-owned e-commerce operator has started offering same-day delivery for Wakefern Food Corp.",
+      "link": "https://www.grocerydive.com/news/shipt-expands-grocery-partnerships/833516/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-10-21T15:28:22.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Kroger unveils 3 refreshed store formats",
+      "excerpt": "The updated designs offer more space for fresh products and e-commerce while paring back on areas like general merchandise, executives said at the…",
+      "link": "https://www.grocerydive.com/news/kroger-investor-day-new-store-formats-fleet-expansion/833563/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-10-21T15:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
       "excerpt": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
@@ -131,15 +176,6 @@
       "pinned": false
     },
     {
-      "title": "Shipt expands roster of grocery partnerships",
-      "excerpt": "The Target-owned e-commerce operator has started offering same-day delivery for Wakefern Food Corp.",
-      "link": "https://www.grocerydive.com/news/shipt-expands-grocery-partnerships/833516/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-20T19:16:38.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Walmart enlists Sam’s Club in latest challenge to Amazon Prime",
       "excerpt": "The retail giant has bundled its Walmart+ and Sam’s Club Plus memberships for a savings of nearly $100, which could appeal to stressed-out consumers.",
       "link": "https://www.retaildive.com/news/walmart-sams-club-membership-challenge-to-amazon-prime/833447/",
@@ -149,38 +185,11 @@
       "pinned": false
     },
     {
-      "title": "Can Best Buy be the new gaming boss?",
-      "excerpt": "The electronics retailer is piloting a gaming hub that brings together content, deals and preorders, and will also open a dedicated gaming hub inside…",
-      "link": "https://www.retaildive.com/news/best-buy-gaming-boss-digital-hub-pilot/833471/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-20T16:20:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "FMI urges USDA to drop SNAP food restrictions",
-      "excerpt": "The trade group said the state-specific waivers exceed the agency’s authority and unduly burden retailers and consumers.",
-      "link": "https://www.grocerydive.com/news/fmi-urges-usda-drop-state-snap-food-restrictions/833400/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-20T15:40:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Hacking it: the threat to retail",
       "excerpt": "Justin Moore, director, Threat Intelligence Research, Arctic Wolf, assesses the ASOS attack and the growing retail threat",
       "link": "https://www.retailtechnology.co.uk/rss.xml/news/8786/hacking-it:-the-threat-to-retail/",
       "source": "Retail Technology",
       "pubDate": "2026-10-20T00:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Inside Omaha Steaks’ efforts to ditch marketing bull and attract Gen Z",
-      "excerpt": "The century-old meat delivery company emphasizes credibility for a “No Bull” campaign that spans TV, radio, paid social and influencer partnerships.",
-      "link": "https://www.fooddive.com/news/inside-omaha-steaks-efforts-to-ditch-marketing-bull-and-attract-gen-z/833235/",
-      "source": "Food Dive",
-      "pubDate": "2026-10-16T14:45:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     }
