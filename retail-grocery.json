@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-21T19:02:30.595Z",
+  "publishedAt": "2026-10-21T23:48:56.665Z",
   "itemsFr": [
     {
       "title": "Comment Nvidia muscle sa chaîne d’approvisionnement en Asie pour servir ses projets de data centers IA en Europe",
@@ -104,6 +104,24 @@
   ],
   "itemsEn": [
     {
+      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "excerpt": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+      "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-21T22:51:22.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+      "excerpt": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+      "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-21T22:45:34.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
       "title": "Target touts holiday bargains as consumers stress out about their finances",
       "excerpt": "The offer includes what the mass merchant calls “luxe-for-less gifting.” But with apparel and home in turnaround mode, its strongest category is toys.",
       "link": "https://www.retaildive.com/news/target-holiday-bargains-consumer-stress-toys-ai/833564/",
@@ -131,15 +149,6 @@
       "pinned": false
     },
     {
-      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
-      "excerpt": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
-      "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-21T14:00:00.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
       "title": "Average holiday shopper spend will increase 4% this season",
       "excerpt": "The average household spend this holiday season is expected to increase to $1,654, up 4% over 2025, with gains coming from Gen Z and millennial…",
       "link": "https://www.retailcustomerexperience.com/news/average-holiday-shopper-spend-will-increase-4-this-season/",
@@ -164,15 +173,6 @@
       "source": "Retail Technology",
       "pubDate": "2026-10-21T00:00:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
-      "excerpt": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps…",
-      "link": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-20T20:00:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
