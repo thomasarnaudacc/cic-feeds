@@ -1,68 +1,59 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-21T08:07:53.345Z",
+  "publishedAt": "2026-10-21T14:14:43.604Z",
   "itemsFr": [
     {
-      "title": "Jusqu'où peut-on déléguer notre pouvoir aux agents IA ?",
-      "excerpt": "Les agents IA exigent une gouvernance stricte : identité propre, privilèges limités, traçabilité des actions et contrôle humain pour concilier…",
-      "link": "https://www.journaldunet.com/intelligence-artificielle/1556839-jusqu-ou-peut-on-deleguer-notre-pouvoir-aux-agents-ia/",
+      "title": "Les stratégies ESG ne manquent pas. Ce qui manque, c'est leur exécution.",
+      "excerpt": "Alors que les engagements ESG se multiplient et que les réglementations se renforcent, le défi majeur des stratégies de durabilité n'est plus…",
+      "link": "https://www.journaldunet.com/management/direction-generale/1556905-les-strategies-esg-ne-manquent-pas-ce-qui-manque-c-est-leur-execution/",
       "source": "Journal du Net",
-      "pubDate": "2026-10-21T08:04:56.000Z",
+      "pubDate": "2026-10-21T13:49:22.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
     {
-      "title": "[ AUCHAN > INTERMARCHÉ ] Quand on veut tuer son chien… (vous connaissez la suite !)",
-      "excerpt": "C’est un classique des changements d’enseigne : il faut éviter toute forme de nostalgie. Eliminer (dans la tête des clients) le souvenir de…",
-      "link": "https://www.olivierdauvers.fr/2026/10/21/auchan-intermarche-quand-on-veut-tuer-son-chien-vous-connaissez-la-suite/",
+      "title": "Robot humanoïde avec Agile Robots, outils d’entraînement, modèles Alpamayo et Cosmos… Nvidia poursuit ses efforts dans la robotique “next-gen”",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/robot-humanoide-avec-agile-robots-outils-dentrainement-modeles-alpamayo-et-cosmos-nvidia-poursuit-ses-efforts-dans-la-robotique-next-gen.67FXRZFAINCGVMUQR2DKPXRL4Q.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-10-21T13:37:26.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "[ RETAIL INSIDE ] À Avrillé (49), Auchan vient de passer Hyper U",
+      "excerpt": "C’était une exception dans le parc des hypermarchés Auchan : le magasin d’Avrillé (49), à côté d’Angers, était tenu par un couple de franchisés. Le…",
+      "link": "https://www.olivierdauvers.fr/2026/10/21/retail-inside-a-avrille-49-auchan-vient-de-passer-hyper-u/",
       "source": "Olivier Dauvers",
-      "pubDate": "2026-10-21T06:15:00.000Z",
+      "pubDate": "2026-10-21T12:33:08.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "Système d'information, qui traite vos alertes à 3 heures du matin ?",
-      "excerpt": "Le dispositif de sécurité de la plupart des ETI a été construit pour les heures ouvrées. Mais la menace n'a pas d'horaires. Aujourd'hui, il existe…",
-      "link": "https://www.journaldunet.com/cybersecurite/1556353-systeme-d-information-qui-traite-vos-alertes-a-3-heures-du-matin/",
+      "title": "Comment Nvidia muscle sa chaîne d’approvisionnement en Asie pour servir ses projets de data centers IA en Europe",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/electronique/nvidia/comment-nvidia-muscle-sa-chaine-dapprovisionnement-en-asie-pour-servir-ses-projets-de-data-centers-ia-en-europe.43XVC7CBL5A6TE7QRH2NJIH2QY.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-10-21T11:59:42.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Cloud : les transformations qui façonneront les infrastructures d'ici 2030",
+      "excerpt": "À l'horizon 2030, la performance du Cloud ne se mesurera plus seulement en puissance. IA, résilience, cybersécurité, hybridation et énergie vont…",
+      "link": "https://www.journaldunet.com/cloud/1555873-cloud-les-transformations-qui-faconneront-les-infrastructures-d-ici-2030/",
       "source": "Journal du Net",
-      "pubDate": "2026-10-21T06:00:02.000Z",
+      "pubDate": "2026-10-21T09:41:22.000Z",
       "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
     },
     {
-      "title": "Carrefour : résultats T3 en croissance, mais des inquiétudes pour le T4 (au point de revenir sur les objectifs financiers annuels)",
-      "excerpt": "L’heure des bilans pour le T3 de Carrefour. Une fois n’est pas coutume, pour l’essentiel dans le vert. A l’échelle des pays, seule la Pologne détonne…",
-      "link": "https://www.olivierdauvers.fr/2026/10/20/carrefour-resultats-t3-en-croissance-mais-des-inquietudes-pour-le-t4-au-point-de-revenir-sur-les-objectifs-financiers-annuels/",
+      "title": "[ NUTRITION ] Yuka monte à bord de Chronodrive (via les filtres)",
+      "excerpt": "Peu à peu Yuka gagne en visibilité sur les sites drives/LAD. Dernier exemple en date : Chronodrive. Le site pionnier du drive en France (et donc dans…",
+      "link": "https://www.olivierdauvers.fr/2026/10/21/nutrition-yuka-monte-a-bord-de-chronodrive-via-les-filtres/",
       "source": "Olivier Dauvers",
-      "pubDate": "2026-10-20T16:41:33.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Siemens et Nvidia accélèrent dans la course aux usines autonomes pilotées par l’intelligence artificielle",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/ia-generative/siemens-et-nvidia-accelerent-dans-la-course-aux-usines-autonomes-pilotees-par-lintelligence-artificielle.VYYZOT53IVACPD7SAOK2ZMJFAQ.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-10-20T11:47:46.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "Le groupe Casino devient Plesio et réaffirme son ambition dans le commerce de proximité",
-      "excerpt": "Le distributeur français annonce une nouvelle identité pour fédérer ses sept enseignes autour d’une stratégie axée sur les commerces de proximité, la…",
-      "link": "https://www.ecommercemag.fr/retail-1220/le-groupe-casino-devient-plesio-et-reaffirme-son-ambition-dans-le-commerce-de-proximite-60394",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-10-20T11:04:30.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Remplacer le personnel de sécurité par des robots : Pourquoi SoftBank étudie le rachat d’Allied Universal",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/remplacer-le-personnel-de-securite-par-des-robots-pourquoi-softbank-etudie-le-rachat-dallied-universal.VZSU5ZB645A5PP4WGB4RGN2LGU.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-10-20T10:04:14.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pubDate": "2026-10-21T08:43:33.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
       "pinned": false
     },
     {
@@ -75,21 +66,12 @@
       "pinned": false
     },
     {
-      "title": "Logistique : CEVA réunit Colis Privé et Paack pour le dernier kilomètre",
-      "excerpt": "CEVA Logistics rassemble désormais Colis Privé et Paack sous une bannière unique. Ce rapprochement crée un acteur important de la livraison du…",
-      "link": "https://www.ecommercemag.fr/logistique-1222/logistique-ceva-reunit-colis-prive-et-paack-pour-le-dernier-kilometre-60368",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-10-20T08:08:16.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Black Friday, Noël, soldes : comment préparer sa fin d’année avant le rush",
-      "excerpt": "Avec Positive User, la plateforme de marketing automation multicanal qui génère en quelques minutes un plan de fin d’année prêt à l’emploi. Chaque…",
-      "link": "https://www.frenchweb.fr/black-friday-noel-soldes-comment-preparer-sa-fin-dannee-avant-le-rush/463996",
+      "title": "Pourquoi l’IA e-commerce doit désormais intervenir au moment de la décision d’achat",
+      "excerpt": "L’IA a profondément fait évoluer la manière dont les internautes cherchent une information. Ils ne se contentent plus de saisir quelques mots-clés …",
+      "link": "https://www.frenchweb.fr/pourquoi-lia-e-commerce-doit-desormais-intervenir-au-moment-de-la-decision-dachat/463651",
       "source": "FrenchWeb",
-      "pubDate": "2026-10-20T05:48:39.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pubDate": "2026-10-20T05:36:17.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -103,6 +85,33 @@
     }
   ],
   "itemsEn": [
+    {
+      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+      "excerpt": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+      "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-21T14:00:00.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
+    {
+      "title": "Average holiday shopper spend will increase 4% this season",
+      "excerpt": "The average household spend this holiday season is expected to increase to $1,654, up 4% over 2025, with gains coming from Gen Z and millennial…",
+      "link": "https://www.retailcustomerexperience.com/news/average-holiday-shopper-spend-will-increase-4-this-season/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-21T11:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "NRF holiday forecast: Retail sales increase reflects consumer resiliency",
+      "excerpt": "The National Retail Federation's annual holiday forecast predicts retail sales in November and December will grow 4.2% over 2025, reaching a total…",
+      "link": "https://www.retailcustomerexperience.com/news/nrf-holiday-forecast-retail-sales-increase-reflects-consumer-resiliency/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-21T10:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "Brompton rides on to BigCommerce",
       "excerpt": "British bike maker Brompton has launched its new Brompton Partner Portal on BigCommerce B2B Edition",
@@ -122,12 +131,12 @@
       "pinned": false
     },
     {
-      "title": "ChatGPT now lets you lock your chats",
-      "excerpt": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep…",
-      "link": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-20T18:36:53.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
+      "title": "Shipt expands roster of grocery partnerships",
+      "excerpt": "The Target-owned e-commerce operator has started offering same-day delivery for Wakefern Food Corp.",
+      "link": "https://www.grocerydive.com/news/shipt-expands-grocery-partnerships/833516/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-10-20T19:16:38.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -155,33 +164,6 @@
       "source": "Grocery Dive",
       "pubDate": "2026-10-20T15:40:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Ahold Delhaize says there’s no evidence cybersecurity incident compromised personal data",
-      "excerpt": "The grocery company's U.S. banner sites and apps came back online Tuesday morning, after being shut down for more than a week.",
-      "link": "https://www.grocerydive.com/news/ahold-delhaize-adusa-cybersecurity-update/833414/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-20T14:52:55.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "Southwest Airlines revamps rewards loyalty program",
-      "excerpt": "Southwest Airlines has updated its Rapid Rewards program with a new lineup of silver, gold and platinum tiers as well as new 'milestone' rewards. The…",
-      "link": "https://www.retailcustomerexperience.com/news/southwest-airlines-revamps-rewards-loyalty-program/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-20T10:00:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Target makes store operations app smarter",
-      "excerpt": "Target has updated its myDay app, used by more than 350,000 team members, to give store leaders more insight into what's happening from fulfillment…",
-      "link": "https://www.retailcustomerexperience.com/news/target-makes-store-operations-app-smarter/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-20T10:00:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
