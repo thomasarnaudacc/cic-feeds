@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-20T23:32:32.741Z",
+  "publishedAt": "2026-10-21T02:34:58.500Z",
   "itemsFr": [
     {
       "title": "Carrefour : résultats T3 en croissance, mais des inquiétudes pour le T4 (au point de revenir sur les objectifs financiers annuels)",
@@ -104,6 +104,15 @@
   ],
   "itemsEn": [
     {
+      "title": "Brompton rides on to BigCommerce",
+      "excerpt": "British bike maker Brompton has launched its new Brompton Partner Portal on BigCommerce B2B Edition",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8787/brompton-rides-on-to-bigcommerce/",
+      "source": "Retail Technology",
+      "pubDate": "2026-10-21T00:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
       "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
       "excerpt": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps…",
       "link": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
@@ -158,15 +167,6 @@
       "pinned": false
     },
     {
-      "title": "Southwest Airlines revamps rewards loyalty program",
-      "excerpt": "Southwest Airlines has updated its Rapid Rewards program with a new lineup of silver, gold and platinum tiers as well as new 'milestone' rewards. The…",
-      "link": "https://www.retailcustomerexperience.com/news/southwest-airlines-revamps-rewards-loyalty-program/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-20T10:00:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
       "title": "Target makes store operations app smarter",
       "excerpt": "Target has updated its myDay app, used by more than 350,000 team members, to give store leaders more insight into what's happening from fulfillment…",
       "link": "https://www.retailcustomerexperience.com/news/target-makes-store-operations-app-smarter/",
@@ -176,21 +176,21 @@
       "pinned": false
     },
     {
+      "title": "Southwest Airlines revamps rewards loyalty program",
+      "excerpt": "Southwest Airlines has updated its Rapid Rewards program with a new lineup of silver, gold and platinum tiers as well as new 'milestone' rewards. The…",
+      "link": "https://www.retailcustomerexperience.com/news/southwest-airlines-revamps-rewards-loyalty-program/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-20T10:00:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
       "title": "Hacking it: the threat to retail",
       "excerpt": "Justin Moore, director, Threat Intelligence Research, Arctic Wolf, assesses the ASOS attack and the growing retail threat",
       "link": "https://www.retailtechnology.co.uk/rss.xml/news/8786/hacking-it:-the-threat-to-retail/",
       "source": "Retail Technology",
       "pubDate": "2026-10-20T00:00:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Bealls launches new app",
-      "excerpt": "Clothing retailer Bealls has launched a new mobile app, representing the next phase of guest engagement and loyalty efforts",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8785/bealls-launches-new-app/",
-      "source": "Retail Technology",
-      "pubDate": "2026-10-19T00:00:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
