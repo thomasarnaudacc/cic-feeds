@@ -1,7 +1,34 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-21T23:48:56.665Z",
+  "publishedAt": "2026-10-22T08:07:43.621Z",
   "itemsFr": [
+    {
+      "title": "La Centrale déploie ses outils d’IA pour les pros de l’automobile",
+      "excerpt": "Six mois après l'annonce de sa feuille de route axée sur l'IA agentique, La Centrale passe à la phase opérationnelle. Le spécialiste des annonces…",
+      "link": "https://www.ecommercemag.fr/techno-ux-1226/la-centrale-deploie-ses-outils-dia-pour-les-pros-de-lautomobile-60434",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-10-22T07:35:38.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Après S3NS pour ses données, Haiku choisit Scaleway pour héberger ses modèles d’IA et vise de nouveaux marchés dans le secteur public",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/apres-s3ns-pour-ses-donnees-haiku-choisit-scaleway-pour-heberger-ses-modeles-dia-et-vise-de-nouveaux-marches-dans-le-secteur-public.7TRRZG5TWVHKTNT2FDGZ2ETHF4.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-10-22T07:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Robotique : ENACT lève près de 27 millions d’euros pour développer le sens du toucher",
+      "excerpt": "La startup zurichoise réunit près de 27 millions d’euros en préamorçage pour développer des robots capables de mieux percevoir les forces et…",
+      "link": "https://www.frenchweb.fr/robotique-enact-leve-pres-de-27-millions-deuros-pour-developper-le-sens-du-toucher/464031",
+      "source": "FrenchWeb",
+      "pubDate": "2026-10-22T06:21:20.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
     {
       "title": "Comment Nvidia muscle sa chaîne d’approvisionnement en Asie pour servir ses projets de data centers IA en Europe",
       "excerpt": "",
@@ -27,15 +54,6 @@
       "source": "Journal du Net",
       "pubDate": "2026-10-21T14:54:11.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Robot humanoïde avec Agile Robots, outils d’entraînement, modèles Alpamayo et Cosmos… Nvidia poursuit ses efforts dans la robotique “next-gen”",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/robot-humanoide-avec-agile-robots-outils-dentrainement-modeles-alpamayo-et-cosmos-nvidia-poursuit-ses-efforts-dans-la-robotique-next-gen.67FXRZFAINCGVMUQR2DKPXRL4Q.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-10-21T13:37:26.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
@@ -66,15 +84,6 @@
       "pinned": false
     },
     {
-      "title": "Seconde main : la revente s’impose comme un pilier du pouvoir d’achat",
-      "excerpt": "Face aux contraintes économiques, la revente et l'achat d'occasion sont devenus des habitudes ancrées chez près de 80 % des Français. Selon l'étude…",
-      "link": "https://www.ecommercemag.fr/ecommerce-green-1346/developpement-durable-2323/seconde-main-la-revente-simpose-comme-un-pilier-du-pouvoir-dachat-60422",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-10-21T08:13:19.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Produits volés : Bercy met à l’épreuve la traçabilité des plateformes",
       "excerpt": "Des marchandises dérobées dans les commerces lors des pillages du week-end ont été retrouvées sur des sites de vente en ligne, selon le gouvernement…",
       "link": "https://www.frenchweb.fr/produits-voles-bercy-met-a-lepreuve-la-tracabilite-des-plateformes/464004",
@@ -82,27 +91,18 @@
       "pubDate": "2026-10-20T08:54:56.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
-    },
-    {
-      "title": "Pourquoi l’IA e-commerce doit désormais intervenir au moment de la décision d’achat",
-      "excerpt": "L’IA a profondément fait évoluer la manière dont les internautes cherchent une information. Ils ne se contentent plus de saisir quelques mots-clés …",
-      "link": "https://www.frenchweb.fr/pourquoi-lia-e-commerce-doit-desormais-intervenir-au-moment-de-la-decision-dachat/463651",
-      "source": "FrenchWeb",
-      "pubDate": "2026-10-20T05:36:17.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Thibaud Hug de Larauze, co-fondateur de Back Market : «Je ne vais pas quitter la France si l'extrême-droite ou l'extrême-gauche s'impose»",
-      "excerpt": "L’article Thibaud Hug de Larauze, co-fondateur de Back Market : «Je ne vais pas quitter la France si l'extrême-droite ou l'extrême-gauche s'impose»…",
-      "link": "https://www.maddyness.com/2026/10/20/thibaud-hug-de-larauze-co-fondateur-de-back-market-je-ne-vais-pas-quitter-la-france-si-lextreme-droite-ou-lextreme-gauche-simpose/",
-      "source": "Maddyness",
-      "pubDate": "2026-10-20T05:00:48.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
     }
   ],
   "itemsEn": [
+    {
+      "title": "Happy Returns for TikTok shoppers",
+      "excerpt": "Consolidated returns model Happy Returns is now integrated into TikTok Shop, giving shoppers the platform's only box-free, label-free returns option",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8788/happy-returns-for-tiktok-shoppers/",
+      "source": "Retail Technology",
+      "pubDate": "2026-10-22T00:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
       "excerpt": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
@@ -181,15 +181,6 @@
       "link": "https://www.retaildive.com/news/walmart-sams-club-membership-challenge-to-amazon-prime/833447/",
       "source": "Retail Dive",
       "pubDate": "2026-10-20T16:26:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Hacking it: the threat to retail",
-      "excerpt": "Justin Moore, director, Threat Intelligence Research, Arctic Wolf, assesses the ASOS attack and the growing retail threat",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8786/hacking-it:-the-threat-to-retail/",
-      "source": "Retail Technology",
-      "pubDate": "2026-10-20T00:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     }
