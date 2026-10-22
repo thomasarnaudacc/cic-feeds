@@ -1,7 +1,34 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-22T14:13:56.019Z",
+  "publishedAt": "2026-10-22T18:58:15.684Z",
   "itemsFr": [
+    {
+      "title": "Walmart mise sur les agents IA pour révolutionner les achats en ligne",
+      "excerpt": "Walmart accélère dans le commerce piloté par l’intelligence artificielle. Le distributeur américain a annoncé le 21 octobre le lancement de nouveaux…",
+      "link": "https://www.ecommercemag.fr/retail-1220/walmart-mise-sur-les-agents-ia-pour-revolutionner-les-achats-en-ligne-60462",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-10-22T18:01:07.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "“Un système nerveux proprioceptif pour robots” : Soutenue par Yann LeCun et Arthur Mensch, la start-up suisse Enact Intelligence lève 30 millions de dollars",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/un-systeme-nerveux-proprioceptif-pour-robots-soutenue-par-yann-lecun-et-arthur-mensch-la-start-up-suisse-enact-intelligence-leve-30-millions-de-dollars.IRMML2EWGVFVFKSWG6DGFT6WYI.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-10-22T15:37:08.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Le commerce de proximité a un actif qu'il n'exploite pas : ses rayons",
+      "excerpt": "Un magasin de vélos a en rayon 100 000 € qui attendent un acheteur. Louer ce qu'on vend déjà est la ligne de revenu la plus simple du commerce de…",
+      "link": "https://www.journaldunet.com/retail/1556561-le-commerce-de-proximite-a-un-actif-qu-il-n-exploite-pas-ses-rayons/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-22T14:44:52.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "[ RETAIL INSIDE ] Découvrez le pop-up Parkside de Lidl à Plan de Campagne (13)",
       "excerpt": "Direction aujourd’hui Plan-de-Campagne, la plus grande zone commerciale d’Europe, au Nord de Marseille. C’est ici que Lidl a ouvert ce matin un…",
@@ -30,30 +57,12 @@
       "pinned": false
     },
     {
-      "title": "Laisser une IA toucher à sa comptabilité : où placer la limite",
-      "excerpt": "Brancher un assistant IA sur ses outils de gestion devient banal. Décider de ce qu'il a le droit d'y faire l'est beaucoup moins. Quatre règles tirées…",
-      "link": "https://www.journaldunet.com/intelligence-artificielle/1556965-laisser-une-ia-toucher-a-sa-comptabilite-ou-placer-la-limite/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-22T08:44:52.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
       "title": "Failles critiques dans PHP : vous êtes CEO, que devez-vous faire ?",
       "excerpt": "Vous avez entendu parler d’une alerte de cybersécurité susceptible de concerner de nombreuses entreprises. Elle touche PHP, un composant qui fait…",
       "link": "https://www.frenchweb.fr/failles-critiques-dans-php-vous-etes-ceo-que-devez-vous-faire/464039",
       "source": "FrenchWeb",
       "pubDate": "2026-10-22T08:22:34.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "La Centrale déploie ses outils d’IA pour les pros de l’automobile",
-      "excerpt": "Six mois après l'annonce de sa feuille de route axée sur l'IA agentique, La Centrale passe à la phase opérationnelle. Le spécialiste des annonces…",
-      "link": "https://www.ecommercemag.fr/techno-ux-1226/la-centrale-deploie-ses-outils-dia-pour-les-pros-de-lautomobile-60434",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-10-22T07:35:38.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
@@ -82,18 +91,63 @@
       "pubDate": "2026-10-22T05:29:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
-    },
-    {
-      "title": "Comment Nvidia muscle sa chaîne d’approvisionnement en Asie pour servir ses projets de data centers IA en Europe",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/electronique/nvidia/comment-nvidia-muscle-sa-chaine-dapprovisionnement-en-asie-pour-servir-ses-projets-de-data-centers-ia-en-europe.43XVC7CBL5A6TE7QRH2NJIH2QY.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-10-21T17:27:27.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
     }
   ],
   "itemsEn": [
+    {
+      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "excerpt": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to…",
+      "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-22T18:43:53.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+      "excerpt": "The new startup raised a $215 million round led by Lightspeed.",
+      "link": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-22T18:38:47.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "David’s Bridal to spin off Pearl into stand-alone, publicly traded company",
+      "excerpt": "David’s Bridal CEO Kelly Cook is expected to become the chief executive of Pearl, which will own the wedding retailer’s intellectual property and…",
+      "link": "https://www.retaildive.com/news/davids-bridal-spin-off-pearl-AI-stand-alone-publicly-traded-company/833699/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-22T16:29:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Walmart welcomes external AI agents — with some guardrails",
+      "excerpt": "The mass retailer is focused on transparency and customer control with a new AI agent profile feature and updated agent terms.",
+      "link": "https://www.retaildive.com/news/walmart-welcomes-external-ai-shopping-agents-terms-boundaries/833723/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-22T16:14:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "As Albertsons embarks on a turnaround, what role will customer experience play?",
+      "excerpt": "The grocer, which is struggling with high prices, wants to sharpen its value perception through better in-store experiences, CEO Susan Morris said.",
+      "link": "https://www.grocerydive.com/news/albertsons-embarks-turnaround-what-role-will-cx-play/833740/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-10-22T16:09:00.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
+    {
+      "title": "More than a Store: Can AI plan my Thanksgiving meal?",
+      "excerpt": "AI shopping tools can be useful, but simple, grocer-curated lists are much more helpful than the cutting-edge chatbots.",
+      "link": "https://www.grocerydive.com/news/more-than-a-store-ai-ecommerce-grocery-thanksgiving-meal-planning/833063/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-10-22T15:40:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
     {
       "title": "Whitepaper provides roadmap to building a business case for retail tech",
       "excerpt": "When it comes to deploying retail technology the first step often proves to be the most critical step — developing a strong business case. The…",
@@ -104,9 +158,9 @@
       "pinned": false
     },
     {
-      "title": "Retail customer satisfaction stays strong",
-      "excerpt": "The customer experience in retail stayed strong in Q3, with a global satisfaction score hitting 91.9%, just o.5 percentage points from 92.4% in Q2 of…",
-      "link": "https://www.retailcustomerexperience.com/news/retail-customer-satisfaction-stays-strong/",
+      "title": "3 ways retailers are losing trust",
+      "excerpt": "Consumer trust is the most valuable currency for a business, especially at this moment when algorithms and AI recommendations are influencing…",
+      "link": "https://www.retailcustomerexperience.com/blogs/3-ways-retailers-are-losing-trust/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-22T10:00:00.000Z",
       "category": "GRAND ANGLE",
@@ -122,65 +176,11 @@
       "pinned": false
     },
     {
-      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-      "excerpt": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
-      "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-21T22:51:22.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
-      "excerpt": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
-      "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-21T22:45:34.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Target touts holiday bargains as consumers stress out about their finances",
-      "excerpt": "The offer includes what the mass merchant calls “luxe-for-less gifting.” But with apparel and home in turnaround mode, its strongest category is toys.",
-      "link": "https://www.retaildive.com/news/target-holiday-bargains-consumer-stress-toys-ai/833564/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-21T15:45:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Shipt expands roster of grocery partnerships",
-      "excerpt": "The Target-owned e-commerce operator has started offering same-day delivery for Wakefern Food Corp.",
-      "link": "https://www.grocerydive.com/news/shipt-expands-grocery-partnerships/833516/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-21T15:28:22.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Kroger unveils 3 refreshed store formats",
-      "excerpt": "The updated designs offer more space for fresh products and e-commerce while paring back on areas like general merchandise, executives said at the…",
-      "link": "https://www.grocerydive.com/news/kroger-investor-day-new-store-formats-fleet-expansion/833563/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-21T15:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Brompton rides on to BigCommerce",
       "excerpt": "British bike maker Brompton has launched its new Brompton Partner Portal on BigCommerce B2B Edition",
       "link": "https://www.retailtechnology.co.uk/rss.xml/news/8787/brompton-rides-on-to-bigcommerce/",
       "source": "Retail Technology",
       "pubDate": "2026-10-21T00:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Walmart enlists Sam’s Club in latest challenge to Amazon Prime",
-      "excerpt": "The retail giant has bundled its Walmart+ and Sam’s Club Plus memberships for a savings of nearly $100, which could appeal to stressed-out consumers.",
-      "link": "https://www.retaildive.com/news/walmart-sams-club-membership-challenge-to-amazon-prime/833447/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-20T16:26:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     }
