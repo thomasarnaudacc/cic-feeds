@@ -1,7 +1,52 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-22T08:07:43.621Z",
+  "publishedAt": "2026-10-22T14:13:56.019Z",
   "itemsFr": [
+    {
+      "title": "[ RETAIL INSIDE ] Découvrez le pop-up Parkside de Lidl à Plan de Campagne (13)",
+      "excerpt": "Direction aujourd’hui Plan-de-Campagne, la plus grande zone commerciale d’Europe, au Nord de Marseille. C’est ici que Lidl a ouvert ce matin un…",
+      "link": "https://www.olivierdauvers.fr/2026/10/22/retail-inside-decouvrez-le-pop-up-parkside-de-lidl-a-plan-de-campagne-13/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-22T13:37:47.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
+    {
+      "title": "Conformité au règlement IA : relier la documentation des modèles à l'origine des données",
+      "excerpt": "L'annexe IV du règlement IA demande de décrire les données d'entraînement, de validation et d'essai d'un système d'IA à haut risque. Voici une…",
+      "link": "https://www.journaldunet.com/iot/1556115-conformite-au-reglement-ia-relier-la-documentation-des-modeles-a-l-origine-des-donnees/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-22T09:16:07.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "Sébastien Lefébure (Manhattan Associates) : « La fiabilité devient aussi importante que la rapidité »",
+      "excerpt": "Face à la hausse des coûts logistiques et aux exigences croissantes des consommateurs, les retailers repensent leur supply chain. Intelligence…",
+      "link": "https://www.ecommercemag.fr/logistique-1222/sebastien-lefebure-manhattan-associates-la-fiabilite-devient-aussi-importante-que-la-rapidite-60444",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-10-22T09:06:33.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Laisser une IA toucher à sa comptabilité : où placer la limite",
+      "excerpt": "Brancher un assistant IA sur ses outils de gestion devient banal. Décider de ce qu'il a le droit d'y faire l'est beaucoup moins. Quatre règles tirées…",
+      "link": "https://www.journaldunet.com/intelligence-artificielle/1556965-laisser-une-ia-toucher-a-sa-comptabilite-ou-placer-la-limite/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-22T08:44:52.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Failles critiques dans PHP : vous êtes CEO, que devez-vous faire ?",
+      "excerpt": "Vous avez entendu parler d’une alerte de cybersécurité susceptible de concerner de nombreuses entreprises. Elle touche PHP, un composant qui fait…",
+      "link": "https://www.frenchweb.fr/failles-critiques-dans-php-vous-etes-ceo-que-devez-vous-faire/464039",
+      "source": "FrenchWeb",
+      "pubDate": "2026-10-22T08:22:34.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
     {
       "title": "La Centrale déploie ses outils d’IA pour les pros de l’automobile",
       "excerpt": "Six mois après l'annonce de sa feuille de route axée sur l'IA agentique, La Centrale passe à la phase opérationnelle. Le spécialiste des annonces…",
@@ -30,6 +75,15 @@
       "pinned": false
     },
     {
+      "title": "Parts de marché P10 Worldpanel : U et Intermarché à fond la caisse !",
+      "excerpt": "Après NielsenIQ, les résultats de Worldpanel pour la P10. Et, globalement, des résultats proches. Les Mousquetaires et Coopérative U sont flashés par…",
+      "link": "https://www.olivierdauvers.fr/2026/10/22/parts-de-marche-p10-worldpanel-u-et-intermarche-a-fond-la-caisse/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-22T05:29:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
       "title": "Comment Nvidia muscle sa chaîne d’approvisionnement en Asie pour servir ses projets de data centers IA en Europe",
       "excerpt": "",
       "link": "https://www.usine-digitale.fr/electronique/nvidia/comment-nvidia-muscle-sa-chaine-dapprovisionnement-en-asie-pour-servir-ses-projets-de-data-centers-ia-en-europe.43XVC7CBL5A6TE7QRH2NJIH2QY.html",
@@ -37,63 +91,27 @@
       "pubDate": "2026-10-21T17:27:27.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
-    },
-    {
-      "title": "GEO local : pourquoi être visible sur Google ne suffit plus aux PME",
-      "excerpt": "Les assistants IA ne citent qu'une poignée d'entreprises. Pour une PME locale, être visible passe désormais par la cohérence, les avis réels et les…",
-      "link": "https://www.journaldunet.com/seo/1555997-geo-local-pourquoi-etre-visible-sur-google-ne-suffit-plus-aux-pme/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-21T14:54:20.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "IA génératives : pour un même acheteur, quatre moteurs décrivent quatre marchés différents",
-      "excerpt": "Mêmes questions d'acheteur, quatre IA, trois passages : le leader change d'un moteur à l'autre, et être nommé ne veut pas dire être recommandé.",
-      "link": "https://www.journaldunet.com/seo/1556079-ia-generatives-pour-un-meme-acheteur-quatre-moteurs-decrivent-quatre-marches-differents/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-21T14:54:11.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "[ RETAIL INSIDE ] À Avrillé (49), Auchan vient de passer Hyper U",
-      "excerpt": "C’était une exception dans le parc des hypermarchés Auchan : le magasin d’Avrillé (49), à côté d’Angers, était tenu par un couple de franchisés. Le…",
-      "link": "https://www.olivierdauvers.fr/2026/10/21/retail-inside-a-avrille-49-auchan-vient-de-passer-hyper-u/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-21T12:33:08.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "(Tribune) Gouvernance de l’IA : la meilleure est celle qui ne se voit pas",
-      "excerpt": "À mesure que les agents d’IA s’invitent dans les parcours d’achat, la confiance devient un enjeu stratégique pour les retailers. Transparence…",
-      "link": "https://www.ecommercemag.fr/techno-ux-1226/veille-tribune-2199/gouvernance-de-lia-la-meilleure-est-celle-qui-ne-se-voit-pas-60402",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-10-21T10:49:44.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "[ NUTRITION ] Yuka monte à bord de Chronodrive (via les filtres)",
-      "excerpt": "Peu à peu Yuka gagne en visibilité sur les sites drives/LAD. Dernier exemple en date : Chronodrive. Le site pionnier du drive en France (et donc dans…",
-      "link": "https://www.olivierdauvers.fr/2026/10/21/nutrition-yuka-monte-a-bord-de-chronodrive-via-les-filtres/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-21T08:43:33.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
-      "title": "Produits volés : Bercy met à l’épreuve la traçabilité des plateformes",
-      "excerpt": "Des marchandises dérobées dans les commerces lors des pillages du week-end ont été retrouvées sur des sites de vente en ligne, selon le gouvernement…",
-      "link": "https://www.frenchweb.fr/produits-voles-bercy-met-a-lepreuve-la-tracabilite-des-plateformes/464004",
-      "source": "FrenchWeb",
-      "pubDate": "2026-10-20T08:54:56.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
     }
   ],
   "itemsEn": [
+    {
+      "title": "Whitepaper provides roadmap to building a business case for retail tech",
+      "excerpt": "When it comes to deploying retail technology the first step often proves to be the most critical step — developing a strong business case. The…",
+      "link": "https://www.retailcustomerexperience.com/news/whitepaper-provides-roadmap-to-building-a-business-case-for-retail-tech/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-22T12:11:33.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Retail customer satisfaction stays strong",
+      "excerpt": "The customer experience in retail stayed strong in Q3, with a global satisfaction score hitting 91.9%, just o.5 percentage points from 92.4% in Q2 of…",
+      "link": "https://www.retailcustomerexperience.com/news/retail-customer-satisfaction-stays-strong/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-22T10:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "Happy Returns for TikTok shoppers",
       "excerpt": "Consolidated returns model Happy Returns is now integrated into TikTok Shop, giving shoppers the platform's only box-free, label-free returns option",
@@ -145,24 +163,6 @@
       "link": "https://www.grocerydive.com/news/kroger-investor-day-new-store-formats-fleet-expansion/833563/",
       "source": "Grocery Dive",
       "pubDate": "2026-10-21T15:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Average holiday shopper spend will increase 4% this season",
-      "excerpt": "The average household spend this holiday season is expected to increase to $1,654, up 4% over 2025, with gains coming from Gen Z and millennial…",
-      "link": "https://www.retailcustomerexperience.com/news/average-holiday-shopper-spend-will-increase-4-this-season/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-21T11:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "NRF holiday forecast: Retail sales increase reflects consumer resiliency",
-      "excerpt": "The National Retail Federation's annual holiday forecast predicts retail sales in November and December will grow 4.2% over 2025, reaching a total…",
-      "link": "https://www.retailcustomerexperience.com/news/nrf-holiday-forecast-retail-sales-increase-reflects-consumer-resiliency/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-21T10:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
