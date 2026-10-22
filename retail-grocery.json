@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-22T18:58:15.684Z",
+  "publishedAt": "2026-10-22T23:47:01.821Z",
   "itemsFr": [
     {
       "title": "Walmart mise sur les agents IA pour révolutionner les achats en ligne",
@@ -95,21 +95,21 @@
   ],
   "itemsEn": [
     {
-      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-      "excerpt": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to…",
-      "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
+      "excerpt": "Arc was fiercely beloved by a dedicated group of enthusiasts, but it never quite became the mass-market Chrome alternative its makers once envisioned.",
+      "link": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/",
       "source": "TechCrunch",
-      "pubDate": "2026-10-22T18:43:53.000Z",
+      "pubDate": "2026-10-22T20:01:51.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
-      "excerpt": "The new startup raised a $215 million round led by Lightspeed.",
-      "link": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "excerpt": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+      "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
       "source": "TechCrunch",
-      "pubDate": "2026-10-22T18:38:47.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pubDate": "2026-10-22T19:07:09.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
