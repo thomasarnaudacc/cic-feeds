@@ -1,7 +1,16 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-23T13:56:59.671Z",
+  "publishedAt": "2026-10-23T18:48:12.036Z",
   "itemsFr": [
+    {
+      "title": "La MINUTE RETAIL : Gifi, ce formidable résumé de l’histoire du commerce",
+      "excerpt": "A la une cette semaine : Gifi qui a demandé mardi son placement en redressement judiciaire. L’effacement d’une partie de la dette et la…",
+      "link": "https://www.olivierdauvers.fr/2026/10/23/la-minute-retail-gifi-ce-formidable-resume-de-lhistoire-du-commerce/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-23T14:00:49.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "Quand le Retail Media sort de ses murs : l'avènement du \"Life Media\"",
       "excerpt": "L'annonce récente d'un géant des télécoms de déployer sa propre offre de retail media dans ses 300 boutiques françaises marque incontestablement un…",
@@ -75,15 +84,6 @@
       "pinned": false
     },
     {
-      "title": "[ RETAIL INSIDE ] Découvrez le pop-up Parkside de Lidl à Plan de Campagne (13)",
-      "excerpt": "Direction aujourd’hui Plan-de-Campagne, la plus grande zone commerciale d’Europe, au Nord de Marseille. C’est ici que Lidl a ouvert ce matin un…",
-      "link": "https://www.olivierdauvers.fr/2026/10/22/retail-inside-decouvrez-le-pop-up-parkside-de-lidl-a-plan-de-campagne-13/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-22T13:37:47.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
       "title": "Failles critiques dans PHP : vous êtes CEO, que devez-vous faire ?",
       "excerpt": "Vous avez entendu parler d’une alerte de cybersécurité susceptible de concerner de nombreuses entreprises. Elle touche PHP, un composant qui fait…",
       "link": "https://www.frenchweb.fr/failles-critiques-dans-php-vous-etes-ceo-que-devez-vous-faire/464039",
@@ -104,6 +104,51 @@
   ],
   "itemsEn": [
     {
+      "title": "Lululemon adds former product chief to board",
+      "excerpt": "Tara Poseley, who led product at the athletics retailer from 2013 to 2015, is joining the board as part of the company’s agreement with founder Chip…",
+      "link": "https://www.retaildive.com/news/lululemon-adds-product-chief-board-chip-wilson-settlement/833839/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-23T16:19:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Macy’s revamps Santaland, brings back Holiday Square",
+      "excerpt": "The department store is leaning into the festive season at its Herald Square flagship in New York with a variety of activations.",
+      "link": "https://www.retaildive.com/news/macys-holiday-revamped-santaland/833826/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-23T16:08:00.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
+    {
+      "title": "Grocers dish out under-$40 Thanksgiving meal deals",
+      "excerpt": "Several supermarket chains, including Wegmans and Schnuck Markets, are offering bundles that are competitive with discounters’ offers.",
+      "link": "https://www.grocerydive.com/news/grocers-dish-out-under-40-thanksgiving-meal-deals/833796/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-10-23T14:48:06.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "How AB InBev built a culture of creative effectiveness that drives growth",
+      "excerpt": "To focus its marketing efforts, the Bud Light owner looks for opportunities at the intersection of consumer needs and business problems, rather than…",
+      "link": "https://www.fooddive.com/news/how-ab-inbev-built-a-culture-of-creative-effectiveness-that-drives-growth/833830/",
+      "source": "Food Dive",
+      "pubDate": "2026-10-23T14:07:00.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
+    {
+      "title": "Big Y adds omnichannel foodservice ordering",
+      "excerpt": "The Northeast grocer will offer in-store kiosks and an online storefront through Instacart’s Foodstorm prepared food tech platform.",
+      "link": "https://www.grocerydive.com/news/big-y-adds-omnichannel-foodservice-ordering-tools-instacart/833802/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-10-23T14:00:00.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
+    {
       "title": "Amazon Prime Big Deal Days spending hit $9.86B",
       "excerpt": "Shoppers came out for Amazon's recent Prime Big Deal Days, with spending hitting $9.86 billion, according to Adobe research. The October deal days…",
       "link": "https://www.retailcustomerexperience.com/news/amazon-prime-big-deal-days-spending-hit-986b/",
@@ -113,8 +158,8 @@
       "pinned": false
     },
     {
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-      "excerpt": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+      "excerpt": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
       "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
       "source": "TechCrunch",
       "pubDate": "2026-10-23T04:00:00.000Z",
@@ -137,42 +182,6 @@
       "source": "Retail Technology",
       "pubDate": "2026-10-23T00:00:00.000Z",
       "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "David’s Bridal to spin off Pearl into stand-alone, publicly traded company",
-      "excerpt": "David’s Bridal CEO Kelly Cook is expected to become the chief executive of Pearl, which will own the wedding retailer’s intellectual property and…",
-      "link": "https://www.retaildive.com/news/davids-bridal-spin-off-pearl-AI-stand-alone-publicly-traded-company/833699/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-22T16:29:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Walmart welcomes external AI agents — with some guardrails",
-      "excerpt": "The mass retailer is focused on transparency and customer control with a new AI agent profile feature and updated agent terms.",
-      "link": "https://www.retaildive.com/news/walmart-welcomes-external-ai-shopping-agents-terms-boundaries/833723/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-22T16:14:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "As Albertsons embarks on a turnaround, what role will customer experience play?",
-      "excerpt": "The grocer, which is struggling with high prices, wants to sharpen its value perception through better in-store experiences, CEO Susan Morris said.",
-      "link": "https://www.grocerydive.com/news/albertsons-embarks-turnaround-what-role-will-cx-play/833740/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-22T16:09:00.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
-      "title": "More than a Store: Can AI plan my Thanksgiving meal?",
-      "excerpt": "AI shopping tools can be useful, but simple, grocer-curated lists are much more helpful than the cutting-edge chatbots.",
-      "link": "https://www.grocerydive.com/news/more-than-a-store-ai-ecommerce-grocery-thanksgiving-meal-planning/833063/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-22T15:40:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
