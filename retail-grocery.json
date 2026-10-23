@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-23T18:48:12.036Z",
+  "publishedAt": "2026-10-23T23:40:57.189Z",
   "itemsFr": [
     {
       "title": "La MINUTE RETAIL : Gifi, ce formidable résumé de l’histoire du commerce",
@@ -104,6 +104,33 @@
   ],
   "itemsEn": [
     {
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "excerpt": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+      "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-23T21:59:19.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
+      "excerpt": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit…",
+      "link": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-23T20:57:13.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Nestlé turnaround taking shape a year after new CEO",
+      "excerpt": "Philipp Navratil said innovations and category divestitures have helped lead to improvements in key markets like North America, but he’s still “not…",
+      "link": "https://www.fooddive.com/news/Nestle-turnaround-ceo-frozen-coffee-snacking/833742/",
+      "source": "Food Dive",
+      "pubDate": "2026-10-23T18:58:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
       "title": "Lululemon adds former product chief to board",
       "excerpt": "Tara Poseley, who led product at the athletics retailer from 2013 to 2015, is joining the board as part of the company’s agreement with founder Chip…",
       "link": "https://www.retaildive.com/news/lululemon-adds-product-chief-board-chip-wilson-settlement/833839/",
@@ -155,24 +182,6 @@
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-23T10:00:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-      "excerpt": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-      "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-23T04:00:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Left alone with nothing to do, AI agents started playing",
-      "excerpt": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at…",
-      "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-23T00:45:37.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
