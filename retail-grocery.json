@@ -1,7 +1,43 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-23T02:36:33.764Z",
+  "publishedAt": "2026-10-23T08:05:55.508Z",
   "itemsFr": [
+    {
+      "title": "ID Logistics franchit le cap du milliard d’euros au 3e trimestre",
+      "excerpt": "Le spécialiste de la logistique contractuelle, ID Logistics, enregistre une accélération de sa croissance au troisième trimestre 2026, avec un…",
+      "link": "https://www.ecommercemag.fr/logistique-1222/id-logistics-franchit-le-cap-du-milliard-deuros-au-3e-trimestre-60464",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-10-23T07:00:08.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Les doutes sur l'IA entraînent une correction boursière dans le secteur technologique",
+      "excerpt": "Les doutes sur la rentabilité des investissements massifs dans l'intelligence artificielle ont entraîné une correction boursière majeure, affectant…",
+      "link": "https://www.journaldunet.com/business/1557029-les-doutes-sur-l-ia-entrainent-une-correction-boursiere-dans-le-secteur-technologique/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-23T06:58:41.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "La NFL a organisé un hackathon avec AWS et Epitech en marge du premier match de saison régulière de football américain en France",
+      "excerpt": "L’article La NFL a organisé un hackathon avec AWS et Epitech en marge du premier match de saison régulière de football américain en France est apparu…",
+      "link": "https://www.maddyness.com/2026/10/23/la-nfl-a-organise-un-hackathon-avec-aws-et-epitech-en-marge-du-premier-match-de-saison-reguliere-de-football-americain-en-france/",
+      "source": "Maddyness",
+      "pubDate": "2026-10-23T05:00:59.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "VIDÉO GRANDE CONSO : j’ai testé la préparation des commandes drive avec les étiquettes qui clignotent !",
+      "excerpt": "VIDÉO GRANDE CONSO aujourd’hui à Carrefour Villabé (91). C’est le laboratoire de l’enseigne pour la digitalisation de l’hyper. Notamment les rails…",
+      "link": "https://www.olivierdauvers.fr/2026/10/23/video-grande-conso-jai-teste-la-preparation-des-commandes-drive-avec-les-etiquettes-qui-clignotent/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-23T04:42:00.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
     {
       "title": "Walmart mise sur les agents IA pour révolutionner les achats en ligne",
       "excerpt": "Walmart accélère dans le commerce piloté par l’intelligence artificielle. Le distributeur américain a annoncé le 21 octobre le lancement de nouveaux…",
@@ -39,24 +75,6 @@
       "pinned": false
     },
     {
-      "title": "Conformité au règlement IA : relier la documentation des modèles à l'origine des données",
-      "excerpt": "L'annexe IV du règlement IA demande de décrire les données d'entraînement, de validation et d'essai d'un système d'IA à haut risque. Voici une…",
-      "link": "https://www.journaldunet.com/iot/1556115-conformite-au-reglement-ia-relier-la-documentation-des-modeles-a-l-origine-des-donnees/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-22T09:16:07.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "Sébastien Lefébure (Manhattan Associates) : « La fiabilité devient aussi importante que la rapidité »",
-      "excerpt": "Face à la hausse des coûts logistiques et aux exigences croissantes des consommateurs, les retailers repensent leur supply chain. Intelligence…",
-      "link": "https://www.ecommercemag.fr/logistique-1222/sebastien-lefebure-manhattan-associates-la-fiabilite-devient-aussi-importante-que-la-rapidite-60444",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-10-22T09:06:33.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
       "title": "Failles critiques dans PHP : vous êtes CEO, que devez-vous faire ?",
       "excerpt": "Vous avez entendu parler d’une alerte de cybersécurité susceptible de concerner de nombreuses entreprises. Elle touche PHP, un composant qui fait…",
       "link": "https://www.frenchweb.fr/failles-critiques-dans-php-vous-etes-ceo-que-devez-vous-faire/464039",
@@ -82,18 +100,18 @@
       "pubDate": "2026-10-22T06:21:20.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
-    },
-    {
-      "title": "Parts de marché P10 Worldpanel : U et Intermarché à fond la caisse !",
-      "excerpt": "Après NielsenIQ, les résultats de Worldpanel pour la P10. Et, globalement, des résultats proches. Les Mousquetaires et Coopérative U sont flashés par…",
-      "link": "https://www.olivierdauvers.fr/2026/10/22/parts-de-marche-p10-worldpanel-u-et-intermarche-a-fond-la-caisse/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-22T05:29:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
     }
   ],
   "itemsEn": [
+    {
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "excerpt": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+      "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-23T04:00:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
     {
       "title": "Left alone with nothing to do, AI agents started playing",
       "excerpt": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at…",
@@ -110,15 +128,6 @@
       "source": "Retail Technology",
       "pubDate": "2026-10-23T00:00:00.000Z",
       "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
-      "excerpt": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should…",
-      "link": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-22T23:50:41.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
@@ -167,9 +176,9 @@
       "pinned": false
     },
     {
-      "title": "3 ways retailers are losing trust",
-      "excerpt": "Consumer trust is the most valuable currency for a business, especially at this moment when algorithms and AI recommendations are influencing…",
-      "link": "https://www.retailcustomerexperience.com/blogs/3-ways-retailers-are-losing-trust/",
+      "title": "Retail customer satisfaction stays strong",
+      "excerpt": "The customer experience in retail stayed strong in Q3, with a global satisfaction score hitting 91.9%, just o.5 percentage points from 92.4% in Q2 of…",
+      "link": "https://www.retailcustomerexperience.com/news/retail-customer-satisfaction-stays-strong/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-22T10:00:00.000Z",
       "category": "GRAND ANGLE",
