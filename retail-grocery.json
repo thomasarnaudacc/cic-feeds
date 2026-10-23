@@ -1,7 +1,25 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-23T08:05:55.508Z",
+  "publishedAt": "2026-10-23T13:56:59.671Z",
   "itemsFr": [
+    {
+      "title": "Quand le Retail Media sort de ses murs : l'avènement du \"Life Media\"",
+      "excerpt": "L'annonce récente d'un géant des télécoms de déployer sa propre offre de retail media dans ses 300 boutiques françaises marque incontestablement un…",
+      "link": "https://www.journaldunet.com/adtech/1557045-quand-le-retail-media-sort-de-ses-murs-l-avenement-du-life-media/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-23T09:29:50.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
+    {
+      "title": "Women in STEM Europe : sept lauréates pour donner envie de choisir les sciences",
+      "excerpt": "L’une développe un robot pour expliquer l’énergie, une autre a contribué à rendre observable le mouvement des électrons. Les sept lauréates des…",
+      "link": "https://www.frenchweb.fr/women-in-stem-europe-sept-laureates-pour-donner-envie-de-choisir-les-sciences/464054",
+      "source": "FrenchWeb",
+      "pubDate": "2026-10-23T08:09:34.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
     {
       "title": "ID Logistics franchit le cap du milliard d’euros au 3e trimestre",
       "excerpt": "Le spécialiste de la logistique contractuelle, ID Logistics, enregistre une accélération de sa croissance au troisième trimestre 2026, avec un…",
@@ -57,15 +75,6 @@
       "pinned": false
     },
     {
-      "title": "Le commerce de proximité a un actif qu'il n'exploite pas : ses rayons",
-      "excerpt": "Un magasin de vélos a en rayon 100 000 € qui attendent un acheteur. Louer ce qu'on vend déjà est la ligne de revenu la plus simple du commerce de…",
-      "link": "https://www.journaldunet.com/retail/1556561-le-commerce-de-proximite-a-un-actif-qu-il-n-exploite-pas-ses-rayons/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-22T14:44:52.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "[ RETAIL INSIDE ] Découvrez le pop-up Parkside de Lidl à Plan de Campagne (13)",
       "excerpt": "Direction aujourd’hui Plan-de-Campagne, la plus grande zone commerciale d’Europe, au Nord de Marseille. C’est ici que Lidl a ouvert ce matin un…",
       "link": "https://www.olivierdauvers.fr/2026/10/22/retail-inside-decouvrez-le-pop-up-parkside-de-lidl-a-plan-de-campagne-13/",
@@ -91,18 +100,18 @@
       "pubDate": "2026-10-22T07:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
-    },
-    {
-      "title": "Robotique : ENACT lève près de 27 millions d’euros pour développer le sens du toucher",
-      "excerpt": "La startup zurichoise réunit près de 27 millions d’euros en préamorçage pour développer des robots capables de mieux percevoir les forces et…",
-      "link": "https://www.frenchweb.fr/robotique-enact-leve-pres-de-27-millions-deuros-pour-developper-le-sens-du-toucher/464031",
-      "source": "FrenchWeb",
-      "pubDate": "2026-10-22T06:21:20.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
     }
   ],
   "itemsEn": [
+    {
+      "title": "Amazon Prime Big Deal Days spending hit $9.86B",
+      "excerpt": "Shoppers came out for Amazon's recent Prime Big Deal Days, with spending hitting $9.86 billion, according to Adobe research. The October deal days…",
+      "link": "https://www.retailcustomerexperience.com/news/amazon-prime-big-deal-days-spending-hit-986b/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-23T10:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
       "excerpt": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
@@ -172,15 +181,6 @@
       "link": "https://www.retailcustomerexperience.com/news/whitepaper-provides-roadmap-to-building-a-business-case-for-retail-tech/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-22T12:11:33.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Retail customer satisfaction stays strong",
-      "excerpt": "The customer experience in retail stayed strong in Q3, with a global satisfaction score hitting 91.9%, just o.5 percentage points from 92.4% in Q2 of…",
-      "link": "https://www.retailcustomerexperience.com/news/retail-customer-satisfaction-stays-strong/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-22T10:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
