@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-24T13:00:21.501Z",
+  "publishedAt": "2026-10-24T17:43:36.857Z",
   "itemsFr": [
     {
       "title": "SAMEDI CONSO : mon carnet (retail mais pas que…) de la semaine",
@@ -75,15 +75,6 @@
       "pinned": false
     },
     {
-      "title": "“Un système nerveux proprioceptif pour robots” : Soutenue par Yann LeCun et Arthur Mensch, la start-up suisse Enact Intelligence lève 30 millions de dollars",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/un-systeme-nerveux-proprioceptif-pour-robots-soutenue-par-yann-lecun-et-arthur-mensch-la-start-up-suisse-enact-intelligence-leve-30-millions-de-dollars.IRMML2EWGVFVFKSWG6DGFT6WYI.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-10-22T15:37:08.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
       "title": "Failles critiques dans PHP : vous êtes CEO, que devez-vous faire ?",
       "excerpt": "Vous avez entendu parler d’une alerte de cybersécurité susceptible de concerner de nombreuses entreprises. Elle touche PHP, un composant qui fait…",
       "link": "https://www.frenchweb.fr/failles-critiques-dans-php-vous-etes-ceo-que-devez-vous-faire/464039",
@@ -95,21 +86,21 @@
   ],
   "itemsEn": [
     {
-      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-      "excerpt": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
-      "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "excerpt": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing…",
+      "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
       "source": "TechCrunch",
-      "pubDate": "2026-10-23T21:59:19.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pubDate": "2026-10-24T15:00:00.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
-      "excerpt": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit…",
-      "link": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel…",
+      "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "source": "TechCrunch",
-      "pubDate": "2026-10-23T20:57:13.000Z",
-      "category": "GRAND ANGLE",
+      "pubDate": "2026-10-24T14:00:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
