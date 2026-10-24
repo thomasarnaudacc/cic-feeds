@@ -1,7 +1,16 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-23T23:40:57.189Z",
+  "publishedAt": "2026-10-24T02:34:50.744Z",
   "itemsFr": [
+    {
+      "title": "SAMEDI CONSO : mon carnet (retail mais pas que…) de la semaine",
+      "excerpt": "« SAMEDI CONSO », la semaine retail (mais pas que) passée en revue. Comme toujours en totale liberté. Et tant pis si ça pique ! Âmes (trop) sensibles…",
+      "link": "https://www.olivierdauvers.fr/2026/10/24/samedi-conso-mon-carnet-retail-mais-pas-que-de-la-semaine-385/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-24T00:26:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "La MINUTE RETAIL : Gifi, ce formidable résumé de l’histoire du commerce",
       "excerpt": "A la une cette semaine : Gifi qui a demandé mardi son placement en redressement judiciaire. L’effacement d’une partie de la dette et la…",
@@ -54,15 +63,6 @@
       "source": "Maddyness",
       "pubDate": "2026-10-23T05:00:59.000Z",
       "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "VIDÉO GRANDE CONSO : j’ai testé la préparation des commandes drive avec les étiquettes qui clignotent !",
-      "excerpt": "VIDÉO GRANDE CONSO aujourd’hui à Carrefour Villabé (91). C’est le laboratoire de l’enseigne pour la digitalisation de l’hyper. Notamment les rails…",
-      "link": "https://www.olivierdauvers.fr/2026/10/23/video-grande-conso-jai-teste-la-preparation-des-commandes-drive-avec-les-etiquettes-qui-clignotent/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-23T04:42:00.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
       "pinned": false
     },
     {
