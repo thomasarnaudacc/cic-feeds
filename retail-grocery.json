@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-24T02:34:50.744Z",
+  "publishedAt": "2026-10-24T07:45:26.691Z",
   "itemsFr": [
     {
       "title": "SAMEDI CONSO : mon carnet (retail mais pas que…) de la semaine",
@@ -90,15 +90,6 @@
       "source": "FrenchWeb",
       "pubDate": "2026-10-22T08:22:34.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "Après S3NS pour ses données, Haiku choisit Scaleway pour héberger ses modèles d’IA et vise de nouveaux marchés dans le secteur public",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/apres-s3ns-pour-ses-donnees-haiku-choisit-scaleway-pour-heberger-ses-modeles-dia-et-vise-de-nouveaux-marches-dans-le-secteur-public.7TRRZG5TWVHKTNT2FDGZ2ETHF4.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-10-22T07:00:00.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     }
   ],
