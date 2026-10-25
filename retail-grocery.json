@@ -1,22 +1,22 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-25T02:22:48.016Z",
+  "publishedAt": "2026-10-25T07:55:46.547Z",
   "itemsFr": [
+    {
+      "title": "[ BOURSE ] La “Black week” de Carrefour…",
+      "excerpt": "Il y aura bientôt “Black November” ou “Black Friday” dans le commerce. Carrefour n’aura pas attendu et vient de vivre une… “Black week” en Bourse…",
+      "link": "https://www.olivierdauvers.fr/2026/10/25/bourse-la-black-week-de-carrefour/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-25T06:43:00.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
     {
       "title": "SAMEDI CONSO : mon carnet (retail mais pas que…) de la semaine",
       "excerpt": "« SAMEDI CONSO », la semaine retail (mais pas que) passée en revue. Comme toujours en totale liberté. Et tant pis si ça pique ! Âmes (trop) sensibles…",
       "link": "https://www.olivierdauvers.fr/2026/10/24/samedi-conso-mon-carnet-retail-mais-pas-que-de-la-semaine-385/",
       "source": "Olivier Dauvers",
       "pubDate": "2026-10-24T00:26:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "La MINUTE RETAIL : Gifi, ce formidable résumé de l’histoire du commerce",
-      "excerpt": "A la une cette semaine : Gifi qui a demandé mardi son placement en redressement judiciaire. L’effacement d’une partie de la dette et la…",
-      "link": "https://www.olivierdauvers.fr/2026/10/23/la-minute-retail-gifi-ce-formidable-resume-de-lhistoire-du-commerce/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-23T14:00:49.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
