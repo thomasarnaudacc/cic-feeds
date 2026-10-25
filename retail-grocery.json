@@ -1,7 +1,16 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-25T13:27:31.337Z",
+  "publishedAt": "2026-10-25T17:59:38.109Z",
   "itemsFr": [
+    {
+      "title": "[ INFOGRAPHIE ] Le prix du maquereau s’envole (quand il y en a…)",
+      "excerpt": "Une p’tite dernière infographie pour ce dimanche : l’envolée du prix des maquereaux. Identifiée par NielsenIQ comme l’une des catégories plus…",
+      "link": "https://www.olivierdauvers.fr/2026/10/25/infographie-le-prix-du-maquereau-senvole-quand-il-y-en-a/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-25T16:56:00.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
     {
       "title": "[ EXCLU ] Prix : les indépendants se lâchent (davantage) sur les innos",
       "excerpt": "Un grand classique des politiques prix : on se refait la cerise sur les innovations ! Surtout quand on en a la possibilité… Ce qui est le cas, par…",
@@ -9,15 +18,6 @@
       "source": "Olivier Dauvers",
       "pubDate": "2026-10-25T11:17:00.000Z",
       "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "[ BOURSE ] La “Black week” de Carrefour…",
-      "excerpt": "Il y aura bientôt “Black November” ou “Black Friday” dans le commerce. Carrefour n’aura pas attendu et vient de vivre une… “Black week” en Bourse…",
-      "link": "https://www.olivierdauvers.fr/2026/10/25/bourse-la-black-week-de-carrefour/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-25T06:43:00.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
     {
