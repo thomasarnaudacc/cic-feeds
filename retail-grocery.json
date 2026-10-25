@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-25T17:59:38.109Z",
+  "publishedAt": "2026-10-25T20:33:31.027Z",
   "itemsFr": [
     {
       "title": "[ INFOGRAPHIE ] Le prix du maquereau s’envole (quand il y en a…)",
@@ -86,21 +86,21 @@
   ],
   "itemsEn": [
     {
+      "title": "‘Cyberselfish’ author takes aim at Silicon Valley libertarians as her book returns from the dead",
+      "excerpt": "\"That's a 12-year-old view of the world.\"",
+      "link": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-25T20:20:08.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
       "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
       "excerpt": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing…",
       "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
       "source": "TechCrunch",
       "pubDate": "2026-10-24T15:00:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Here are the top AI agents that can live in your text messages",
-      "excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel…",
-      "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-24T14:00:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
