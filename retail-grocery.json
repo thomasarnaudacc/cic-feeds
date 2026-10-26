@@ -1,7 +1,61 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-26T08:17:31.729Z",
+  "publishedAt": "2026-10-26T15:38:42.835Z",
   "itemsFr": [
+    {
+      "title": "Data, fidélité, carte cadeau : le trio qui redessine la valeur client",
+      "excerpt": "Data, fidélité et carte cadeau : trois leviers à orchestrer pour mieux connaître ses clients, renforcer leur engagement et activer, à chaque étape du…",
+      "link": "https://www.journaldunet.com/retail/1557043-data-fidelite-carte-cadeau-le-trio-qui-redessine-la-valeur-client/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-26T15:37:35.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Emmanuel Macron admet une absence d'anticipation après les violences du 17 octobre",
+      "excerpt": "Le président s'est exprimé à Marseille après les violences du 17 octobre, admettant une absence totale d'anticipation et dénonçant le rôle des…",
+      "link": "https://www.journaldunet.com/business/action-publique/1557153-emmanuel-macron-admet-une-absence-d-anticipation-apres-les-violences-du-17-octobre/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-26T15:18:42.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "Neura Robotics, Generative Bionics… Comment les start-up européennes de robotique investissent dans des sites physiques pour accélérer l’entraînement de leurs systèmes",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/neura-robotics-generative-bionics-comment-les-start-up-europeennes-de-robotique-investissent-dans-des-sites-physiques-pour-accelerer-lentrainement-de-leurs-systemes.2EX7PRWVTREYZPFKVT472KSP6U.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-10-26T14:51:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Cédric Dubucq : « Le DMA peut rebattre les cartes du e-commerce face à Google »",
+      "excerpt": "Visibilité, acquisition de trafic, commissions et indemnisation : les sanctions européennes visant Google peuvent-elles changer la donne pour les…",
+      "link": "https://www.ecommercemag.fr/retail-1220/interview-2164/cedric-dubucq-le-dma-peut-rebattre-les-cartes-du-e-commerce-face-a-google-60236",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-10-26T14:11:01.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "MANGO agrandit son magasin des Halles à Paris et modernise son réseau français",
+      "excerpt": "Avec un chiffre d’affaires mondial de 3,8 milliards d’euros en 2025, le groupe espagnol poursuit son développement en France. À Paris, la boutique…",
+      "link": "https://www.ecommercemag.fr/retail-1220/mango-agrandit-son-magasin-des-halles-a-paris-et-modernise-son-reseau-francais-60508",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-10-26T09:37:19.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "« Transformer les données opérationnelles en décisions et en actions » : Atos veut faire agir l’intelligence artificielle, pas seulement la faire parler",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/informatique/esn-ssii/atos/transformer-les-donnees-operationnelles-en-decisions-et-en-actions-atos-veut-faire-agir-lintelligence-artificielle-pas-seulement-la-faire-parler.WRAZRFFEUNBWJNNCLYSE3RIYSM.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-10-26T09:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "[ EXCLU ] Carrefour ouvre son hyper de Gennevilliers à un shop-in-shop Boom",
       "excerpt": "J’vous avais présenté le premier magasin de Boom à Pontault-Combault l’an dernier (revoir ici). Voici à présent le premier shop-in-shop de l’enseigne…",
@@ -9,24 +63,6 @@
       "source": "Olivier Dauvers",
       "pubDate": "2026-10-26T07:03:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Et si le vrai point faible de l'économie américaine était en réalité le marché immobilier ?",
-      "excerpt": "Alors que tous les yeux sont rivés sur la bulle de l'IA, le marché immobilier américain connaît des temps très difficiles. Une réalité qui alimente…",
-      "link": "https://www.journaldunet.com/business/action-publique/1557037-et-si-le-vrai-point-faible-de-l-economie-americaine-etait-en-realite-le-marche-immobilier/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-26T07:00:27.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Marine Le Pen lance sa campagne à Orléans sous haute sécurité et prône une renaissance",
-      "excerpt": "La candidate du Rassemblement national a inauguré sa campagne dimanche à Orléans, prônant une \"renaissance\" sans \"rupture brutale\", sous haute…",
-      "link": "https://www.journaldunet.com/business/action-publique/1557107-marine-le-pen-lance-sa-campagne-a-orleans-sous-haute-securite-et-prone-une-renaissance/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-26T06:59:48.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
@@ -48,30 +84,12 @@
       "pinned": false
     },
     {
-      "title": "ID Logistics franchit le cap du milliard d’euros au 3e trimestre",
-      "excerpt": "Le spécialiste de la logistique contractuelle, ID Logistics, enregistre une accélération de sa croissance au troisième trimestre 2026, avec un…",
-      "link": "https://www.ecommercemag.fr/logistique-1222/id-logistics-franchit-le-cap-du-milliard-deuros-au-3e-trimestre-60464",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-10-23T07:00:08.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
       "title": "La NFL a organisé un hackathon avec AWS et Epitech en marge du premier match de saison régulière de football américain en France",
       "excerpt": "L’article La NFL a organisé un hackathon avec AWS et Epitech en marge du premier match de saison régulière de football américain en France est apparu…",
       "link": "https://www.maddyness.com/2026/10/23/la-nfl-a-organise-un-hackathon-avec-aws-et-epitech-en-marge-du-premier-match-de-saison-reguliere-de-football-americain-en-france/",
       "source": "Maddyness",
       "pubDate": "2026-10-23T05:00:59.000Z",
       "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "Walmart mise sur les agents IA pour révolutionner les achats en ligne",
-      "excerpt": "Walmart accélère dans le commerce piloté par l’intelligence artificielle. Le distributeur américain a annoncé le 21 octobre le lancement de nouveaux…",
-      "link": "https://www.ecommercemag.fr/retail-1220/walmart-mise-sur-les-agents-ia-pour-revolutionner-les-achats-en-ligne-60462",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-10-22T18:01:07.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -85,6 +103,51 @@
     }
   ],
   "itemsEn": [
+    {
+      "title": "Levi’s distribution network transition saga continues to drag",
+      "excerpt": "Due to a facility fire during Q3 and the complexity of its SKU mix, the retailer doesn't expect to see benefits from its overhaul until 2027.",
+      "link": "https://www.retaildive.com/news/levis-distribution-network-transition-delay/833896/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-26T14:39:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Albertsons launches new subscription",
+      "excerpt": "The grocer's new program, which replaces FreshPass, costs less and bundles existing loyalty membership benefits with unlimited delivery and pickup…",
+      "link": "https://www.grocerydive.com/news/albertsons-delivery-pickup-subscription-loyalty-program-ecommerce-omnichannel/872748/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-10-26T14:13:53.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Zevia nabs $20M investment to fund turnaround",
+      "excerpt": "The money from GP Investments will help the better-for-you soda brand diversify its product offerings and increase distribution.",
+      "link": "https://www.fooddive.com/news/zevia-20-million-investment-turnaround-plan/833924/",
+      "source": "Food Dive",
+      "pubDate": "2026-10-26T13:32:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Agentic commerce: The infrastructure is ready for AI agents. Is your store?",
+      "excerpt": "With the holidays approaching, check these signals to assess your AI readiness (and check it twice).",
+      "link": "https://www.retaildive.com/spons/agentic-commerce-the-infrastructure-is-ready-for-ai-agents-is-your-store/833313/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-26T09:00:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Glass packaging for pasta sauces and salsas",
+      "excerpt": "Learn how glass packaging helps brands build trust, stand out in crowded grocery aisles and meet evolving consumer expectations.",
+      "link": "https://www.fooddive.com/spons/glass-packaging-for-pasta-sauces-and-salsas/833044/",
+      "source": "Food Dive",
+      "pubDate": "2026-10-26T09:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "The best apps for tracking your reading and discovering new books",
       "excerpt": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one…",
@@ -104,65 +167,11 @@
       "pinned": false
     },
     {
-      "title": "Nestlé turnaround taking shape a year after new CEO",
-      "excerpt": "Philipp Navratil said innovations and category divestitures have helped lead to improvements in key markets like North America, but he’s still “not…",
-      "link": "https://www.fooddive.com/news/Nestle-turnaround-ceo-frozen-coffee-snacking/833742/",
-      "source": "Food Dive",
-      "pubDate": "2026-10-23T18:58:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Lululemon adds former product chief to board",
-      "excerpt": "Tara Poseley, who led product at the athletics retailer from 2013 to 2015, is joining the board as part of the company’s agreement with founder Chip…",
-      "link": "https://www.retaildive.com/news/lululemon-adds-product-chief-board-chip-wilson-settlement/833839/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-23T16:19:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Macy’s revamps Santaland, brings back Holiday Square",
-      "excerpt": "The department store is leaning into the festive season at its Herald Square flagship in New York with a variety of activations.",
-      "link": "https://www.retaildive.com/news/macys-holiday-revamped-santaland/833826/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-23T16:08:00.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
       "title": "Grocers dish out under-$40 Thanksgiving meal deals",
       "excerpt": "Several supermarket chains, including Wegmans and Schnuck Markets, are offering bundles that are competitive with discounters’ offers.",
       "link": "https://www.grocerydive.com/news/grocers-dish-out-under-40-thanksgiving-meal-deals/833796/",
       "source": "Grocery Dive",
       "pubDate": "2026-10-23T14:48:06.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "How AB InBev built a culture of creative effectiveness that drives growth",
-      "excerpt": "To focus its marketing efforts, the Bud Light owner looks for opportunities at the intersection of consumer needs and business problems, rather than…",
-      "link": "https://www.fooddive.com/news/how-ab-inbev-built-a-culture-of-creative-effectiveness-that-drives-growth/833830/",
-      "source": "Food Dive",
-      "pubDate": "2026-10-23T14:07:00.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
-      "title": "Big Y adds omnichannel foodservice ordering",
-      "excerpt": "The Northeast grocer will offer in-store kiosks and an online storefront through Instacart’s Foodstorm prepared food tech platform.",
-      "link": "https://www.grocerydive.com/news/big-y-adds-omnichannel-foodservice-ordering-tools-instacart/833802/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-23T14:00:00.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
-      "title": "Amazon Prime Big Deal Days spending hit $9.86B",
-      "excerpt": "Shoppers came out for Amazon's recent Prime Big Deal Days, with spending hitting $9.86 billion, according to Adobe research. The October deal days…",
-      "link": "https://www.retailcustomerexperience.com/news/amazon-prime-big-deal-days-spending-hit-986b/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-23T10:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -173,15 +182,6 @@
       "source": "Retail Technology",
       "pubDate": "2026-10-23T00:00:00.000Z",
       "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "Whitepaper provides roadmap to building a business case for retail tech",
-      "excerpt": "When it comes to deploying retail technology the first step often proves to be the most critical step — developing a strong business case. The…",
-      "link": "https://www.retailcustomerexperience.com/news/whitepaper-provides-roadmap-to-building-a-business-case-for-retail-tech/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-22T12:11:33.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
