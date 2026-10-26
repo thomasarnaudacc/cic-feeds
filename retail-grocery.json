@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-25T22:56:07.542Z",
+  "publishedAt": "2026-10-26T02:22:52.955Z",
   "itemsFr": [
     {
       "title": "[ INFOGRAPHIE ] Le prix du maquereau s’envole (quand il y en a…)",
@@ -86,21 +86,21 @@
   ],
   "itemsEn": [
     {
+      "title": "The best apps for tracking your reading and discovering new books",
+      "excerpt": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one…",
+      "link": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-26T01:10:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
       "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
       "excerpt": "\"That's a 12-year-old view of the world.\"",
       "link": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
       "source": "TechCrunch",
       "pubDate": "2026-10-25T20:20:08.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "excerpt": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing…",
-      "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-24T15:00:00.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
