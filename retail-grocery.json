@@ -1,7 +1,34 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-26T02:22:52.955Z",
+  "publishedAt": "2026-10-26T08:17:31.729Z",
   "itemsFr": [
+    {
+      "title": "[ EXCLU ] Carrefour ouvre son hyper de Gennevilliers à un shop-in-shop Boom",
+      "excerpt": "J’vous avais présenté le premier magasin de Boom à Pontault-Combault l’an dernier (revoir ici). Voici à présent le premier shop-in-shop de l’enseigne…",
+      "link": "https://www.olivierdauvers.fr/2026/10/26/exclu-carrefour-ouvre-son-hyper-de-gennevilliers-a-un-shop-in-shop-boom/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-26T07:03:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Et si le vrai point faible de l'économie américaine était en réalité le marché immobilier ?",
+      "excerpt": "Alors que tous les yeux sont rivés sur la bulle de l'IA, le marché immobilier américain connaît des temps très difficiles. Une réalité qui alimente…",
+      "link": "https://www.journaldunet.com/business/action-publique/1557037-et-si-le-vrai-point-faible-de-l-economie-americaine-etait-en-realite-le-marche-immobilier/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-26T07:00:27.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Marine Le Pen lance sa campagne à Orléans sous haute sécurité et prône une renaissance",
+      "excerpt": "La candidate du Rassemblement national a inauguré sa campagne dimanche à Orléans, prônant une \"renaissance\" sans \"rupture brutale\", sous haute…",
+      "link": "https://www.journaldunet.com/business/action-publique/1557107-marine-le-pen-lance-sa-campagne-a-orleans-sous-haute-securite-et-prone-une-renaissance/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-26T06:59:48.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
     {
       "title": "[ INFOGRAPHIE ] Le prix du maquereau s’envole (quand il y en a…)",
       "excerpt": "Une p’tite dernière infographie pour ce dimanche : l’envolée du prix des maquereaux. Identifiée par NielsenIQ comme l’une des catégories plus…",
@@ -9,24 +36,6 @@
       "source": "Olivier Dauvers",
       "pubDate": "2026-10-25T16:56:00.000Z",
       "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "[ EXCLU ] Prix : les indépendants se lâchent (davantage) sur les innos",
-      "excerpt": "Un grand classique des politiques prix : on se refait la cerise sur les innovations ! Surtout quand on en a la possibilité… Ce qui est le cas, par…",
-      "link": "https://www.olivierdauvers.fr/2026/10/25/exclu-prix-les-independants-se-lachent-davantage-sur-les-innos/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-25T11:17:00.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "Quand le Retail Media sort de ses murs : l'avènement du \"Life Media\"",
-      "excerpt": "L'annonce récente d'un géant des télécoms de déployer sa propre offre de retail media dans ses 300 boutiques françaises marque incontestablement un…",
-      "link": "https://www.journaldunet.com/adtech/1557045-quand-le-retail-media-sort-de-ses-murs-l-avenement-du-life-media/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-23T09:29:50.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
       "pinned": false
     },
     {
@@ -45,15 +54,6 @@
       "source": "Ecommerce Mag",
       "pubDate": "2026-10-23T07:00:08.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Les doutes sur l'IA entraînent une correction boursière dans le secteur technologique",
-      "excerpt": "Les doutes sur la rentabilité des investissements massifs dans l'intelligence artificielle ont entraîné une correction boursière majeure, affectant…",
-      "link": "https://www.journaldunet.com/business/1557029-les-doutes-sur-l-ia-entrainent-une-correction-boursiere-dans-le-secteur-technologique/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-23T06:58:41.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
