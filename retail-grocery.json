@@ -1,7 +1,34 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-27T15:01:54.387Z",
+  "publishedAt": "2026-10-27T21:37:22.791Z",
   "itemsFr": [
+    {
+      "title": "Les manifestations entraînent des pertes majeures pour plus de 2 500 commerces en France",
+      "excerpt": "Les récentes manifestations ont entraîné des dégâts majeurs pour les commerces, avec des pertes économiques et des appels à des mesures d'urgence.",
+      "link": "https://www.journaldunet.com/business/action-publique/1557257-les-manifestations-entrainent-des-pertes-majeures-pour-plus-de-2-500-commerces-en-france/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-27T19:49:49.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "[ VIDÉO ] Des robots et des hommes… (inside une usine de fabrication IKEA)",
+      "excerpt": "✈️ Passage aujourd’hui par Zbaszynek en Pologne 🇵🇱 . C’est le plus grand site industriel d’ IKEA (l’enseigne produit environ 10 % de ce qu’elle…",
+      "link": "https://www.olivierdauvers.fr/2026/10/27/video-des-robots-et-des-hommes-inside-une-usine-de-fabrication-ikea/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-27T17:36:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Qui décide si vos données peuvent servir à entraîner un modèle d’IA ? La réforme du RGPD ravive le débat entre intérêt des entreprises et des citoyens",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/qui-decide-si-vos-donnees-peuvent-servir-a-entrainer-un-modele-dia-la-reforme-du-rgpd-ravive-le-debat-entre-interet-des-entreprises-et-des-citoyens.DVBL2CD5KVHZNEVNSMMIMG5YO4.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-10-27T16:35:03.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
     {
       "title": "Pierre-Olivier Brial, Manutan : « Face à l’IA, notre avantage, c’est le temps long »",
       "excerpt": "Élu Personnalité e-commerce 2026, Pierre-Olivier Brial, directeur général de Manutan Group, défend un modèle B2B fondé sur l’expertise produit et le…",
@@ -18,15 +45,6 @@
       "source": "Olivier Dauvers",
       "pubDate": "2026-10-27T12:27:32.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "[ PENSER-CLIENT ] Non Leclerc, pas ça, pas toi…",
-      "excerpt": "Les prix sont libres, c’est un fait. Mais le bon sens (commerçant) est une nécessité. Alors presque doubler le prix pour une découpe façon…",
-      "link": "https://www.olivierdauvers.fr/2026/10/27/penser-client-non-leclerc-pas-ca-pas-toi/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-27T11:57:00.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
       "pinned": false
     },
     {
@@ -48,15 +66,6 @@
       "pinned": false
     },
     {
-      "title": "L'AMF accorde une dérogation à l'Etat pour recapitaliser Eramet sans OPA",
-      "excerpt": "L'AMF accorde une dérogation exceptionnelle à la réglementation boursière pour permettre à l'Etat de recapitaliser Eramet, en raison de ses graves…",
-      "link": "https://www.journaldunet.com/economie/industrie/1557209-l-amf-accorde-une-derogation-a-l-etat-pour-recapitaliser-eramet-sans-opa/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-27T09:11:04.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
       "title": "Intelligence artificielle et éducation : inspirons-nous de l’Asie !",
       "excerpt": "L’article Intelligence artificielle et éducation : inspirons-nous de l’Asie ! est apparu en premier sur Maddyness - Le média pour comprendre…",
       "link": "https://www.maddyness.com/2026/10/27/intelligence-artificielle-education-asie/",
@@ -72,15 +81,6 @@
       "source": "L'Usine Digitale",
       "pubDate": "2026-10-27T07:45:15.000Z",
       "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "Anthropic officialise son projet d’entrée en Bourse après avoir vu ses revenus multipliés par douze en un an",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/anthropic/anthropic-officialise-son-projet-dentree-en-bourse-apres-avoir-vu-ses-revenus-multiplies-par-douze-en-un-an.Z4EQCOXQRBEE7NQZI77ICQ6U74.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-10-26T16:27:31.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
     {
@@ -104,6 +104,33 @@
   ],
   "itemsEn": [
     {
+      "title": "Target overhauls Threshold home goods brand",
+      "excerpt": "The $3 billion private label has improved quality, merchandising and, in some cases, prices, and added more than 800 items to the assortment.",
+      "link": "https://www.retaildive.com/news/target-overhauls-threshold-home-goods-brand/872851/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-27T15:43:00.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Wakefern’s sales growth slows to a multi-year low",
+      "excerpt": "The grocery cooperative brought in $21.5 billion in retail sales during fiscal 2026, up 2% from the previous year.",
+      "link": "https://www.grocerydive.com/news/wakefern-food-retail-sales-2026-supermarkets-grocery/872843/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-10-27T15:29:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Instacart to stop offering smart carts",
+      "excerpt": "The grocery technology company said retailer adoption wasn’t strong enough to justify continued investment in the equipment.",
+      "link": "https://www.grocerydive.com/news/instacart-stops-smart-carts-business/872824/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-10-27T15:26:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
       "title": "Walmart’s chief marketer breaks down retailer’s Muppet-fueled holiday campaign",
       "excerpt": "For a unified push during the holidays, the retailer is recreating the world of “The Muppet Christmas Carol” and extending its “Who Knew?” brand…",
       "link": "https://www.retaildive.com/news/walmart-cmo-breaks-down-retailers-muppet-fueled-holiday-campaign/872773/",
@@ -119,15 +146,6 @@
       "source": "TechCrunch",
       "pubDate": "2026-10-27T13:01:00.000Z",
       "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "5 of the biggest retail horror stories of 2026",
-      "excerpt": "From Nike’s turnaround setbacks to Chip Wilson’s battle with Lululemon, the spookiest sights weren’t found on retailers’ shelves this year.",
-      "link": "https://www.retaildive.com/news/retail-horror-stories-nike-turnaround-lululemon-chip-wilson-2026/833866/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-27T11:00:00.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -158,24 +176,6 @@
       "pinned": false
     },
     {
-      "title": "Staying secure",
-      "excerpt": "Entrust CIO Rishi Kaushal on what the ASOS incident signals for retail security",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8792/staying-secure/",
-      "source": "Retail Technology",
-      "pubDate": "2026-10-27T00:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Albertsons launches new subscription program",
-      "excerpt": "Albertsons for U+, which replaces FreshPass, costs less and bundles existing loyalty membership benefits with unlimited delivery and pickup services.",
-      "link": "https://www.grocerydive.com/news/albertsons-delivery-pickup-subscription-loyalty-program-ecommerce-omnichannel/872748/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-26T14:13:53.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
       "title": "Zevia nabs $20M investment to fund turnaround",
       "excerpt": "The money from GP Investments will help the better-for-you soda brand diversify its product offerings and increase distribution.",
       "link": "https://www.fooddive.com/news/zevia-20-million-investment-turnaround-plan/833924/",
@@ -191,24 +191,6 @@
       "source": "Food Dive",
       "pubDate": "2026-10-26T09:00:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Grocers dish out under-$40 Thanksgiving meal deals",
-      "excerpt": "Several supermarket chains, including Wegmans and Schnuck Markets, are offering bundles that are competitive with discounters’ offers.",
-      "link": "https://www.grocerydive.com/news/grocers-dish-out-under-40-thanksgiving-meal-deals/833796/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-23T14:48:06.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Argos boosts Trusted Sellers",
-      "excerpt": "Argos is planning to significantly increase the size of its Trusted Sellers offering following a successful trial, with ambitions to offer more than…",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8789/argos-boosts-trusted-sellers/",
-      "source": "Retail Technology",
-      "pubDate": "2026-10-23T00:00:00.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
     }
   ]
