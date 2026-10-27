@@ -1,7 +1,34 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-27T02:58:04.378Z",
+  "publishedAt": "2026-10-27T08:39:38.320Z",
   "itemsFr": [
+    {
+      "title": "Chronodrive renforce ses dispositifs anti-gaspillage et de réemploi",
+      "excerpt": "Chronodrive intègre désormais la notation Yuka dans son outil de recherche en ligne, une étape qui vient compléter un ensemble de mesures…",
+      "link": "https://www.ecommercemag.fr/logistique-1222/chronodrive-renforce-ses-dispositifs-anti-gaspillage-et-de-reemploi-60577",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-10-27T08:06:34.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
+    {
+      "title": "Intelligence artificielle et éducation : inspirons-nous de l’Asie !",
+      "excerpt": "L’article Intelligence artificielle et éducation : inspirons-nous de l’Asie ! est apparu en premier sur Maddyness - Le média pour comprendre…",
+      "link": "https://www.maddyness.com/2026/10/27/intelligence-artificielle-education-asie/",
+      "source": "Maddyness",
+      "pubDate": "2026-10-27T08:00:13.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Microsoft lance un plan de départs volontaires auprès de 60 000 employés pour réduire ses coûts en marge de ses investissements dans l’IA",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/big-tech/microsoft/microsoft-lance-un-plan-de-departs-volontaires-aupres-de-60-000-employes-pour-reduire-ses-couts-en-marge-de-ses-investissements-dans-lia.ZUSWFYHW6ZESVEG4IMQVBMPHQA.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-10-27T07:45:15.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
     {
       "title": "Entrée en bourse d'Anthropic : notre dashboard interactif pour comprendre l'opération",
       "excerpt": "Perte comptable géante, engagements de calcul colossaux, dépendance à SpaceX : le JDN a passé au crible le prospectus d'introduction en bourse de…",
@@ -39,29 +66,11 @@
       "pinned": false
     },
     {
-      "title": "Neura Robotics, Generative Bionics… Comment les start-up européennes de robotique investissent dans des sites physiques pour accélérer l’entraînement de leurs systèmes",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/neura-robotics-generative-bionics-comment-les-start-up-europeennes-de-robotique-investissent-dans-des-sites-physiques-pour-accelerer-lentrainement-de-leurs-systemes.2EX7PRWVTREYZPFKVT472KSP6U.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-10-26T14:51:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
       "title": "MANGO agrandit son magasin des Halles à Paris et modernise son réseau français",
       "excerpt": "Avec un chiffre d’affaires mondial de 3,8 milliards d’euros en 2025, le groupe espagnol poursuit son développement en France. À Paris, la boutique…",
       "link": "https://www.ecommercemag.fr/retail-1220/mango-agrandit-son-magasin-des-halles-a-paris-et-modernise-son-reseau-francais-60508",
       "source": "Ecommerce Mag",
       "pubDate": "2026-10-26T09:37:19.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Baromètre Colissimo : l’achat sur les réseaux sociaux accélère",
-      "excerpt": "Selon la 2e édition du Baromètre du Social Commerce par Colissimo, en six mois, la part des consommateurs français réglant leurs achats directement…",
-      "link": "https://www.ecommercemag.fr/marketing-1221/reseaux-sociaux-2172/barometre-colissimo-lachat-sur-les-reseaux-sociaux-accelere-60498",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-10-26T08:46:17.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -149,8 +158,8 @@
       "pinned": false
     },
     {
-      "title": "Albertsons launches new subscription",
-      "excerpt": "The grocer's new program, which replaces FreshPass, costs less and bundles existing loyalty membership benefits with unlimited delivery and pickup…",
+      "title": "Albertsons launches new subscription program",
+      "excerpt": "Albertsons for U+, which replaces FreshPass, costs less and bundles existing loyalty membership benefits with unlimited delivery and pickup services.",
       "link": "https://www.grocerydive.com/news/albertsons-delivery-pickup-subscription-loyalty-program-ecommerce-omnichannel/872748/",
       "source": "Grocery Dive",
       "pubDate": "2026-10-26T14:13:53.000Z",
@@ -167,18 +176,18 @@
       "pinned": false
     },
     {
-      "title": "Another Buc-ee’s may be headed to North Carolina",
-      "excerpt": "Convenience retailer and travel center Buc-ee's is looking to build its second location in North Carolina. The company is considering a 34-acre…",
-      "link": "https://www.retailcustomerexperience.com/news/another-buc-ees-may-be-headed-to-north-carolina/",
+      "title": "AI try-on kiosks gain traction as retailers seek to reduce returns",
+      "excerpt": "Retailers are increasingly exploring artificial intelligence-powered virtual try-on kiosks to help shoppers make more informed clothing purchases and…",
+      "link": "https://www.retailcustomerexperience.com/news/ai-try-on-kiosks-gain-traction-as-retailers-seek-to-reduce-returns/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-26T10:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "AI try-on kiosks gain traction as retailers seek to reduce returns",
-      "excerpt": "Retailers are increasingly exploring artificial intelligence-powered virtual try-on kiosks to help shoppers make more informed clothing purchases and…",
-      "link": "https://www.retailcustomerexperience.com/news/ai-try-on-kiosks-gain-traction-as-retailers-seek-to-reduce-returns/",
+      "title": "Another Buc-ee’s may be headed to North Carolina",
+      "excerpt": "Convenience retailer and travel center Buc-ee's is looking to build its second location in North Carolina. The company is considering a 34-acre…",
+      "link": "https://www.retailcustomerexperience.com/news/another-buc-ees-may-be-headed-to-north-carolina/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-26T10:00:00.000Z",
       "category": "GRAND ANGLE",
