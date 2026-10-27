@@ -1,14 +1,59 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-27T08:39:38.320Z",
+  "publishedAt": "2026-10-27T15:01:54.387Z",
   "itemsFr": [
     {
-      "title": "Chronodrive renforce ses dispositifs anti-gaspillage et de réemploi",
-      "excerpt": "Chronodrive intègre désormais la notation Yuka dans son outil de recherche en ligne, une étape qui vient compléter un ensemble de mesures…",
-      "link": "https://www.ecommercemag.fr/logistique-1222/chronodrive-renforce-ses-dispositifs-anti-gaspillage-et-de-reemploi-60577",
+      "title": "Pierre-Olivier Brial, Manutan : « Face à l’IA, notre avantage, c’est le temps long »",
+      "excerpt": "Élu Personnalité e-commerce 2026, Pierre-Olivier Brial, directeur général de Manutan Group, défend un modèle B2B fondé sur l’expertise produit et le…",
+      "link": "https://www.ecommercemag.fr/retail-1220/pierre-olivier-brial-manutan-face-a-lia-notre-avantage-cest-le-temps-long-60525",
       "source": "Ecommerce Mag",
-      "pubDate": "2026-10-27T08:06:34.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
+      "pubDate": "2026-10-27T13:38:20.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Carrefour Cherbourg (50) vendu pour… 1 euro (symbolique)",
+      "excerpt": "En théorie, c’est la destinée normale d’un magasin en location-gérance que d’être racheté par son locataire. Dans le parc des hypermarchés Carrefour…",
+      "link": "https://www.olivierdauvers.fr/2026/10/27/carrefour-cherbourg-50-vendu-pour-1-euro-symbolique/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-27T12:27:32.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "[ PENSER-CLIENT ] Non Leclerc, pas ça, pas toi…",
+      "excerpt": "Les prix sont libres, c’est un fait. Mais le bon sens (commerçant) est une nécessité. Alors presque doubler le prix pour une découpe façon…",
+      "link": "https://www.olivierdauvers.fr/2026/10/27/penser-client-non-leclerc-pas-ca-pas-toi/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-27T11:57:00.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Puma et ID Logistics inaugurent leur nouvelle plateforme logistique à Vendenheim",
+      "excerpt": "À Vendenheim, au nord de Strasbourg, Puma a inauguré, le mercredi 21 octobre, sa nouvelle plateforme logistique de 42 000 m², opérée par ID…",
+      "link": "https://www.ecommercemag.fr/logistique-1222/prestataire-logistique-2178/puma-et-id-logistics-inaugurent-leur-nouvelle-plateforme-logistique-a-vendenheim-60546",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-10-27T11:33:45.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Clients tricheurs, jet privé, fourmis : 11 infos à retenir (ou pas) sur l'IPO d'Anthropic, par Claude",
+      "excerpt": "Depuis la divulgation du S-1 de l'entrée en bourse d'Anthropic, les analyses et découvertes se sont multipliées. Le JDN a confié à Claude la tâche de…",
+      "link": "https://www.journaldunet.com/intelligence-artificielle/1557215-clients-tricheurs-jet-prive-claude-qui-code-tout-la-revue-de-presse-de-l-ipo-d-anthropic-par-claude/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-27T11:24:17.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "L'AMF accorde une dérogation à l'Etat pour recapitaliser Eramet sans OPA",
+      "excerpt": "L'AMF accorde une dérogation exceptionnelle à la réglementation boursière pour permettre à l'Etat de recapitaliser Eramet, en raison de ses graves…",
+      "link": "https://www.journaldunet.com/economie/industrie/1557209-l-amf-accorde-une-derogation-a-l-etat-pour-recapitaliser-eramet-sans-opa/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-27T09:11:04.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
     {
@@ -30,15 +75,6 @@
       "pinned": false
     },
     {
-      "title": "Entrée en bourse d'Anthropic : notre dashboard interactif pour comprendre l'opération",
-      "excerpt": "Perte comptable géante, engagements de calcul colossaux, dépendance à SpaceX : le JDN a passé au crible le prospectus d'introduction en bourse de…",
-      "link": "https://www.journaldunet.com/intelligence-artificielle/1557181-ipo-anthropic-le-dashboard-pour-tout-comprendre-en-un-coup-d-oeil/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-26T18:28:24.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
       "title": "Anthropic officialise son projet d’entrée en Bourse après avoir vu ses revenus multipliés par douze en un an",
       "excerpt": "",
       "link": "https://www.usine-digitale.fr/intelligence-artificielle/anthropic/anthropic-officialise-son-projet-dentree-en-bourse-apres-avoir-vu-ses-revenus-multiplies-par-douze-en-un-an.Z4EQCOXQRBEE7NQZI77ICQ6U74.html",
@@ -48,57 +84,12 @@
       "pinned": false
     },
     {
-      "title": "RETAIL FORUM (8e édition), le 26 novembre : best place to be !",
-      "excerpt": "Dans un mois aujourd’hui, la 8e édition du RETAIL FORUM, notre traditionnel RDV de fin d’année, co-organisé avec Externis, Linéaires et NielsenIQ. A…",
-      "link": "https://www.olivierdauvers.fr/2026/10/26/retail-forum-8e-edition-le-26-novembre-best-place-to-be/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-26T16:22:40.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Un pirate revendique la diffusion de données de LFI, Renaissance et PCF",
-      "excerpt": "Trois partis politiques français ont été victimes d'une fuite de données personnelles, revendiquée par un pirate, entre le 23 et le 24 octobre 2026.",
-      "link": "https://www.journaldunet.com/business/action-publique/1557173-un-pirate-revendique-la-diffusion-de-donnees-de-lfi-renaissance-et-pcf/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-26T16:14:03.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "MANGO agrandit son magasin des Halles à Paris et modernise son réseau français",
-      "excerpt": "Avec un chiffre d’affaires mondial de 3,8 milliards d’euros en 2025, le groupe espagnol poursuit son développement en France. À Paris, la boutique…",
-      "link": "https://www.ecommercemag.fr/retail-1220/mango-agrandit-son-magasin-des-halles-a-paris-et-modernise-son-reseau-francais-60508",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-10-26T09:37:19.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "[ EXCLU ] Carrefour ouvre son hyper de Gennevilliers à un shop-in-shop Boom",
-      "excerpt": "J’vous avais présenté le premier magasin de Boom à Pontault-Combault l’an dernier (revoir ici). Voici à présent le premier shop-in-shop de l’enseigne…",
-      "link": "https://www.olivierdauvers.fr/2026/10/26/exclu-carrefour-ouvre-son-hyper-de-gennevilliers-a-un-shop-in-shop-boom/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-26T07:03:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Women in STEM Europe : sept lauréates pour donner envie de choisir les sciences",
       "excerpt": "L’une développe un robot pour expliquer l’énergie, une autre a contribué à rendre observable le mouvement des électrons. Les sept lauréates des…",
       "link": "https://www.frenchweb.fr/women-in-stem-europe-sept-laureates-pour-donner-envie-de-choisir-les-sciences/464054",
       "source": "FrenchWeb",
       "pubDate": "2026-10-23T08:09:34.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "La NFL a organisé un hackathon avec AWS et Epitech en marge du premier match de saison régulière de football américain en France",
-      "excerpt": "L’article La NFL a organisé un hackathon avec AWS et Epitech en marge du premier match de saison régulière de football américain en France est apparu…",
-      "link": "https://www.maddyness.com/2026/10/23/la-nfl-a-organise-un-hackathon-avec-aws-et-epitech-en-marge-du-premier-match-de-saison-reguliere-de-football-americain-en-france/",
-      "source": "Maddyness",
-      "pubDate": "2026-10-23T05:00:59.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
       "pinned": false
     },
     {
@@ -112,6 +103,51 @@
     }
   ],
   "itemsEn": [
+    {
+      "title": "Walmart’s chief marketer breaks down retailer’s Muppet-fueled holiday campaign",
+      "excerpt": "For a unified push during the holidays, the retailer is recreating the world of “The Muppet Christmas Carol” and extending its “Who Knew?” brand…",
+      "link": "https://www.retaildive.com/news/walmart-cmo-breaks-down-retailers-muppet-fueled-holiday-campaign/872773/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-27T14:26:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Billionaire Palmer Luckey isn’t leaving California over the wealth tax",
+      "excerpt": "\"It's causing a lot of people to run who I don't want to be running,\" native Californian Palmer Luckey said. \"But I'm planning on staying in…",
+      "link": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-27T13:01:00.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
+    {
+      "title": "5 of the biggest retail horror stories of 2026",
+      "excerpt": "From Nike’s turnaround setbacks to Chip Wilson’s battle with Lululemon, the spookiest sights weren’t found on retailers’ shelves this year.",
+      "link": "https://www.retaildive.com/news/retail-horror-stories-nike-turnaround-lululemon-chip-wilson-2026/833866/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-27T11:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Walmart debuts Walmart+ membership pricing deal with Sam’s Club",
+      "excerpt": "Walmart is now offering a joint membership option that combines Walmart+ with Sam's Club Plus that can save shoppers $100 compared to separate…",
+      "link": "https://www.retailcustomerexperience.com/news/walmart-debuts-walmart-membership-pricing-deal-with-sams-club/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-27T10:00:00.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "How the collapse of the traditional consumer journey is reshaping media investment decisions and where budget should move",
+      "excerpt": "For decades, media planning was organized around a four-stage funnel: awareness, interest, consideration, and purchase. Each stage got its own line…",
+      "link": "https://www.retailcustomerexperience.com/blogs/how-the-collapse-of-the-traditional-consumer-journey-is-reshaping-media-investment-decisions-and-where-budget-should-move/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-27T10:00:00.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
     {
       "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
       "excerpt": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
@@ -128,33 +164,6 @@
       "source": "Retail Technology",
       "pubDate": "2026-10-27T00:00:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Dollar General sued by FTC over ‘deceptive pricing practices’",
-      "excerpt": "The agency, along with 20 states, allege that customers are charged more at the register than prices displayed on tags and in ads.",
-      "link": "https://www.retaildive.com/news/dollar-general-sued-ftc-alleged-deceptive-pricing/872790/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-26T20:36:00.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "Banana Republic debuts TikTok content series in bid for younger shoppers",
-      "excerpt": "The effort spotlights various styles and arrives as parent Gap Inc. continues to emphasize entertainment marketing.",
-      "link": "https://www.retaildive.com/news/banana-republic-debuts-tiktok-content-series-in-bid-for-younger-shoppers/833851/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-26T19:58:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "This startup’s self-driving excavators help dig up $600M in new funding",
-      "excerpt": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of…",
-      "link": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-26T17:45:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
@@ -176,29 +185,20 @@
       "pinned": false
     },
     {
-      "title": "AI try-on kiosks gain traction as retailers seek to reduce returns",
-      "excerpt": "Retailers are increasingly exploring artificial intelligence-powered virtual try-on kiosks to help shoppers make more informed clothing purchases and…",
-      "link": "https://www.retailcustomerexperience.com/news/ai-try-on-kiosks-gain-traction-as-retailers-seek-to-reduce-returns/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-26T10:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Another Buc-ee’s may be headed to North Carolina",
-      "excerpt": "Convenience retailer and travel center Buc-ee's is looking to build its second location in North Carolina. The company is considering a 34-acre…",
-      "link": "https://www.retailcustomerexperience.com/news/another-buc-ees-may-be-headed-to-north-carolina/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-26T10:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Glass packaging for pasta sauces and salsas",
       "excerpt": "Learn how glass packaging helps brands build trust, stand out in crowded grocery aisles and meet evolving consumer expectations.",
       "link": "https://www.fooddive.com/spons/glass-packaging-for-pasta-sauces-and-salsas/833044/",
       "source": "Food Dive",
       "pubDate": "2026-10-26T09:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Grocers dish out under-$40 Thanksgiving meal deals",
+      "excerpt": "Several supermarket chains, including Wegmans and Schnuck Markets, are offering bundles that are competitive with discounters’ offers.",
+      "link": "https://www.grocerydive.com/news/grocers-dish-out-under-40-thanksgiving-meal-deals/833796/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-10-23T14:48:06.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -209,15 +209,6 @@
       "source": "Retail Technology",
       "pubDate": "2026-10-23T00:00:00.000Z",
       "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "Grocers dish out under-$40 Thanksgiving meal deals",
-      "excerpt": "Several supermarket chains, including Wegmans and Schnuck Markets, are offering bundles that are competitive with discounters’ offers.",
-      "link": "https://www.grocerydive.com/news/grocers-dish-out-under-40-thanksgiving-meal-deals/833796/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-23T14:48:06.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     }
   ]
