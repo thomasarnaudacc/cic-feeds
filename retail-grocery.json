@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-26T22:06:39.294Z",
+  "publishedAt": "2026-10-27T02:58:04.378Z",
   "itemsFr": [
     {
       "title": "Entrée en bourse d'Anthropic : notre dashboard interactif pour comprendre l'opération",
@@ -104,6 +104,24 @@
   ],
   "itemsEn": [
     {
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "excerpt": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+      "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-27T02:00:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Staying secure",
+      "excerpt": "Entrust CIO Rishi Kaushal on what the ASOS incident signals for retail security",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8792/staying-secure/",
+      "source": "Retail Technology",
+      "pubDate": "2026-10-27T00:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
       "title": "Dollar General sued by FTC over ‘deceptive pricing practices’",
       "excerpt": "The agency, along with 20 states, allege that customers are charged more at the register than prices displayed on tags and in ads.",
       "link": "https://www.retaildive.com/news/dollar-general-sued-ftc-alleged-deceptive-pricing/872790/",
@@ -131,17 +149,8 @@
       "pinned": false
     },
     {
-      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-      "excerpt": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
-      "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-26T16:46:36.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Albertsons launches new subscription program",
-      "excerpt": "Albertsons for U+, which replaces FreshPass, costs less and bundles existing loyalty membership benefits with unlimited delivery and pickup services.",
+      "title": "Albertsons launches new subscription",
+      "excerpt": "The grocer's new program, which replaces FreshPass, costs less and bundles existing loyalty membership benefits with unlimited delivery and pickup…",
       "link": "https://www.grocerydive.com/news/albertsons-delivery-pickup-subscription-loyalty-program-ecommerce-omnichannel/872748/",
       "source": "Grocery Dive",
       "pubDate": "2026-10-26T14:13:53.000Z",
@@ -199,15 +208,6 @@
       "link": "https://www.grocerydive.com/news/grocers-dish-out-under-40-thanksgiving-meal-deals/833796/",
       "source": "Grocery Dive",
       "pubDate": "2026-10-23T14:48:06.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Happy Returns for TikTok shoppers",
-      "excerpt": "Consolidated returns model Happy Returns is now integrated into TikTok Shop, giving shoppers the platform's only box-free, label-free returns option",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8788/happy-returns-for-tiktok-shoppers/",
-      "source": "Retail Technology",
-      "pubDate": "2026-10-22T00:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     }
