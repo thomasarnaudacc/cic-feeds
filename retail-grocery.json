@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-27T21:37:22.791Z",
+  "publishedAt": "2026-10-28T03:07:43.892Z",
   "itemsFr": [
     {
       "title": "Les manifestations entraînent des pertes majeures pour plus de 2 500 commerces en France",
@@ -104,6 +104,24 @@
   ],
   "itemsEn": [
     {
+      "title": "Guidewire buys Hyperexponential for $1.7B in cash",
+      "excerpt": "The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions.",
+      "link": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-27T22:26:03.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "excerpt": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+      "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-27T21:44:34.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
       "title": "Target overhauls Threshold home goods brand",
       "excerpt": "The $3 billion private label has improved quality, merchandising and, in some cases, prices, and added more than 800 items to the assortment.",
       "link": "https://www.retaildive.com/news/target-overhauls-threshold-home-goods-brand/872851/",
@@ -140,15 +158,6 @@
       "pinned": false
     },
     {
-      "title": "Billionaire Palmer Luckey isn’t leaving California over the wealth tax",
-      "excerpt": "\"It's causing a lot of people to run who I don't want to be running,\" native Californian Palmer Luckey said. \"But I'm planning on staying in…",
-      "link": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-27T13:01:00.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
       "title": "Walmart debuts Walmart+ membership pricing deal with Sam’s Club",
       "excerpt": "Walmart is now offering a joint membership option that combines Walmart+ with Sam's Club Plus that can save shoppers $100 compared to separate…",
       "link": "https://www.retailcustomerexperience.com/news/walmart-debuts-walmart-membership-pricing-deal-with-sams-club/",
@@ -167,12 +176,12 @@
       "pinned": false
     },
     {
-      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-      "excerpt": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
-      "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-27T02:00:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "title": "Staying secure",
+      "excerpt": "Entrust CIO Rishi Kaushal on what the ASOS incident signals for retail security",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8792/staying-secure/",
+      "source": "Retail Technology",
+      "pubDate": "2026-10-27T00:00:00.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -191,6 +200,15 @@
       "source": "Food Dive",
       "pubDate": "2026-10-26T09:00:00.000Z",
       "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Argos boosts Trusted Sellers",
+      "excerpt": "Argos is planning to significantly increase the size of its Trusted Sellers offering following a successful trial, with ambitions to offer more than…",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8789/argos-boosts-trusted-sellers/",
+      "source": "Retail Technology",
+      "pubDate": "2026-10-23T00:00:00.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
     }
   ]
