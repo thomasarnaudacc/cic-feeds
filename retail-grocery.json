@@ -1,7 +1,16 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-28T11:51:03.639Z",
+  "publishedAt": "2026-10-28T17:40:16.233Z",
   "itemsFr": [
+    {
+      "title": "Commerces vandalisés : jusqu’à 10 000 euros d’aide annoncés par l’État",
+      "excerpt": "Après les violences des 17 et 24 octobre, le gouvernement prévoit un soutien financier aux commerçants victimes de dégradations. Les petites…",
+      "link": "https://www.ecommercemag.fr/retail-1220/commerces-vandalises-jusqua-10-000-euros-daide-annonces-par-letat-60610",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-10-28T16:03:54.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "Les manifestations d'octobre 2026 provoquent des pertes majeures pour les commerces",
       "excerpt": "Les manifestations contre la vie chère en octobre 2026 ont laissé un lourd bilan pour les commerces, entre dégâts matériels, pertes économiques et…",
@@ -57,15 +66,6 @@
       "pinned": false
     },
     {
-      "title": "Pierre-Olivier Brial, Manutan : « Face à l’IA, notre avantage, c’est le temps long »",
-      "excerpt": "Élu Personnalité e-commerce 2026, Pierre-Olivier Brial, directeur général de Manutan Group, défend un modèle B2B fondé sur l’expertise produit et le…",
-      "link": "https://www.ecommercemag.fr/retail-1220/pierre-olivier-brial-manutan-face-a-lia-notre-avantage-cest-le-temps-long-60525",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-10-27T13:38:20.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Carrefour Cherbourg (50) vendu pour… 1 euro (symbolique)",
       "excerpt": "En théorie, c’est la destinée normale d’un magasin en location-gérance que d’être racheté par son locataire. Dans le parc des hypermarchés Carrefour…",
       "link": "https://www.olivierdauvers.fr/2026/10/27/carrefour-cherbourg-50-vendu-pour-1-euro-symbolique/",
@@ -82,27 +82,63 @@
       "pubDate": "2026-10-27T08:00:13.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
-    },
-    {
-      "title": "Women in STEM Europe : sept lauréates pour donner envie de choisir les sciences",
-      "excerpt": "L’une développe un robot pour expliquer l’énergie, une autre a contribué à rendre observable le mouvement des électrons. Les sept lauréates des…",
-      "link": "https://www.frenchweb.fr/women-in-stem-europe-sept-laureates-pour-donner-envie-de-choisir-les-sciences/464054",
-      "source": "FrenchWeb",
-      "pubDate": "2026-10-23T08:09:34.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Failles critiques dans PHP : vous êtes CEO, que devez-vous faire ?",
-      "excerpt": "Vous avez entendu parler d’une alerte de cybersécurité susceptible de concerner de nombreuses entreprises. Elle touche PHP, un composant qui fait…",
-      "link": "https://www.frenchweb.fr/failles-critiques-dans-php-vous-etes-ceo-que-devez-vous-faire/464039",
-      "source": "FrenchWeb",
-      "pubDate": "2026-10-22T08:22:34.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
     }
   ],
   "itemsEn": [
+    {
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "excerpt": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use…",
+      "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-28T17:00:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "excerpt": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+      "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-28T17:00:00.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
+    {
+      "title": "Sephora casts Seth Rogen for holiday ads targeted at gift-givers",
+      "excerpt": "“The Studio” star plays a clueless shopper in a campaign aimed at consumers who aren’t in-the-know about beauty but are seeking thoughtful presents.",
+      "link": "https://www.retaildive.com/news/sephora-casts-seth-rogen-holiday-ads/873013/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-28T16:58:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Jos. A. Bank puts customer experience at the center of new store concept",
+      "excerpt": "The menswear retailer’s new space, which was developed using customer insights, features an area for consultations, fittings and personalized service.",
+      "link": "https://www.retaildive.com/news/jos-a-bank-new-store-concept/872882/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-28T15:56:00.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
+    {
+      "title": "Are grocers ready to help shoppers getting off GLP-1s?",
+      "excerpt": "Retailers need to think about the long game, experts said, to support people whose shopping habits change after coming off the weight loss…",
+      "link": "https://www.grocerydive.com/news/how-grocers-can-cater-to-shoppers-coming-off-weight-loss-medication-health-nutrition-GLP1-hy-vee/872945/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-10-28T14:50:24.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Mystery flavors keep consumers guessing",
+      "excerpt": "From Chips Ahoy! to Hi-Chew, brands are leaning into gamified experiences and nostalgia to engage shoppers.",
+      "link": "https://www.fooddive.com/news/mystery-flavors-consumer-engagement-chips-ahoy-sunny-d/873010/",
+      "source": "Food Dive",
+      "pubDate": "2026-10-28T13:59:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "National Retail Solutions hosts event for independent retailers",
       "excerpt": "National Retail Solutions recently hosted over a hundred independent retailers and business owners at a networking lunch in Iselin, New Jersey. The…",
@@ -122,56 +158,20 @@
       "pinned": false
     },
     {
-      "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
-      "excerpt": "Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries.",
-      "link": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-28T05:20:32.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Guidewire buys Hyperexponential for $1.7B in cash",
-      "excerpt": "The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions.",
-      "link": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-27T22:26:03.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Target overhauls Threshold home goods brand",
-      "excerpt": "The $3 billion private label has improved quality, merchandising and, in some cases, prices, and added more than 800 items to the assortment.",
-      "link": "https://www.retaildive.com/news/target-overhauls-threshold-home-goods-brand/872851/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-27T15:43:00.000Z",
+      "title": "Dollar General sued by FTC over ‘deceptive pricing practices’",
+      "excerpt": "The agency, along with 20 states, allege that customers are charged more at the register than prices displayed on tags and in ads.",
+      "link": "https://www.grocerydive.com/news/dollar-general-sued-ftc-alleged-deceptive-pricing/872885/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-10-27T22:00:00.000Z",
       "category": "OFFRE, PRIX & MERCHANDISING",
       "pinned": false
     },
     {
-      "title": "Wakefern’s sales growth slows to a multi-year low",
-      "excerpt": "The grocery cooperative brought in $21.5 billion in retail sales during fiscal 2026, up 2% from the previous year.",
-      "link": "https://www.grocerydive.com/news/wakefern-food-retail-sales-2026-supermarkets-grocery/872843/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-27T15:29:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Instacart to stop offering smart carts",
-      "excerpt": "The grocery technology company said retailer adoption wasn’t strong enough to justify continued investment in the equipment.",
-      "link": "https://www.grocerydive.com/news/instacart-stops-smart-carts-business/872824/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-27T15:26:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Walmart’s chief marketer breaks down retailer’s Muppet-fueled holiday campaign",
-      "excerpt": "For a unified push during the holidays, the retailer is recreating the world of “The Muppet Christmas Carol” and extending its “Who Knew?” brand…",
-      "link": "https://www.retaildive.com/news/walmart-cmo-breaks-down-retailers-muppet-fueled-holiday-campaign/872773/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-27T14:26:00.000Z",
+      "title": "Retailers failing to make the most of returns",
+      "excerpt": "UK fashion brands are heavily investing in digital return portals but operating them with the handbrake on, according to new research analysing top…",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8794/retailers-failing-to-make-the-most-of-returns/",
+      "source": "Retail Technology",
+      "pubDate": "2026-10-28T00:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -185,29 +185,11 @@
       "pinned": false
     },
     {
-      "title": "Argos boosts Trusted Sellers",
-      "excerpt": "Argos is planning to significantly increase the size of its Trusted Sellers offering following a successful trial, with ambitions to offer more than…",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8789/argos-boosts-trusted-sellers/",
-      "source": "Retail Technology",
-      "pubDate": "2026-10-23T00:00:00.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
       "title": "Zevia nabs $20M investment to fund turnaround",
       "excerpt": "The money from GP Investments will help the better-for-you soda brand diversify its product offerings and increase distribution.",
       "link": "https://www.fooddive.com/news/zevia-20-million-investment-turnaround-plan/833924/",
       "source": "Food Dive",
       "pubDate": "2026-10-26T13:32:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Glass packaging for pasta sauces and salsas",
-      "excerpt": "Learn how glass packaging helps brands build trust, stand out in crowded grocery aisles and meet evolving consumer expectations.",
-      "link": "https://www.fooddive.com/spons/glass-packaging-for-pasta-sauces-and-salsas/833044/",
-      "source": "Food Dive",
-      "pubDate": "2026-10-26T09:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     }
