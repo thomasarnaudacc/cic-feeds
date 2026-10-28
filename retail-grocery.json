@@ -1,14 +1,50 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-28T03:07:43.892Z",
+  "publishedAt": "2026-10-28T11:51:03.639Z",
   "itemsFr": [
     {
-      "title": "Les manifestations entraînent des pertes majeures pour plus de 2 500 commerces en France",
-      "excerpt": "Les récentes manifestations ont entraîné des dégâts majeurs pour les commerces, avec des pertes économiques et des appels à des mesures d'urgence.",
-      "link": "https://www.journaldunet.com/business/action-publique/1557257-les-manifestations-entrainent-des-pertes-majeures-pour-plus-de-2-500-commerces-en-france/",
+      "title": "Les manifestations d'octobre 2026 provoquent des pertes majeures pour les commerces",
+      "excerpt": "Les manifestations contre la vie chère en octobre 2026 ont laissé un lourd bilan pour les commerces, entre dégâts matériels, pertes économiques et…",
+      "link": "https://www.journaldunet.com/business/action-publique/1557273-les-manifestations-d-octobre-2026-provoquent-des-pertes-majeures-pour-les-commerces/",
       "source": "Journal du Net",
-      "pubDate": "2026-10-27T19:49:49.000Z",
+      "pubDate": "2026-10-28T10:51:06.000Z",
       "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Stellantis compense la baisse en Amérique du Nord par une hausse en Europe",
+      "excerpt": "Le groupe automobile compense le recul du marché nord-américain par une progression en Europe et confirme ses objectifs financiers pour 2026.",
+      "link": "https://www.journaldunet.com/economie/industrie/1557269-stellantis-compense-la-baisse-en-amerique-du-nord-par-une-hausse-en-europe/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-28T10:22:41.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "À contre-courant de ses voisins européens, la Suède incite ses agents gouvernementaux à utiliser Microsoft Copilot, et bloque ChatGPT et Claude",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/secteur-public/gouvernement/a-contre-courant-de-ses-voisins-europeens-la-suede-incite-ses-agents-gouvernementaux-a-utiliser-microsoft-copilot-et-bloque-chatgpt-et-claude.KVG7T2LJ3VGTRJT6EYGV3WITA4.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-10-28T10:04:42.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
+    {
+      "title": "e-LOGIK déploie une plateforme IA et renouvelle son identité",
+      "excerpt": "Pour accompagner ses 30 entrepôts partenaires en France et en Suisse, le spécialiste de la logistique e-commerce e-LOGIK dévoile une nouvelle…",
+      "link": "https://www.ecommercemag.fr/logistique-1222/e-logik-deploie-une-plateforme-ia-et-renouvelle-son-identite-60604",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-10-28T08:32:15.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Outils agentiques, modèle d’IA déployé en orbite, partenariats robotiques… Comment SAP veut passer de l’IA qui recommande à l’IA qui exécute",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/logiciels-applications/sap/outils-agentiques-modele-dia-deploye-en-orbite-partenariats-robotiques-comment-sap-veut-passer-de-lia-qui-recommande-a-lia-qui-execute.OQEA375GARFCJCUWMGTTZ63LVY.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-10-28T05:00:01.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
@@ -18,15 +54,6 @@
       "source": "Olivier Dauvers",
       "pubDate": "2026-10-27T17:36:00.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Qui décide si vos données peuvent servir à entraîner un modèle d’IA ? La réforme du RGPD ravive le débat entre intérêt des entreprises et des citoyens",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/qui-decide-si-vos-donnees-peuvent-servir-a-entrainer-un-modele-dia-la-reforme-du-rgpd-ravive-le-debat-entre-interet-des-entreprises-et-des-citoyens.DVBL2CD5KVHZNEVNSMMIMG5YO4.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-10-27T16:35:03.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
     {
@@ -48,39 +75,12 @@
       "pinned": false
     },
     {
-      "title": "Puma et ID Logistics inaugurent leur nouvelle plateforme logistique à Vendenheim",
-      "excerpt": "À Vendenheim, au nord de Strasbourg, Puma a inauguré, le mercredi 21 octobre, sa nouvelle plateforme logistique de 42 000 m², opérée par ID…",
-      "link": "https://www.ecommercemag.fr/logistique-1222/prestataire-logistique-2178/puma-et-id-logistics-inaugurent-leur-nouvelle-plateforme-logistique-a-vendenheim-60546",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-10-27T11:33:45.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Clients tricheurs, jet privé, fourmis : 11 infos à retenir (ou pas) sur l'IPO d'Anthropic, par Claude",
-      "excerpt": "Depuis la divulgation du S-1 de l'entrée en bourse d'Anthropic, les analyses et découvertes se sont multipliées. Le JDN a confié à Claude la tâche de…",
-      "link": "https://www.journaldunet.com/intelligence-artificielle/1557215-clients-tricheurs-jet-prive-claude-qui-code-tout-la-revue-de-presse-de-l-ipo-d-anthropic-par-claude/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-27T11:24:17.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
       "title": "Intelligence artificielle et éducation : inspirons-nous de l’Asie !",
       "excerpt": "L’article Intelligence artificielle et éducation : inspirons-nous de l’Asie ! est apparu en premier sur Maddyness - Le média pour comprendre…",
       "link": "https://www.maddyness.com/2026/10/27/intelligence-artificielle-education-asie/",
       "source": "Maddyness",
       "pubDate": "2026-10-27T08:00:13.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Microsoft lance un plan de départs volontaires auprès de 60 000 employés pour réduire ses coûts en marge de ses investissements dans l’IA",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/big-tech/microsoft/microsoft-lance-un-plan-de-departs-volontaires-aupres-de-60-000-employes-pour-reduire-ses-couts-en-marge-de-ses-investissements-dans-lia.ZUSWFYHW6ZESVEG4IMQVBMPHQA.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-10-27T07:45:15.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
       "pinned": false
     },
     {
@@ -104,20 +104,38 @@
   ],
   "itemsEn": [
     {
+      "title": "National Retail Solutions hosts event for independent retailers",
+      "excerpt": "National Retail Solutions recently hosted over a hundred independent retailers and business owners at a networking lunch in Iselin, New Jersey. The…",
+      "link": "https://www.retailcustomerexperience.com/news/national-retail-solutions-hosts-event-for-independent-retailers/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-28T10:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "The rise of the intelligent store: How edge AI is transforming physical retail",
+      "excerpt": "For decades, physical retail stores served primarily as execution points: stocking products, completing transactions and moving customers through…",
+      "link": "https://www.retailcustomerexperience.com/blogs/the-rise-of-the-intelligent-store-how-edge-ai-is-transforming-physical-retail/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-28T10:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
+      "excerpt": "Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries.",
+      "link": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-28T05:20:32.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
       "title": "Guidewire buys Hyperexponential for $1.7B in cash",
       "excerpt": "The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions.",
       "link": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
       "source": "TechCrunch",
       "pubDate": "2026-10-27T22:26:03.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
-      "excerpt": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
-      "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-27T21:44:34.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
@@ -158,30 +176,21 @@
       "pinned": false
     },
     {
-      "title": "Walmart debuts Walmart+ membership pricing deal with Sam’s Club",
-      "excerpt": "Walmart is now offering a joint membership option that combines Walmart+ with Sam's Club Plus that can save shoppers $100 compared to separate…",
-      "link": "https://www.retailcustomerexperience.com/news/walmart-debuts-walmart-membership-pricing-deal-with-sams-club/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-27T10:00:00.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "How the collapse of the traditional consumer journey is reshaping media investment decisions and where budget should move",
-      "excerpt": "For decades, media planning was organized around a four-stage funnel: awareness, interest, consideration, and purchase. Each stage got its own line…",
-      "link": "https://www.retailcustomerexperience.com/blogs/how-the-collapse-of-the-traditional-consumer-journey-is-reshaping-media-investment-decisions-and-where-budget-should-move/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-27T10:00:00.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
       "title": "Staying secure",
       "excerpt": "Entrust CIO Rishi Kaushal on what the ASOS incident signals for retail security",
       "link": "https://www.retailtechnology.co.uk/rss.xml/news/8792/staying-secure/",
       "source": "Retail Technology",
       "pubDate": "2026-10-27T00:00:00.000Z",
       "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Argos boosts Trusted Sellers",
+      "excerpt": "Argos is planning to significantly increase the size of its Trusted Sellers offering following a successful trial, with ambitions to offer more than…",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8789/argos-boosts-trusted-sellers/",
+      "source": "Retail Technology",
+      "pubDate": "2026-10-23T00:00:00.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
     },
     {
@@ -200,15 +209,6 @@
       "source": "Food Dive",
       "pubDate": "2026-10-26T09:00:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Argos boosts Trusted Sellers",
-      "excerpt": "Argos is planning to significantly increase the size of its Trusted Sellers offering following a successful trial, with ambitions to offer more than…",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8789/argos-boosts-trusted-sellers/",
-      "source": "Retail Technology",
-      "pubDate": "2026-10-23T00:00:00.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
     }
   ]
