@@ -1,7 +1,25 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-28T17:40:16.233Z",
+  "publishedAt": "2026-10-28T22:00:44.448Z",
   "itemsFr": [
+    {
+      "title": "Bonnes idées / Bonnes pratiques (116) : donner des aspérités au non-al via des marques connues (Leclerc Tarbes Ibos)",
+      "excerpt": "Suite de ma série d’inspirations “bonnes idées / bonnes pratiques” dans le prolongement de mes ouvrages sur l’IMAGE-PRIX, le PENSER-CLIENT et la…",
+      "link": "https://www.olivierdauvers.fr/2026/10/28/bonnes-idees-bonnes-pratiques-116-donner-des-asperites-au-non-al-via-des-marques-connues-leclerc-tarbes-ibos/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-28T21:05:00.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Bonnes idées / Bonnes pratiques (115) : imaginer de nouvelles promos (Leclerc Tarbes Ibos)",
+      "excerpt": "Suite de ma série d’inspirations “bonnes idées / bonnes pratiques” dans le prolongement de mes ouvrages sur l’IMAGE-PRIX, le PENSER-CLIENT et la…",
+      "link": "https://www.olivierdauvers.fr/2026/10/28/bonnes-idees-bonnes-pratiques-115-imaginer-de-nouvelles-promos-leclerc-tarbes-ibos/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-28T20:37:00.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
     {
       "title": "Commerces vandalisés : jusqu’à 10 000 euros d’aide annoncés par l’État",
       "excerpt": "Après les violences des 17 et 24 octobre, le gouvernement prévoit un soutien financier aux commerçants victimes de dégradations. Les petites…",
@@ -57,24 +75,6 @@
       "pinned": false
     },
     {
-      "title": "[ VIDÉO ] Des robots et des hommes… (inside une usine de fabrication IKEA)",
-      "excerpt": "✈️ Passage aujourd’hui par Zbaszynek en Pologne 🇵🇱 . C’est le plus grand site industriel d’ IKEA (l’enseigne produit environ 10 % de ce qu’elle…",
-      "link": "https://www.olivierdauvers.fr/2026/10/27/video-des-robots-et-des-hommes-inside-une-usine-de-fabrication-ikea/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-27T17:36:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Carrefour Cherbourg (50) vendu pour… 1 euro (symbolique)",
-      "excerpt": "En théorie, c’est la destinée normale d’un magasin en location-gérance que d’être racheté par son locataire. Dans le parc des hypermarchés Carrefour…",
-      "link": "https://www.olivierdauvers.fr/2026/10/27/carrefour-cherbourg-50-vendu-pour-1-euro-symbolique/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-27T12:27:32.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Intelligence artificielle et éducation : inspirons-nous de l’Asie !",
       "excerpt": "L’article Intelligence artificielle et éducation : inspirons-nous de l’Asie ! est apparu en premier sur Maddyness - Le média pour comprendre…",
       "link": "https://www.maddyness.com/2026/10/27/intelligence-artificielle-education-asie/",
@@ -86,21 +86,21 @@
   ],
   "itemsEn": [
     {
+      "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
+      "excerpt": "A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online.",
+      "link": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-28T20:01:00.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
+    {
       "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
       "excerpt": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use…",
       "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
       "source": "TechCrunch",
       "pubDate": "2026-10-28T17:00:00.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
-      "excerpt": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
-      "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-28T17:00:00.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
     },
     {
@@ -123,7 +123,7 @@
     },
     {
       "title": "Are grocers ready to help shoppers getting off GLP-1s?",
-      "excerpt": "Retailers need to think about the long game, experts said, to support people whose shopping habits change after coming off the weight loss…",
+      "excerpt": "Retailers need to think about the long game to support people whose shopping habits change after they come off the weight loss medications, experts…",
       "link": "https://www.grocerydive.com/news/how-grocers-can-cater-to-shoppers-coming-off-weight-loss-medication-health-nutrition-GLP1-hy-vee/872945/",
       "source": "Grocery Dive",
       "pubDate": "2026-10-28T14:50:24.000Z",
@@ -140,11 +140,11 @@
       "pinned": false
     },
     {
-      "title": "National Retail Solutions hosts event for independent retailers",
-      "excerpt": "National Retail Solutions recently hosted over a hundred independent retailers and business owners at a networking lunch in Iselin, New Jersey. The…",
-      "link": "https://www.retailcustomerexperience.com/news/national-retail-solutions-hosts-event-for-independent-retailers/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-28T10:00:00.000Z",
+      "title": "Uber Eats partners with Key Food",
+      "excerpt": "More than 300 of the co-op’s stores are now available on the e-commerce company’s digital marketplace.",
+      "link": "https://www.grocerydive.com/news/uber-eats-key-food-delivery-regional-grocer/872995/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-10-28T13:06:12.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -158,12 +158,12 @@
       "pinned": false
     },
     {
-      "title": "Dollar General sued by FTC over ‘deceptive pricing practices’",
-      "excerpt": "The agency, along with 20 states, allege that customers are charged more at the register than prices displayed on tags and in ads.",
-      "link": "https://www.grocerydive.com/news/dollar-general-sued-ftc-alleged-deceptive-pricing/872885/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-27T22:00:00.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
+      "title": "Toshiba VP shares insight on the retail tech deployment strategy",
+      "excerpt": "In this episode of the CX Innovators Podcast the topic is retail innovation — how retailers and brands can implement a strong strategy to drive…",
+      "link": "https://www.retailcustomerexperience.com/podcasts/toshiba-vp-shares-insight-on-the-retail-tech-deployment-strategy/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-28T10:00:00.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
