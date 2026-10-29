@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-28T22:00:44.448Z",
+  "publishedAt": "2026-10-29T03:34:11.543Z",
   "itemsFr": [
     {
       "title": "Bonnes idées / Bonnes pratiques (116) : donner des aspérités au non-al via des marques connues (Leclerc Tarbes Ibos)",
@@ -86,21 +86,21 @@
   ],
   "itemsEn": [
     {
+      "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+      "excerpt": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.",
+      "link": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-28T22:47:50.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
       "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
       "excerpt": "A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online.",
       "link": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
       "source": "TechCrunch",
       "pubDate": "2026-10-28T20:01:00.000Z",
       "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-      "excerpt": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use…",
-      "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-28T17:00:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
@@ -158,9 +158,9 @@
       "pinned": false
     },
     {
-      "title": "Toshiba VP shares insight on the retail tech deployment strategy",
-      "excerpt": "In this episode of the CX Innovators Podcast the topic is retail innovation — how retailers and brands can implement a strong strategy to drive…",
-      "link": "https://www.retailcustomerexperience.com/podcasts/toshiba-vp-shares-insight-on-the-retail-tech-deployment-strategy/",
+      "title": "National Retail Solutions hosts event for independent retailers",
+      "excerpt": "National Retail Solutions recently hosted over a hundred independent retailers and business owners at a networking lunch in Iselin, New Jersey. The…",
+      "link": "https://www.retailcustomerexperience.com/news/national-retail-solutions-hosts-event-for-independent-retailers/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-28T10:00:00.000Z",
       "category": "GRAND ANGLE",
