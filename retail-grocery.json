@@ -1,23 +1,50 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-29T11:58:51.383Z",
+  "publishedAt": "2026-10-29T18:07:14.003Z",
   "itemsFr": [
     {
-      "title": "Quantique : trois pépites françaises face aux géants américains et chinois",
-      "excerpt": "Pasqal, C12 et Quandela changent de dimension pour gagner la bataille de l'ordinateur quantique universel et tolérant aux pannes. Pour décrocher le…",
-      "link": "https://www.journaldunet.com/cloud/1557343-quantique-trois-pepites-francaises-face-aux-geants-americains-et-chinois/",
+      "title": "Les éditeurs en ligne portent plainte contre Google auprès de la Commission européenne",
+      "excerpt": "Cinq organisations françaises représentatives de la presse, des éditeurs en ligne et d'acteurs du marketing digital contestent les conditions de…",
+      "link": "https://www.journaldunet.com/publishers/1557375-les-editeurs-en-ligne-portent-plainte-contre-google-aupres-de-la-commission-europeenne/",
       "source": "Journal du Net",
-      "pubDate": "2026-10-29T10:12:24.000Z",
+      "pubDate": "2026-10-29T17:05:46.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Résultats de Microsoft : Des revenus records portés par Azure et OpenAI, mais une course à l’IA toujours plus coûteuse",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/big-tech/microsoft/resultats-de-microsoft-des-revenus-records-portes-par-azure-et-openai-mais-une-course-a-lia-toujours-plus-couteuse.IEIRZAVPPBEJ3NDQWJ34UDI7SU.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-10-29T16:30:50.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
     {
-      "title": "Autoriser un agent IA tâche par tâche : pourquoi les rôles ne suffisent plus",
-      "excerpt": "Presque toutes les entreprises ont une politique d'accès pour leurs agents IA, la moitié seulement la vérifie au moment où l'agent agit. Le rôle ne…",
-      "link": "https://www.journaldunet.com/cybersecurite/1557243-autoriser-un-agent-ia-tache-par-tache-pourquoi-les-roles-ne-suffisent-plus/",
+      "title": "[ CONSO SOLIDAIRE ] La Vache qui rit (et d’autres) en mode social avec Ramdam !",
+      "excerpt": "La conso solidaire avance encore (et c’est une excellente nouvelle). A l’occasion de la Quinzaine de la conso solidaire (chez Carrefour, Intermarché…",
+      "link": "https://www.olivierdauvers.fr/2026/10/29/conso-solidaire-la-vache-qui-rit-et-dautres-en-mode-social-avec-ramdam/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-29T16:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "UBTech, Agility Robotics, BluMentis… Comment les fabricants de robots humanoïdes veulent déployer leurs systèmes au service du monde agricole",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/ubtech-agility-robotics-blumentis-comment-les-fabricants-de-robots-humanoides-veulent-deployer-leurs-systemes-au-service-du-monde-agricole.L3N6PS3YEJDDHHYCG522ZCKK6I.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-10-29T15:00:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "DDoSecrets diffuse des informations sur plus de 41 000 employés du DHS",
+      "excerpt": "Une fuite massive révèle l'identité, les bureaux et les affectations de plus de 41 000 employés du département américain de la Sécurité intérieure…",
+      "link": "https://www.journaldunet.com/business/action-publique/1557337-ddos-diffuse-des-informations-sur-plus-de-41-000-employes-du-dhs/",
       "source": "Journal du Net",
-      "pubDate": "2026-10-29T08:58:18.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pubDate": "2026-10-29T13:10:51.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
     },
     {
@@ -48,33 +75,6 @@
       "pinned": false
     },
     {
-      "title": "À contre-courant de ses voisins européens, la Suède incite ses agents gouvernementaux à utiliser Microsoft Copilot, et bloque ChatGPT et Claude",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/secteur-public/gouvernement/a-contre-courant-de-ses-voisins-europeens-la-suede-incite-ses-agents-gouvernementaux-a-utiliser-microsoft-copilot-et-bloque-chatgpt-et-claude.KVG7T2LJ3VGTRJT6EYGV3WITA4.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-10-28T10:04:42.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "Outils agentiques, modèle d’IA déployé en orbite, partenariats robotiques… Comment SAP veut passer de l’IA qui recommande à l’IA qui exécute",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/logiciels-applications/sap/outils-agentiques-modele-dia-deploye-en-orbite-partenariats-robotiques-comment-sap-veut-passer-de-lia-qui-recommande-a-lia-qui-execute.OQEA375GARFCJCUWMGTTZ63LVY.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-10-28T05:00:01.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "[ VIDÉO ] Des robots et des hommes… (inside une usine de fabrication IKEA)",
-      "excerpt": "✈️ Passage aujourd’hui par Zbaszynek en Pologne 🇵🇱 . C’est le plus grand site industriel d’ IKEA (l’enseigne produit environ 10 % de ce qu’elle…",
-      "link": "https://www.olivierdauvers.fr/2026/10/27/video-des-robots-et-des-hommes-inside-une-usine-de-fabrication-ikea/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-27T17:36:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
       "title": "Women in STEM Europe : sept lauréates pour donner envie de choisir les sciences",
       "excerpt": "ECOSYSTEME · LA REDACTION DE FRENCHWEB.FR · 23/10/2026 L’une développe un robot pour expliquer l’énergie, une autre a contribué à rendre observable…",
       "link": "https://www.frenchweb.fr/women-in-stem-europe-sept-laureates-pour-donner-envie-de-choisir-les-sciences/464054?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
@@ -95,6 +95,60 @@
   ],
   "itemsEn": [
     {
+      "title": "Granola crunches up a dictation feature to compete with Wispr",
+      "excerpt": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are…",
+      "link": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-29T17:54:38.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "Fanatics revamps outfit curation tool with OpenAI",
+      "excerpt": "A new version of the retailer’s Shop the Look tool generated 10% higher engagement in a pilot.",
+      "link": "https://www.retaildive.com/news/fanatics-openai-outfit-curation-tool/873180/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-29T16:58:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Most consumers aren’t using AI for product discovery, yet",
+      "excerpt": "Retailers should consider the quality of their metadata to prepare for a predicted upswing in AI usage, new research finds.",
+      "link": "https://www.retaildive.com/news/most-consumers-arent-using-ai-for-product-discovery-yet/833604/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-29T16:32:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Sprouts ‘must evolve faster,’ incoming CEO tells investors",
+      "excerpt": "After posting negative comparable-store sales for the third consecutive quarter, the specialty grocer will roll out a new pricing plan in January…",
+      "link": "https://www.grocerydive.com/news/sprouts-farmers-market-third-quarter-earnings-affordability-pricing-strategy/873111/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-10-29T15:58:28.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy",
+      "excerpt": "Mintive was founded by two engineers who have been working on AI for decades through Google Brain and Coursera. It's platform promises to help IT…",
+      "link": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-29T15:00:00.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "Walmart dishes up holiday meal deal",
+      "excerpt": "The retailer's offering for 2026 can feed 10 people for $35 and includes 18% more items than its bundle last year.",
+      "link": "https://www.grocerydive.com/news/walmart-holiday-meal-2026-cheaper-2025/873073/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-10-29T14:10:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
       "title": "Google, Glance partner to deliver AI-powered commerce to TVs",
       "excerpt": "Google and Glance, an AI-powered personal shopping platform backed by InMobi, are teaming up to enhance the television experience by bringing…",
       "link": "https://www.retailcustomerexperience.com/news/google-glance-partner-to-deliver-ai-powered-commerce-to-tvs/",
@@ -104,9 +158,9 @@
       "pinned": false
     },
     {
-      "title": "Shoppers paying close attention to quality",
-      "excerpt": "Consumers are scrutinizing quality given increasing prices, with a majority stating price and quality need to align. That's a top finding of the…",
-      "link": "https://www.retailcustomerexperience.com/news/shoppers-paying-close-attention-to-quality/",
+      "title": "Theft top factor in retail shrink",
+      "excerpt": "External theft, including involvement of organized retail crime, is the top single source of loss, accounting for 25% of retail shrink. That's a top…",
+      "link": "https://www.retailcustomerexperience.com/news/theft-top-factor-in-retail-shrink/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-29T10:00:00.000Z",
       "category": "GRAND ANGLE",
@@ -122,51 +176,6 @@
       "pinned": false
     },
     {
-      "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
-      "excerpt": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.",
-      "link": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-28T22:47:50.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
-      "excerpt": "A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online.",
-      "link": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-28T20:01:00.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "Sephora casts Seth Rogen for holiday ads targeted at gift-givers",
-      "excerpt": "“The Studio” star plays a clueless shopper in a campaign aimed at consumers who aren’t in-the-know about beauty but are seeking thoughtful presents.",
-      "link": "https://www.retaildive.com/news/sephora-casts-seth-rogen-holiday-ads/873013/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-28T16:58:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Jos. A. Bank puts customer experience at the center of new store concept",
-      "excerpt": "The menswear retailer’s new space, which was developed using customer insights, features an area for consultations, fittings and personalized service.",
-      "link": "https://www.retaildive.com/news/jos-a-bank-new-store-concept/872882/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-28T15:56:00.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
-      "title": "Are grocers ready to help shoppers getting off GLP-1s?",
-      "excerpt": "Retailers need to think about the long game to support people whose shopping habits change after they come off the weight loss medications, experts…",
-      "link": "https://www.grocerydive.com/news/how-grocers-can-cater-to-shoppers-coming-off-weight-loss-medication-health-nutrition-GLP1-hy-vee/872945/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-28T14:50:24.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Mystery flavors keep consumers guessing",
       "excerpt": "From Chips Ahoy! to Hi-Chew, brands are leaning into gamified experiences and nostalgia to engage shoppers.",
       "link": "https://www.fooddive.com/news/mystery-flavors-consumer-engagement-chips-ahoy-sunny-d/873010/",
@@ -176,29 +185,11 @@
       "pinned": false
     },
     {
-      "title": "Uber Eats partners with Key Food",
-      "excerpt": "More than 300 of the co-op’s stores are now available on the e-commerce company’s digital marketplace.",
-      "link": "https://www.grocerydive.com/news/uber-eats-key-food-delivery-regional-grocer/872995/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-28T13:06:12.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Staying secure",
       "excerpt": "Entrust CIO Rishi Kaushal on what the ASOS incident signals for retail security",
       "link": "https://www.retailtechnology.co.uk/rss.xml/news/8792/staying-secure/",
       "source": "Retail Technology",
       "pubDate": "2026-10-27T00:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Zevia nabs $20M investment to fund turnaround",
-      "excerpt": "The money from GP Investments will help the better-for-you soda brand diversify its product offerings and increase distribution.",
-      "link": "https://www.fooddive.com/news/zevia-20-million-investment-turnaround-plan/833924/",
-      "source": "Food Dive",
-      "pubDate": "2026-10-26T13:32:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     }
