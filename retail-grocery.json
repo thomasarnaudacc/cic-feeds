@@ -1,7 +1,61 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-30T09:18:22.282Z",
+  "publishedAt": "2026-10-30T17:28:29.117Z",
   "itemsFr": [
+    {
+      "title": "Google Cloud décolle, mais l’intégration de l’IA générative dans la recherche fait vaciller le modèle économique de Google",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/big-tech/google/google-cloud-decolle-mais-lintegration-de-lia-generative-dans-la-recherche-fait-vaciller-le-modele-economique-de-google.ADXSNZAA4BEVZG37ZS6JUBIO5U.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-10-30T16:40:40.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "La MINUTE RETAIL : Le choix, jusqu’où ? Exemple chez Carrefour…",
+      "excerpt": "A la une cette semaine : les 30 dentifrices à la marque Signal vendus chez Carrefour. Oui oui, 30 références différentes pour une seule et même…",
+      "link": "https://www.olivierdauvers.fr/2026/10/30/la-minute-retail-le-choix-jusquou-exemple-chez-carrefour/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-30T15:25:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "L'inflation en France s'établit à 3,4% en octobre",
+      "excerpt": "La hausse des prix de l'énergie, notamment du gaz et des produits pétroliers, entraîne une accélération de l'inflation en France à son plus haut…",
+      "link": "https://www.journaldunet.com/business/1557413-l-inflation-en-france-s-etablit-a-3-4-en-octobre/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-30T14:03:37.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "L'Insee estime que l'emploi salarié privé a perdu près de 26 000 postes",
+      "excerpt": "Le marché du travail privé poursuit sa contraction sur fond de stagnation économique, affectant particulièrement les jeunes en alternance.",
+      "link": "https://www.journaldunet.com/business/1557401-l-insee-estime-que-l-emploi-salarie-prive-a-perdu-pres-de-26-000-postes/",
+      "source": "Journal du Net",
+      "pubDate": "2026-10-30T13:39:55.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Logiciels de gestion de formation : 6 solutions comparées sur leurs innovations IA réellement disponibles",
+      "excerpt": "PARTNER'S VOICE · Partners'Voice · 30/10/2026 L'intelligence artificielle s'installe dans les outils de la formation professionnelle. Pour les…",
+      "link": "https://www.frenchweb.fr/logiciels-de-gestion-de-formation-6-solutions-comparees-sur-leurs-innovations-ia-reellement-disponibles/900000008?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+      "source": "FrenchWeb",
+      "pubDate": "2026-10-30T10:24:28.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
+    {
+      "title": "Mistral AI va donner à Orange Cyberdefense un accès anticipé à une variante de Mistral Large 4 optimisée pour la cybersécurité",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/mistral-ai/mistral-ai-va-donner-a-orange-cyberdefense-un-acces-anticipe-a-une-variante-de-mistral-large-4-optimisee-pour-la-cybersecurite.6YKS4KT6NFBGFPFGACS6VXYDIY.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-10-30T10:13:54.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
     {
       "title": "[ EXCLU ] Darty débarque chez Carrefour via la marketplace",
       "excerpt": "Carrefour et Darty, il y a comme un goût de reviens-y… En 2018 (déjà), Carrefour accueillait Darty dans ses hypers sous forme de corners (revoir…",
@@ -9,15 +63,6 @@
       "source": "Olivier Dauvers",
       "pubDate": "2026-10-30T09:15:58.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "La Banque du Japon affirme avoir atteint son objectif d'inflation",
-      "excerpt": "L'institution maintient son taux directeur à 1,25% et évoque un possible durcissement monétaire en décembre face à la hausse persistante des prix.",
-      "link": "https://www.journaldunet.com/business/1557389-la-banque-du-japon-affirme-avoir-atteint-son-objectif-d-inflation/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-30T08:12:51.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
       "pinned": false
     },
     {
@@ -30,48 +75,12 @@
       "pinned": false
     },
     {
-      "title": "Epargne salariale : 75% des dirigeants de TPE-PME jugent sa mise en place complexe",
-      "excerpt": "Une récente étude OpinionWay révèle un paradoxe : 73% des dirigeants de TPE-PME envisagent l'épargne salariale, mais 75% jugent sa mise en place…",
-      "link": "https://www.journaldunet.com/fintech/1557177-epargne-salariale-75-des-dirigeants-de-tpe-pme-jugent-sa-mise-en-place-complexe/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-30T07:21:03.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Auriga Partners lance un fonds de 80 millions d'euros pour faire décoller des champions européens de la cybersécurité",
       "excerpt": "L’article Auriga Partners lance un fonds de 80 millions d'euros pour faire décoller des champions européens de la cybersécurité est apparu en premier…",
       "link": "https://www.maddyness.com/2026/10/30/auriga-partners-lance-un-fonds-de-80-millions-deuros-pour-faire-decoller-des-champions-europeens-de-la-cybersecurite/",
       "source": "Maddyness",
       "pubDate": "2026-10-30T06:00:06.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "Maisons du monde : le visual merchandising ne peut pas tout",
-      "excerpt": "En apparence, c’est un paradoxe. Maisons du Monde est en difficulté (euphémisme), tout en étant probablement l’enseigne best-in-class en visual…",
-      "link": "https://www.olivierdauvers.fr/2026/10/30/maisons-du-monde-le-visual-merchandising-ne-peut-pas-tout/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-30T01:15:00.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "Résultats de Microsoft : Des revenus records portés par Azure et OpenAI, mais une course à l’IA toujours plus coûteuse",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/big-tech/microsoft/resultats-de-microsoft-des-revenus-records-portes-par-azure-et-openai-mais-une-course-a-lia-toujours-plus-couteuse.IEIRZAVPPBEJ3NDQWJ34UDI7SU.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-10-29T16:30:50.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "UBTech, Agility Robotics, BluMentis… Comment les fabricants de robots humanoïdes veulent déployer leurs systèmes au service du monde agricole",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/ubtech-agility-robotics-blumentis-comment-les-fabricants-de-robots-humanoides-veulent-deployer-leurs-systemes-au-service-du-monde-agricole.L3N6PS3YEJDDHHYCG522ZCKK6I.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-10-29T15:00:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
@@ -91,25 +100,79 @@
       "pubDate": "2026-10-23T08:09:34.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
-    },
-    {
-      "title": "Failles critiques dans PHP : vous êtes CEO, que devez-vous faire ?",
-      "excerpt": "CYBER IRL · LA REDACTION DE FRENCHWEB.FR · 22/10/2026 Vous avez entendu parler d’une alerte de cybersécurité susceptible de concerner de nombreuses…",
-      "link": "https://www.frenchweb.fr/failles-critiques-dans-php-vous-etes-ceo-que-devez-vous-faire/464039?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
-      "source": "FrenchWeb",
-      "pubDate": "2026-10-22T08:22:34.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
     }
   ],
   "itemsEn": [
     {
-      "title": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
-      "excerpt": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the…",
-      "link": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
+      "title": "Louis Vuitton merchant to lead Bergdorf Goodman",
+      "excerpt": "It’s full circle for Lanessa Elrod, who had previous stints at all three Exemplar Luxury Group banners — Bergdorf, Saks Fifth Avenue and Neiman…",
+      "link": "https://www.retaildive.com/news/louis-vuitton-merchant-bergdorf-goodman-saks-neiman-marcus/873298/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-30T16:22:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Amazon CEO says retail business is being slept on",
+      "excerpt": "Andy Jassy spoke in depth about AWS and AI during a Q3 earnings call, but reiterated the importance of the company’s store progress.",
+      "link": "https://www.retaildive.com/news/amazon-ceo-retail-business-important-q3-earnings/873316/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-30T16:05:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Grocery e-commerce and in-store sales head in opposite directions",
+      "excerpt": "Online food and beverage sales rose more than 15% during the four weeks that ended Oct. 4, while physical store sales were down almost 3%, Circana…",
+      "link": "https://www.grocerydive.com/news/food-beverage-sales-ecommerce-physical-stores-grocery-supermarkets/873303/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-10-30T15:36:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "The Friday Checkout: Instacart dashes toward the exit",
+      "excerpt": "The grocery technology company has agreed to sell itself to DoorDash. Together, can they take a bigger swing at e-commerce giants like Amazon and…",
+      "link": "https://www.grocerydive.com/news/the-friday-checkout-instacart-doordash-deal-raises-questions/873251/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-10-30T15:02:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
+      "excerpt": "Hackers working for North Korea are suspected of hacking a Binance employee's laptop, which allowed the theft of billions in crypto.",
+      "link": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/",
       "source": "TechCrunch",
-      "pubDate": "2026-10-30T07:01:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pubDate": "2026-10-30T14:00:25.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
+    {
+      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+      "excerpt": "DoorDash said that it is open to working with third-party agent makers.",
+      "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-30T13:54:25.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Cosentino’s Food Stores deploys body cameras to protect frontline workers, customers",
+      "excerpt": "It's not easy working in retail today. Store associates are juggling the demanding role of serving as a brand ambassador along with customer…",
+      "link": "https://www.retailcustomerexperience.com/articles/cosentinos-food-stores-deploys-body-cameras-to-protect-frontline-workers-customers/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-30T10:00:00.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
+    {
+      "title": "Skechers HQ on the market",
+      "excerpt": "Skechers, a footwear brand, is putting its Manhattan Beach headquarters in Southern California up for sale and the competitive bidding process is…",
+      "link": "https://www.retailcustomerexperience.com/news/skechers-hq-on-the-market/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-30T10:00:00.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -118,69 +181,6 @@
       "link": "https://www.retailtechnology.co.uk/rss.xml/news/8795/house-of-bruar-shoppers-embrace-digital-receipts/",
       "source": "Retail Technology",
       "pubDate": "2026-10-30T00:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "GM reaches $220M settlement over selling drivers’ private data",
-      "excerpt": "As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and location data.",
-      "link": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-29T21:01:04.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
-      "title": "Fanatics revamps outfit curation tool with OpenAI",
-      "excerpt": "A new version of the retailer’s Shop the Look tool generated 10% higher engagement in a pilot.",
-      "link": "https://www.retaildive.com/news/fanatics-openai-outfit-curation-tool/873180/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-29T16:58:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Most consumers aren’t using AI for product discovery, yet",
-      "excerpt": "Retailers should consider the quality of their metadata to prepare for a predicted upswing in AI usage, new research finds.",
-      "link": "https://www.retaildive.com/news/most-consumers-arent-using-ai-for-product-discovery-yet/833604/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-29T16:32:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Sprouts ‘must evolve faster,’ incoming CEO tells investors",
-      "excerpt": "After posting negative comparable-store sales for the third consecutive quarter, the specialty grocer will roll out a new pricing plan in January…",
-      "link": "https://www.grocerydive.com/news/sprouts-farmers-market-third-quarter-earnings-affordability-pricing-strategy/873111/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-29T15:58:28.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "Walmart dishes up holiday meal deal",
-      "excerpt": "The retailer's offering for 2026 can feed 10 people for $35 and includes 18% more items than its bundle last year.",
-      "link": "https://www.grocerydive.com/news/walmart-holiday-meal-2026-cheaper-2025/873073/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-29T14:10:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Google, Glance partner to deliver AI-powered commerce to TVs",
-      "excerpt": "Google and Glance, an AI-powered personal shopping platform backed by InMobi, are teaming up to enhance the television experience by bringing…",
-      "link": "https://www.retailcustomerexperience.com/news/google-glance-partner-to-deliver-ai-powered-commerce-to-tvs/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-29T10:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Shoppers paying close attention to quality",
-      "excerpt": "Consumers are scrutinizing quality given increasing prices, with a majority stating price and quality need to align. That's a top finding of the…",
-      "link": "https://www.retailcustomerexperience.com/news/shoppers-paying-close-attention-to-quality/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-29T10:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
