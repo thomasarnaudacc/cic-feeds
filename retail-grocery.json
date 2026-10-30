@@ -1,7 +1,16 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-30T17:28:29.117Z",
+  "publishedAt": "2026-10-30T21:48:22.332Z",
   "itemsFr": [
+    {
+      "title": "Bonnes idées / Bonnes pratiques (116) : donner des aspérités au non-al via des marques connues (Leclerc Tarbes Ibos)",
+      "excerpt": "Suite de ma série d’inspirations “bonnes idées / bonnes pratiques” dans le prolongement de mes ouvrages sur l’IMAGE-PRIX, le PENSER-CLIENT et la…",
+      "link": "https://www.olivierdauvers.fr/2026/10/30/bonnes-idees-bonnes-pratiques-116-donner-des-asperites-au-non-al-via-des-marques-connues-leclerc-tarbes-ibos/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-30T21:05:00.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
     {
       "title": "Google Cloud décolle, mais l’intégration de l’IA générative dans la recherche fait vaciller le modèle économique de Google",
       "excerpt": "",
@@ -57,15 +66,6 @@
       "pinned": false
     },
     {
-      "title": "[ EXCLU ] Darty débarque chez Carrefour via la marketplace",
-      "excerpt": "Carrefour et Darty, il y a comme un goût de reviens-y… En 2018 (déjà), Carrefour accueillait Darty dans ses hypers sous forme de corners (revoir…",
-      "link": "https://www.olivierdauvers.fr/2026/10/30/exclu-darty-debarque-chez-carrefour-via-la-marketplace/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-30T09:15:58.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Retail media : Vusion s’offre l’espagnol In-Store Media",
       "excerpt": "Vusion annonce la finalisation du rachat du spécialiste espagnol In-Store Media pour s'imposer sur le marché du retail media physique. Cette…",
       "link": "https://www.ecommercemag.fr/retail-1220/strategie-retail-2163/retail-media-vusion-soffre-lespagnol-in-store-media-60622",
@@ -104,12 +104,30 @@
   ],
   "itemsEn": [
     {
-      "title": "Louis Vuitton merchant to lead Bergdorf Goodman",
-      "excerpt": "It’s full circle for Lanessa Elrod, who had previous stints at all three Exemplar Luxury Group banners — Bergdorf, Saks Fifth Avenue and Neiman…",
-      "link": "https://www.retaildive.com/news/louis-vuitton-merchant-bergdorf-goodman-saks-neiman-marcus/873298/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-30T16:22:00.000Z",
-      "category": "GRAND ANGLE",
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "excerpt": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+      "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-30T21:26:59.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Hershey’s salty snacks can’t keep up with demand",
+      "excerpt": "The Dot’s and LesserEvil maker is taking steps to boost production and packaging options by adding manufacturing lines and investing in automation.",
+      "link": "https://www.fooddive.com/news/hersheys-salty-snacks-cant-keep-up-with-demand/873296/",
+      "source": "Food Dive",
+      "pubDate": "2026-10-30T20:26:12.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "excerpt": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+      "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-30T17:47:12.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
@@ -122,8 +140,17 @@
       "pinned": false
     },
     {
+      "title": "The Weekly Closeout: Roots CEO exits, the FTC zeroes in on price",
+      "excerpt": "The chief executive stepped down following the outdoor retailer’s go-private deal. Meanwhile, the agency has been focused on how retailers set prices.",
+      "link": "https://www.retaildive.com/news/roots-ceo-exits-ftc-retailers-prices-brooks-earnings/873246/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-30T15:56:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
       "title": "Grocery e-commerce and in-store sales head in opposite directions",
-      "excerpt": "Online food and beverage sales rose more than 15% during the four weeks that ended Oct. 4, while physical store sales were down almost 3%, Circana…",
+      "excerpt": "Online food and beverage sales rose more than 15% during the four weeks that ended Oct. 4, while physical store sales were down almost 3%, according…",
       "link": "https://www.grocerydive.com/news/food-beverage-sales-ecommerce-physical-stores-grocery-supermarkets/873303/",
       "source": "Grocery Dive",
       "pubDate": "2026-10-30T15:36:00.000Z",
@@ -131,30 +158,12 @@
       "pinned": false
     },
     {
-      "title": "The Friday Checkout: Instacart dashes toward the exit",
-      "excerpt": "The grocery technology company has agreed to sell itself to DoorDash. Together, can they take a bigger swing at e-commerce giants like Amazon and…",
+      "title": "The Friday Checkout: Instacart dashes toward its next act",
+      "excerpt": "The grocery technology company has agreed to sell itself to DoorDash. Together, can they take on e-commerce giants like Amazon and Walmart?",
       "link": "https://www.grocerydive.com/news/the-friday-checkout-instacart-doordash-deal-raises-questions/873251/",
       "source": "Grocery Dive",
       "pubDate": "2026-10-30T15:02:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
-      "excerpt": "Hackers working for North Korea are suspected of hacking a Binance employee's laptop, which allowed the theft of billions in crypto.",
-      "link": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-30T14:00:25.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-      "excerpt": "DoorDash said that it is open to working with third-party agent makers.",
-      "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-30T13:54:25.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
