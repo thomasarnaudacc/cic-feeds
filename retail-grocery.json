@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-29T18:07:14.003Z",
+  "publishedAt": "2026-10-30T00:30:45.854Z",
   "itemsFr": [
     {
       "title": "Les éditeurs en ligne portent plainte contre Google auprès de la Commission européenne",
@@ -95,12 +95,30 @@
   ],
   "itemsEn": [
     {
-      "title": "Granola crunches up a dictation feature to compete with Wispr",
-      "excerpt": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are…",
-      "link": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+      "title": "House of Bruar shoppers embrace digital receipts",
+      "excerpt": "Luxury country lifestyle retailer House of Bruar, has seen its mature shoppers embrace dynamic digital receipts after partnering with Yocuda",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8795/house-of-bruar-shoppers-embrace-digital-receipts/",
+      "source": "Retail Technology",
+      "pubDate": "2026-10-30T00:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "GM reaches $220M settlement over selling drivers’ private data",
+      "excerpt": "As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and location data.",
+      "link": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
       "source": "TechCrunch",
-      "pubDate": "2026-10-29T17:54:38.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pubDate": "2026-10-29T21:01:04.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
+    {
+      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+      "excerpt": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+      "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-29T20:08:31.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
     },
     {
@@ -131,15 +149,6 @@
       "pinned": false
     },
     {
-      "title": "Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy",
-      "excerpt": "Mintive was founded by two engineers who have been working on AI for decades through Google Brain and Coursera. It's platform promises to help IT…",
-      "link": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-29T15:00:00.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
       "title": "Walmart dishes up holiday meal deal",
       "excerpt": "The retailer's offering for 2026 can feed 10 people for $35 and includes 18% more items than its bundle last year.",
       "link": "https://www.grocerydive.com/news/walmart-holiday-meal-2026-cheaper-2025/873073/",
@@ -149,18 +158,18 @@
       "pinned": false
     },
     {
-      "title": "Google, Glance partner to deliver AI-powered commerce to TVs",
-      "excerpt": "Google and Glance, an AI-powered personal shopping platform backed by InMobi, are teaming up to enhance the television experience by bringing…",
-      "link": "https://www.retailcustomerexperience.com/news/google-glance-partner-to-deliver-ai-powered-commerce-to-tvs/",
+      "title": "Shoppers paying close attention to quality",
+      "excerpt": "Consumers are scrutinizing quality given increasing prices, with a majority stating price and quality need to align. That's a top finding of the…",
+      "link": "https://www.retailcustomerexperience.com/news/shoppers-paying-close-attention-to-quality/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-29T10:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "Theft top factor in retail shrink",
-      "excerpt": "External theft, including involvement of organized retail crime, is the top single source of loss, accounting for 25% of retail shrink. That's a top…",
-      "link": "https://www.retailcustomerexperience.com/news/theft-top-factor-in-retail-shrink/",
+      "title": "Google, Glance partner to deliver AI-powered commerce to TVs",
+      "excerpt": "Google and Glance, an AI-powered personal shopping platform backed by InMobi, are teaming up to enhance the television experience by bringing…",
+      "link": "https://www.retailcustomerexperience.com/news/google-glance-partner-to-deliver-ai-powered-commerce-to-tvs/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-29T10:00:00.000Z",
       "category": "GRAND ANGLE",
@@ -181,15 +190,6 @@
       "link": "https://www.fooddive.com/news/mystery-flavors-consumer-engagement-chips-ahoy-sunny-d/873010/",
       "source": "Food Dive",
       "pubDate": "2026-10-28T13:59:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Staying secure",
-      "excerpt": "Entrust CIO Rishi Kaushal on what the ASOS incident signals for retail security",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8792/staying-secure/",
-      "source": "Retail Technology",
-      "pubDate": "2026-10-27T00:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     }
