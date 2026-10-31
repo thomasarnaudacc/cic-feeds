@@ -1,7 +1,16 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-30T21:48:22.332Z",
+  "publishedAt": "2026-10-31T03:21:10.770Z",
   "itemsFr": [
+    {
+      "title": "SAMEDI CONSO : mon carnet (retail mais pas que…) de la semaine",
+      "excerpt": "« SAMEDI CONSO », la semaine retail (mais pas que) passée en revue. Comme toujours en totale liberté. Et tant pis si ça pique ! Âmes (trop) sensibles…",
+      "link": "https://www.olivierdauvers.fr/2026/10/31/samedi-conso-mon-carnet-retail-mais-pas-que-de-la-semaine-386/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-10-31T01:13:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "Bonnes idées / Bonnes pratiques (116) : donner des aspérités au non-al via des marques connues (Leclerc Tarbes Ibos)",
       "excerpt": "Suite de ma série d’inspirations “bonnes idées / bonnes pratiques” dans le prolongement de mes ouvrages sur l’IMAGE-PRIX, le PENSER-CLIENT et la…",
@@ -18,15 +27,6 @@
       "source": "L'Usine Digitale",
       "pubDate": "2026-10-30T16:40:40.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "La MINUTE RETAIL : Le choix, jusqu’où ? Exemple chez Carrefour…",
-      "excerpt": "A la une cette semaine : les 30 dentifrices à la marque Signal vendus chez Carrefour. Oui oui, 30 références différentes pour une seule et même…",
-      "link": "https://www.olivierdauvers.fr/2026/10/30/la-minute-retail-le-choix-jusquou-exemple-chez-carrefour/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-10-30T15:25:00.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -104,12 +104,21 @@
   ],
   "itemsEn": [
     {
-      "title": "Last-minute Halloween costumes for tech nerds",
-      "excerpt": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
-      "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "excerpt": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be…",
+      "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
       "source": "TechCrunch",
-      "pubDate": "2026-10-30T21:26:59.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pubDate": "2026-10-30T22:56:13.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "excerpt": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+      "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "source": "TechCrunch",
+      "pubDate": "2026-10-30T21:54:34.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
@@ -119,15 +128,6 @@
       "source": "Food Dive",
       "pubDate": "2026-10-30T20:26:12.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-      "excerpt": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
-      "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-30T17:47:12.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
@@ -150,7 +150,7 @@
     },
     {
       "title": "Grocery e-commerce and in-store sales head in opposite directions",
-      "excerpt": "Online food and beverage sales rose more than 15% during the four weeks that ended Oct. 4, while physical store sales were down almost 3%, according…",
+      "excerpt": "Online food and beverage sales rose more than 15% during the four weeks that ended Oct. 4, while physical store sales were down almost 3%, Circana…",
       "link": "https://www.grocerydive.com/news/food-beverage-sales-ecommerce-physical-stores-grocery-supermarkets/873303/",
       "source": "Grocery Dive",
       "pubDate": "2026-10-30T15:36:00.000Z",
@@ -158,8 +158,8 @@
       "pinned": false
     },
     {
-      "title": "The Friday Checkout: Instacart dashes toward its next act",
-      "excerpt": "The grocery technology company has agreed to sell itself to DoorDash. Together, can they take on e-commerce giants like Amazon and Walmart?",
+      "title": "The Friday Checkout: Instacart dashes toward the exit",
+      "excerpt": "The grocery technology company has agreed to sell itself to DoorDash. Together, can they take a bigger swing at e-commerce giants like Amazon and…",
       "link": "https://www.grocerydive.com/news/the-friday-checkout-instacart-doordash-deal-raises-questions/873251/",
       "source": "Grocery Dive",
       "pubDate": "2026-10-30T15:02:00.000Z",
