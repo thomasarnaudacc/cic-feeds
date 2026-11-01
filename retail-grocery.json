@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-10-31T23:52:16.640Z",
+  "publishedAt": "2026-11-01T03:20:54.294Z",
   "itemsFr": [
     {
       "title": "SAMEDI CONSO : mon carnet (retail mais pas que…) de la semaine",
@@ -167,18 +167,18 @@
       "pinned": false
     },
     {
-      "title": "Cosentino’s Food Stores deploys body cameras to protect frontline workers, customers",
-      "excerpt": "It's not easy working in retail today. Store associates are juggling the demanding role of serving as a brand ambassador along with customer…",
-      "link": "https://www.retailcustomerexperience.com/articles/cosentinos-food-stores-deploys-body-cameras-to-protect-frontline-workers-customers/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-30T10:00:00.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
       "title": "Skechers HQ on the market",
       "excerpt": "Skechers, a footwear brand, is putting its Manhattan Beach headquarters in Southern California up for sale and the competitive bidding process is…",
       "link": "https://www.retailcustomerexperience.com/news/skechers-hq-on-the-market/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-10-30T10:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Consumers feeling duped by products marketed with AI",
+      "excerpt": "An increasing number of consumers are feeling duped by products advertised via AI and 43% of Americans report that they have already been duped…",
+      "link": "https://www.retailcustomerexperience.com/news/consumers-feeling-duped-by-products-marketed-with-ai/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-30T10:00:00.000Z",
       "category": "GRAND ANGLE",
