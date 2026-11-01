@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-01T03:20:54.294Z",
+  "publishedAt": "2026-11-01T12:20:48.692Z",
   "itemsFr": [
     {
       "title": "SAMEDI CONSO : mon carnet (retail mais pas que…) de la semaine",
@@ -54,15 +54,6 @@
       "source": "FrenchWeb",
       "pubDate": "2026-10-30T10:24:28.000Z",
       "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "Mistral AI va donner à Orange Cyberdefense un accès anticipé à une variante de Mistral Large 4 optimisée pour la cybersécurité",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/mistral-ai/mistral-ai-va-donner-a-orange-cyberdefense-un-acces-anticipe-a-une-variante-de-mistral-large-4-optimisee-pour-la-cybersecurite.6YKS4KT6NFBGFPFGACS6VXYDIY.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-10-30T10:13:54.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
     {
@@ -131,15 +122,6 @@
       "pinned": false
     },
     {
-      "title": "Louis Vuitton merchant to lead Bergdorf Goodman",
-      "excerpt": "It’s full circle for Lanessa Elrod, who had previous stints at all three Exemplar Luxury Group banners — Bergdorf, Saks Fifth Avenue and Neiman…",
-      "link": "https://www.retaildive.com/news/louis-vuitton-merchant-bergdorf-goodman-saks-neiman-marcus/873298/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-30T16:22:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Amazon CEO says retail business is being slept on",
       "excerpt": "Andy Jassy spoke in depth about AWS and AI during a Q3 earnings call, but reiterated the importance of the company’s store progress.",
       "link": "https://www.retaildive.com/news/amazon-ceo-retail-business-important-q3-earnings/873316/",
@@ -149,8 +131,17 @@
       "pinned": false
     },
     {
+      "title": "The Weekly Closeout: Roots CEO exits, the FTC zeroes in on price",
+      "excerpt": "The chief executive stepped down following the outdoor retailer’s go-private deal. Meanwhile, the agency has been focused on how retailers set prices.",
+      "link": "https://www.retaildive.com/news/roots-ceo-exits-ftc-retailers-prices-brooks-earnings/873246/",
+      "source": "Retail Dive",
+      "pubDate": "2026-10-30T15:56:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
       "title": "Grocery e-commerce and in-store sales head in opposite directions",
-      "excerpt": "Online food and beverage sales rose more than 15% during the four weeks that ended Oct. 4, while physical store sales were down almost 3%, according…",
+      "excerpt": "Online food and beverage sales rose more than 15% during the four weeks that ended Oct. 4, while physical store sales were down almost 3%, Circana…",
       "link": "https://www.grocerydive.com/news/food-beverage-sales-ecommerce-physical-stores-grocery-supermarkets/873303/",
       "source": "Grocery Dive",
       "pubDate": "2026-10-30T15:36:00.000Z",
@@ -167,18 +158,18 @@
       "pinned": false
     },
     {
-      "title": "Skechers HQ on the market",
-      "excerpt": "Skechers, a footwear brand, is putting its Manhattan Beach headquarters in Southern California up for sale and the competitive bidding process is…",
-      "link": "https://www.retailcustomerexperience.com/news/skechers-hq-on-the-market/",
+      "title": "Cosentino’s Food Stores deploys body cameras to protect frontline workers, customers",
+      "excerpt": "It's not easy working in retail today. Store associates are juggling the demanding role of serving as a brand ambassador along with customer…",
+      "link": "https://www.retailcustomerexperience.com/articles/cosentinos-food-stores-deploys-body-cameras-to-protect-frontline-workers-customers/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-30T10:00:00.000Z",
-      "category": "GRAND ANGLE",
+      "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
     },
     {
-      "title": "Consumers feeling duped by products marketed with AI",
-      "excerpt": "An increasing number of consumers are feeling duped by products advertised via AI and 43% of Americans report that they have already been duped…",
-      "link": "https://www.retailcustomerexperience.com/news/consumers-feeling-duped-by-products-marketed-with-ai/",
+      "title": "Skechers HQ on the market",
+      "excerpt": "Skechers, a footwear brand, is putting its Manhattan Beach headquarters in Southern California up for sale and the competitive bidding process is…",
+      "link": "https://www.retailcustomerexperience.com/news/skechers-hq-on-the-market/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-30T10:00:00.000Z",
       "category": "GRAND ANGLE",
