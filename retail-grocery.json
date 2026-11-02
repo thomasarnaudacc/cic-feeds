@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-01T19:16:42.127Z",
+  "publishedAt": "2026-11-02T00:02:46.563Z",
   "itemsFr": [
     {
       "title": "[ EXCLU ] Carburants : quelles enseignes ont (déjà) baissé leurs prix ?",
@@ -85,6 +85,15 @@
     }
   ],
   "itemsEn": [
+    {
+      "title": "DoorDash to acquire Instacart",
+      "excerpt": "A major consolidation in the retail delivery industry will see DoorDash acquire Instacart for around $17 billion",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8796/doordash-to-acquire-instacart/",
+      "source": "Retail Technology",
+      "pubDate": "2026-11-02T00:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "Ollie, a privacy-focused AI assistant, is shutting down",
       "excerpt": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be…",
@@ -172,15 +181,6 @@
       "link": "https://www.retailtechnology.co.uk/rss.xml/news/8795/house-of-bruar-shoppers-embrace-digital-receipts/",
       "source": "Retail Technology",
       "pubDate": "2026-10-30T00:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Retailers failing to make the most of returns",
-      "excerpt": "UK fashion brands are heavily investing in digital return portals but operating them with the handbrake on, according to new research analysing top…",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8794/retailers-failing-to-make-the-most-of-returns/",
-      "source": "Retail Technology",
-      "pubDate": "2026-10-29T00:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
