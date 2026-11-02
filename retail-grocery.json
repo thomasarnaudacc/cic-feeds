@@ -1,40 +1,40 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-02T00:02:46.563Z",
+  "publishedAt": "2026-11-02T10:18:42.687Z",
   "itemsFr": [
     {
-      "title": "[ EXCLU ] Carburants : quelles enseignes ont (déjà) baissé leurs prix ?",
-      "excerpt": "La baisse de prix était annoncée (via la libération d’une partie des stocks stratégiques), donc elle était attendue… RDV avait été donné aux…",
-      "link": "https://www.olivierdauvers.fr/2026/11/01/exclu-carburants-quelles-enseignes-ont-vraiment-baisse-leurs-prix/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-01T17:46:51.000Z",
+      "title": "RC professionnelle : comparer le risque conservé avant la cotisation",
+      "excerpt": "Comparer deux RC professionnelles exige de regarder au-delà du prix : activités assurées, plafonds, franchises et dates déterminent le risque…",
+      "link": "https://www.journaldunet.com/management/direction-generale/1557099-rc-professionnelle-comparer-le-risque-conserve-avant-la-cotisation/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-02T09:44:39.000Z",
       "category": "OFFRE, PRIX & MERCHANDISING",
       "pinned": false
     },
     {
-      "title": "[ EXCLU ] Le rendement 2025 des enseignes alimentaires",
-      "excerpt": "Grand Frais, Leclerc et Hyper U dominent encore une fois le classement des rendements des enseignes en CA/m2. Au pied du podium, Lidl domine…",
-      "link": "https://www.olivierdauvers.fr/2026/11/01/exclu-le-rendement-2025-des-enseignes-alimentaires/",
+      "title": "Le hIAtus : quand l'IA redéfinit la place de l'humain",
+      "excerpt": "L'IA ne transforme pas seulement les tâches : Elle formalise et transfère une partie de l'expertise collaborateurs. La question est donc quelle place…",
+      "link": "https://www.journaldunet.com/management/direction-generale/1557091-le-hiatus-quand-l-ia-redefinit-la-place-de-l-humain/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-02T09:43:11.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
+    {
+      "title": "[ ÉTUDE ] La FCD prépare le terrain des négociations commerciales…",
+      "excerpt": "On pourrait appeler ça des préliminaires… La FCD (fédération du commerce et de la distribution) a publié ce matin une étude confiée au cabinet…",
+      "link": "https://www.olivierdauvers.fr/2026/11/02/etude-la-fcd-prepare-le-terrain-des-negociations-commerciales/",
       "source": "Olivier Dauvers",
-      "pubDate": "2026-11-01T13:32:00.000Z",
+      "pubDate": "2026-11-02T08:39:01.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "L'inflation en France s'établit à 3,4% en octobre",
-      "excerpt": "La hausse des prix de l'énergie, notamment du gaz et des produits pétroliers, entraîne une accélération de l'inflation en France à son plus haut…",
-      "link": "https://www.journaldunet.com/business/1557413-l-inflation-en-france-s-etablit-a-3-4-en-octobre/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-30T14:03:37.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "L'Insee estime que l'emploi salarié privé a perdu près de 26 000 postes",
-      "excerpt": "Le marché du travail privé poursuit sa contraction sur fond de stagnation économique, affectant particulièrement les jeunes en alternance.",
-      "link": "https://www.journaldunet.com/business/1557401-l-insee-estime-que-l-emploi-salarie-prive-a-perdu-pres-de-26-000-postes/",
-      "source": "Journal du Net",
-      "pubDate": "2026-10-30T13:39:55.000Z",
+      "title": "[ CONCEPT ] Un 4e Decathlon running à Nice (en illustration de la spécialisation croissante du retail)",
+      "excerpt": "Le premier Decathlon Running avait ouvert à Bordeaux (rue Ste Catherine) en mai 2025. Une année a visiblement permis de valider le test et Decathlon…",
+      "link": "https://www.olivierdauvers.fr/2026/11/02/concept-un-4e-decathlon-running-a-nice-en-illustration-de-la-specialisation-croissante-du-retail/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-02T05:39:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -86,6 +86,42 @@
   ],
   "itemsEn": [
     {
+      "title": "The power of the mall: Why the best shopping centers are thriving",
+      "excerpt": "The mall is thriving. Here's what's driving its success and why it matters to retailers.",
+      "link": "https://www.retaildive.com/spons/the-power-of-the-mall-why-the-best-shopping-centers-are-thriving/873217/",
+      "source": "Retail Dive",
+      "pubDate": "2026-11-02T10:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Your catalog may already be visible to AI agents. Making it trustworthy is the next step.",
+      "excerpt": "Three barriers hinder agentic optimization. Discover how AI agents evaluate products and sway shoppers.",
+      "link": "https://www.retaildive.com/spons/your-catalog-may-already-be-visible-to-ai-agents-making-it-trustworthy-is/872994/",
+      "source": "Retail Dive",
+      "pubDate": "2026-11-02T10:00:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "This year’s holiday dinner is a preview of how AI will change grocery shopping",
+      "excerpt": "AI isn't just suggesting dinner anymore, it's buying it. Here's what that means for grocers.",
+      "link": "https://www.grocerydive.com/spons/this-years-holiday-dinner-is-a-preview-of-how-ai-will-change-grocery-shopp/872831/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-11-02T10:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Why grocery wholesalers are fixing item data before chasing ecommerce and AI",
+      "excerpt": "How MVR Cash & Carry fixed its inventory data to unlock eCommerce, forecasting and AI.",
+      "link": "https://www.grocerydive.com/spons/why-grocery-wholesalers-are-fixing-item-data-before-chasing-ecommerce-and-a/873333/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-11-02T10:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
       "title": "DoorDash to acquire Instacart",
       "excerpt": "A major consolidation in the retail delivery industry will see DoorDash acquire Instacart for around $17 billion",
       "link": "https://www.retailtechnology.co.uk/rss.xml/news/8796/doordash-to-acquire-instacart/",
@@ -122,38 +158,11 @@
       "pinned": false
     },
     {
-      "title": "Louis Vuitton merchant to lead Bergdorf Goodman",
-      "excerpt": "It’s full circle for Lanessa Elrod, who had previous stints at all three Exemplar Luxury Group banners — Bergdorf, Saks Fifth Avenue and Neiman…",
-      "link": "https://www.retaildive.com/news/louis-vuitton-merchant-bergdorf-goodman-saks-neiman-marcus/873298/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-30T16:22:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Amazon CEO says retail business is being slept on",
-      "excerpt": "Andy Jassy spoke in depth about AWS and AI during a Q3 earnings call, but reiterated the importance of the company’s store progress.",
-      "link": "https://www.retaildive.com/news/amazon-ceo-retail-business-important-q3-earnings/873316/",
-      "source": "Retail Dive",
-      "pubDate": "2026-10-30T16:05:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Grocery e-commerce and in-store sales head in opposite directions",
-      "excerpt": "Online food and beverage sales rose more than 15% during the four weeks that ended Oct. 4, while physical store sales were down almost 3%, according…",
-      "link": "https://www.grocerydive.com/news/food-beverage-sales-ecommerce-physical-stores-grocery-supermarkets/873303/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-30T15:36:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "The Friday Checkout: Instacart dashes toward the exit",
-      "excerpt": "The grocery technology company has agreed to sell itself to DoorDash. Together, can they take a bigger swing at e-commerce giants like Amazon and…",
-      "link": "https://www.grocerydive.com/news/the-friday-checkout-instacart-doordash-deal-raises-questions/873251/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-10-30T15:02:00.000Z",
+      "title": "Are grocers ready to help shoppers getting off GLP-1s?",
+      "excerpt": "Retailers need to think about the long game to support people whose shopping habits change after they come off the weight loss medications, experts…",
+      "link": "https://www.fooddive.com/news/how-grocers-can-cater-to-shoppers-coming-off-weight-loss-medication-health-nutrition-GLP1-hy-vee/873295/",
+      "source": "Food Dive",
+      "pubDate": "2026-10-30T14:02:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -167,9 +176,9 @@
       "pinned": false
     },
     {
-      "title": "Skechers HQ on the market",
-      "excerpt": "Skechers, a footwear brand, is putting its Manhattan Beach headquarters in Southern California up for sale and the competitive bidding process is…",
-      "link": "https://www.retailcustomerexperience.com/news/skechers-hq-on-the-market/",
+      "title": "Consumers feeling duped by products marketed with AI",
+      "excerpt": "An increasing number of consumers are feeling duped by products advertised via AI and 43% of Americans report that they have already been duped…",
+      "link": "https://www.retailcustomerexperience.com/news/consumers-feeling-duped-by-products-marketed-with-ai/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-10-30T10:00:00.000Z",
       "category": "GRAND ANGLE",
@@ -181,15 +190,6 @@
       "link": "https://www.retailtechnology.co.uk/rss.xml/news/8795/house-of-bruar-shoppers-embrace-digital-receipts/",
       "source": "Retail Technology",
       "pubDate": "2026-10-30T00:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Mystery flavors keep consumers guessing",
-      "excerpt": "From Chips Ahoy! to Hi-Chew, brands are leaning into gamified experiences and nostalgia to engage shoppers.",
-      "link": "https://www.fooddive.com/news/mystery-flavors-consumer-engagement-chips-ahoy-sunny-d/873010/",
-      "source": "Food Dive",
-      "pubDate": "2026-10-28T13:59:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     }
