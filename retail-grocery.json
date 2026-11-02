@@ -1,23 +1,41 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-02T10:18:42.687Z",
+  "publishedAt": "2026-11-02T21:06:22.862Z",
   "itemsFr": [
     {
-      "title": "RC professionnelle : comparer le risque conservé avant la cotisation",
-      "excerpt": "Comparer deux RC professionnelles exige de regarder au-delà du prix : activités assurées, plafonds, franchises et dates déterminent le risque…",
-      "link": "https://www.journaldunet.com/management/direction-generale/1557099-rc-professionnelle-comparer-le-risque-conserve-avant-la-cotisation/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-02T09:44:39.000Z",
+      "title": "[Portrait] Céline Kern, une histoire de transmission",
+      "excerpt": "Elle a grandi entre les rayons de jouets du magasin familial à Colmar. Près de quarante ans plus tard, Céline Kern dirige le groupe JouéClub. Élue…",
+      "link": "https://www.ecommercemag.fr/retail-1220/portrait-celine-kern-une-histoire-de-transmission-60661",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-11-02T14:28:32.000Z",
       "category": "OFFRE, PRIX & MERCHANDISING",
       "pinned": false
     },
     {
-      "title": "Le hIAtus : quand l'IA redéfinit la place de l'humain",
-      "excerpt": "L'IA ne transforme pas seulement les tâches : Elle formalise et transfère une partie de l'expertise collaborateurs. La question est donc quelle place…",
-      "link": "https://www.journaldunet.com/management/direction-generale/1557091-le-hiatus-quand-l-ia-redefinit-la-place-de-l-humain/",
+      "title": "Cybersécurité : comment l'IA oblige RSSI et CDO à travailler ensemble",
+      "excerpt": "L'IA apporte de nouveaux risques dont certains sont gérés par le chief data officer, garant de la qualité des données sur lesquelles elle s'entraîne.",
+      "link": "https://www.journaldunet.com/cybersecurite/1557455-cybersecurite-comment-l-ia-oblige-rssi-et-cdo-a-travailler-ensemble/",
       "source": "Journal du Net",
-      "pubDate": "2026-11-02T09:43:11.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
+      "pubDate": "2026-11-02T13:49:20.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "Avec 80 millions d’euros, AURIGA renforce son pari sur la cybersécurité européenne",
+      "excerpt": "DECODE VC · La rédaction · 02/11/2026 Avec un closing intermédiaire de 80 millions d’euros, AURIGA CYBER VENTURES II dépasse déjà la taille de son…",
+      "link": "https://www.frenchweb.fr/avec-80-millions-d-euros-auriga-renforce-son-pari-sur-la-cybersecurite-europeenne/900000009?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+      "source": "FrenchWeb",
+      "pubDate": "2026-11-02T11:19:34.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "Quand l'enfant devient la voix de son propre apprentissage",
+      "excerpt": "L'enfant peut-il devenir acteur de son propre apprentissage grâce au numérique ? Entre neurosciences, pédagogie et intelligence artificielle, cette…",
+      "link": "https://www.journaldunet.com/management/formation/1557419-quand-l-enfant-devient-la-voix-de-son-propre-apprentissage/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-02T10:50:59.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -64,61 +82,88 @@
       "pubDate": "2026-10-30T06:00:06.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
-    },
-    {
-      "title": "Prologis reconvertit un site pour créer 25 800 m² en logistique",
-      "excerpt": "Pour répondre à la rareté des surfaces logistiques modernes dans la métropole Aix-Marseille-Provence, le groupe Prologis engage la reconversion d'une…",
-      "link": "https://www.ecommercemag.fr/logistique-1222/prologis-reconvertit-un-site-pour-creer-25-800-m%c2%b2-en-logistique-60617",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-10-29T08:07:28.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Women in STEM Europe : sept lauréates pour donner envie de choisir les sciences",
-      "excerpt": "ECOSYSTEME · LA REDACTION DE FRENCHWEB.FR · 23/10/2026 L’une développe un robot pour expliquer l’énergie, une autre a contribué à rendre observable…",
-      "link": "https://www.frenchweb.fr/women-in-stem-europe-sept-laureates-pour-donner-envie-de-choisir-les-sciences/464054?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
-      "source": "FrenchWeb",
-      "pubDate": "2026-10-23T08:09:34.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
     }
   ],
   "itemsEn": [
     {
-      "title": "The power of the mall: Why the best shopping centers are thriving",
-      "excerpt": "The mall is thriving. Here's what's driving its success and why it matters to retailers.",
-      "link": "https://www.retaildive.com/spons/the-power-of-the-mall-why-the-best-shopping-centers-are-thriving/873217/",
+      "title": "Web host Squarespace lays off 19% of its employees",
+      "excerpt": "The website builder said that the job losses are part of a broader restructuring of its organization.",
+      "link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-02T19:25:59.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
+    {
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "excerpt": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully…",
+      "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-02T19:19:17.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "Boot Barn ramps up store openings despite lowering outlook",
+      "excerpt": "Warm weather impacted some sales in the second quarter, but the retailer is refreshing key assortments as it accelerates its footprint expansion.",
+      "link": "https://www.retaildive.com/news/boot-barn-ramps-up-store-openings-lower-outlook/873449/",
       "source": "Retail Dive",
-      "pubDate": "2026-11-02T10:00:00.000Z",
+      "pubDate": "2026-11-02T17:24:00.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Shakeup at Old Navy continues amid merchandising struggles",
+      "excerpt": "Nicole Colombo, who led fashion at Walmart’s marketplace, is now head of women’s merchandising at Gap Inc.’s value brand.",
+      "link": "https://www.retaildive.com/news/shakeup-old-navy-amid-merchandising-struggles-walmart/873431/",
+      "source": "Retail Dive",
+      "pubDate": "2026-11-02T17:23:00.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "The Fresh Market makes 2 C-suite changes",
+      "excerpt": "The specialty grocer named Alyssa Vescio as chief commercial officer and Marcio Ribeiro as chief digital officer.",
+      "link": "https://www.grocerydive.com/news/the-fresh-market-csuite-changes-unified-departments/873416/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-11-02T17:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "Your catalog may already be visible to AI agents. Making it trustworthy is the next step.",
-      "excerpt": "Three barriers hinder agentic optimization. Discover how AI agents evaluate products and sway shoppers.",
-      "link": "https://www.retaildive.com/spons/your-catalog-may-already-be-visible-to-ai-agents-making-it-trustworthy-is/872994/",
-      "source": "Retail Dive",
-      "pubDate": "2026-11-02T10:00:00.000Z",
+      "title": "What the DoorDash-Instacart tie-up means for the grocery industry",
+      "excerpt": "The delivery giants say their mega-deal will benefit retailers, consumers and workers. Industry experts and advocates, though, are divided.",
+      "link": "https://www.grocerydive.com/news/instacart-doordash-acquisition-experts-grocery-ecommerce/873377/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-11-02T16:48:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Why Nespresso brought its loyalty program back from dormancy",
+      "excerpt": "The coffee brand rebuilt its 2000s-era loyalty program for the modern day with an emphasis on community and personalization.",
+      "link": "https://www.fooddive.com/news/nespresso-brought-loyalty-program-back-from-dormancy/873330/",
+      "source": "Food Dive",
+      "pubDate": "2026-11-02T14:49:00.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
-      "title": "This year’s holiday dinner is a preview of how AI will change grocery shopping",
-      "excerpt": "AI isn't just suggesting dinner anymore, it's buying it. Here's what that means for grocers.",
-      "link": "https://www.grocerydive.com/spons/this-years-holiday-dinner-is-a-preview-of-how-ai-will-change-grocery-shopp/872831/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-11-02T10:00:00.000Z",
+      "title": "Brand history important aspect for consumers",
+      "excerpt": "A majority of consumers, 78%, believe retail brands with a long history are more authentic than a newer brand and three out of four shoppers said…",
+      "link": "https://www.retailcustomerexperience.com/news/brand-history-important-aspect-for-consumers/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-02T11:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "Why grocery wholesalers are fixing item data before chasing ecommerce and AI",
-      "excerpt": "How MVR Cash & Carry fixed its inventory data to unlock eCommerce, forecasting and AI.",
-      "link": "https://www.grocerydive.com/spons/why-grocery-wholesalers-are-fixing-item-data-before-chasing-ecommerce-and-a/873333/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-11-02T10:00:00.000Z",
-      "category": "GRAND ANGLE",
+      "title": "AI data issue driving product returns",
+      "excerpt": "Nearly half of U.S. shoppers, 46%, who bought an item based on an AI recommendation have returned one item in the past year. That's a top finding…",
+      "link": "https://www.retailcustomerexperience.com/news/ai-data-issue-driving-product-returns/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-02T11:00:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
@@ -131,57 +176,12 @@
       "pinned": false
     },
     {
-      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-      "excerpt": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be…",
-      "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-30T22:56:13.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-      "excerpt": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
-      "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-      "source": "TechCrunch",
-      "pubDate": "2026-10-30T21:54:34.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
       "title": "Hershey’s salty snacks can’t keep up with demand",
       "excerpt": "The Dot’s and LesserEvil maker is taking steps to boost production and packaging options by adding manufacturing lines and investing in automation.",
       "link": "https://www.fooddive.com/news/hersheys-salty-snacks-cant-keep-up-with-demand/873296/",
       "source": "Food Dive",
       "pubDate": "2026-10-30T20:26:12.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Are grocers ready to help shoppers getting off GLP-1s?",
-      "excerpt": "Retailers need to think about the long game to support people whose shopping habits change after they come off the weight loss medications, experts…",
-      "link": "https://www.fooddive.com/news/how-grocers-can-cater-to-shoppers-coming-off-weight-loss-medication-health-nutrition-GLP1-hy-vee/873295/",
-      "source": "Food Dive",
-      "pubDate": "2026-10-30T14:02:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Cosentino’s Food Stores deploys body cameras to protect frontline workers, customers",
-      "excerpt": "It's not easy working in retail today. Store associates are juggling the demanding role of serving as a brand ambassador along with customer…",
-      "link": "https://www.retailcustomerexperience.com/articles/cosentinos-food-stores-deploys-body-cameras-to-protect-frontline-workers-customers/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-30T10:00:00.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "Consumers feeling duped by products marketed with AI",
-      "excerpt": "An increasing number of consumers are feeling duped by products advertised via AI and 43% of Americans report that they have already been duped…",
-      "link": "https://www.retailcustomerexperience.com/news/consumers-feeling-duped-by-products-marketed-with-ai/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-10-30T10:00:00.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
