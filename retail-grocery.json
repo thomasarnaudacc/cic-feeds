@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-02T21:06:22.862Z",
+  "publishedAt": "2026-11-03T04:38:54.578Z",
   "itemsFr": [
     {
       "title": "[Portrait] Céline Kern, une histoire de transmission",
@@ -86,21 +86,30 @@
   ],
   "itemsEn": [
     {
-      "title": "Web host Squarespace lays off 19% of its employees",
-      "excerpt": "The website builder said that the job losses are part of a broader restructuring of its organization.",
-      "link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "excerpt": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be…",
+      "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
       "source": "TechCrunch",
-      "pubDate": "2026-11-02T19:25:59.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
+      "pubDate": "2026-11-03T00:35:52.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
-      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-      "excerpt": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully…",
-      "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "title": "ChatGPT goes high end with Prada",
+      "excerpt": "Iconic fashion house Prada has joined with Accenture Song to develop a new plugin in ChatGPT to explore how agentic commerce can create new customer…",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8797/chatgpt-goes-high-end-with-prada/",
+      "source": "Retail Technology",
+      "pubDate": "2026-11-03T00:00:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Apple’s inventory surges 154% as memory chip costs climb",
+      "excerpt": "Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5…",
+      "link": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/",
       "source": "TechCrunch",
-      "pubDate": "2026-11-02T19:19:17.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pubDate": "2026-11-02T23:04:57.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
@@ -149,21 +158,21 @@
       "pinned": false
     },
     {
-      "title": "Brand history important aspect for consumers",
-      "excerpt": "A majority of consumers, 78%, believe retail brands with a long history are more authentic than a newer brand and three out of four shoppers said…",
-      "link": "https://www.retailcustomerexperience.com/news/brand-history-important-aspect-for-consumers/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-02T11:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "AI data issue driving product returns",
       "excerpt": "Nearly half of U.S. shoppers, 46%, who bought an item based on an AI recommendation have returned one item in the past year. That's a top finding…",
       "link": "https://www.retailcustomerexperience.com/news/ai-data-issue-driving-product-returns/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-11-02T11:00:00.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Brand history important aspect for consumers",
+      "excerpt": "A majority of consumers, 78%, believe retail brands with a long history are more authentic than a newer brand and three out of four shoppers said…",
+      "link": "https://www.retailcustomerexperience.com/news/brand-history-important-aspect-for-consumers/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-02T11:00:00.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -182,15 +191,6 @@
       "source": "Food Dive",
       "pubDate": "2026-10-30T20:26:12.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "House of Bruar shoppers embrace digital receipts",
-      "excerpt": "Luxury country lifestyle retailer House of Bruar, has seen its mature shoppers embrace dynamic digital receipts after partnering with Yocuda",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8795/house-of-bruar-shoppers-embrace-digital-receipts/",
-      "source": "Retail Technology",
-      "pubDate": "2026-10-30T00:00:00.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     }
   ]
