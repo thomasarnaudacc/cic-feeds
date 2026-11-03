@@ -1,7 +1,79 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-03T04:38:54.578Z",
+  "publishedAt": "2026-11-03T13:17:15.356Z",
   "itemsFr": [
+    {
+      "title": "\"Nos fausses publicités permettent aux banque d'identifier les fraudeurs et les victimes d'arnaque\"",
+      "excerpt": "Le négociateur de cyber-rançons belge et PDG de Secutec, Geert Baudewijns, précise comment son entreprise de cybersécurité aide les banques à…",
+      "link": "https://www.journaldunet.com/cybersecurite/1557511-on-diffuse-de-fausses-publicites-pour-identifier-les-potentiels-fraudeurs-et-victimes-d-arnaques-au-profit-des-banques/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-03T11:18:09.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "L'IA peut libérer les marques des intermédiaires, ou les enfermer pour de bon",
+      "excerpt": "Avec l'émergence de l'IA agentique, pour la première fois en deux décennies, les marques peuvent reprendre le contrôle direct de la manière dont…",
+      "link": "https://www.journaldunet.com/retail/1557369-l-ia-peut-liberer-les-marques-des-intermediaires-ou-les-enfermer-pour-de-bon/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-03T11:04:08.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Après le marketing automation, le CRM se prépare à prendre le tournant de l’agentique",
+      "excerpt": "L’article Après le marketing automation, le CRM se prépare à prendre le tournant de l’agentique est apparu en premier sur Maddyness - Le média pour…",
+      "link": "https://www.maddyness.com/2026/11/03/crm-agentique-ia-equipes-marketing/",
+      "source": "Maddyness",
+      "pubDate": "2026-11-03T09:00:28.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Zalando consolide sa rentabilité au troisième trimestre 2026",
+      "excerpt": "Le géant européen du commerce en ligne Zalando enregistre une croissance et une rentabilité en hausse au troisième trimestre 2026. Porté par une…",
+      "link": "https://www.ecommercemag.fr/retail-1220/zalando-consolide-sa-rentabilite-au-troisieme-trimestre-2026-60710",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-11-03T08:58:06.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Après la France, les cyberattaques contre les frigos de supermarchés s’étendent à plusieurs pays européens",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/cybersecurite/apres-la-france-les-cyberattaques-contre-les-frigos-de-supermarches-setendent-a-plusieurs-pays-europeens.6XWNJASFO5HNXK2M72GRJ3H4WM.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-11-03T08:56:09.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "[ EXCLU ] Prix du gazole : Leclerc et Intermarché mènent la danse",
+      "excerpt": "À J+2 de la libération des stocks stratégiques de gazole, le gouvernement réunit ce matin les distributeurs à Bercy. Objectif : acter que la baisse…",
+      "link": "https://www.olivierdauvers.fr/2026/11/03/exclu-prix-du-gazole-leclerc-et-intermarche-menent-la-danse/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-03T06:49:50.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Frigos piratés : les installations locales, angle mort de la cybersécurité des enseignes",
+      "excerpt": "CYBER IRL · La rédaction · 03/11/2026 Trois semaines après les attaques contre des supermarchés français, de nouveaux incidents frappent le froid…",
+      "link": "https://www.frenchweb.fr/frigos-pirates-les-installations-locales-angle-mort-de-la-cybersecurite-des-enseignes/900000015?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+      "source": "FrenchWeb",
+      "pubDate": "2026-11-03T06:14:55.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Commerce agentique : guide pratique pour préparer votre entreprise",
+      "excerpt": "PARTNER'S VOICE · Partners'Voice · 03/11/2026 Avec les agents IA, les boutiques en ligne doivent apprendre à vendre à des intermédiaires capables de…",
+      "link": "https://www.frenchweb.fr/commerce-agentique-guide-pratique-pour-preparer-votre-entreprise/900000013?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+      "source": "FrenchWeb",
+      "pubDate": "2026-11-03T05:49:36.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
     {
       "title": "[Portrait] Céline Kern, une histoire de transmission",
       "excerpt": "Elle a grandi entre les rayons de jouets du magasin familial à Colmar. Près de quarante ans plus tard, Céline Kern dirige le groupe JouéClub. Élue…",
@@ -12,33 +84,6 @@
       "pinned": false
     },
     {
-      "title": "Cybersécurité : comment l'IA oblige RSSI et CDO à travailler ensemble",
-      "excerpt": "L'IA apporte de nouveaux risques dont certains sont gérés par le chief data officer, garant de la qualité des données sur lesquelles elle s'entraîne.",
-      "link": "https://www.journaldunet.com/cybersecurite/1557455-cybersecurite-comment-l-ia-oblige-rssi-et-cdo-a-travailler-ensemble/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-02T13:49:20.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "Avec 80 millions d’euros, AURIGA renforce son pari sur la cybersécurité européenne",
-      "excerpt": "DECODE VC · La rédaction · 02/11/2026 Avec un closing intermédiaire de 80 millions d’euros, AURIGA CYBER VENTURES II dépasse déjà la taille de son…",
-      "link": "https://www.frenchweb.fr/avec-80-millions-d-euros-auriga-renforce-son-pari-sur-la-cybersecurite-europeenne/900000009?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
-      "source": "FrenchWeb",
-      "pubDate": "2026-11-02T11:19:34.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "Quand l'enfant devient la voix de son propre apprentissage",
-      "excerpt": "L'enfant peut-il devenir acteur de son propre apprentissage grâce au numérique ? Entre neurosciences, pédagogie et intelligence artificielle, cette…",
-      "link": "https://www.journaldunet.com/management/formation/1557419-quand-l-enfant-devient-la-voix-de-son-propre-apprentissage/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-02T10:50:59.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "[ ÉTUDE ] La FCD prépare le terrain des négociations commerciales…",
       "excerpt": "On pourrait appeler ça des préliminaires… La FCD (fédération du commerce et de la distribution) a publié ce matin une étude confiée au cabinet…",
       "link": "https://www.olivierdauvers.fr/2026/11/02/etude-la-fcd-prepare-le-terrain-des-negociations-commerciales/",
@@ -46,45 +91,36 @@
       "pubDate": "2026-11-02T08:39:01.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
-    },
+    }
+  ],
+  "itemsEn": [
     {
-      "title": "[ CONCEPT ] Un 4e Decathlon running à Nice (en illustration de la spécialisation croissante du retail)",
-      "excerpt": "Le premier Decathlon Running avait ouvert à Bordeaux (rue Ste Catherine) en mai 2025. Une année a visiblement permis de valider le test et Decathlon…",
-      "link": "https://www.olivierdauvers.fr/2026/11/02/concept-un-4e-decathlon-running-a-nice-en-illustration-de-la-specialisation-croissante-du-retail/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-02T05:39:00.000Z",
+      "title": "Holiday shoppers only want a dash of AI for the gift hunt",
+      "excerpt": "Price comparisons and narrowing down gift ideas are some of the ways consumers are using AI this season. But maintaining autonomy in the buying…",
+      "link": "https://www.retaildive.com/news/holiday-shoppers-only-want-a-dash-of-ai-for-the-gift-hunt/873317/",
+      "source": "Retail Dive",
+      "pubDate": "2026-11-03T12:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "Logiciels de gestion de formation : 6 solutions comparées sur leurs innovations IA réellement disponibles",
-      "excerpt": "PARTNER'S VOICE · Partners'Voice · 30/10/2026 L'intelligence artificielle s'installe dans les outils de la formation professionnelle. Pour les…",
-      "link": "https://www.frenchweb.fr/logiciels-de-gestion-de-formation-6-solutions-comparees-sur-leurs-innovations-ia-reellement-disponibles/900000008?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
-      "source": "FrenchWeb",
-      "pubDate": "2026-10-30T10:24:28.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "Retail media : Vusion s’offre l’espagnol In-Store Media",
-      "excerpt": "Vusion annonce la finalisation du rachat du spécialiste espagnol In-Store Media pour s'imposer sur le marché du retail media physique. Cette…",
-      "link": "https://www.ecommercemag.fr/retail-1220/strategie-retail-2163/retail-media-vusion-soffre-lespagnol-in-store-media-60622",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-10-30T08:00:54.000Z",
+      "title": "Jos. A. Bank debuts store design in Georgia location",
+      "excerpt": "Menswear retailer Jos. A. Bank had debuted a reimagined store experience in its new location in Peachtree City, Georgia. Located in Kedron Village…",
+      "link": "https://www.retailcustomerexperience.com/news/jos-a-bank-debuts-store-design-in-georgia-location/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-03T12:00:00.000Z",
       "category": "MAGASIN & EXPÉRIENCE",
       "pinned": false
     },
     {
-      "title": "Auriga Partners lance un fonds de 80 millions d'euros pour faire décoller des champions européens de la cybersécurité",
-      "excerpt": "L’article Auriga Partners lance un fonds de 80 millions d'euros pour faire décoller des champions européens de la cybersécurité est apparu en premier…",
-      "link": "https://www.maddyness.com/2026/10/30/auriga-partners-lance-un-fonds-de-80-millions-deuros-pour-faire-decoller-des-champions-europeens-de-la-cybersecurite/",
-      "source": "Maddyness",
-      "pubDate": "2026-10-30T06:00:06.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "title": "Connect Media spotlights the 2026 Top Women in Retail Technology Awards",
+      "excerpt": "Connect Media's inaugural 2026 Top Women in Retail Technology Awards puts a spotlight on women who have made their mark in retail technology…",
+      "link": "https://www.retailcustomerexperience.com/articles/connect-media-spotlights-the-2026-top-women-in-retail-technology-awards/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-03T11:00:00.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
-    }
-  ],
-  "itemsEn": [
+    },
     {
       "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
       "excerpt": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be…",
@@ -104,6 +140,15 @@
       "pinned": false
     },
     {
+      "title": "J.Lindeberg ensures compliance",
+      "excerpt": "Scandinavian lifestyle brand J.Lindeberg has onboarded its entire supplier base to Trimco Group’s ProductDNA®Certificate Manager to meet new…",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8798/jlindeberg-ensures-compliance/",
+      "source": "Retail Technology",
+      "pubDate": "2026-11-03T00:00:00.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
       "title": "Apple’s inventory surges 154% as memory chip costs climb",
       "excerpt": "Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5…",
       "link": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/",
@@ -118,15 +163,6 @@
       "link": "https://www.retaildive.com/news/boot-barn-ramps-up-store-openings-lower-outlook/873449/",
       "source": "Retail Dive",
       "pubDate": "2026-11-02T17:24:00.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "Shakeup at Old Navy continues amid merchandising struggles",
-      "excerpt": "Nicole Colombo, who led fashion at Walmart’s marketplace, is now head of women’s merchandising at Gap Inc.’s value brand.",
-      "link": "https://www.retaildive.com/news/shakeup-old-navy-amid-merchandising-struggles-walmart/873431/",
-      "source": "Retail Dive",
-      "pubDate": "2026-11-02T17:23:00.000Z",
       "category": "OFFRE, PRIX & MERCHANDISING",
       "pinned": false
     },
@@ -155,33 +191,6 @@
       "source": "Food Dive",
       "pubDate": "2026-11-02T14:49:00.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "AI data issue driving product returns",
-      "excerpt": "Nearly half of U.S. shoppers, 46%, who bought an item based on an AI recommendation have returned one item in the past year. That's a top finding…",
-      "link": "https://www.retailcustomerexperience.com/news/ai-data-issue-driving-product-returns/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-02T11:00:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Brand history important aspect for consumers",
-      "excerpt": "A majority of consumers, 78%, believe retail brands with a long history are more authentic than a newer brand and three out of four shoppers said…",
-      "link": "https://www.retailcustomerexperience.com/news/brand-history-important-aspect-for-consumers/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-02T11:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "DoorDash to acquire Instacart",
-      "excerpt": "A major consolidation in the retail delivery industry will see DoorDash acquire Instacart for around $17 billion",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8796/doordash-to-acquire-instacart/",
-      "source": "Retail Technology",
-      "pubDate": "2026-11-02T00:00:00.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
