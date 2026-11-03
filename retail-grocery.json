@@ -1,23 +1,41 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-03T13:17:15.356Z",
+  "publishedAt": "2026-11-03T20:42:29.761Z",
   "itemsFr": [
     {
-      "title": "\"Nos fausses publicités permettent aux banque d'identifier les fraudeurs et les victimes d'arnaque\"",
+      "title": "L’e-commerce français change de visage : Temu, SHEIN et AliExpress décrochent au troisième trimestre",
+      "excerpt": "Temu, SHEIN, AliExpress : les géants asiatiques du e-commerce perdent des millions d’internautes en France depuis l’entrée en vigueur, en juillet, du…",
+      "link": "https://www.ecommercemag.fr/retail-1220/le-commerce-francais-change-de-visage-temu-shein-et-aliexpress-decrochent-au-troisieme-trimestre-60777",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-11-03T14:42:08.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Apprendre un nouveau geste à un robot humanoïde en seulement dix démonstrations : La start-up française Bleu Robotics lève 5 millions d’euros",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/apprendre-un-nouveau-geste-a-un-robot-humanoide-en-seulement-dix-demonstrations-la-start-up-francaise-bleu-robotics-leve-5-millions-deuros.SW2JC5WMPVHFXMMD7OQP4VMJD4.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-11-03T14:00:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Coûts, indépendance, robustesse : les nouveaux arbitrages du paiement dans le retail",
+      "excerpt": "Les moyens de paiement se multiplient. Les wallets se généralisent. De nouveaux rails, comme Wero, émergent. Comment garder la maîtrise de ses flux…",
+      "link": "https://www.journaldunet.com/fintech/1557461-couts-independance-robustesse-les-nouveaux-arbitrages-du-paiement-dans-le-retail/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-03T13:38:15.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "\"Nos fausses publicités permettent aux banques d'identifier les fraudeurs et les victimes d'arnaque\"",
       "excerpt": "Le négociateur de cyber-rançons belge et PDG de Secutec, Geert Baudewijns, précise comment son entreprise de cybersécurité aide les banques à…",
       "link": "https://www.journaldunet.com/cybersecurite/1557511-on-diffuse-de-fausses-publicites-pour-identifier-les-potentiels-fraudeurs-et-victimes-d-arnaques-au-profit-des-banques/",
       "source": "Journal du Net",
       "pubDate": "2026-11-03T11:18:09.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "L'IA peut libérer les marques des intermédiaires, ou les enfermer pour de bon",
-      "excerpt": "Avec l'émergence de l'IA agentique, pour la première fois en deux décennies, les marques peuvent reprendre le contrôle direct de la manière dont…",
-      "link": "https://www.journaldunet.com/retail/1557369-l-ia-peut-liberer-les-marques-des-intermediaires-ou-les-enfermer-pour-de-bon/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-03T11:04:08.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
@@ -57,33 +75,6 @@
       "pinned": false
     },
     {
-      "title": "Frigos piratés : les installations locales, angle mort de la cybersécurité des enseignes",
-      "excerpt": "CYBER IRL · La rédaction · 03/11/2026 Trois semaines après les attaques contre des supermarchés français, de nouveaux incidents frappent le froid…",
-      "link": "https://www.frenchweb.fr/frigos-pirates-les-installations-locales-angle-mort-de-la-cybersecurite-des-enseignes/900000015?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
-      "source": "FrenchWeb",
-      "pubDate": "2026-11-03T06:14:55.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Commerce agentique : guide pratique pour préparer votre entreprise",
-      "excerpt": "PARTNER'S VOICE · Partners'Voice · 03/11/2026 Avec les agents IA, les boutiques en ligne doivent apprendre à vendre à des intermédiaires capables de…",
-      "link": "https://www.frenchweb.fr/commerce-agentique-guide-pratique-pour-preparer-votre-entreprise/900000013?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
-      "source": "FrenchWeb",
-      "pubDate": "2026-11-03T05:49:36.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "[Portrait] Céline Kern, une histoire de transmission",
-      "excerpt": "Elle a grandi entre les rayons de jouets du magasin familial à Colmar. Près de quarante ans plus tard, Céline Kern dirige le groupe JouéClub. Élue…",
-      "link": "https://www.ecommercemag.fr/retail-1220/portrait-celine-kern-une-histoire-de-transmission-60661",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-11-02T14:28:32.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
       "title": "[ ÉTUDE ] La FCD prépare le terrain des négociations commerciales…",
       "excerpt": "On pourrait appeler ça des préliminaires… La FCD (fédération du commerce et de la distribution) a publié ce matin une étude confiée au cabinet…",
       "link": "https://www.olivierdauvers.fr/2026/11/02/etude-la-fcd-prepare-le-terrain-des-negociations-commerciales/",
@@ -95,17 +86,71 @@
   ],
   "itemsEn": [
     {
-      "title": "Holiday shoppers only want a dash of AI for the gift hunt",
-      "excerpt": "Price comparisons and narrowing down gift ideas are some of the ways consumers are using AI this season. But maintaining autonomy in the buying…",
-      "link": "https://www.retaildive.com/news/holiday-shoppers-only-want-a-dash-of-ai-for-the-gift-hunt/873317/",
-      "source": "Retail Dive",
-      "pubDate": "2026-11-03T12:00:00.000Z",
+      "title": "Number Sense: Grocery winners and losers on the stock market",
+      "excerpt": "Investors place a much lower value on supermarket chains than they do on Walmart, which is worth significantly more than Kroger, Ahold Delhaize and…",
+      "link": "https://www.grocerydive.com/news/number-sense-grocery-stores-supermarket-stock-market-performance/873511/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-11-03T20:36:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
     {
+      "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
+      "excerpt": "Cybersecurity experts have long warned of the persistent and patient threat from North Korea's long-running hacks. The world's largest crypto…",
+      "link": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-03T19:45:48.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+      "excerpt": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
+      "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-03T18:42:16.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "At Home taps former CFO as new chief executive",
+      "excerpt": "Judd Nystrom returns to the company's C-suite several years after supporting its move into the public trading market.",
+      "link": "https://www.retaildive.com/news/at-home-former-cfo-new-chief-executive/873593/",
+      "source": "Retail Dive",
+      "pubDate": "2026-11-03T16:36:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Amazon brings its own low-priced Thanksgiving meal deal to the table",
+      "excerpt": "While most grocers’ holiday meal bundles fall under $40, the e-commerce company is promoting its grocery business with a $25 offering.",
+      "link": "https://www.grocerydive.com/news/amazon-grocery-thanksgiving-meal-deal/873526/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-11-03T16:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "AI recommendations are leading to returns",
+      "excerpt": "The problem may not have to do with the technology itself, but rather the product description data, according to a new report.",
+      "link": "https://www.retaildive.com/news/ai-recommendations-returns/873075/",
+      "source": "Retail Dive",
+      "pubDate": "2026-11-03T15:59:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Liquid I.V. enlists former Poppi CMO to drive cultural impact",
+      "excerpt": "The Unilever-owned hydration brand wants to push the boundaries of its marketing, which has recently focused on sport, music and movie partnerships.",
+      "link": "https://www.fooddive.com/news/liquid-iv-enlists-former-poppi-cmo-to-drive-cultural-impact/873477/",
+      "source": "Food Dive",
+      "pubDate": "2026-11-03T14:34:00.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
+    {
       "title": "Jos. A. Bank debuts store design in Georgia location",
-      "excerpt": "Menswear retailer Jos. A. Bank had debuted a reimagined store experience in its new location in Peachtree City, Georgia. Located in Kedron Village…",
+      "excerpt": "Menswear retailer Jos. A. Bank has debuted a reimagined store experience in its new location in Peachtree City, Georgia. Located in Kedron Village…",
       "link": "https://www.retailcustomerexperience.com/news/jos-a-bank-debuts-store-design-in-georgia-location/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-11-03T12:00:00.000Z",
@@ -113,21 +158,12 @@
       "pinned": false
     },
     {
-      "title": "Connect Media spotlights the 2026 Top Women in Retail Technology Awards",
-      "excerpt": "Connect Media's inaugural 2026 Top Women in Retail Technology Awards puts a spotlight on women who have made their mark in retail technology…",
-      "link": "https://www.retailcustomerexperience.com/articles/connect-media-spotlights-the-2026-top-women-in-retail-technology-awards/",
+      "title": "Spirit Christmas stores popping up in 15 states",
+      "excerpt": "Spirit Christmas stores are opening in 15 states this holiday season and the retailer will provide shoppers the chance to do some goodwill. The…",
+      "link": "https://www.retailcustomerexperience.com/news/spirit-christmas-stores-popping-up-in-15-states/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-11-03T11:00:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "excerpt": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be…",
-      "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-03T00:35:52.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
@@ -149,57 +185,12 @@
       "pinned": false
     },
     {
-      "title": "Apple’s inventory surges 154% as memory chip costs climb",
-      "excerpt": "Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5…",
-      "link": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-02T23:04:57.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Boot Barn ramps up store openings despite lowering outlook",
-      "excerpt": "Warm weather impacted some sales in the second quarter, but the retailer is refreshing key assortments as it accelerates its footprint expansion.",
-      "link": "https://www.retaildive.com/news/boot-barn-ramps-up-store-openings-lower-outlook/873449/",
-      "source": "Retail Dive",
-      "pubDate": "2026-11-02T17:24:00.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "The Fresh Market makes 2 C-suite changes",
-      "excerpt": "The specialty grocer named Alyssa Vescio as chief commercial officer and Marcio Ribeiro as chief digital officer.",
-      "link": "https://www.grocerydive.com/news/the-fresh-market-csuite-changes-unified-departments/873416/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-11-02T17:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "What the DoorDash-Instacart tie-up means for the grocery industry",
-      "excerpt": "The delivery giants say their mega-deal will benefit retailers, consumers and workers. Industry experts and advocates, though, are divided.",
-      "link": "https://www.grocerydive.com/news/instacart-doordash-acquisition-experts-grocery-ecommerce/873377/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-11-02T16:48:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Why Nespresso brought its loyalty program back from dormancy",
       "excerpt": "The coffee brand rebuilt its 2000s-era loyalty program for the modern day with an emphasis on community and personalization.",
       "link": "https://www.fooddive.com/news/nespresso-brought-loyalty-program-back-from-dormancy/873330/",
       "source": "Food Dive",
       "pubDate": "2026-11-02T14:49:00.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Hershey’s salty snacks can’t keep up with demand",
-      "excerpt": "The Dot’s and LesserEvil maker is taking steps to boost production and packaging options by adding manufacturing lines and investing in automation.",
-      "link": "https://www.fooddive.com/news/hersheys-salty-snacks-cant-keep-up-with-demand/873296/",
-      "source": "Food Dive",
-      "pubDate": "2026-10-30T20:26:12.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     }
   ]
