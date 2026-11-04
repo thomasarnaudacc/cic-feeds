@@ -1,7 +1,52 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-04T10:10:31.239Z",
+  "publishedAt": "2026-11-04T19:06:36.872Z",
   "itemsFr": [
+    {
+      "title": "Le français ID Logistics parie à son tour sur la robotique humanoïde, un projet pilote prévu en Allemagne d’ici six mois",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/le-francais-id-logistics-parie-a-son-tour-sur-la-robotique-humanoide-un-projet-pilote-prevu-en-allemagne-dici-six-mois.ETX3AGV6BRFS3ANZXFANQEFHQQ.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-11-04T17:16:23.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "« Des vulnérabilités tolérées depuis bien trop longtemps » : Le patron de la cybersécurité britannique alerte sur des failles que l’IA rend plus dangereuses",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/cybersecurite/des-vulnerabilites-tolerees-depuis-bien-trop-longtemps-le-patron-de-la-cybersecurite-britannique-alerte-sur-des-failles-que-lia-rend-plus-dangereuses.A7R7LE4EPNAPBJITUNFOZ4LMWE.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-11-04T16:54:00.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "SHEIN investit 500 millions d’euros en Pologne pour renforcer sa logistique européenne",
+      "excerpt": "Le géant de la mode en ligne annonce un investissement de 500 millions d’euros en 2026 pour agrandir sa plateforme logistique située près de Wrocław…",
+      "link": "https://www.ecommercemag.fr/logistique-1222/shein-investit-500-millions-deuros-en-pologne-pour-renforcer-sa-logistique-europeenne-60863",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-11-04T15:36:13.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Quand les données de l'entreprise restent dans les comptes personnels d'IA",
+      "excerpt": "Une partie du patrimoine informationnel d'une entreprise peut aujourd'hui se constituer en dehors de ses propres systèmes.",
+      "link": "https://www.journaldunet.com/cybersecurite/1557567-quand-les-donnees-de-l-entreprise-restent-dans-les-comptes-personnels-d-ia/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-04T15:20:04.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
+    {
+      "title": "\"L'IA de Google invisibilise certains médias, et non des moindres\"",
+      "excerpt": "AI Overviews baisse le trafic à destination des éditeurs et rend invisibles de grands médias à l'origine des informations résumées, explique au JDN…",
+      "link": "https://www.journaldunet.com/publishers/1557593-les-medias-de-reference-sont-rarement-cites-dans-les-resumes-d-ia-de-google/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-04T14:23:14.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
     {
       "title": "Experts-comptables : INNEST recherche les startups de sa huitième promotion",
       "excerpt": "L’article Experts-comptables : INNEST recherche les startups de sa huitième promotion est apparu en premier sur Maddyness - Le média pour comprendre…",
@@ -9,33 +54,6 @@
       "source": "Maddyness",
       "pubDate": "2026-11-04T10:00:06.000Z",
       "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "L’utilisation d’articles de presse pour générer les réponses de Gemini, le chatbot de Google, pourrait porter atteinte aux droits voisins des éditeurs",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/lutilisation-darticles-de-presse-pour-generer-les-reponses-de-gemini-le-chatbot-de-google-pourrait-porter-atteinte-aux-droits-voisins-des-editeurs.CRSZ64SZSJCZNBQZQ2XU7K7LKE.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-11-04T09:54:32.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Du retail media au commerce media : la quête de la donnée qualifiée",
-      "excerpt": "Face à la saturation du digital, le marketing direct se réinvente grâce aux données des marques : des campagnes ciblées et mesurables qui touchent…",
-      "link": "https://www.journaldunet.com/retail/1557377-depuis-plus-de-vingt-ans-les-budgets-media-ne-cessent-de-se-concentrer-sur-le-digital-aujourd-hui-ce-pari-touche-ses-limites-les-performances-obtenues-par-les-annonceurs-se-degradent-notablement-a-mesure-que-l-attention-reelle-des-consomma",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-04T09:39:34.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Pourquoi l'orchestration des écosystèmes est devenue le nouveau défi des dirigeants",
-      "excerpt": "Pendant longtemps, l'avantage concurrentiel reposait sur la maîtrise d'une technologie, d'un marché ou d'un savoir-faire spécifique.",
-      "link": "https://www.journaldunet.com/management/direction-generale/1557565-pourquoi-l-orchestration-des-ecosystemes-est-devenue-le-nouveau-defi-des-dirigeants/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-04T09:34:35.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -53,24 +71,6 @@
       "link": "https://www.olivierdauvers.fr/2026/11/04/a-reims-thillois-match-frais-eprouve-son-modele-de-magasin-solution-repas/",
       "source": "Olivier Dauvers",
       "pubDate": "2026-11-04T05:50:44.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Apprendre un nouveau geste à un robot humanoïde en seulement dix démonstrations : La start-up française Bleu Robotics lève 5 millions d’euros",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/apprendre-un-nouveau-geste-a-un-robot-humanoide-en-seulement-dix-demonstrations-la-start-up-francaise-bleu-robotics-leve-5-millions-deuros.SW2JC5WMPVHFXMMD7OQP4VMJD4.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-11-03T14:00:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "L’e-commerce français change de visage : Temu, SHEIN et AliExpress décrochent au troisième trimestre",
-      "excerpt": "Temu, SHEIN, AliExpress : les géants asiatiques du e-commerce perdent des millions d’internautes en France depuis l’entrée en vigueur, en juillet, du…",
-      "link": "https://www.ecommercemag.fr/retail-1220/le-commerce-francais-change-de-visage-temu-shein-et-aliexpress-decrochent-au-troisieme-trimestre-60777",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-11-03T14:42:08.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -95,57 +95,75 @@
   ],
   "itemsEn": [
     {
-      "title": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
-      "excerpt": "StoryTV has more than 33 million monthly active users according to Sensor Tower figures",
-      "link": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
+      "title": "Waymo confirms it will split with Uber in January 2028",
+      "excerpt": "The split will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.",
+      "link": "https://techcrunch.com/2026/11/04/waymo-confirms-it-will-split-with-uber-in-january-2028/",
       "source": "TechCrunch",
-      "pubDate": "2026-11-04T04:45:00.000Z",
+      "pubDate": "2026-11-04T18:12:30.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-      "excerpt": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment…",
-      "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "title": "Wayfair notches ‘strongest quarter of growth’ since the pandemic",
+      "excerpt": "The retailer posted nearly 10% revenue gains and 4.7% growth in active customers in Q3, even as consumer spending habits change in the home category.",
+      "link": "https://www.retaildive.com/news/wayfair-strongest-quarter-since-pandemic/873740/",
+      "source": "Retail Dive",
+      "pubDate": "2026-11-04T17:18:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Outdoor Voices inks licensing deal for UK and EU",
+      "excerpt": "The activewear lifestyle brand is partnering with Focus Brands to expand into new markets, with an initial focus on wholesale and e-commerce.",
+      "link": "https://www.retaildive.com/news/outdoor-voices-expands-uk-eu/873730/",
+      "source": "Retail Dive",
+      "pubDate": "2026-11-04T16:57:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+      "excerpt": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
+      "link": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
       "source": "TechCrunch",
-      "pubDate": "2026-11-03T21:43:08.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
+      "pubDate": "2026-11-04T16:51:35.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
     {
-      "title": "Number Sense: Grocery winners and losers on the stock market",
-      "excerpt": "Investors place a much lower value on supermarket chains than they do on Walmart, which is worth significantly more than Kroger, Ahold Delhaize and…",
-      "link": "https://www.grocerydive.com/news/number-sense-grocery-stores-supermarket-stock-market-performance/873511/",
+      "title": "Ahold Delhaize braces for impact of cybersecurity incident",
+      "excerpt": "While the company recorded strong U.S. online growth in Q3, it expects the online breach that disrupted its operations last month to reduce its net…",
+      "link": "https://www.grocerydive.com/news/ahold-delhaize-united-states-third-quarter-earnings/873745/",
       "source": "Grocery Dive",
-      "pubDate": "2026-11-03T20:36:00.000Z",
-      "category": "GRAND ANGLE",
+      "pubDate": "2026-11-04T16:20:50.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
     {
-      "title": "At Home taps former CFO as new chief executive",
-      "excerpt": "Judd Nystrom returns to the company's C-suite several years after supporting its move into the public trading market.",
-      "link": "https://www.retaildive.com/news/at-home-former-cfo-new-chief-executive/873593/",
-      "source": "Retail Dive",
-      "pubDate": "2026-11-03T16:36:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Amazon brings its own low-priced Thanksgiving meal deal to the table",
-      "excerpt": "While most grocers’ holiday meal bundles fall under $40, the e-commerce company is promoting its grocery business with a $25 offering.",
-      "link": "https://www.grocerydive.com/news/amazon-grocery-thanksgiving-meal-deal/873526/",
+      "title": "Kroger taps RFID, computer vision data to boost inventory management",
+      "excerpt": "The grocery chain is providing machine learning insights to suppliers to improve availability while piloting radio frequency identification at 1,500…",
+      "link": "https://www.grocerydive.com/news/kroger-rfid-computer-vision-data-inventory-management/873639/",
       "source": "Grocery Dive",
-      "pubDate": "2026-11-03T16:00:00.000Z",
-      "category": "GRAND ANGLE",
+      "pubDate": "2026-11-04T15:07:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
-      "title": "AI recommendations are leading to returns",
-      "excerpt": "The problem may not have to do with the technology itself, but rather the product description data, according to a new report.",
-      "link": "https://www.retaildive.com/news/ai-recommendations-returns/873075/",
-      "source": "Retail Dive",
-      "pubDate": "2026-11-03T15:59:00.000Z",
+      "title": "AI isn’t the only recommendation aspect in holiday shopping",
+      "excerpt": "While AI tools are being used by more consumers when it comes to shopping and browsing, consumers are turning to friends, family and physical stores…",
+      "link": "https://www.retailcustomerexperience.com/news/ai-isnt-the-only-recommendation-aspect-in-holiday-shopping/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-04T11:00:00.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Texas liquor retailer taps Magstar tech to streamline operations",
+      "excerpt": "Spec's Wines, Spirits & Foods, which runs more than 200 locations in Texas, is deploying a retail management solution aimed at streamlining sales and…",
+      "link": "https://www.retailcustomerexperience.com/news/texas-liquor-retailer-taps-magstar-tech-to-streamline-operations/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-04T11:00:00.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -155,24 +173,6 @@
       "source": "Food Dive",
       "pubDate": "2026-11-03T14:34:00.000Z",
       "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
-      "title": "Jos. A. Bank debuts store design in Georgia location",
-      "excerpt": "Menswear retailer Jos. A. Bank has debuted a reimagined store experience in its new location in Peachtree City, Georgia. Located in Kedron Village…",
-      "link": "https://www.retailcustomerexperience.com/news/jos-a-bank-debuts-store-design-in-georgia-location/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-03T12:00:00.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
-      "title": "Spirit Christmas stores popping up in 15 states",
-      "excerpt": "Spirit Christmas stores are opening in 15 states this holiday season and the retailer will provide shoppers the chance to do some goodwill. The…",
-      "link": "https://www.retailcustomerexperience.com/news/spirit-christmas-stores-popping-up-in-15-states/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-03T11:00:00.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
