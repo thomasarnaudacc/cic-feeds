@@ -1,13 +1,58 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-04T00:59:00.481Z",
+  "publishedAt": "2026-11-04T10:10:31.239Z",
   "itemsFr": [
     {
-      "title": "L’e-commerce français change de visage : Temu, SHEIN et AliExpress décrochent au troisième trimestre",
-      "excerpt": "Temu, SHEIN, AliExpress : les géants asiatiques du e-commerce perdent des millions d’internautes en France depuis l’entrée en vigueur, en juillet, du…",
-      "link": "https://www.ecommercemag.fr/retail-1220/le-commerce-francais-change-de-visage-temu-shein-et-aliexpress-decrochent-au-troisieme-trimestre-60777",
+      "title": "Experts-comptables : INNEST recherche les startups de sa huitième promotion",
+      "excerpt": "L’article Experts-comptables : INNEST recherche les startups de sa huitième promotion est apparu en premier sur Maddyness - Le média pour comprendre…",
+      "link": "https://www.maddyness.com/2026/11/04/innest-appel-candidatures-startups-experts-comptables-2027/",
+      "source": "Maddyness",
+      "pubDate": "2026-11-04T10:00:06.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "L’utilisation d’articles de presse pour générer les réponses de Gemini, le chatbot de Google, pourrait porter atteinte aux droits voisins des éditeurs",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/lutilisation-darticles-de-presse-pour-generer-les-reponses-de-gemini-le-chatbot-de-google-pourrait-porter-atteinte-aux-droits-voisins-des-editeurs.CRSZ64SZSJCZNBQZQ2XU7K7LKE.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-11-04T09:54:32.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Du retail media au commerce media : la quête de la donnée qualifiée",
+      "excerpt": "Face à la saturation du digital, le marketing direct se réinvente grâce aux données des marques : des campagnes ciblées et mesurables qui touchent…",
+      "link": "https://www.journaldunet.com/retail/1557377-depuis-plus-de-vingt-ans-les-budgets-media-ne-cessent-de-se-concentrer-sur-le-digital-aujourd-hui-ce-pari-touche-ses-limites-les-performances-obtenues-par-les-annonceurs-se-degradent-notablement-a-mesure-que-l-attention-reelle-des-consomma",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-04T09:39:34.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Pourquoi l'orchestration des écosystèmes est devenue le nouveau défi des dirigeants",
+      "excerpt": "Pendant longtemps, l'avantage concurrentiel reposait sur la maîtrise d'une technologie, d'un marché ou d'un savoir-faire spécifique.",
+      "link": "https://www.journaldunet.com/management/direction-generale/1557565-pourquoi-l-orchestration-des-ecosystemes-est-devenue-le-nouveau-defi-des-dirigeants/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-04T09:34:35.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Rachat de Ceconomy : l’Union européenne donne son feu vert à JD.com",
+      "excerpt": "L’Union européenne a donné son feu vert, sous conditions, au rachat de Ceconomy par le géant chinois du commerce en ligne JD.com. Une opération de…",
+      "link": "https://www.ecommercemag.fr/retail-1220/rachat-de-ceconomy-lunion-europeenne-donne-son-feu-vert-a-jd-com-60813",
       "source": "Ecommerce Mag",
-      "pubDate": "2026-11-03T14:42:08.000Z",
+      "pubDate": "2026-11-04T08:31:39.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "À Reims-Thillois, Match frais éprouve son modèle de magasin “solution repas”",
+      "excerpt": "Tout juste 3 mois après Faches-Thumesnil (59), Carrefour inaugure aujourd’hui son 2e Match « frais » dans la banlieue ouest de Reims (51). Le magasin…",
+      "link": "https://www.olivierdauvers.fr/2026/11/04/a-reims-thillois-match-frais-eprouve-son-modele-de-magasin-solution-repas/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-04T05:50:44.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -21,21 +66,12 @@
       "pinned": false
     },
     {
-      "title": "Coûts, indépendance, robustesse : les nouveaux arbitrages du paiement dans le retail",
-      "excerpt": "Les moyens de paiement se multiplient. Les wallets se généralisent. De nouveaux rails, comme Wero, émergent. Comment garder la maîtrise de ses flux…",
-      "link": "https://www.journaldunet.com/fintech/1557461-couts-independance-robustesse-les-nouveaux-arbitrages-du-paiement-dans-le-retail/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-03T13:38:15.000Z",
+      "title": "L’e-commerce français change de visage : Temu, SHEIN et AliExpress décrochent au troisième trimestre",
+      "excerpt": "Temu, SHEIN, AliExpress : les géants asiatiques du e-commerce perdent des millions d’internautes en France depuis l’entrée en vigueur, en juillet, du…",
+      "link": "https://www.ecommercemag.fr/retail-1220/le-commerce-francais-change-de-visage-temu-shein-et-aliexpress-decrochent-au-troisieme-trimestre-60777",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-11-03T14:42:08.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "\"Nos fausses publicités permettent aux banques d'identifier les fraudeurs et les victimes d'arnaque\"",
-      "excerpt": "Le négociateur de cyber-rançons belge et PDG de Secutec, Geert Baudewijns, précise comment son entreprise de cybersécurité aide les banques à…",
-      "link": "https://www.journaldunet.com/cybersecurite/1557511-on-diffuse-de-fausses-publicites-pour-identifier-les-potentiels-fraudeurs-et-victimes-d-arnaques-au-profit-des-banques/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-03T11:18:09.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
     {
@@ -48,24 +84,6 @@
       "pinned": false
     },
     {
-      "title": "Zalando consolide sa rentabilité au troisième trimestre 2026",
-      "excerpt": "Le géant européen du commerce en ligne Zalando enregistre une croissance et une rentabilité en hausse au troisième trimestre 2026. Porté par une…",
-      "link": "https://www.ecommercemag.fr/retail-1220/zalando-consolide-sa-rentabilite-au-troisieme-trimestre-2026-60710",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-11-03T08:58:06.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Après la France, les cyberattaques contre les frigos de supermarchés s’étendent à plusieurs pays européens",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/cybersecurite/apres-la-france-les-cyberattaques-contre-les-frigos-de-supermarches-setendent-a-plusieurs-pays-europeens.6XWNJASFO5HNXK2M72GRJ3H4WM.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-11-03T08:56:09.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "[ EXCLU ] Prix du gazole : Leclerc et Intermarché mènent la danse",
       "excerpt": "À J+2 de la libération des stocks stratégiques de gazole, le gouvernement réunit ce matin les distributeurs à Bercy. Objectif : acter que la baisse…",
       "link": "https://www.olivierdauvers.fr/2026/11/03/exclu-prix-du-gazole-leclerc-et-intermarche-menent-la-danse/",
@@ -73,18 +91,18 @@
       "pubDate": "2026-11-03T06:49:50.000Z",
       "category": "OFFRE, PRIX & MERCHANDISING",
       "pinned": false
-    },
-    {
-      "title": "[ ÉTUDE ] La FCD prépare le terrain des négociations commerciales…",
-      "excerpt": "On pourrait appeler ça des préliminaires… La FCD (fédération du commerce et de la distribution) a publié ce matin une étude confiée au cabinet…",
-      "link": "https://www.olivierdauvers.fr/2026/11/02/etude-la-fcd-prepare-le-terrain-des-negociations-commerciales/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-02T08:39:01.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
     }
   ],
   "itemsEn": [
+    {
+      "title": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
+      "excerpt": "StoryTV has more than 33 million monthly active users according to Sensor Tower figures",
+      "link": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-04T04:45:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
       "excerpt": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment…",
@@ -101,15 +119,6 @@
       "source": "Grocery Dive",
       "pubDate": "2026-11-03T20:36:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
-      "excerpt": "Cybersecurity experts have long warned of the persistent and patient threat from North Korea's long-running hacks. The world's largest crypto…",
-      "link": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-03T19:45:48.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
     {
