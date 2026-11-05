@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-04T19:06:36.872Z",
+  "publishedAt": "2026-11-05T01:11:00.149Z",
   "itemsFr": [
     {
       "title": "Le français ID Logistics parie à son tour sur la robotique humanoïde, un projet pilote prévu en Allemagne d’ici six mois",
@@ -95,9 +95,18 @@
   ],
   "itemsEn": [
     {
-      "title": "Waymo confirms it will split with Uber in January 2028",
-      "excerpt": "The split will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.",
-      "link": "https://techcrunch.com/2026/11/04/waymo-confirms-it-will-split-with-uber-in-january-2028/",
+      "title": "Almost no one uses AI agents to book their Uber, company says",
+      "excerpt": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+      "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-04T21:56:01.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Waymo confirms it’s shaking up its Uber relationship in January 2028",
+      "excerpt": "The change will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.",
+      "link": "https://techcrunch.com/2026/11/04/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-2028/",
       "source": "TechCrunch",
       "pubDate": "2026-11-04T18:12:30.000Z",
       "category": "GRAND ANGLE",
@@ -119,15 +128,6 @@
       "source": "Retail Dive",
       "pubDate": "2026-11-04T16:57:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
-      "excerpt": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
-      "link": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-04T16:51:35.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
     {
