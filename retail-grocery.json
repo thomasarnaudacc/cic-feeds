@@ -1,7 +1,61 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-05T01:11:00.149Z",
+  "publishedAt": "2026-11-05T10:04:18.480Z",
   "itemsFr": [
+    {
+      "title": "EXCLUSIF – The Future Shopper 2026 : le consommateur français résiste au tout-digital",
+      "excerpt": "Le consommateur français change-t-il vraiment ses habitudes d’achat ? La 10e édition de Future Shopper, l’étude internationale de l’agence de…",
+      "link": "https://www.ecommercemag.fr/marketing-1221/barometre-etude-2174/exclusif-the-future-shopper-2026-le-consommateur-francais-resiste-au-tout-digital-60719",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-11-05T08:52:12.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "ID Logistics et Terra Robotics préparent le 1er test réel de robots humanoïdes",
+      "excerpt": "Après un an d'essais en laboratoire sur deux modèles d'apprentissage, le logisticien ID Logistics et le spécialiste Terra Robotics s'apprêtent à…",
+      "link": "https://www.ecommercemag.fr/logistique-1222/id-logistics-et-terra-robotics-preparent-le-1er-test-reel-de-robots-humanoides-60870",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-11-05T08:33:37.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Non-al : nouveau recul en GMS en octobre (encore et encore !)",
+      "excerpt": "Les mois se suivent et se ressemblent. Le non-al recule encore en GMS selon le baromètre Circana/Editions Dauvers. – 1,7 % en octobre (il y a un an…",
+      "link": "https://www.olivierdauvers.fr/2026/11/05/non-al-nouveau-recul-en-gms-en-octobre-encore-et-encore/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-05T08:08:55.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Obligatoires et de plus en plus chères : les assurances augmentent leurs prix en 2027",
+      "excerpt": "Les contrats d'assurance habitation sont obligatoires pour les propriétaires et pour les locataires. Cependant leur prix augmentera encore de 7% en…",
+      "link": "https://www.journaldunet.com/patrimoine/finances-personnelles/1557549-hf1-hausse-assurance-habitation-2027/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-05T06:05:02.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "E-commerçants, startups, indépendants : le box de stockage, nouvelle brique de la logistique légère",
+      "excerpt": "TOPICS INDEX · Topics Index · 05/11/2026 Entre le garage du fondateur et la plateforme logistique externalisée, une solution intermédiaire s'est…",
+      "link": "https://www.frenchweb.fr/e-commercants-startups-independants-le-box-de-stockage-nouvelle-brique-de-la-logistique-legere/900000021?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+      "source": "FrenchWeb",
+      "pubDate": "2026-11-05T05:06:14.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "SHEIN annonce 500 millions d’euros d’investissement en Pologne pour renforcer sa logistique européenne",
+      "excerpt": "SHEIN annonce 500 millions d’euros d’investissement en Pologne pour renforcer sa logistique européenne",
+      "link": "https://www.frenchweb.fr/breaking-news/shein-annonce-500-millions-d-euros-d-investissement-en-pologne-pour-renforcer-sa-logistique-europeenne/6ccf32b9-5755-42b5-911e-cf1b6b670fac?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=breaking_news",
+      "source": "FrenchWeb",
+      "pubDate": "2026-11-04T17:20:17.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
     {
       "title": "Le français ID Logistics parie à son tour sur la robotique humanoïde, un projet pilote prévu en Allemagne d’ici six mois",
       "excerpt": "",
@@ -21,29 +75,11 @@
       "pinned": false
     },
     {
-      "title": "SHEIN investit 500 millions d’euros en Pologne pour renforcer sa logistique européenne",
-      "excerpt": "Le géant de la mode en ligne annonce un investissement de 500 millions d’euros en 2026 pour agrandir sa plateforme logistique située près de Wrocław…",
-      "link": "https://www.ecommercemag.fr/logistique-1222/shein-investit-500-millions-deuros-en-pologne-pour-renforcer-sa-logistique-europeenne-60863",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-11-04T15:36:13.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
       "title": "Quand les données de l'entreprise restent dans les comptes personnels d'IA",
       "excerpt": "Une partie du patrimoine informationnel d'une entreprise peut aujourd'hui se constituer en dehors de ses propres systèmes.",
       "link": "https://www.journaldunet.com/cybersecurite/1557567-quand-les-donnees-de-l-entreprise-restent-dans-les-comptes-personnels-d-ia/",
       "source": "Journal du Net",
       "pubDate": "2026-11-04T15:20:04.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "\"L'IA de Google invisibilise certains médias, et non des moindres\"",
-      "excerpt": "AI Overviews baisse le trafic à destination des éditeurs et rend invisibles de grands médias à l'origine des informations résumées, explique au JDN…",
-      "link": "https://www.journaldunet.com/publishers/1557593-les-medias-de-reference-sont-rarement-cites-dans-les-resumes-d-ia-de-google/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-04T14:23:14.000Z",
       "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
     },
@@ -57,39 +93,12 @@
       "pinned": false
     },
     {
-      "title": "Rachat de Ceconomy : l’Union européenne donne son feu vert à JD.com",
-      "excerpt": "L’Union européenne a donné son feu vert, sous conditions, au rachat de Ceconomy par le géant chinois du commerce en ligne JD.com. Une opération de…",
-      "link": "https://www.ecommercemag.fr/retail-1220/rachat-de-ceconomy-lunion-europeenne-donne-son-feu-vert-a-jd-com-60813",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-11-04T08:31:39.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "À Reims-Thillois, Match frais éprouve son modèle de magasin “solution repas”",
       "excerpt": "Tout juste 3 mois après Faches-Thumesnil (59), Carrefour inaugure aujourd’hui son 2e Match « frais » dans la banlieue ouest de Reims (51). Le magasin…",
       "link": "https://www.olivierdauvers.fr/2026/11/04/a-reims-thillois-match-frais-eprouve-son-modele-de-magasin-solution-repas/",
       "source": "Olivier Dauvers",
       "pubDate": "2026-11-04T05:50:44.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Après le marketing automation, le CRM se prépare à prendre le tournant de l’agentique",
-      "excerpt": "L’article Après le marketing automation, le CRM se prépare à prendre le tournant de l’agentique est apparu en premier sur Maddyness - Le média pour…",
-      "link": "https://www.maddyness.com/2026/11/03/crm-agentique-ia-equipes-marketing/",
-      "source": "Maddyness",
-      "pubDate": "2026-11-03T09:00:28.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "[ EXCLU ] Prix du gazole : Leclerc et Intermarché mènent la danse",
-      "excerpt": "À J+2 de la libération des stocks stratégiques de gazole, le gouvernement réunit ce matin les distributeurs à Bercy. Objectif : acter que la baisse…",
-      "link": "https://www.olivierdauvers.fr/2026/11/03/exclu-prix-du-gazole-leclerc-et-intermarche-menent-la-danse/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-03T06:49:50.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
       "pinned": false
     }
   ],
