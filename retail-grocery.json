@@ -1,7 +1,43 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-05T10:04:18.480Z",
+  "publishedAt": "2026-11-05T19:14:55.242Z",
   "itemsFr": [
+    {
+      "title": "Rachat d’ABB Robotics par SoftBank : Pourquoi la Chine bloque une transaction à 5,37 milliards de dollars",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/rachat-dabb-robotics-par-softbank-pourquoi-la-chine-bloque-une-transaction-a-537-milliards-de-dollars.ZFWCE5WDXREGPCOUMARFOEFO5A.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-11-05T14:30:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Webinars : avec LinkedIn Live et l'IA, le direct n'est plus qu'un début",
+      "excerpt": "Votre replay est invisible pour ChatGPT. Enfermé derrière un formulaire, il n'existe pas pour les assistants IA que 94% des acheteurs B2B consultent…",
+      "link": "https://www.journaldunet.com/martech/1557193-webinars-avec-linkedin-live-et-l-ia-le-direct-n-est-plus-qu-un-debut/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-05T13:41:12.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Frigos de supermarchés piratés : face à la multiplication des attaques, l’Europe sonne l’alerte",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/cybersecurite/le-recap-cyber/frigos-de-supermarches-pirates-face-a-la-multiplication-des-attaques-leurope-sonne-lalerte.AUI23MIM3RFKLM74OKGAU4REPU.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-11-05T13:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Ventes d’habillement : les centres-villes durement touchés en octobre 2026",
+      "excerpt": "Après un début de mois prometteur, les manifestations et les violences survenues à partir du 17 octobre ont brutalement freiné la reprise du commerce…",
+      "link": "https://www.ecommercemag.fr/retail-1220/veille-tribune-2169/ventes-dhabillement-les-centres-villes-durement-touches-en-octobre-2026-60886",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-11-05T12:14:37.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "EXCLUSIF – The Future Shopper 2026 : le consommateur français résiste au tout-digital",
       "excerpt": "Le consommateur français change-t-il vraiment ses habitudes d’achat ? La 10e édition de Future Shopper, l’étude internationale de l’agence de…",
@@ -9,15 +45,6 @@
       "source": "Ecommerce Mag",
       "pubDate": "2026-11-05T08:52:12.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "ID Logistics et Terra Robotics préparent le 1er test réel de robots humanoïdes",
-      "excerpt": "Après un an d'essais en laboratoire sur deux modèles d'apprentissage, le logisticien ID Logistics et le spécialiste Terra Robotics s'apprêtent à…",
-      "link": "https://www.ecommercemag.fr/logistique-1222/id-logistics-et-terra-robotics-preparent-le-1er-test-reel-de-robots-humanoides-60870",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-11-05T08:33:37.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
@@ -57,33 +84,6 @@
       "pinned": false
     },
     {
-      "title": "Le français ID Logistics parie à son tour sur la robotique humanoïde, un projet pilote prévu en Allemagne d’ici six mois",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/le-francais-id-logistics-parie-a-son-tour-sur-la-robotique-humanoide-un-projet-pilote-prevu-en-allemagne-dici-six-mois.ETX3AGV6BRFS3ANZXFANQEFHQQ.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-11-04T17:16:23.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "« Des vulnérabilités tolérées depuis bien trop longtemps » : Le patron de la cybersécurité britannique alerte sur des failles que l’IA rend plus dangereuses",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/cybersecurite/des-vulnerabilites-tolerees-depuis-bien-trop-longtemps-le-patron-de-la-cybersecurite-britannique-alerte-sur-des-failles-que-lia-rend-plus-dangereuses.A7R7LE4EPNAPBJITUNFOZ4LMWE.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-11-04T16:54:00.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "Quand les données de l'entreprise restent dans les comptes personnels d'IA",
-      "excerpt": "Une partie du patrimoine informationnel d'une entreprise peut aujourd'hui se constituer en dehors de ses propres systèmes.",
-      "link": "https://www.journaldunet.com/cybersecurite/1557567-quand-les-donnees-de-l-entreprise-restent-dans-les-comptes-personnels-d-ia/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-04T15:20:04.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
       "title": "Experts-comptables : INNEST recherche les startups de sa huitième promotion",
       "excerpt": "L’article Experts-comptables : INNEST recherche les startups de sa huitième promotion est apparu en premier sur Maddyness - Le média pour comprendre…",
       "link": "https://www.maddyness.com/2026/11/04/innest-appel-candidatures-startups-experts-comptables-2027/",
@@ -104,93 +104,93 @@
   ],
   "itemsEn": [
     {
-      "title": "Almost no one uses AI agents to book their Uber, company says",
-      "excerpt": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
-      "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+      "title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "excerpt": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+      "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
       "source": "TechCrunch",
-      "pubDate": "2026-11-04T21:56:01.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Waymo confirms it’s shaking up its Uber relationship in January 2028",
-      "excerpt": "The change will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.",
-      "link": "https://techcrunch.com/2026/11/04/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-2028/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-04T18:12:30.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Wayfair notches ‘strongest quarter of growth’ since the pandemic",
-      "excerpt": "The retailer posted nearly 10% revenue gains and 4.7% growth in active customers in Q3, even as consumer spending habits change in the home category.",
-      "link": "https://www.retaildive.com/news/wayfair-strongest-quarter-since-pandemic/873740/",
-      "source": "Retail Dive",
-      "pubDate": "2026-11-04T17:18:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Outdoor Voices inks licensing deal for UK and EU",
-      "excerpt": "The activewear lifestyle brand is partnering with Focus Brands to expand into new markets, with an initial focus on wholesale and e-commerce.",
-      "link": "https://www.retaildive.com/news/outdoor-voices-expands-uk-eu/873730/",
-      "source": "Retail Dive",
-      "pubDate": "2026-11-04T16:57:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Ahold Delhaize braces for impact of cybersecurity incident",
-      "excerpt": "While the company recorded strong U.S. online growth in Q3, it expects the online breach that disrupted its operations last month to reduce its net…",
-      "link": "https://www.grocerydive.com/news/ahold-delhaize-united-states-third-quarter-earnings/873745/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-11-04T16:20:50.000Z",
+      "pubDate": "2026-11-05T19:06:12.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
     {
-      "title": "Kroger taps RFID, computer vision data to boost inventory management",
-      "excerpt": "The grocery chain is providing machine learning insights to suppliers to improve availability while piloting radio frequency identification at 1,500…",
-      "link": "https://www.grocerydive.com/news/kroger-rfid-computer-vision-data-inventory-management/873639/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-11-04T15:07:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "AI isn’t the only recommendation aspect in holiday shopping",
-      "excerpt": "While AI tools are being used by more consumers when it comes to shopping and browsing, consumers are turning to friends, family and physical stores…",
-      "link": "https://www.retailcustomerexperience.com/news/ai-isnt-the-only-recommendation-aspect-in-holiday-shopping/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-04T11:00:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Texas liquor retailer taps Magstar tech to streamline operations",
-      "excerpt": "Spec's Wines, Spirits & Foods, which runs more than 200 locations in Texas, is deploying a retail management solution aimed at streamlining sales and…",
-      "link": "https://www.retailcustomerexperience.com/news/texas-liquor-retailer-taps-magstar-tech-to-streamline-operations/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-04T11:00:00.000Z",
+      "title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
+      "excerpt": "A joint U.S. government statement says the hacks are affecting the food, transportation, and healthcare industries after reports of global mass hacks.",
+      "link": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-05T18:48:34.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "Liquid I.V. enlists former Poppi CMO to drive cultural impact",
-      "excerpt": "The Unilever-owned hydration brand wants to push the boundaries of its marketing, which has recently focused on sport, music and movie partnerships.",
-      "link": "https://www.fooddive.com/news/liquid-iv-enlists-former-poppi-cmo-to-drive-cultural-impact/873477/",
-      "source": "Food Dive",
-      "pubDate": "2026-11-03T14:34:00.000Z",
+      "title": "Walmart ramps up Sparky features in time for the holidays",
+      "excerpt": "New visual recognition and cart generation capabilities for the AI assistant aim to ease the pain of holiday shopping, both online and in stores.",
+      "link": "https://www.retaildive.com/news/walmart-sparky-features-AI-holidays/873718/",
+      "source": "Retail Dive",
+      "pubDate": "2026-11-05T18:01:00.000Z",
       "category": "MAGASIN & EXPÉRIENCE",
       "pinned": false
     },
     {
-      "title": "ChatGPT goes high end with Prada",
-      "excerpt": "Iconic fashion house Prada has joined with Accenture Song to develop a new plugin in ChatGPT to explore how agentic commerce can create new customer…",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8797/chatgpt-goes-high-end-with-prada/",
-      "source": "Retail Technology",
-      "pubDate": "2026-11-03T00:00:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "title": "Ikea leans into events for the holidays",
+      "excerpt": "Two locations will feature outdoor markets, while all stores will host holiday events this month. The furniture retailer also expanded its assortment.",
+      "link": "https://www.retaildive.com/news/ikea-holiday-market-store-events/873869/",
+      "source": "Retail Dive",
+      "pubDate": "2026-11-05T17:22:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Aisles Abroad: How a UK grocer is looking to its past to help tackle today’s affordability crisis",
+      "excerpt": "Iceland Foods drew inspiration for its expanded line of foods that cost 1 British pound by using technology that helps companies mine information…",
+      "link": "https://www.grocerydive.com/news/iceland-foods-preservica-united-kingdom-grocery-food-affordability/873734/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-11-05T16:26:00.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
+    {
+      "title": "Florida grocery chain Fresco Supermarkets opens 7th in-store liquor shop",
+      "excerpt": "Called Fresco Liquor, the concept helps boost its one-stop shopping experience for customers, the grocer said.",
+      "link": "https://www.grocerydive.com/news/florida-grocery-chain-fresco-supermarkets-opens-7th-liquor-shop/873817/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-11-05T15:24:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "The problem with ‘GLP-1 friendly’ food labels",
+      "excerpt": "As more companies design products for consumers on weight loss drugs, experts warn there are risks in treating these shoppers as “a monolith.”",
+      "link": "https://www.fooddive.com/news/glp1s-labels-food-health-innovation-protein-fiber/873857/",
+      "source": "Food Dive",
+      "pubDate": "2026-11-05T14:53:45.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Grocery e-commerce and in-store sales head in opposite directions",
+      "excerpt": "Online food and beverage sales rose more than 15% during the four weeks that ended Oct. 4, while physical store sales were down almost 3%, Circana…",
+      "link": "https://www.fooddive.com/news/food-beverage-sales-ecommerce-physical-stores-grocery-supermarkets/873471/",
+      "source": "Food Dive",
+      "pubDate": "2026-11-05T14:42:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Shoppers will let AI browse, but they still want their hand on the wallet",
+      "excerpt": "Nuvei's latest research into U.S. shopper attitudes toward AI-assisted commerce points to a familiar pattern in retail technology: people adopt the…",
+      "link": "https://www.retailcustomerexperience.com/blogs/shoppers-will-let-ai-browse-but-they-still-want-their-hand-on-the-wallet/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-05T11:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Meijer reminds shoppers of in-store medication disposal kiosks",
+      "excerpt": "Meijer is reminding customers that they can dispose of unwanted, unused and expired medications at drug take-back kiosks located in its in-store…",
+      "link": "https://www.retailcustomerexperience.com/news/meijer-reminds-shoppers-of-in-store-medication-disposal-kiosks/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-05T11:00:00.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
       "pinned": false
     },
     {
@@ -203,11 +203,11 @@
       "pinned": false
     },
     {
-      "title": "Why Nespresso brought its loyalty program back from dormancy",
-      "excerpt": "The coffee brand rebuilt its 2000s-era loyalty program for the modern day with an emphasis on community and personalization.",
-      "link": "https://www.fooddive.com/news/nespresso-brought-loyalty-program-back-from-dormancy/873330/",
-      "source": "Food Dive",
-      "pubDate": "2026-11-02T14:49:00.000Z",
+      "title": "ChatGPT goes high end with Prada",
+      "excerpt": "Iconic fashion house Prada has joined with Accenture Song to develop a new plugin in ChatGPT to explore how agentic commerce can create new customer…",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8797/chatgpt-goes-high-end-with-prada/",
+      "source": "Retail Technology",
+      "pubDate": "2026-11-03T00:00:00.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     }
