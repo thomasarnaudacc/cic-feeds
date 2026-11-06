@@ -1,7 +1,16 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-05T19:14:55.242Z",
+  "publishedAt": "2026-11-06T01:17:11.327Z",
   "itemsFr": [
+    {
+      "title": "VIGIE GRANDE CONSO : le numéro de novembre est sorti",
+      "excerpt": "Zoom sur le sommaire de VIGIE GRANDE CONSO de novembre, n°418, diffusé cette semaine. VIGIE est le mensuel de référence sur le retail que nous…",
+      "link": "https://www.olivierdauvers.fr/2026/11/05/vigie-grande-conso-le-numero-de-novembre-est-sorti/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-05T22:09:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "Rachat d’ABB Robotics par SoftBank : Pourquoi la Chine bloque une transaction à 5,37 milliards de dollars",
       "excerpt": "",
@@ -91,34 +100,34 @@
       "pubDate": "2026-11-04T10:00:06.000Z",
       "category": "OFFRE, PRIX & MERCHANDISING",
       "pinned": false
-    },
-    {
-      "title": "À Reims-Thillois, Match frais éprouve son modèle de magasin “solution repas”",
-      "excerpt": "Tout juste 3 mois après Faches-Thumesnil (59), Carrefour inaugure aujourd’hui son 2e Match « frais » dans la banlieue ouest de Reims (51). Le magasin…",
-      "link": "https://www.olivierdauvers.fr/2026/11/04/a-reims-thillois-match-frais-eprouve-son-modele-de-magasin-solution-repas/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-04T05:50:44.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
     }
   ],
   "itemsEn": [
     {
-      "title": "OpenAI released a new cybersecurity model. Is that enough?",
-      "excerpt": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
-      "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-05T19:06:12.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "title": "PODCAST: AI and the future of shopping",
+      "excerpt": "In the latest episode of the Retail Technology podcast Counter Culture, analyst, writer and RT publisher Miya Knights joins host Bruce Ackland to…",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8760/podcast:-ai-and-the-future-of-shopping/",
+      "source": "Retail Technology",
+      "pubDate": "2026-11-06T00:00:00.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
-      "excerpt": "A joint U.S. government statement says the hacks are affecting the food, transportation, and healthcare industries after reports of global mass hacks.",
-      "link": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "excerpt": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+      "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
       "source": "TechCrunch",
-      "pubDate": "2026-11-05T18:48:34.000Z",
-      "category": "GRAND ANGLE",
+      "pubDate": "2026-11-05T22:40:55.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Serve Robotics launches new business to become the AWS for robots",
+      "excerpt": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers…",
+      "link": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-05T21:15:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
@@ -191,15 +200,6 @@
       "source": "Retail Customer Experience",
       "pubDate": "2026-11-05T11:00:00.000Z",
       "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
-      "title": "J.Lindeberg ensures compliance",
-      "excerpt": "Scandinavian lifestyle brand J.Lindeberg has onboarded its entire supplier base to Trimco Group’s ProductDNA®Certificate Manager to meet new…",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8798/jlindeberg-ensures-compliance/",
-      "source": "Retail Technology",
-      "pubDate": "2026-11-03T00:00:00.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
     {
