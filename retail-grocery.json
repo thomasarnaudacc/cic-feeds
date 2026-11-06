@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-06T10:08:41.287Z",
+  "publishedAt": "2026-11-06T18:41:34.822Z",
   "itemsFr": [
     {
       "title": "Anthropic pourrait abaisser sa valorisation pour son entrée en Bourse",
@@ -30,30 +30,12 @@
       "pinned": false
     },
     {
-      "title": "“Nous allons voir déferler une quantité incroyable de robots en 2027”, assure la patronne du CES",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/hardware/ces/nous-allons-voir-deferler-une-quantite-incroyable-de-robots-en-2027-assure-la-patronne-du-ces.BF3UKMWRDVBGRKAWUH4UCPBTIA.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-11-06T06:30:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
       "title": "VIGIE GRANDE CONSO : le numéro de novembre est sorti",
       "excerpt": "Zoom sur le sommaire de VIGIE GRANDE CONSO de novembre, n°418, diffusé cette semaine. VIGIE est le mensuel de référence sur le retail que nous…",
       "link": "https://www.olivierdauvers.fr/2026/11/05/vigie-grande-conso-le-numero-de-novembre-est-sorti/",
       "source": "Olivier Dauvers",
       "pubDate": "2026-11-05T22:09:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Rachat d’ABB Robotics par SoftBank : Pourquoi la Chine bloque une transaction à 5,37 milliards de dollars",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/rachat-dabb-robotics-par-softbank-pourquoi-la-chine-bloque-une-transaction-a-537-milliards-de-dollars.ZFWCE5WDXREGPCOUMARFOEFO5A.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-11-05T14:30:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
@@ -91,18 +73,72 @@
       "pubDate": "2026-11-04T17:20:17.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
-    },
-    {
-      "title": "Experts-comptables : INNEST recherche les startups de sa huitième promotion",
-      "excerpt": "L’article Experts-comptables : INNEST recherche les startups de sa huitième promotion est apparu en premier sur Maddyness - Le média pour comprendre…",
-      "link": "https://www.maddyness.com/2026/11/04/innest-appel-candidatures-startups-experts-comptables-2027/",
-      "source": "Maddyness",
-      "pubDate": "2026-11-04T10:00:06.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
     }
   ],
   "itemsEn": [
+    {
+      "title": "Bed Bath & Beyond’s new concept takes a page from original format",
+      "excerpt": "The store, with familiar elements like the towel wall and coupons, comes as its parent company reported strong revenue gains driven by recent…",
+      "link": "https://www.retaildive.com/news/bed-bath-beyonds-new-concept-original-store-format-earnings/874012/",
+      "source": "Retail Dive",
+      "pubDate": "2026-11-06T17:47:00.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
+    {
+      "title": "Under Armour to sell more full-price product at outlet stores",
+      "excerpt": "The move is part of a broader store revamp and comes as the athletics brand tries to increase its premium positioning in the market.",
+      "link": "https://www.retaildive.com/news/under-armour-q2-earnings-sales-declines-licensed-youth-sports/873996/",
+      "source": "Retail Dive",
+      "pubDate": "2026-11-06T17:13:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "The Friday Checkout: The Kroger-Albertsons fight still has a long way to go",
+      "excerpt": "How the judge who will settle the retailers’ dispute interprets their inability to come up with a suitable divestiture plan could determine how she…",
+      "link": "https://www.grocerydive.com/news/the-friday-checkout-albertsons-kroger-trial-store-divestitures/873861/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-11-06T16:59:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Lidl US spruces up private label offerings for holiday season",
+      "excerpt": "The discounter is reintroducing 89 gourmet European products to its Preferred Selection line for a limited time.",
+      "link": "https://www.grocerydive.com/news/lidl-us-private-label-limited-time-launch-holiday/873895/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-11-06T15:59:52.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Physicl raises $10M to make the digital world real enough for robots",
+      "excerpt": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+      "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-06T13:00:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Why Trader Joe’s doesn’t deliver, or offer curb pickup",
+      "excerpt": "While the majority of retailers, from supermarkets to department stores, offer several ways of getting items delivered one grocery chain is a…",
+      "link": "https://www.retailcustomerexperience.com/news/why-trader-joes-doesnt-deliver-or-offer-curb-pickup/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-06T11:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Most online shoppers want a human, not a chatbot when needing help",
+      "excerpt": "Two-thirds of online shoppers want a human, not a chatbot, when an order goes wrong. While shoppers prefer AI when it comes to product research, 69%…",
+      "link": "https://www.retailcustomerexperience.com/news/most-online-shoppers-want-a-human-not-a-chatbot-when-needing-help/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-06T11:00:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
     {
       "title": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
       "excerpt": "The concerns range from privacy to how data is shared (and with whom) to procurement concerns.",
@@ -113,56 +149,11 @@
       "pinned": false
     },
     {
-      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-      "excerpt": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
-      "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-06T06:28:32.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
       "title": "PODCAST: AI and the future of shopping",
       "excerpt": "In the latest episode of the Retail Technology podcast Counter Culture, analyst, writer and RT publisher Miya Knights joins host Bruce Ackland to…",
       "link": "https://www.retailtechnology.co.uk/rss.xml/news/8760/podcast:-ai-and-the-future-of-shopping/",
       "source": "Retail Technology",
       "pubDate": "2026-11-06T00:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Walmart ramps up Sparky features in time for the holidays",
-      "excerpt": "New visual recognition and cart generation capabilities for the AI assistant aim to ease the pain of holiday shopping, both online and in stores.",
-      "link": "https://www.retaildive.com/news/walmart-sparky-features-AI-holidays/873718/",
-      "source": "Retail Dive",
-      "pubDate": "2026-11-05T18:01:00.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
-      "title": "Ikea leans into events for the holidays",
-      "excerpt": "Two locations will feature outdoor markets, while all stores will host holiday events this month. The furniture retailer also expanded its assortment.",
-      "link": "https://www.retaildive.com/news/ikea-holiday-market-store-events/873869/",
-      "source": "Retail Dive",
-      "pubDate": "2026-11-05T17:22:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Aisles Abroad: How a UK grocer is looking to its past to help tackle today’s affordability crisis",
-      "excerpt": "Iceland Foods drew inspiration for its expanded line of foods that cost 1 British pound by using technology that helps companies mine information…",
-      "link": "https://www.grocerydive.com/news/iceland-foods-preservica-united-kingdom-grocery-food-affordability/873734/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-11-05T16:26:00.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "Florida grocery chain Fresco Supermarkets opens 7th in-store liquor shop",
-      "excerpt": "Called Fresco Liquor, the concept helps boost its one-stop shopping experience for customers, the grocer said.",
-      "link": "https://www.grocerydive.com/news/florida-grocery-chain-fresco-supermarkets-opens-7th-liquor-shop/873817/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-11-05T15:24:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -182,24 +173,6 @@
       "source": "Food Dive",
       "pubDate": "2026-11-05T14:42:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "How retailers can ease store associate stress as holiday season arrives",
-      "excerpt": "As the holiday shopping season arrives full force and Thanksgiving is just weeks away, retail store workers, from managers to frontline helpers and…",
-      "link": "https://www.retailcustomerexperience.com/articles/how-retailers-can-ease-store-associate-stress-as-holiday-season-arrives/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-05T11:00:00.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "Meijer reminds shoppers of in-store medication disposal kiosks",
-      "excerpt": "Meijer is reminding customers that they can dispose of unwanted, unused and expired medications at drug take-back kiosks located in its in-store…",
-      "link": "https://www.retailcustomerexperience.com/news/meijer-reminds-shoppers-of-in-store-medication-disposal-kiosks/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-05T11:00:00.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
       "pinned": false
     },
     {
