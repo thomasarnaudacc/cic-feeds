@@ -1,7 +1,43 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-06T01:17:11.327Z",
+  "publishedAt": "2026-11-06T10:08:41.287Z",
   "itemsFr": [
+    {
+      "title": "Anthropic pourrait abaisser sa valorisation pour son entrée en Bourse",
+      "excerpt": "La volatilité des marchés technologiques et la prudence des investisseurs remettent en cause la valorisation et le calendrier de l'entrée en Bourse…",
+      "link": "https://www.journaldunet.com/business/1557673-anthropic-pourrait-abaisser-sa-valorisation-pour-son-entree-en-bourse/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-06T09:01:00.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "Joybuy lance sa boutique Beauté en France avec K-beauty et marques phares",
+      "excerpt": "La plateforme de commerce en ligne Joybuy ouvre un espace entièrement consacré au secteur de la beauté sur le marché français. L'offre rassemble des…",
+      "link": "https://www.ecommercemag.fr/retail-1220/joybuy-lance-sa-boutique-beaute-en-france-avec-k-beauty-et-marques-phares-60896",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-11-06T08:00:24.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "La MINUTE RETAIL : et si c’était le moment Costco…",
+      "excerpt": "A la une cette semaine : le très discret Costco. Discret, car Costco est sous les radars de l’actu retail du quotidien. 3 seuls magasins ouverts en…",
+      "link": "https://www.olivierdauvers.fr/2026/11/06/la-minute-retail-et-si-cetait-le-moment-costco-2/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-06T07:15:41.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "“Nous allons voir déferler une quantité incroyable de robots en 2027”, assure la patronne du CES",
+      "excerpt": "",
+      "link": "https://www.usine-digitale.fr/hardware/ces/nous-allons-voir-deferler-une-quantite-incroyable-de-robots-en-2027-assure-la-patronne-du-ces.BF3UKMWRDVBGRKAWUH4UCPBTIA.html",
+      "source": "L'Usine Digitale",
+      "pubDate": "2026-11-06T06:30:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
     {
       "title": "VIGIE GRANDE CONSO : le numéro de novembre est sorti",
       "excerpt": "Zoom sur le sommaire de VIGIE GRANDE CONSO de novembre, n°418, diffusé cette semaine. VIGIE est le mensuel de référence sur le retail que nous…",
@@ -30,48 +66,12 @@
       "pinned": false
     },
     {
-      "title": "Frigos de supermarchés piratés : face à la multiplication des attaques, l’Europe sonne l’alerte",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/cybersecurite/le-recap-cyber/frigos-de-supermarches-pirates-face-a-la-multiplication-des-attaques-leurope-sonne-lalerte.AUI23MIM3RFKLM74OKGAU4REPU.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-11-05T13:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Ventes d’habillement : les centres-villes durement touchés en octobre 2026",
       "excerpt": "Après un début de mois prometteur, les manifestations et les violences survenues à partir du 17 octobre ont brutalement freiné la reprise du commerce…",
       "link": "https://www.ecommercemag.fr/retail-1220/veille-tribune-2169/ventes-dhabillement-les-centres-villes-durement-touches-en-octobre-2026-60886",
       "source": "Ecommerce Mag",
       "pubDate": "2026-11-05T12:14:37.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "EXCLUSIF – The Future Shopper 2026 : le consommateur français résiste au tout-digital",
-      "excerpt": "Le consommateur français change-t-il vraiment ses habitudes d’achat ? La 10e édition de Future Shopper, l’étude internationale de l’agence de…",
-      "link": "https://www.ecommercemag.fr/marketing-1221/barometre-etude-2174/exclusif-the-future-shopper-2026-le-consommateur-francais-resiste-au-tout-digital-60719",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-11-05T08:52:12.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Non-al : nouveau recul en GMS en octobre (encore et encore !)",
-      "excerpt": "Les mois se suivent et se ressemblent. Le non-al recule encore en GMS selon le baromètre Circana/Editions Dauvers. – 1,7 % en octobre (il y a un an…",
-      "link": "https://www.olivierdauvers.fr/2026/11/05/non-al-nouveau-recul-en-gms-en-octobre-encore-et-encore/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-05T08:08:55.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Obligatoires et de plus en plus chères : les assurances augmentent leurs prix en 2027",
-      "excerpt": "Les contrats d'assurance habitation sont obligatoires pour les propriétaires et pour les locataires. Cependant leur prix augmentera encore de 7% en…",
-      "link": "https://www.journaldunet.com/patrimoine/finances-personnelles/1557549-hf1-hausse-assurance-habitation-2027/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-05T06:05:02.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
       "pinned": false
     },
     {
@@ -104,30 +104,30 @@
   ],
   "itemsEn": [
     {
+      "title": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
+      "excerpt": "The concerns range from privacy to how data is shared (and with whom) to procurement concerns.",
+      "link": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-06T07:18:44.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "excerpt": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+      "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-06T06:28:32.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
       "title": "PODCAST: AI and the future of shopping",
       "excerpt": "In the latest episode of the Retail Technology podcast Counter Culture, analyst, writer and RT publisher Miya Knights joins host Bruce Ackland to…",
       "link": "https://www.retailtechnology.co.uk/rss.xml/news/8760/podcast:-ai-and-the-future-of-shopping/",
       "source": "Retail Technology",
       "pubDate": "2026-11-06T00:00:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-      "excerpt": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-      "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-05T22:40:55.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Serve Robotics launches new business to become the AWS for robots",
-      "excerpt": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers…",
-      "link": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-05T21:15:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
@@ -185,12 +185,12 @@
       "pinned": false
     },
     {
-      "title": "Shoppers will let AI browse, but they still want their hand on the wallet",
-      "excerpt": "Nuvei's latest research into U.S. shopper attitudes toward AI-assisted commerce points to a familiar pattern in retail technology: people adopt the…",
-      "link": "https://www.retailcustomerexperience.com/blogs/shoppers-will-let-ai-browse-but-they-still-want-their-hand-on-the-wallet/",
+      "title": "How retailers can ease store associate stress as holiday season arrives",
+      "excerpt": "As the holiday shopping season arrives full force and Thanksgiving is just weeks away, retail store workers, from managers to frontline helpers and…",
+      "link": "https://www.retailcustomerexperience.com/articles/how-retailers-can-ease-store-associate-stress-as-holiday-season-arrives/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-11-05T11:00:00.000Z",
-      "category": "GRAND ANGLE",
+      "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
     },
     {
