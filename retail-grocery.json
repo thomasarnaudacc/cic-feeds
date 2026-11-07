@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-07T17:11:28.397Z",
+  "publishedAt": "2026-11-07T21:14:15.952Z",
   "itemsFr": [
     {
       "title": "Le prix des assurances automobiles va bientôt augmenter à cause d'une taxe et du climat",
@@ -17,24 +17,6 @@
       "link": "https://www.olivierdauvers.fr/2026/11/07/samedi-conso-mon-carnet-retail-mais-pas-que-de-la-semaine-387/",
       "source": "Olivier Dauvers",
       "pubDate": "2026-11-06T23:35:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "OpenAI dévoile GPT-6 Cyber, un modèle spécifiquement entraîné pour la recherche en cybersécurité, tout en élargissant l’accès à ses outils",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/intelligence-artificielle/openai/openai-devoile-gpt-6-cyber-un-modele-specifiquement-entraine-pour-la-recherche-en-cybersecurite-tout-en-elargissant-lacces-a-ses-outils.27B6XXOJ3BAPBL6KAJ3AXPMPJ4.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-11-06T16:30:00.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "Concepteurs de puces : l’Europe, qui pèse moins de 1% du marché mondial, lance un plan de 525 millions d’euros pour faire grandir ses start-up",
-      "excerpt": "",
-      "link": "https://www.usine-digitale.fr/electronique/semi-conducteurs/concepteurs-de-puces-leurope-qui-pese-moins-de-1-du-marche-mondial-lance-un-plan-de-525-millions-deuros-pour-faire-grandir-ses-start-up.IPJSRBQMWRCT7PG66UCX57K2DY.html",
-      "source": "L'Usine Digitale",
-      "pubDate": "2026-11-06T15:44:19.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -140,15 +122,6 @@
       "pinned": false
     },
     {
-      "title": "Most online shoppers want a human, not a chatbot when needing help",
-      "excerpt": "Two-thirds of online shoppers want a human, not a chatbot, when an order goes wrong. While shoppers prefer AI when it comes to product research, 69%…",
-      "link": "https://www.retailcustomerexperience.com/news/most-online-shoppers-want-a-human-not-a-chatbot-when-needing-help/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-06T11:00:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
       "title": "Why Trader Joe’s doesn’t deliver, or offer curb pickup",
       "excerpt": "While the majority of retailers, from supermarkets to department stores, offer several ways of getting items delivered one grocery chain is a…",
       "link": "https://www.retailcustomerexperience.com/news/why-trader-joes-doesnt-deliver-or-offer-curb-pickup/",
@@ -158,12 +131,30 @@
       "pinned": false
     },
     {
+      "title": "Most online shoppers want a human, not a chatbot when needing help",
+      "excerpt": "Two-thirds of online shoppers want a human, not a chatbot, when an order goes wrong. While shoppers prefer AI when it comes to product research, 69%…",
+      "link": "https://www.retailcustomerexperience.com/news/most-online-shoppers-want-a-human-not-a-chatbot-when-needing-help/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-06T11:00:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
       "title": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
       "excerpt": "The concerns range from privacy to how data is shared (and with whom) to procurement concerns.",
       "link": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
       "source": "TechCrunch",
       "pubDate": "2026-11-06T07:18:44.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "PODCAST: AI and the future of shopping",
+      "excerpt": "In the latest episode of the Retail Technology podcast Counter Culture, analyst, writer and RT publisher Miya Knights joins host Bruce Ackland to…",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8760/podcast:-ai-and-the-future-of-shopping/",
+      "source": "Retail Technology",
+      "pubDate": "2026-11-06T00:00:00.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -182,6 +173,15 @@
       "source": "Food Dive",
       "pubDate": "2026-11-05T14:42:00.000Z",
       "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "ChatGPT goes high end with Prada",
+      "excerpt": "Iconic fashion house Prada has joined with Accenture Song to develop a new plugin in ChatGPT to explore how agentic commerce can create new customer…",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8797/chatgpt-goes-high-end-with-prada/",
+      "source": "Retail Technology",
+      "pubDate": "2026-11-03T00:00:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     }
   ]
