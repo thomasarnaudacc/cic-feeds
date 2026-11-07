@@ -1,7 +1,16 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-06T18:41:34.822Z",
+  "publishedAt": "2026-11-07T00:30:37.367Z",
   "itemsFr": [
+    {
+      "title": "SAMEDI CONSO : mon carnet (retail mais pas que…) de la semaine",
+      "excerpt": "« SAMEDI CONSO », la semaine retail (mais pas que) passée en revue. Comme toujours en totale liberté. Et tant pis si ça pique ! Âmes (trop) sensibles…",
+      "link": "https://www.olivierdauvers.fr/2026/11/07/samedi-conso-mon-carnet-retail-mais-pas-que-de-la-semaine-387/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-06T23:35:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "Anthropic pourrait abaisser sa valorisation pour son entrée en Bourse",
       "excerpt": "La volatilité des marchés technologiques et la prudence des investisseurs remettent en cause la valorisation et le calendrier de l'entrée en Bourse…",
@@ -26,15 +35,6 @@
       "link": "https://www.olivierdauvers.fr/2026/11/06/la-minute-retail-et-si-cetait-le-moment-costco-2/",
       "source": "Olivier Dauvers",
       "pubDate": "2026-11-06T07:15:41.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "VIGIE GRANDE CONSO : le numéro de novembre est sorti",
-      "excerpt": "Zoom sur le sommaire de VIGIE GRANDE CONSO de novembre, n°418, diffusé cette semaine. VIGIE est le mensuel de référence sur le retail que nous…",
-      "link": "https://www.olivierdauvers.fr/2026/11/05/vigie-grande-conso-le-numero-de-novembre-est-sorti/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-05T22:09:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
