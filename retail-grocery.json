@@ -1,7 +1,16 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-07T00:30:37.367Z",
+  "publishedAt": "2026-11-07T09:26:13.113Z",
   "itemsFr": [
+    {
+      "title": "Le prix des assurances automobiles va bientôt augmenter à cause d'une taxe et du climat",
+      "excerpt": "40 millions d'automobilistes vont payer plus cher leur assurance automobile à partir de janvier 2027. Une nouvelle taxe sur les contrats assurances…",
+      "link": "https://www.journaldunet.com/patrimoine/finances-personnelles/1557609-hf1-hausse-assurances-automobile-2027/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-07T05:55:02.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
     {
       "title": "SAMEDI CONSO : mon carnet (retail mais pas que…) de la semaine",
       "excerpt": "« SAMEDI CONSO », la semaine retail (mais pas que) passée en revue. Comme toujours en totale liberté. Et tant pis si ça pique ! Âmes (trop) sensibles…",
@@ -36,15 +45,6 @@
       "source": "Olivier Dauvers",
       "pubDate": "2026-11-06T07:15:41.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Webinars : avec LinkedIn Live et l'IA, le direct n'est plus qu'un début",
-      "excerpt": "Votre replay est invisible pour ChatGPT. Enfermé derrière un formulaire, il n'existe pas pour les assistants IA que 94% des acheteurs B2B consultent…",
-      "link": "https://www.journaldunet.com/martech/1557193-webinars-avec-linkedin-live-et-l-ia-le-direct-n-est-plus-qu-un-debut/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-05T13:41:12.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
@@ -122,21 +122,21 @@
       "pinned": false
     },
     {
-      "title": "Why Trader Joe’s doesn’t deliver, or offer curb pickup",
-      "excerpt": "While the majority of retailers, from supermarkets to department stores, offer several ways of getting items delivered one grocery chain is a…",
-      "link": "https://www.retailcustomerexperience.com/news/why-trader-joes-doesnt-deliver-or-offer-curb-pickup/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-06T11:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Most online shoppers want a human, not a chatbot when needing help",
       "excerpt": "Two-thirds of online shoppers want a human, not a chatbot, when an order goes wrong. While shoppers prefer AI when it comes to product research, 69%…",
       "link": "https://www.retailcustomerexperience.com/news/most-online-shoppers-want-a-human-not-a-chatbot-when-needing-help/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-11-06T11:00:00.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Why Trader Joe’s doesn’t deliver, or offer curb pickup",
+      "excerpt": "While the majority of retailers, from supermarkets to department stores, offer several ways of getting items delivered one grocery chain is a…",
+      "link": "https://www.retailcustomerexperience.com/news/why-trader-joes-doesnt-deliver-or-offer-curb-pickup/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-06T11:00:00.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
