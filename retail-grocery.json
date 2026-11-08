@@ -1,31 +1,40 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-08T03:27:57.236Z",
+  "publishedAt": "2026-11-08T12:28:21.385Z",
   "itemsFr": [
     {
-      "title": "Le prix des assurances automobiles va bientôt augmenter à cause d'une taxe et du climat",
-      "excerpt": "40 millions d'automobilistes vont payer plus cher leur assurance automobile à partir de janvier 2027. Une nouvelle taxe sur les contrats assurances…",
-      "link": "https://www.journaldunet.com/patrimoine/finances-personnelles/1557609-hf1-hausse-assurances-automobile-2027/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-07T05:55:02.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "SAMEDI CONSO : mon carnet (retail mais pas que…) de la semaine",
-      "excerpt": "« SAMEDI CONSO », la semaine retail (mais pas que) passée en revue. Comme toujours en totale liberté. Et tant pis si ça pique ! Âmes (trop) sensibles…",
-      "link": "https://www.olivierdauvers.fr/2026/11/07/samedi-conso-mon-carnet-retail-mais-pas-que-de-la-semaine-387/",
+      "title": "[ EXCLU ] Parts de marché : Leclerc 1er dans 5 régions sur 9",
+      "excerpt": "DIMANCHE INFOGRAPHIE, suite. Si Leclerc domine le classement national des parts de marché (quelle que soit la source), l’enseigne ne domine pas de…",
+      "link": "https://www.olivierdauvers.fr/2026/11/08/exclu-parts-de-marche-leclerc-1er-dans-5-regions-sur-9/",
       "source": "Olivier Dauvers",
-      "pubDate": "2026-11-06T23:35:00.000Z",
+      "pubDate": "2026-11-08T11:41:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "Anthropic pourrait abaisser sa valorisation pour son entrée en Bourse",
-      "excerpt": "La volatilité des marchés technologiques et la prudence des investisseurs remettent en cause la valorisation et le calendrier de l'entrée en Bourse…",
-      "link": "https://www.journaldunet.com/business/1557673-anthropic-pourrait-abaisser-sa-valorisation-pour-son-entree-en-bourse/",
+      "title": "Trafic des sites e-commerce : la gamelle des Chinois !",
+      "excerpt": "DIMANCHE INFOGRAPHIE, suite. Le classement des sites e-commerce selon leur fréquentation à présent. Et la gamelle des Chinois. Selon le baromètre…",
+      "link": "https://www.olivierdauvers.fr/2026/11/08/trafic-des-sites-e-commerce-la-gamelle-des-chinois/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-08T10:30:14.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "\"C'est un pillage\" : l'intelligence artificielle s'attaque à l'art aborigène et vole les artistes",
+      "excerpt": "Porte-canettes, toiles, sous-verres... Sur Internet, les fausses œuvres aborigènes générées par IA se multiplient. Une contrefaçon massive qui prive…",
+      "link": "https://www.journaldunet.com/magazine/1557497-intelligence-artificielle-pillage-art-aborigene/",
       "source": "Journal du Net",
-      "pubDate": "2026-11-06T09:01:00.000Z",
+      "pubDate": "2026-11-08T06:05:02.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Cette entreprise distribuera 200 milliards de dollars à ses salariés à condition qu'ils restent au travail",
+      "excerpt": "L'entrée en Bourse d'Anthropic promet de transformer les actions de ses salariés en fortunes colossales. Mais entre les impôts et les délais de…",
+      "link": "https://www.journaldunet.com/patrimoine/finances-personnelles/1557475-anthropic-millionnaires/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-08T05:55:02.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
@@ -35,15 +44,6 @@
       "link": "https://www.ecommercemag.fr/retail-1220/joybuy-lance-sa-boutique-beaute-en-france-avec-k-beauty-et-marques-phares-60896",
       "source": "Ecommerce Mag",
       "pubDate": "2026-11-06T08:00:24.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "La MINUTE RETAIL : et si c’était le moment Costco…",
-      "excerpt": "A la une cette semaine : le très discret Costco. Discret, car Costco est sous les radars de l’actu retail du quotidien. 3 seuls magasins ouverts en…",
-      "link": "https://www.olivierdauvers.fr/2026/11/06/la-minute-retail-et-si-cetait-le-moment-costco-2/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-06T07:15:41.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
