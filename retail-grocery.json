@@ -1,23 +1,23 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-08T12:28:21.385Z",
+  "publishedAt": "2026-11-08T19:14:36.241Z",
   "itemsFr": [
     {
-      "title": "[ EXCLU ] Parts de marché : Leclerc 1er dans 5 régions sur 9",
-      "excerpt": "DIMANCHE INFOGRAPHIE, suite. Si Leclerc domine le classement national des parts de marché (quelle que soit la source), l’enseigne ne domine pas de…",
-      "link": "https://www.olivierdauvers.fr/2026/11/08/exclu-parts-de-marche-leclerc-1er-dans-5-regions-sur-9/",
+      "title": "[ RELATION CLIENT ] Picnic passe à la fidélité version rétention…",
+      "excerpt": "Vous connaissiez “Ikea family”, le programme de fidélité d’Ikea ? Voici “Picnic family”. Le LAD-iste néerlandais lance actuellement son programme de…",
+      "link": "https://www.olivierdauvers.fr/2026/11/08/relation-client-picnic-passe-a-la-fidelite-version-retention/",
       "source": "Olivier Dauvers",
-      "pubDate": "2026-11-08T11:41:00.000Z",
-      "category": "GRAND ANGLE",
+      "pubDate": "2026-11-08T16:05:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
-      "title": "Trafic des sites e-commerce : la gamelle des Chinois !",
-      "excerpt": "DIMANCHE INFOGRAPHIE, suite. Le classement des sites e-commerce selon leur fréquentation à présent. Et la gamelle des Chinois. Selon le baromètre…",
-      "link": "https://www.olivierdauvers.fr/2026/11/08/trafic-des-sites-e-commerce-la-gamelle-des-chinois/",
+      "title": "Carburants : la baisse des carburants beaucoup plus importante que promise, mais qui s’en rend (vraiment) compte ?",
+      "excerpt": "C’est le principe des baisses de prix. Elles se remarquent tellement moins que les hausses… En voilà encore une extraordinaire démonstration. En…",
+      "link": "https://www.olivierdauvers.fr/2026/11/08/carburants-la-baisse-des-carburants-beaucoup-plus-importante-que-promise-mais-qui-sen-rend-vraiment-compte/",
       "source": "Olivier Dauvers",
-      "pubDate": "2026-11-08T10:30:14.000Z",
-      "category": "GRAND ANGLE",
+      "pubDate": "2026-11-08T15:39:19.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
       "pinned": false
     },
     {
@@ -77,6 +77,15 @@
   ],
   "itemsEn": [
     {
+      "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
+      "excerpt": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+      "link": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-08T17:30:00.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
       "title": "Bed Bath & Beyond’s new concept takes a page from original format",
       "excerpt": "The store, with familiar elements like the towel wall and coupons, comes as its parent company reported strong revenue gains driven by recent…",
       "link": "https://www.retaildive.com/news/bed-bath-beyonds-new-concept-original-store-format-earnings/874012/",
@@ -110,15 +119,6 @@
       "source": "Grocery Dive",
       "pubDate": "2026-11-06T15:59:52.000Z",
       "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "Physicl raises $10M to make the digital world real enough for robots",
-      "excerpt": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
-      "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-06T13:00:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
