@@ -1,7 +1,61 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-09T10:39:09.317Z",
+  "publishedAt": "2026-11-09T21:45:34.546Z",
   "itemsFr": [
+    {
+      "title": "Cyberattaques contre les supermarchés : Paris vise une unité iranienne",
+      "excerpt": "Cyberattaques contre les supermarchés : Paris vise une unité iranienne",
+      "link": "https://www.frenchweb.fr/breaking-news/cyberattaques-contre-les-supermarches-paris-vise-une-unite-iranienne/80a4501e-081e-4a94-b96c-f6bae07d438f?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=breaking_news",
+      "source": "FrenchWeb",
+      "pubDate": "2026-11-09T18:11:47.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "\"Les discours pro-souveraineté numérique préfèrent souvent troquer la sécurité contre la pureté nationale\"",
+      "excerpt": "Sébastien Garnault, fondateur de CyberTaskForce, un think tank français de cybersécurité, et du Paris Cyber Summit, un événement annuel dédié au…",
+      "link": "https://www.journaldunet.com/cybersecurite/1557759-les-discours-pro-souverainete-numerique-preferent-souvent-troquer-la-securite-contre-la-purete-nationale/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-09T15:35:38.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "\"Les VC ne pensent qu'à ça !\" : les fondateurs de start-up obligés de prouver que l'IA ne les remplacera pas pour lever des fonds",
+      "excerpt": "Certains modèles économiques inquiètent les investisseurs, qui s'interrogent sur leur pérennité face aux progrès de l'intelligence artificielle.",
+      "link": "https://www.journaldunet.com/start-up/1557753-les-vc-ne-pensent-qu-a-ca-pour-lever-des-fonds-les-fondateurs-obliges-de-prouver-que-l-ia-ne-les-remplacera-pas/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-09T15:19:24.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Damart : une transformation omnicanale en pleine accélération",
+      "excerpt": "Marque patrimoniale née à Roubaix en 1953, Damart accélère la diversification de ses canaux de distribution et modernise son offre pour conquérir de…",
+      "link": "https://www.ecommercemag.fr/retail-1220/damart-une-transformation-omnicanale-en-pleine-acceleration-60852",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-11-09T15:00:26.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
+    {
+      "title": "Comment les marques organisent leur visibilité dans les IA",
+      "excerpt": "MARKETING IRL · La rédaction · 09/11/2026 Avec GetMint, Joan Burkovic explique comment les grandes entreprises organisent leur visibilité dans les…",
+      "link": "https://www.frenchweb.fr/comment-les-marques-organisent-leur-visibilite-dans-les-ia/900000030?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+      "source": "FrenchWeb",
+      "pubDate": "2026-11-09T13:16:57.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "[ EXCLU ] DISTRI PRIX Novembre : les 100 millions remis par Les Mousquetaires se voient",
+      "excerpt": "Nouvelle livraison de l’indice DISTRI PRIX (A3 Distrib / Ed. Dauvers) sur la base des prix observés en drives en novembre. Les mois se suivent et ne…",
+      "link": "https://www.olivierdauvers.fr/2026/11/09/exclu-distri-prix-novembre-les-100-millions-remis-par-les-mousquetaires-se-voient/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-09T10:56:00.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
     {
       "title": "Black Friday : la défiance des consommateurs français face aux remises affichées",
       "excerpt": "Alors que le Black Friday s'est définitivement imposé dans le calendrier commercial en France, la confiance des acheteurs s'effrite. Selon une étude…",
@@ -12,33 +66,6 @@
       "pinned": false
     },
     {
-      "title": "Cloud et agents IA : pourquoi l'identité devient le nouveau socle de la cybersécurité",
-      "excerpt": "Avec l'essor du Cloud et des agents IA, les identités non humaines se multiplient. Leur sécurisation impose de repenser l'authentification et les…",
-      "link": "https://www.journaldunet.com/cybersecurite/1557701-cloud-et-agents-ia-pourquoi-l-identite-devient-le-nouveau-socle-de-la-cybersecurite/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-09T10:15:21.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "Former ses équipes à l'IA : pourquoi la formation générique ne suffit plus",
-      "excerpt": "Une session de découverte de ChatGPT pour tous, puis plus rien : les usages retombent. Former métier par métier change le résultat et répond mieux à…",
-      "link": "https://www.journaldunet.com/management/formation/1557729-former-ses-equipes-a-l-ia-pourquoi-la-formation-generique-ne-suffit-plus/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-09T09:04:33.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "Services post-achat : l’IA agentique et le modèle capacitaire au service de la pose",
-      "excerpt": "Si les grandes enseignes maîtrisent la vente de projets d'aménagement, la gestion de leur installation reste un point de friction important. Pour…",
-      "link": "https://www.ecommercemag.fr/retail-1220/strategie-retail-2163/services-post-achat-lia-agentique-et-le-modele-capacitaire-au-service-de-la-pose-60935",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-11-09T08:41:44.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
       "title": "[ RELATION CLIENT ] Picnic passe à la fidélité version rétention…",
       "excerpt": "Vous connaissiez “Ikea family”, le programme de fidélité d’Ikea ? Voici “Picnic family”. Le LAD-iste néerlandais lance actuellement son programme de…",
       "link": "https://www.olivierdauvers.fr/2026/11/08/relation-client-picnic-passe-a-la-fidelite-version-retention/",
@@ -46,70 +73,79 @@
       "pubDate": "2026-11-08T16:05:00.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
-    },
-    {
-      "title": "Carburants : la baisse des carburants beaucoup plus importante que promise, mais qui s’en rend (vraiment) compte ?",
-      "excerpt": "C’est le principe des baisses de prix. Elles se remarquent tellement moins que les hausses… En voilà encore une extraordinaire démonstration. En…",
-      "link": "https://www.olivierdauvers.fr/2026/11/08/carburants-la-baisse-des-carburants-beaucoup-plus-importante-que-promise-mais-qui-sen-rend-vraiment-compte/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-08T15:39:19.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "E-commerçants, startups, indépendants : le box de stockage, nouvelle brique de la logistique légère",
-      "excerpt": "TOPICS INDEX · Topics Index · 05/11/2026 Entre le garage du fondateur et la plateforme logistique externalisée, une solution intermédiaire s'est…",
-      "link": "https://www.frenchweb.fr/e-commercants-startups-independants-le-box-de-stockage-nouvelle-brique-de-la-logistique-legere/900000021?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
-      "source": "FrenchWeb",
-      "pubDate": "2026-11-05T05:06:14.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "SHEIN annonce 500 millions d’euros d’investissement en Pologne pour renforcer sa logistique européenne",
-      "excerpt": "SHEIN annonce 500 millions d’euros d’investissement en Pologne pour renforcer sa logistique européenne",
-      "link": "https://www.frenchweb.fr/breaking-news/shein-annonce-500-millions-d-euros-d-investissement-en-pologne-pour-renforcer-sa-logistique-europeenne/6ccf32b9-5755-42b5-911e-cf1b6b670fac?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=breaking_news",
-      "source": "FrenchWeb",
-      "pubDate": "2026-11-04T17:20:17.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
     }
   ],
   "itemsEn": [
     {
-      "title": "How enterprise brands are retooling commerce platforms to capture AI shoppers",
-      "excerpt": "Whether your brand surfaces in agentic commerce hinges on the systems behind your storefront.",
-      "link": "https://www.retaildive.com/spons/how-enterprise-brands-are-retooling-commerce-platforms-to-capture-ai-shoppe/873905/",
-      "source": "Retail Dive",
-      "pubDate": "2026-11-09T10:00:00.000Z",
+      "title": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
+      "excerpt": "France's foreign minister blamed Iran for launching at least two waves of cyberattacks targeting industrial refrigerated and freezer units across…",
+      "link": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-09T19:19:24.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "Beyond the AI shortlist: How brands can inspire the next purchase",
-      "excerpt": "Inspiration comes before the search. Check out how you can drive discovery and desire before intent.",
-      "link": "https://www.retaildive.com/spons/beyond-the-ai-shortlist-how-brands-can-inspire-the-next-purchase/873681/",
+      "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
+      "excerpt": "Uber Parking is the latest example of the company offering products beyond its core ride-hailing service.",
+      "link": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-09T17:00:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Amazon deploys thousands of smart glasses to delivery drivers",
+      "excerpt": "The glasses provide navigation and drop-off instructions within drivers' field of view, part of the company's effort to boost delivery efficiency.",
+      "link": "https://www.retaildive.com/news/amazon-deploys-thousands-of-smart-glasses-to-delivery-drivers/873762/",
       "source": "Retail Dive",
-      "pubDate": "2026-11-09T10:00:00.000Z",
+      "pubDate": "2026-11-09T16:40:00.000Z",
       "category": "MAGASIN & EXPÉRIENCE",
       "pinned": false
     },
     {
-      "title": "The winter retail opportunity for Florida grapefruit",
-      "excerpt": "For shoppers seeking whole or minimally processed foods, fresh grapefruit is a simple ingredient they can instantly recognize and easily prepare in…",
-      "link": "https://www.grocerydive.com/spons/the-winter-retail-opportunity-for-florida-grapefruit/873535/",
+      "title": "USDA greenlights WIC online ordering",
+      "excerpt": "The agency’s new rule follows years of advocacy from the grocery industry to let program participants place online orders with their benefits.",
+      "link": "https://www.grocerydive.com/news/usda-greenlights-wic-online-ordering/874106/",
       "source": "Grocery Dive",
-      "pubDate": "2026-11-09T10:00:00.000Z",
+      "pubDate": "2026-11-09T16:24:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "The next breakthrough in grocery intelligence starts at the shelf",
-      "excerpt": "As grocers invest in AI, connected shelf technology is helping bridge the gap between digital intelligence and everyday store execution.",
-      "link": "https://www.grocerydive.com/spons/the-next-breakthrough-in-grocery-intelligence-starts-at-the-shelf/873979/",
+      "title": "Kroger accelerates direct sourcing efforts for better cost control, visibility",
+      "excerpt": "The grocery chain seeks to boost first-party procurement volumes to more than 10% while working toward a fully owned import and distribution model.",
+      "link": "https://www.grocerydive.com/news/kroger-accelerates-direct-sourcing-efforts/873636/",
       "source": "Grocery Dive",
-      "pubDate": "2026-11-09T10:00:00.000Z",
+      "pubDate": "2026-11-09T16:07:00.000Z",
       "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Amazon debuts text-to-shop AI agent feature",
+      "excerpt": "Select U.S. customers can now text Alexa for Shopping, with the company planning to debut the functionality more broadly in the coming weeks.",
+      "link": "https://www.retaildive.com/news/amazon-text-to-shop-ai-agent/874085/",
+      "source": "Retail Dive",
+      "pubDate": "2026-11-09T15:42:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "WHSmith deploying Wildix AI platform",
+      "excerpt": "WHSmith, a global travel essential retailer, is deploying x-hoppers, an AI-powered retail communication platform from Wildix, across 300-plus U.K…",
+      "link": "https://www.retailcustomerexperience.com/news/whsmith-deploying-wildix-ai-platform/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-09T11:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Florida grocer debuts hologram shopping experience",
+      "excerpt": "The Seed to Table grocery store, in Naples, Florida has launched a 7-foot conversational hologram, with a shopping cart called Goldie, that aims to…",
+      "link": "https://www.retailcustomerexperience.com/news/florida-grocer-debuts-hologram-shopping-experience/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-09T11:00:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
@@ -131,56 +167,11 @@
       "pinned": false
     },
     {
-      "title": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
-      "excerpt": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?",
-      "link": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-08T21:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
-      "excerpt": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
-      "link": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-08T17:30:00.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "Why Trader Joe’s doesn’t deliver, or offer curb pickup",
-      "excerpt": "While the majority of retailers, from supermarkets to department stores, offer several ways of getting items delivered one grocery chain is a…",
-      "link": "https://www.retailcustomerexperience.com/news/why-trader-joes-doesnt-deliver-or-offer-curb-pickup/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-06T11:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Most online shoppers want a human, not a chatbot when needing help",
-      "excerpt": "Two-thirds of online shoppers want a human, not a chatbot, when an order goes wrong. While shoppers prefer AI when it comes to product research, 69%…",
-      "link": "https://www.retailcustomerexperience.com/news/most-online-shoppers-want-a-human-not-a-chatbot-when-needing-help/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-06T11:00:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
       "title": "PODCAST: AI and the future of shopping",
       "excerpt": "In the latest episode of the Retail Technology podcast Counter Culture, analyst, writer and RT publisher Miya Knights joins host Bruce Ackland to…",
       "link": "https://www.retailtechnology.co.uk/rss.xml/news/8760/podcast:-ai-and-the-future-of-shopping/",
       "source": "Retail Technology",
       "pubDate": "2026-11-06T00:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "The problem with ‘GLP-1 friendly’ food labels",
-      "excerpt": "As more companies design products for consumers on weight loss drugs, experts warn there are risks in treating these shoppers as “a monolith.”",
-      "link": "https://www.fooddive.com/news/glp1s-labels-food-health-innovation-protein-fiber/873857/",
-      "source": "Food Dive",
-      "pubDate": "2026-11-05T14:53:45.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     }
