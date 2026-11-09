@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-08T19:14:36.241Z",
+  "publishedAt": "2026-11-09T00:20:03.573Z",
   "itemsFr": [
     {
       "title": "[ RELATION CLIENT ] Picnic passe à la fidélité version rétention…",
@@ -76,6 +76,24 @@
     }
   ],
   "itemsEn": [
+    {
+      "title": "Batteries Plus competes with AI product matching",
+      "excerpt": "AI-driven product matching is extending the US specialty retailer's competitive price visibility to most of its consumer revenue",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8801/batteries-plus-competes-with-ai-product-matching/",
+      "source": "Retail Technology",
+      "pubDate": "2026-11-09T00:00:00.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
+    {
+      "title": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
+      "excerpt": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?",
+      "link": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-08T21:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
       "excerpt": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
@@ -164,15 +182,6 @@
       "source": "Food Dive",
       "pubDate": "2026-11-05T14:42:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "ChatGPT goes high end with Prada",
-      "excerpt": "Iconic fashion house Prada has joined with Accenture Song to develop a new plugin in ChatGPT to explore how agentic commerce can create new customer…",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8797/chatgpt-goes-high-end-with-prada/",
-      "source": "Retail Technology",
-      "pubDate": "2026-11-03T00:00:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     }
   ]
