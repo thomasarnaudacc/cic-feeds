@@ -1,7 +1,43 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-09T00:20:03.573Z",
+  "publishedAt": "2026-11-09T10:39:09.317Z",
   "itemsFr": [
+    {
+      "title": "Black Friday : la défiance des consommateurs français face aux remises affichées",
+      "excerpt": "Alors que le Black Friday s'est définitivement imposé dans le calendrier commercial en France, la confiance des acheteurs s'effrite. Selon une étude…",
+      "link": "https://www.ecommercemag.fr/retail-1220/barometre-etude-2168/black-friday-la-defiance-des-consommateurs-francais-face-aux-remises-affichees-60945",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-11-09T10:18:55.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Cloud et agents IA : pourquoi l'identité devient le nouveau socle de la cybersécurité",
+      "excerpt": "Avec l'essor du Cloud et des agents IA, les identités non humaines se multiplient. Leur sécurisation impose de repenser l'authentification et les…",
+      "link": "https://www.journaldunet.com/cybersecurite/1557701-cloud-et-agents-ia-pourquoi-l-identite-devient-le-nouveau-socle-de-la-cybersecurite/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-09T10:15:21.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "Former ses équipes à l'IA : pourquoi la formation générique ne suffit plus",
+      "excerpt": "Une session de découverte de ChatGPT pour tous, puis plus rien : les usages retombent. Former métier par métier change le résultat et répond mieux à…",
+      "link": "https://www.journaldunet.com/management/formation/1557729-former-ses-equipes-a-l-ia-pourquoi-la-formation-generique-ne-suffit-plus/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-09T09:04:33.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
+    {
+      "title": "Services post-achat : l’IA agentique et le modèle capacitaire au service de la pose",
+      "excerpt": "Si les grandes enseignes maîtrisent la vente de projets d'aménagement, la gestion de leur installation reste un point de friction important. Pour…",
+      "link": "https://www.ecommercemag.fr/retail-1220/strategie-retail-2163/services-post-achat-lia-agentique-et-le-modele-capacitaire-au-service-de-la-pose-60935",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-11-09T08:41:44.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
     {
       "title": "[ RELATION CLIENT ] Picnic passe à la fidélité version rétention…",
       "excerpt": "Vous connaissiez “Ikea family”, le programme de fidélité d’Ikea ? Voici “Picnic family”. Le LAD-iste néerlandais lance actuellement son programme de…",
@@ -18,42 +54,6 @@
       "source": "Olivier Dauvers",
       "pubDate": "2026-11-08T15:39:19.000Z",
       "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "\"C'est un pillage\" : l'intelligence artificielle s'attaque à l'art aborigène et vole les artistes",
-      "excerpt": "Porte-canettes, toiles, sous-verres... Sur Internet, les fausses œuvres aborigènes générées par IA se multiplient. Une contrefaçon massive qui prive…",
-      "link": "https://www.journaldunet.com/magazine/1557497-intelligence-artificielle-pillage-art-aborigene/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-08T06:05:02.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Cette entreprise distribuera 200 milliards de dollars à ses salariés à condition qu'ils restent au travail",
-      "excerpt": "L'entrée en Bourse d'Anthropic promet de transformer les actions de ses salariés en fortunes colossales. Mais entre les impôts et les délais de…",
-      "link": "https://www.journaldunet.com/patrimoine/finances-personnelles/1557475-anthropic-millionnaires/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-08T05:55:02.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "Joybuy lance sa boutique Beauté en France avec K-beauty et marques phares",
-      "excerpt": "La plateforme de commerce en ligne Joybuy ouvre un espace entièrement consacré au secteur de la beauté sur le marché français. L'offre rassemble des…",
-      "link": "https://www.ecommercemag.fr/retail-1220/joybuy-lance-sa-boutique-beaute-en-france-avec-k-beauty-et-marques-phares-60896",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-11-06T08:00:24.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Ventes d’habillement : les centres-villes durement touchés en octobre 2026",
-      "excerpt": "Après un début de mois prometteur, les manifestations et les violences survenues à partir du 17 octobre ont brutalement freiné la reprise du commerce…",
-      "link": "https://www.ecommercemag.fr/retail-1220/veille-tribune-2169/ventes-dhabillement-les-centres-villes-durement-touches-en-octobre-2026-60886",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-11-05T12:14:37.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -76,6 +76,51 @@
     }
   ],
   "itemsEn": [
+    {
+      "title": "How enterprise brands are retooling commerce platforms to capture AI shoppers",
+      "excerpt": "Whether your brand surfaces in agentic commerce hinges on the systems behind your storefront.",
+      "link": "https://www.retaildive.com/spons/how-enterprise-brands-are-retooling-commerce-platforms-to-capture-ai-shoppe/873905/",
+      "source": "Retail Dive",
+      "pubDate": "2026-11-09T10:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Beyond the AI shortlist: How brands can inspire the next purchase",
+      "excerpt": "Inspiration comes before the search. Check out how you can drive discovery and desire before intent.",
+      "link": "https://www.retaildive.com/spons/beyond-the-ai-shortlist-how-brands-can-inspire-the-next-purchase/873681/",
+      "source": "Retail Dive",
+      "pubDate": "2026-11-09T10:00:00.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
+    {
+      "title": "The winter retail opportunity for Florida grapefruit",
+      "excerpt": "For shoppers seeking whole or minimally processed foods, fresh grapefruit is a simple ingredient they can instantly recognize and easily prepare in…",
+      "link": "https://www.grocerydive.com/spons/the-winter-retail-opportunity-for-florida-grapefruit/873535/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-11-09T10:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "The next breakthrough in grocery intelligence starts at the shelf",
+      "excerpt": "As grocers invest in AI, connected shelf technology is helping bridge the gap between digital intelligence and everyday store execution.",
+      "link": "https://www.grocerydive.com/spons/the-next-breakthrough-in-grocery-intelligence-starts-at-the-shelf/873979/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-11-09T10:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Shopper intent and the best live offer rarely point to the same retailer. CPG media plans should weigh both.",
+      "excerpt": "Same SKU, five retailers, five prices. What CPG plans do when intent and offers split.",
+      "link": "https://www.fooddive.com/spons/shopper-intent-and-the-best-live-offer-rarely-point-to-the-same-retailer-c/873914/",
+      "source": "Food Dive",
+      "pubDate": "2026-11-09T10:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "Batteries Plus competes with AI product matching",
       "excerpt": "AI-driven product matching is extending the US specialty retailer's competitive price visibility to most of its consumer revenue",
@@ -104,39 +149,12 @@
       "pinned": false
     },
     {
-      "title": "Bed Bath & Beyond’s new concept takes a page from original format",
-      "excerpt": "The store, with familiar elements like the towel wall and coupons, comes as its parent company reported strong revenue gains driven by recent…",
-      "link": "https://www.retaildive.com/news/bed-bath-beyonds-new-concept-original-store-format-earnings/874012/",
-      "source": "Retail Dive",
-      "pubDate": "2026-11-06T17:47:00.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
-      "title": "Under Armour to sell more full-price product at outlet stores",
-      "excerpt": "The move is part of a broader store revamp and comes as the athletics brand tries to increase its premium positioning in the market.",
-      "link": "https://www.retaildive.com/news/under-armour-q2-earnings-sales-declines-licensed-youth-sports/873996/",
-      "source": "Retail Dive",
-      "pubDate": "2026-11-06T17:13:00.000Z",
+      "title": "Why Trader Joe’s doesn’t deliver, or offer curb pickup",
+      "excerpt": "While the majority of retailers, from supermarkets to department stores, offer several ways of getting items delivered one grocery chain is a…",
+      "link": "https://www.retailcustomerexperience.com/news/why-trader-joes-doesnt-deliver-or-offer-curb-pickup/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-06T11:00:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "The Friday Checkout: The Kroger-Albertsons fight still has a long way to go",
-      "excerpt": "How the judge who will settle the retailers’ dispute interprets their inability to come up with a suitable divestiture plan could determine how she…",
-      "link": "https://www.grocerydive.com/news/the-friday-checkout-albertsons-kroger-trial-store-divestitures/873861/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-11-06T16:59:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Lidl US spruces up private label offerings for holiday season",
-      "excerpt": "The discounter is reintroducing 89 gourmet European products to its Preferred Selection line for a limited time.",
-      "link": "https://www.grocerydive.com/news/lidl-us-private-label-limited-time-launch-holiday/873895/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-11-06T15:59:52.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
       "pinned": false
     },
     {
@@ -146,15 +164,6 @@
       "source": "Retail Customer Experience",
       "pubDate": "2026-11-06T11:00:00.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Why Trader Joe’s doesn’t deliver, or offer curb pickup",
-      "excerpt": "While the majority of retailers, from supermarkets to department stores, offer several ways of getting items delivered one grocery chain is a…",
-      "link": "https://www.retailcustomerexperience.com/news/why-trader-joes-doesnt-deliver-or-offer-curb-pickup/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-06T11:00:00.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -172,15 +181,6 @@
       "link": "https://www.fooddive.com/news/glp1s-labels-food-health-innovation-protein-fiber/873857/",
       "source": "Food Dive",
       "pubDate": "2026-11-05T14:53:45.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Grocery e-commerce and in-store sales head in opposite directions",
-      "excerpt": "Online food and beverage sales rose more than 15% during the four weeks that ended Oct. 4, while physical store sales were down almost 3%, Circana…",
-      "link": "https://www.fooddive.com/news/food-beverage-sales-ecommerce-physical-stores-grocery-supermarkets/873471/",
-      "source": "Food Dive",
-      "pubDate": "2026-11-05T14:42:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     }
