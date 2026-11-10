@@ -1,31 +1,58 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-10T05:18:12.608Z",
+  "publishedAt": "2026-11-10T13:58:30.385Z",
   "itemsFr": [
+    {
+      "title": "Étudiants étrangers : la loi protège leur garant depuis vingt ans, le marché locatif l'ignore",
+      "excerpt": "Depuis la fin de l'APL pour les étudiants extracommunautaires non boursiers, leur dossier repose sur le garant. Or la loi interdit depuis 2006 de le…",
+      "link": "https://www.journaldunet.com/economie/immobilier/1557341-etudiants-etrangers-la-loi-protege-leur-garant-depuis-vingt-ans-le-marche-locatif-l-ignore/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-10T13:17:27.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Midterms, bulle, Jensen Huang… : la folle semaine qui a peut-être fait basculer la course à l’IA",
+      "excerpt": "L’article Midterms, bulle, Jensen Huang… : la folle semaine qui a peut-être fait basculer la course à l’IA est apparu en premier sur Maddyness - Le…",
+      "link": "https://www.maddyness.com/2026/11/10/midterms-bulle-jensen-huang-la-folle-semaine-qui-a-peut-etre-fait-basculer-la-course-a-lia/",
+      "source": "Maddyness",
+      "pubDate": "2026-11-10T11:47:05.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "Fable 5.2 & Mythos 5.2 : le coup d'éclat d'Anthropic juste avant son IPO",
+      "excerpt": "Les deux variantes d'un même modèle progressent en code, en vision et en raisonnement, et s'attaquent à la science et à la robotique. Le prix baisse…",
+      "link": "https://www.journaldunet.com/intelligence-artificielle/1557819-fable-5-2-mythos-5-2-le-coup-de-force-d-anthropic-juste-avant-son-ipo/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-10T11:33:17.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "[ DRIVE ] Le 20e “dropper” pour Leclerc et le premier en tri-température à Toulon",
+      "excerpt": "Ceux qui étaient présents aux Ateliers du Drive (co-organisés avec Linéaires) n’en seront pas surpris : le premier “dropper” tri-température y avait…",
+      "link": "https://www.olivierdauvers.fr/2026/11/10/drive-le-20e-dropper-pour-leclerc-et-le-premier-en-tri-temperature-a-toulon/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-10T10:34:00.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
+    {
+      "title": "Deliveroo Shopping débarque en France et cible le non-alimentaire",
+      "excerpt": "La plateforme de livraison Deliveroo étend ses services au-delà de la restauration et des courses alimentaires en déployant un espace dédié aux…",
+      "link": "https://www.ecommercemag.fr/logistique-1222/deliveroo-shopping-debarque-en-france-et-cible-le-non-alimentaire-60950",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-11-10T08:37:16.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
     {
       "title": "Cyberattaques contre les supermarchés : Paris vise une unité iranienne",
       "excerpt": "Cyberattaques contre les supermarchés : Paris vise une unité iranienne",
       "link": "https://www.frenchweb.fr/breaking-news/cyberattaques-contre-les-supermarches-paris-vise-une-unite-iranienne/80a4501e-081e-4a94-b96c-f6bae07d438f?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=breaking_news",
       "source": "FrenchWeb",
       "pubDate": "2026-11-09T18:11:47.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "\"Les discours pro-souveraineté numérique préfèrent souvent troquer la sécurité contre la pureté nationale\"",
-      "excerpt": "Sébastien Garnault, fondateur de CyberTaskForce, un think tank français de cybersécurité, et du Paris Cyber Summit, un événement annuel dédié au…",
-      "link": "https://www.journaldunet.com/cybersecurite/1557759-les-discours-pro-souverainete-numerique-preferent-souvent-troquer-la-securite-contre-la-purete-nationale/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-09T15:35:38.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "\"Les VC ne pensent qu'à ça !\" : les fondateurs de start-up obligés de prouver que l'IA ne les remplacera pas pour lever des fonds",
-      "excerpt": "Certains modèles économiques inquiètent les investisseurs, qui s'interrogent sur leur pérennité face aux progrès de l'intelligence artificielle.",
-      "link": "https://www.journaldunet.com/start-up/1557753-les-vc-ne-pensent-qu-a-ca-pour-lever-des-fonds-les-fondateurs-obliges-de-prouver-que-l-ia-ne-les-remplacera-pas/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-09T15:19:24.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -55,27 +82,45 @@
       "pubDate": "2026-11-09T10:56:00.000Z",
       "category": "OFFRE, PRIX & MERCHANDISING",
       "pinned": false
+    }
+  ],
+  "itemsEn": [
+    {
+      "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+      "excerpt": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
+      "link": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-10T13:30:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
     },
     {
-      "title": "Black Friday : la défiance des consommateurs français face aux remises affichées",
-      "excerpt": "Alors que le Black Friday s'est définitivement imposé dans le calendrier commercial en France, la confiance des acheteurs s'effrite. Selon une étude…",
-      "link": "https://www.ecommercemag.fr/retail-1220/barometre-etude-2168/black-friday-la-defiance-des-consommateurs-francais-face-aux-remises-affichees-60945",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-11-09T10:18:55.000Z",
+      "title": "Holiday hiring looks different this year. Here’s why.",
+      "excerpt": "From retailers pulling back on large hiring announcements to the creation of more part-time roles, here’s why 2026 might be a tipping point for…",
+      "link": "https://www.retaildive.com/news/why-retail-holiday-hiring-looks-different-2026/873988/",
+      "source": "Retail Dive",
+      "pubDate": "2026-11-10T12:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "[ RELATION CLIENT ] Picnic passe à la fidélité version rétention…",
-      "excerpt": "Vous connaissiez “Ikea family”, le programme de fidélité d’Ikea ? Voici “Picnic family”. Le LAD-iste néerlandais lance actuellement son programme de…",
-      "link": "https://www.olivierdauvers.fr/2026/11/08/relation-client-picnic-passe-a-la-fidelite-version-retention/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-08T16:05:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "title": "Walmart, Zipline teaming up to launch 300 additional drone delivery",
+      "excerpt": "Retailer Walmart and Zipline, an autonomous drone delivery network, are teaming up to launch 300 additional sites as part of a new national…",
+      "link": "https://www.retailcustomerexperience.com/news/walmart-zipline-teaming-up-to-launch-300-additional-drone-delivery/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-10T11:00:00.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
-    }
-  ],
-  "itemsEn": [
+    },
+    {
+      "title": "Costco reports double-digit October sales growth",
+      "excerpt": "October was a good month for Costco as the wholesaler reported net sales increased 12.6%. The sales growth outpaced the broad retail landscape…",
+      "link": "https://www.retailcustomerexperience.com/news/costco-reports-double-digit-october-sales-growth/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-10T11:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "Missing beep: QR codes on phones and tills",
       "excerpt": "Checkout-ready QR codes depend on standards-compliant packs and retail systems prepared to read them, explains Camilla Young, programme lead at GS1 UK",
@@ -92,15 +137,6 @@
       "source": "TechCrunch",
       "pubDate": "2026-11-09T22:23:42.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
-      "excerpt": "France's foreign minister blamed Iran for launching at least two waves of cyberattacks targeting industrial refrigerated and freezer units across…",
-      "link": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-09T19:19:24.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -127,33 +163,6 @@
       "link": "https://www.grocerydive.com/news/kroger-accelerates-direct-sourcing-efforts/873636/",
       "source": "Grocery Dive",
       "pubDate": "2026-11-09T16:07:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Amazon debuts text-to-shop AI agent feature",
-      "excerpt": "Select U.S. customers can now text Alexa for Shopping, with the company planning to debut the functionality more broadly in the coming weeks.",
-      "link": "https://www.retaildive.com/news/amazon-text-to-shop-ai-agent/874085/",
-      "source": "Retail Dive",
-      "pubDate": "2026-11-09T15:42:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Florida grocer debuts hologram shopping experience",
-      "excerpt": "The Seed to Table grocery store, in Naples, Florida has launched a 7-foot conversational hologram, with a shopping cart called Goldie, that aims to…",
-      "link": "https://www.retailcustomerexperience.com/news/florida-grocer-debuts-hologram-shopping-experience/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-09T11:00:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "WHSmith deploying Wildix AI platform",
-      "excerpt": "WHSmith, a global travel essential retailer, is deploying x-hoppers, an AI-powered retail communication platform from Wildix, across 300-plus U.K…",
-      "link": "https://www.retailcustomerexperience.com/news/whsmith-deploying-wildix-ai-platform/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-09T11:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
