@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-09T21:45:34.546Z",
+  "publishedAt": "2026-11-10T05:18:12.608Z",
   "itemsFr": [
     {
       "title": "Cyberattaques contre les supermarchés : Paris vise une unité iranienne",
@@ -77,21 +77,30 @@
   ],
   "itemsEn": [
     {
+      "title": "Missing beep: QR codes on phones and tills",
+      "excerpt": "Checkout-ready QR codes depend on standards-compliant packs and retail systems prepared to read them, explains Camilla Young, programme lead at GS1 UK",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8800/missing-beep:-qr-codes-on-phones-and-tills/",
+      "source": "Retail Technology",
+      "pubDate": "2026-11-10T00:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "The race is on to sue Nvidia",
+      "excerpt": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one…",
+      "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-09T22:23:42.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
       "title": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
       "excerpt": "France's foreign minister blamed Iran for launching at least two waves of cyberattacks targeting industrial refrigerated and freezer units across…",
       "link": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/",
       "source": "TechCrunch",
       "pubDate": "2026-11-09T19:19:24.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
-      "excerpt": "Uber Parking is the latest example of the company offering products beyond its core ride-hailing service.",
-      "link": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-09T17:00:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
@@ -131,21 +140,21 @@
       "pinned": false
     },
     {
-      "title": "WHSmith deploying Wildix AI platform",
-      "excerpt": "WHSmith, a global travel essential retailer, is deploying x-hoppers, an AI-powered retail communication platform from Wildix, across 300-plus U.K…",
-      "link": "https://www.retailcustomerexperience.com/news/whsmith-deploying-wildix-ai-platform/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-09T11:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Florida grocer debuts hologram shopping experience",
       "excerpt": "The Seed to Table grocery store, in Naples, Florida has launched a 7-foot conversational hologram, with a shopping cart called Goldie, that aims to…",
       "link": "https://www.retailcustomerexperience.com/news/florida-grocer-debuts-hologram-shopping-experience/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-11-09T11:00:00.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "WHSmith deploying Wildix AI platform",
+      "excerpt": "WHSmith, a global travel essential retailer, is deploying x-hoppers, an AI-powered retail communication platform from Wildix, across 300-plus U.K…",
+      "link": "https://www.retailcustomerexperience.com/news/whsmith-deploying-wildix-ai-platform/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-09T11:00:00.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -164,15 +173,6 @@
       "source": "Retail Technology",
       "pubDate": "2026-11-09T00:00:00.000Z",
       "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
-      "title": "PODCAST: AI and the future of shopping",
-      "excerpt": "In the latest episode of the Retail Technology podcast Counter Culture, analyst, writer and RT publisher Miya Knights joins host Bruce Ackland to…",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8760/podcast:-ai-and-the-future-of-shopping/",
-      "source": "Retail Technology",
-      "pubDate": "2026-11-06T00:00:00.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     }
   ]
