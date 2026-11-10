@@ -1,13 +1,49 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-10T13:58:30.385Z",
+  "publishedAt": "2026-11-10T21:06:20.513Z",
   "itemsFr": [
     {
-      "title": "Étudiants étrangers : la loi protège leur garant depuis vingt ans, le marché locatif l'ignore",
-      "excerpt": "Depuis la fin de l'APL pour les étudiants extracommunautaires non boursiers, leur dossier repose sur le garant. Or la loi interdit depuis 2006 de le…",
-      "link": "https://www.journaldunet.com/economie/immobilier/1557341-etudiants-etrangers-la-loi-protege-leur-garant-depuis-vingt-ans-le-marche-locatif-l-ignore/",
+      "title": "ANTHROPIC prépare une IPO de 64 milliards de dollars : ce que révèlent ses comptes",
+      "excerpt": "AI SHIFT · La rédaction · 10/11/2026 Le créateur de Claude associe son introduction en Bourse à un placement privé de 26 milliards de dollars. Ses…",
+      "link": "https://www.frenchweb.fr/anthropic-prepare-une-ipo-de-64-milliards-de-dollars-ce-que-revelent-ses-comptes/900000035?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+      "source": "FrenchWeb",
+      "pubDate": "2026-11-10T17:10:34.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "Site à abonnement : cinq questions à poser avant de choisir Wix, Framer ou un autre",
+      "excerpt": "Les créateurs de sites en ligne affichent un prix par mois. Sur cinq ans, et le jour où l'on veut partir, l'addition est différente. Les points à…",
+      "link": "https://www.journaldunet.com/seo/1557323-site-a-abonnement-cinq-questions-a-poser-avant-de-choisir-wix-framer-ou-un-autre/",
       "source": "Journal du Net",
-      "pubDate": "2026-11-10T13:17:27.000Z",
+      "pubDate": "2026-11-10T14:55:46.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Visibilité dans les IA : mesurer en anglais, c'est mesurer un autre marché",
+      "excerpt": "Même question, même pays, deux langues : les moteurs IA ne citent presque jamais les mêmes marques. Ce que cela change pour le suivi GEO, selon une…",
+      "link": "https://www.journaldunet.com/seo/1557429-visibilite-dans-les-ia-mesurer-en-anglais-c-est-mesurer-un-autre-marche/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-10T14:55:03.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "[ EXCLU ] Achats : Intermarché et Francap (re)signent pour 10 ans",
+      "excerpt": "Ils s’étaient dit “oui” en juillet 2018 pour un mariage au 1er janvier 2019. Ils viennent de se redire “oui”, cette fois-ci pour 10 ans. Selon mes…",
+      "link": "https://www.olivierdauvers.fr/2026/11/10/exclu-achats-intermarche-et-francap-resignent-pour-10-ans/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-10T14:45:59.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "[ EXCLU ] Intermarché et Sodebo déjà fâchés !",
+      "excerpt": "La saison des négos est officiellement ouvertes ! Les premières fâcheries sont en effet déjà là. La plus visible : Intermarché et Sodebo. Signe qui…",
+      "link": "https://www.olivierdauvers.fr/2026/11/10/exclu-intermarche-et-sodebo-deja-faches/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-10T14:03:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -18,24 +54,6 @@
       "source": "Maddyness",
       "pubDate": "2026-11-10T11:47:05.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "Fable 5.2 & Mythos 5.2 : le coup d'éclat d'Anthropic juste avant son IPO",
-      "excerpt": "Les deux variantes d'un même modèle progressent en code, en vision et en raisonnement, et s'attaquent à la science et à la robotique. Le prix baisse…",
-      "link": "https://www.journaldunet.com/intelligence-artificielle/1557819-fable-5-2-mythos-5-2-le-coup-de-force-d-anthropic-juste-avant-son-ipo/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-10T11:33:17.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "[ DRIVE ] Le 20e “dropper” pour Leclerc et le premier en tri-température à Toulon",
-      "excerpt": "Ceux qui étaient présents aux Ateliers du Drive (co-organisés avec Linéaires) n’en seront pas surpris : le premier “dropper” tri-température y avait…",
-      "link": "https://www.olivierdauvers.fr/2026/11/10/drive-le-20e-dropper-pour-leclerc-et-le-premier-en-tri-temperature-a-toulon/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-10T10:34:00.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
       "pinned": false
     },
     {
@@ -64,43 +82,61 @@
       "pubDate": "2026-11-09T15:00:26.000Z",
       "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
-    },
-    {
-      "title": "Comment les marques organisent leur visibilité dans les IA",
-      "excerpt": "MARKETING IRL · La rédaction · 09/11/2026 Avec GetMint, Joan Burkovic explique comment les grandes entreprises organisent leur visibilité dans les…",
-      "link": "https://www.frenchweb.fr/comment-les-marques-organisent-leur-visibilite-dans-les-ia/900000030?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
-      "source": "FrenchWeb",
-      "pubDate": "2026-11-09T13:16:57.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "[ EXCLU ] DISTRI PRIX Novembre : les 100 millions remis par Les Mousquetaires se voient",
-      "excerpt": "Nouvelle livraison de l’indice DISTRI PRIX (A3 Distrib / Ed. Dauvers) sur la base des prix observés en drives en novembre. Les mois se suivent et ne…",
-      "link": "https://www.olivierdauvers.fr/2026/11/09/exclu-distri-prix-novembre-les-100-millions-remis-par-les-mousquetaires-se-voient/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-09T10:56:00.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
     }
   ],
   "itemsEn": [
     {
-      "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
-      "excerpt": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
-      "link": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-10T13:30:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "title": "Ferrara to shutter Chicago plant, impacting more than 150 workers",
+      "excerpt": "The closure, expected to occur in April 2027, comes as the Laffy Taffy and Jelly Belly maker assesses market conditions and its long-term innovation…",
+      "link": "https://www.fooddive.com/news/ferrara-closing-chicago-plant-jobs-snacking/874294/",
+      "source": "Food Dive",
+      "pubDate": "2026-11-10T20:54:00.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "Holiday hiring looks different this year. Here’s why.",
-      "excerpt": "From retailers pulling back on large hiring announcements to the creation of more part-time roles, here’s why 2026 might be a tipping point for…",
-      "link": "https://www.retaildive.com/news/why-retail-holiday-hiring-looks-different-2026/873988/",
+      "title": "US government aims to prevent cyberattacks on refrigeration systems",
+      "excerpt": "In response to cyberattacks targeting supermarkets in Europe, the U.S. is urging businesses to implement measures to protect internet-linked systems.",
+      "link": "https://www.retaildive.com/news/cybersecurity-grocery-refrigeration-attacks/874270/",
       "source": "Retail Dive",
-      "pubDate": "2026-11-10T12:00:00.000Z",
+      "pubDate": "2026-11-10T19:58:00.000Z",
       "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "excerpt": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+      "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-10T19:23:34.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "excerpt": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+      "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-10T19:03:52.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
+    {
+      "title": "Ethan Allen CEO out after four decades",
+      "excerpt": "Former Neiman Marcus Group executive Stefanie Tsen Ward takes over for Farooq Kathwari in the interim as the struggling furniture retailer searches…",
+      "link": "https://www.retaildive.com/news/ethan-allen-ceo-out-after-four-decades/874228/",
+      "source": "Retail Dive",
+      "pubDate": "2026-11-10T17:24:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Why delivery choice belongs in your CX strategy",
+      "excerpt": "Picture the hottest day of the year. The ice cream shop on the corner, the line running out the door, and a woman in it who has been thinking about…",
+      "link": "https://www.retailcustomerexperience.com/blogs/why-delivery-choice-belongs-in-your-cx-strategy/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-10T11:00:00.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
       "pinned": false
     },
     {
@@ -113,39 +149,12 @@
       "pinned": false
     },
     {
-      "title": "Costco reports double-digit October sales growth",
-      "excerpt": "October was a good month for Costco as the wholesaler reported net sales increased 12.6%. The sales growth outpaced the broad retail landscape…",
-      "link": "https://www.retailcustomerexperience.com/news/costco-reports-double-digit-october-sales-growth/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-10T11:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Missing beep: QR codes on phones and tills",
       "excerpt": "Checkout-ready QR codes depend on standards-compliant packs and retail systems prepared to read them, explains Camilla Young, programme lead at GS1 UK",
       "link": "https://www.retailtechnology.co.uk/rss.xml/news/8800/missing-beep:-qr-codes-on-phones-and-tills/",
       "source": "Retail Technology",
       "pubDate": "2026-11-10T00:00:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "The race is on to sue Nvidia",
-      "excerpt": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one…",
-      "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-09T22:23:42.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Amazon deploys thousands of smart glasses to delivery drivers",
-      "excerpt": "The glasses provide navigation and drop-off instructions within drivers' field of view, part of the company's effort to boost delivery efficiency.",
-      "link": "https://www.retaildive.com/news/amazon-deploys-thousands-of-smart-glasses-to-delivery-drivers/873762/",
-      "source": "Retail Dive",
-      "pubDate": "2026-11-09T16:40:00.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
       "pinned": false
     },
     {
@@ -167,21 +176,21 @@
       "pinned": false
     },
     {
-      "title": "Shopper intent and the best live offer rarely point to the same retailer. CPG media plans should weigh both.",
-      "excerpt": "Same SKU, five retailers, five prices. What CPG plans do when intent and offers split.",
-      "link": "https://www.fooddive.com/spons/shopper-intent-and-the-best-live-offer-rarely-point-to-the-same-retailer-c/873914/",
-      "source": "Food Dive",
-      "pubDate": "2026-11-09T10:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Batteries Plus competes with AI product matching",
       "excerpt": "AI-driven product matching is extending the US specialty retailer's competitive price visibility to most of its consumer revenue",
       "link": "https://www.retailtechnology.co.uk/rss.xml/news/8801/batteries-plus-competes-with-ai-product-matching/",
       "source": "Retail Technology",
       "pubDate": "2026-11-09T00:00:00.000Z",
       "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
+    {
+      "title": "Shopper intent and the best live offer rarely point to the same retailer. CPG media plans should weigh both.",
+      "excerpt": "Same SKU, five retailers, five prices. What CPG plans do when intent and offers split.",
+      "link": "https://www.fooddive.com/spons/shopper-intent-and-the-best-live-offer-rarely-point-to-the-same-retailer-c/873914/",
+      "source": "Food Dive",
+      "pubDate": "2026-11-09T10:00:00.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     }
   ]
