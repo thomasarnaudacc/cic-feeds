@@ -1,7 +1,25 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-11T13:14:25.347Z",
+  "publishedAt": "2026-11-11T21:39:23.370Z",
   "itemsFr": [
+    {
+      "title": "GEO & RETAIL : La nouvelle bataille de la visibilité",
+      "excerpt": "En 2 ans à peine, les IA se sont installées dans le parcours d'achat des Français. À la liste de liens bleus s'est substituée une réponse rédigée…",
+      "link": "https://www.ecommercemag.fr/marketing-1221/barometre-etude-2174/geo-retail-la-nouvelle-bataille-de-la-visibilite-60743",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-11-11T15:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "“Wonka” déboule au rayon chocolat : oui, mais c’est bien sûr !",
+      "excerpt": "Côté chocolat, Wonka (Willy) en connaît un rayon ! Pour ceux qui seraient passés à côté du roman de Roald Dahl ou du film de Tim Burton, c’est le…",
+      "link": "https://www.olivierdauvers.fr/2026/11/11/wonka-deboule-au-rayon-chocolat-oui-mais-cest-bien-sur/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-11T14:11:11.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
     {
       "title": "Comment Noz utilise l’IA pour… faire disparaître les marques de ses publicités…",
       "excerpt": "Vous ne le saviez peut-être pas, mais dans les contraintes qui pèsent sur les solderies, il y a l’interdiction de citer (hors du magasin) les marques…",
@@ -9,15 +27,6 @@
       "source": "Olivier Dauvers",
       "pubDate": "2026-11-11T10:14:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "[ MDD ] Une édition spéciale “25 jours” pour les chips Auchan",
-      "excerpt": "Originale activation autour des “25 jours”, l’OP emblématique d’Auchan. L’enseigne propose actuellement une édition spéciale “25 jours” de ses chips…",
-      "link": "https://www.olivierdauvers.fr/2026/11/11/mdd-une-edition-speciale-25-jours-pour-les-chips-auchan/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-11T03:47:00.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
       "pinned": false
     },
     {
@@ -73,18 +82,54 @@
       "pubDate": "2026-11-09T18:11:47.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
-    },
-    {
-      "title": "Damart : une transformation omnicanale en pleine accélération",
-      "excerpt": "Marque patrimoniale née à Roubaix en 1953, Damart accélère la diversification de ses canaux de distribution et modernise son offre pour conquérir de…",
-      "link": "https://www.ecommercemag.fr/retail-1220/damart-une-transformation-omnicanale-en-pleine-acceleration-60852",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-11-09T15:00:26.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
     }
   ],
   "itemsEn": [
+    {
+      "title": "Grocery Outlet’s comps return to the green",
+      "excerpt": "After three consecutive quarters of negative comparable-store sales, the discounter turned the metric positive with higher traffic and changes to its…",
+      "link": "https://www.grocerydive.com/news/grocery-outlet-third-quarter-2026-earnings/874330/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-11-11T16:14:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "DoorDash-Instacart combination shines a spotlight on e-commerce pricing",
+      "excerpt": "Their proposed deal places newfound emphasis on how to make online grocery shopping more affordable for shoppers and economically viable for…",
+      "link": "https://www.grocerydive.com/news/doordash-instacart-merger-pricing-grocery-ecommerce/874318/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-11-11T15:30:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Bed Bath & Beyond parent to close Maryland distribution center",
+      "excerpt": "Neighborhood Intelligence is aiming “to rip out big chunks of costs” by reworking its supply chain, CEO Marcus Lemonis said.",
+      "link": "https://www.retaildive.com/news/bed-bath-beyond-parent-to-close-maryland-distribution-center/874363/",
+      "source": "Retail Dive",
+      "pubDate": "2026-11-11T15:20:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Siri co-founder backs Helix for its voice ID tech",
+      "excerpt": "With the rise of AI agents like Instinct and Muse, the industry needs to rethink human identity on the internet and rely on biometric signals like…",
+      "link": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-11T15:02:47.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      "excerpt": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things…",
+      "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-11T15:00:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
     {
       "title": "Trading card retailer opening pilot store at Vegas airport",
       "excerpt": "ShopAll Fans, a trading card and fan collectible retailer, will launch a pilot store at Harry Reid International Airport in Las Vegas on Nov. 17. The…",
@@ -122,33 +167,6 @@
       "pinned": false
     },
     {
-      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-      "excerpt": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
-      "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-10T19:23:34.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-      "excerpt": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
-      "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-10T19:03:52.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
-      "title": "Ethan Allen CEO out after four decades",
-      "excerpt": "Former Neiman Marcus Group executive Stefanie Tsen Ward takes over for Farooq Kathwari in the interim as the struggling furniture retailer searches…",
-      "link": "https://www.retaildive.com/news/ethan-allen-ceo-out-after-four-decades/874228/",
-      "source": "Retail Dive",
-      "pubDate": "2026-11-10T17:24:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Why delivery choice belongs in your CX strategy",
       "excerpt": "Picture the hottest day of the year. The ice cream shop on the corner, the line running out the door, and a woman in it who has been thinking about…",
       "link": "https://www.retailcustomerexperience.com/blogs/why-delivery-choice-belongs-in-your-cx-strategy/",
@@ -163,33 +181,6 @@
       "link": "https://www.retailtechnology.co.uk/rss.xml/news/8800/missing-beep:-qr-codes-on-phones-and-tills/",
       "source": "Retail Technology",
       "pubDate": "2026-11-10T00:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "USDA greenlights WIC online ordering",
-      "excerpt": "The agency’s new rule follows years of advocacy from the grocery industry to let program participants place online orders with their benefits.",
-      "link": "https://www.grocerydive.com/news/usda-greenlights-wic-online-ordering/874106/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-11-09T16:24:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Kroger accelerates direct sourcing efforts for better cost control, visibility",
-      "excerpt": "The grocery chain seeks to boost first-party procurement volumes to more than 10% while working toward a fully owned import and distribution model.",
-      "link": "https://www.grocerydive.com/news/kroger-accelerates-direct-sourcing-efforts/873636/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-11-09T16:07:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Shopper intent and the best live offer rarely point to the same retailer. CPG media plans should weigh both.",
-      "excerpt": "Same SKU, five retailers, five prices. What CPG plans do when intent and offers split.",
-      "link": "https://www.fooddive.com/spons/shopper-intent-and-the-best-live-offer-rarely-point-to-the-same-retailer-c/873914/",
-      "source": "Food Dive",
-      "pubDate": "2026-11-09T10:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     }
