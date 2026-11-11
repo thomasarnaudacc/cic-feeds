@@ -1,7 +1,16 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-11T03:49:54.454Z",
+  "publishedAt": "2026-11-11T13:14:25.347Z",
   "itemsFr": [
+    {
+      "title": "Comment Noz utilise l’IA pour… faire disparaître les marques de ses publicités…",
+      "excerpt": "Vous ne le saviez peut-être pas, mais dans les contraintes qui pèsent sur les solderies, il y a l’interdiction de citer (hors du magasin) les marques…",
+      "link": "https://www.olivierdauvers.fr/2026/11/11/comment-noz-utilise-lia-pour-faire-disparaitre-les-marques-de-ses-publicites/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-11T10:14:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "[ MDD ] Une édition spéciale “25 jours” pour les chips Auchan",
       "excerpt": "Originale activation autour des “25 jours”, l’OP emblématique d’Auchan. L’enseigne propose actuellement une édition spéciale “25 jours” de ses chips…",
@@ -35,15 +44,6 @@
       "link": "https://www.journaldunet.com/seo/1557429-visibilite-dans-les-ia-mesurer-en-anglais-c-est-mesurer-un-autre-marche/",
       "source": "Journal du Net",
       "pubDate": "2026-11-10T14:55:03.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "[ EXCLU ] Achats : Intermarché et Francap (re)signent pour 10 ans",
-      "excerpt": "Ils s’étaient dit “oui” en juillet 2018 pour un mariage au 1er janvier 2019. Ils viennent de se redire “oui”, cette fois-ci pour 10 ans. Selon mes…",
-      "link": "https://www.olivierdauvers.fr/2026/11/10/exclu-achats-intermarche-et-francap-resignent-pour-10-ans/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-10T14:45:59.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -86,6 +86,15 @@
   ],
   "itemsEn": [
     {
+      "title": "Trading card retailer opening pilot store at Vegas airport",
+      "excerpt": "ShopAll Fans, a trading card and fan collectible retailer, will launch a pilot store at Harry Reid International Airport in Las Vegas on Nov. 17. The…",
+      "link": "https://www.retailcustomerexperience.com/news/trading-card-retailer-opening-pilot-store-at-vegas-airport/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-11T11:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
       "title": "New research: stock data wrong more often than right",
       "excerpt": "New global research by Scandit reveals that stock information matches what store associates find on the shelf just 46% of the time",
       "link": "https://www.retailtechnology.co.uk/rss.xml/news/8802/new-research:-stock-data-wrong-more-often-than-right/",
@@ -95,7 +104,7 @@
       "pinned": false
     },
     {
-      "title": "Ferrara to shutter Chicago plant, impacting more than 150 workers",
+      "title": "Ferrara to shutter Chicago plant, lay off more than 150 workers",
       "excerpt": "The closure, expected to occur in April 2027, comes as the Laffy Taffy and Jelly Belly maker assesses market conditions and its long-term innovation…",
       "link": "https://www.fooddive.com/news/ferrara-closing-chicago-plant-jobs-snacking/874294/",
       "source": "Food Dive",
@@ -136,15 +145,6 @@
       "link": "https://www.retaildive.com/news/ethan-allen-ceo-out-after-four-decades/874228/",
       "source": "Retail Dive",
       "pubDate": "2026-11-10T17:24:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Costco reports double-digit October sales growth",
-      "excerpt": "October was a good month for Costco as the wholesaler reported net sales increased 12.6%. The sales growth outpaced the broad retail landscape…",
-      "link": "https://www.retailcustomerexperience.com/news/costco-reports-double-digit-october-sales-growth/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-10T11:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
