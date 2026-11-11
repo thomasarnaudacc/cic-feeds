@@ -1,7 +1,16 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-10T21:06:20.513Z",
+  "publishedAt": "2026-11-11T03:49:54.454Z",
   "itemsFr": [
+    {
+      "title": "[ MDD ] Une édition spéciale “25 jours” pour les chips Auchan",
+      "excerpt": "Originale activation autour des “25 jours”, l’OP emblématique d’Auchan. L’enseigne propose actuellement une édition spéciale “25 jours” de ses chips…",
+      "link": "https://www.olivierdauvers.fr/2026/11/11/mdd-une-edition-speciale-25-jours-pour-les-chips-auchan/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-11T03:47:00.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
     {
       "title": "ANTHROPIC prépare une IPO de 64 milliards de dollars : ce que révèlent ses comptes",
       "excerpt": "AI SHIFT · La rédaction · 10/11/2026 Le créateur de Claude associe son introduction en Bourse à un placement privé de 26 milliards de dollars. Ses…",
@@ -35,15 +44,6 @@
       "link": "https://www.olivierdauvers.fr/2026/11/10/exclu-achats-intermarche-et-francap-resignent-pour-10-ans/",
       "source": "Olivier Dauvers",
       "pubDate": "2026-11-10T14:45:59.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "[ EXCLU ] Intermarché et Sodebo déjà fâchés !",
-      "excerpt": "La saison des négos est officiellement ouvertes ! Les premières fâcheries sont en effet déjà là. La plus visible : Intermarché et Sodebo. Signe qui…",
-      "link": "https://www.olivierdauvers.fr/2026/11/10/exclu-intermarche-et-sodebo-deja-faches/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-10T14:03:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -85,6 +85,15 @@
     }
   ],
   "itemsEn": [
+    {
+      "title": "New research: stock data wrong more often than right",
+      "excerpt": "New global research by Scandit reveals that stock information matches what store associates find on the shelf just 46% of the time",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8802/new-research:-stock-data-wrong-more-often-than-right/",
+      "source": "Retail Technology",
+      "pubDate": "2026-11-11T00:00:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
     {
       "title": "Ferrara to shutter Chicago plant, impacting more than 150 workers",
       "excerpt": "The closure, expected to occur in April 2027, comes as the Laffy Taffy and Jelly Belly maker assesses market conditions and its long-term innovation…",
@@ -131,21 +140,21 @@
       "pinned": false
     },
     {
+      "title": "Costco reports double-digit October sales growth",
+      "excerpt": "October was a good month for Costco as the wholesaler reported net sales increased 12.6%. The sales growth outpaced the broad retail landscape…",
+      "link": "https://www.retailcustomerexperience.com/news/costco-reports-double-digit-october-sales-growth/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-10T11:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
       "title": "Why delivery choice belongs in your CX strategy",
       "excerpt": "Picture the hottest day of the year. The ice cream shop on the corner, the line running out the door, and a woman in it who has been thinking about…",
       "link": "https://www.retailcustomerexperience.com/blogs/why-delivery-choice-belongs-in-your-cx-strategy/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-11-10T11:00:00.000Z",
       "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
-      "title": "Walmart, Zipline teaming up to launch 300 additional drone delivery",
-      "excerpt": "Retailer Walmart and Zipline, an autonomous drone delivery network, are teaming up to launch 300 additional sites as part of a new national…",
-      "link": "https://www.retailcustomerexperience.com/news/walmart-zipline-teaming-up-to-launch-300-additional-drone-delivery/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-10T11:00:00.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -173,15 +182,6 @@
       "source": "Grocery Dive",
       "pubDate": "2026-11-09T16:07:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Batteries Plus competes with AI product matching",
-      "excerpt": "AI-driven product matching is extending the US specialty retailer's competitive price visibility to most of its consumer revenue",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8801/batteries-plus-competes-with-ai-product-matching/",
-      "source": "Retail Technology",
-      "pubDate": "2026-11-09T00:00:00.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
       "pinned": false
     },
     {
