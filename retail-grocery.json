@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-11T21:39:23.370Z",
+  "publishedAt": "2026-11-12T04:57:42.578Z",
   "itemsFr": [
     {
       "title": "GEO & RETAIL : La nouvelle bataille de la visibilité",
@@ -86,6 +86,24 @@
   ],
   "itemsEn": [
     {
+      "title": "Amazon deliveries looking smart",
+      "excerpt": "Amazon is deploying smart delivery glasses to its employees to provide delivery information directly in a delivery driver’s field of view",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8803/amazon-deliveries-looking-smart/",
+      "source": "Retail Technology",
+      "pubDate": "2026-11-12T00:00:00.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
+    {
+      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "excerpt": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+      "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-11T23:28:45.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
       "title": "Grocery Outlet’s comps return to the green",
       "excerpt": "After three consecutive quarters of negative comparable-store sales, the discounter turned the metric positive with higher traffic and changes to its…",
       "link": "https://www.grocerydive.com/news/grocery-outlet-third-quarter-2026-earnings/874330/",
@@ -118,15 +136,6 @@
       "link": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
       "source": "TechCrunch",
       "pubDate": "2026-11-11T15:02:47.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
-      "excerpt": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things…",
-      "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-11T15:00:00.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
@@ -167,20 +176,11 @@
       "pinned": false
     },
     {
-      "title": "Why delivery choice belongs in your CX strategy",
-      "excerpt": "Picture the hottest day of the year. The ice cream shop on the corner, the line running out the door, and a woman in it who has been thinking about…",
-      "link": "https://www.retailcustomerexperience.com/blogs/why-delivery-choice-belongs-in-your-cx-strategy/",
+      "title": "Costco reports double-digit October sales growth",
+      "excerpt": "October was a good month for Costco as the wholesaler reported net sales increased 12.6%. The sales growth outpaced the broad retail landscape…",
+      "link": "https://www.retailcustomerexperience.com/news/costco-reports-double-digit-october-sales-growth/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-11-10T11:00:00.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
-      "title": "Missing beep: QR codes on phones and tills",
-      "excerpt": "Checkout-ready QR codes depend on standards-compliant packs and retail systems prepared to read them, explains Camilla Young, programme lead at GS1 UK",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8800/missing-beep:-qr-codes-on-phones-and-tills/",
-      "source": "Retail Technology",
-      "pubDate": "2026-11-10T00:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     }
