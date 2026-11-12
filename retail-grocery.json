@@ -1,7 +1,34 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-12T14:17:15.611Z",
+  "publishedAt": "2026-11-12T21:39:15.671Z",
   "itemsFr": [
+    {
+      "title": "BHV Marais : comment des erreurs marketing ont fragilisé 170 ans d'histoire",
+      "excerpt": "Le BHV vient d'être placé en redressement judiciaire. Derrière les difficultés financières de cette institution parisienne, plusieurs décisions…",
+      "link": "https://www.journaldunet.com/retail/1557551-bhv-marais-comment-des-erreurs-marketing-ont-fragilise-170-ans-d-histoire/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-12T15:12:10.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Retail : après la course à la digitalisation, place à l'orchestration du magasin",
+      "excerpt": "Après la digitalisation, le retail passe à l'orchestration : écrans, self-service, paiement et robotique doivent s'intégrer pour fluidifier le…",
+      "link": "https://www.journaldunet.com/retail/1557583-tech-for-retail-retail-apres-la-course-a-la-digitalisation-place-a-l-orchestration-du-magasin/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-12T15:02:36.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "[Tribune] Peak Season : les promotions ne valent que si la promesse est tenue",
+      "excerpt": "La période de fin d’année (ou Peak Season) a longtemps reposé sur une mécanique simple : concentrer les promotions sur quelques semaines et maximiser…",
+      "link": "https://www.ecommercemag.fr/retail-1220/veille-tribune-2169/tribune-peak-season-les-promotions-ne-valent-que-si-la-promesse-est-tenue-60904",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-11-12T15:00:39.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
     {
       "title": "Agile Robots : le géant allemand de la robotique lève 450 millions d'euros",
       "excerpt": "L’article Agile Robots : le géant allemand de la robotique lève 450 millions d'euros est apparu en premier sur Maddyness - Le média pour comprendre…",
@@ -30,24 +57,6 @@
       "pinned": false
     },
     {
-      "title": "PME : pourquoi vos prospects finissent par vous comparer sur le prix",
-      "excerpt": "Quand un prospect ne voit pas ce qui vous distingue, il compare ce qu'il peut voir : le prix. La réponse tient souvent en une phrase.",
-      "link": "https://www.journaldunet.com/management/direction-generale/1557897-pme-pourquoi-vos-prospects-finissent-par-vous-comparer-sur-le-prix/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-12T09:45:35.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "Des créateurs aux diffuseurs : le chemin du format s'inverse",
-      "excerpt": "Disney+ acquiert les droits de diffusion d'un podcast né sur internet. Ce deal illustre un chemin qui s'inverse et ouvre aux créateurs une seconde…",
-      "link": "https://www.journaldunet.com/management/emploi-cadres/1557835-des-createurs-aux-diffuseurs-le-chemin-du-format-s-inverse/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-12T09:37:22.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
       "title": "[ BILAN ] Tomates cerises “souveraines” : quand on veut, on peut, la preuve… !",
       "excerpt": "L’heure est désormais au bilan de l’opération “Tomates cerises souveraines”, l’offre des maraîchers français à prix access pour contrer la vague des…",
       "link": "https://www.olivierdauvers.fr/2026/11/12/bilan-tomates-cerises-souveraines-quand-on-veut-on-peut-la-preuve/",
@@ -73,25 +82,79 @@
       "pubDate": "2026-11-11T14:11:11.000Z",
       "category": "OFFRE, PRIX & MERCHANDISING",
       "pinned": false
-    },
-    {
-      "title": "Deliveroo Shopping débarque en France et cible le non-alimentaire",
-      "excerpt": "La plateforme de livraison Deliveroo étend ses services au-delà de la restauration et des courses alimentaires en déployant un espace dédié aux…",
-      "link": "https://www.ecommercemag.fr/logistique-1222/deliveroo-shopping-debarque-en-france-et-cible-le-non-alimentaire-60950",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-11-10T08:37:16.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
     }
   ],
   "itemsEn": [
     {
-      "title": "Buc-cee’s opening 12 stores through 2028",
-      "excerpt": "Travel convenience retailer Buc-ee's plans to open a dozen locations between now and 2028. The most recent Buc-cee's travel center opened earlier…",
-      "link": "https://www.retailcustomerexperience.com/news/buc-cees-opening-12-stores-through-2028/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-12T11:00:00.000Z",
+      "title": "Jensen Huang was having a third affair, Reuters reports",
+      "excerpt": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
+      "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-12T20:26:47.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
+    {
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "excerpt": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+      "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-12T19:11:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "BNPL bolsters holiday budgets",
+      "excerpt": "Younger shoppers favor buy now, pay later more than older generations, but BNPL companies draw consumers across income brackets, a survey finds.",
+      "link": "https://www.retaildive.com/news/bnpl-bolsters-holiday-budgets/874425/",
+      "source": "Retail Dive",
+      "pubDate": "2026-11-12T17:36:02.000Z",
       "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Michaels encourages a screen-free holiday season",
+      "excerpt": "The retailer is promoting hands-on creativity with its “Countdown to Craftsmas” Advent calendar, alongside early Black Friday deals.",
+      "link": "https://www.retaildive.com/news/michaels-holiday-black-friday-cyber-monday/874500/",
+      "source": "Retail Dive",
+      "pubDate": "2026-11-12T17:12:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Rounding up grocers’ Thanksgiving meal deals for 2026",
+      "excerpt": "Several major retailers’ bundles feed 10 for under $40 this year, according to a Grocery Dive review of more than a dozen companies’ offerings.",
+      "link": "https://www.grocerydive.com/news/thanksgiving-meals-grocery-walmart-target-lidl-aldi-2026/874455/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-11-12T16:37:41.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Grocery inflation rises, driven by produce and meat",
+      "excerpt": "Prices for fresh vegetables, beef and veal were up month to month in October, while coffee prices declined significantly.",
+      "link": "https://www.grocerydive.com/news/grocery-inflation-october-2026-meat-produce-coffee/874458/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-11-12T16:37:00.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
+    {
+      "title": "TikTok and YouTube fuel rise in junk food advertising to kids",
+      "excerpt": "A study in JAMA Pediatrics claims to be the first in the U.S. to examine youth exposure to food marketing across digital media platforms.",
+      "link": "https://www.fooddive.com/news/kids-junk-food-advertising-study-ultraprocessed-foods/874510/",
+      "source": "Food Dive",
+      "pubDate": "2026-11-12T16:02:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "How meat delivery companies use innovation to keep beef prices down",
+      "excerpt": "Omaha Steaks and ButcherBox protect consumers from sticker shock with transparent pricing models and creative alternatives to premium cuts of steak.",
+      "link": "https://www.fooddive.com/news/online-meat-dtc-butcherbox-omaha-steaks-beef-prices/830209/",
+      "source": "Food Dive",
+      "pubDate": "2026-11-12T15:24:00.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
       "pinned": false
     },
     {
@@ -104,6 +167,15 @@
       "pinned": false
     },
     {
+      "title": "Hiring AI search help for a U.S. beauty launch",
+      "excerpt": "For a Korean beauty brand entering the U.S., the shopping journey can start before a visitor reaches its website. A shopper asks an AI assistant…",
+      "link": "https://www.retailcustomerexperience.com/blogs/hiring-ai-search-help-for-a-us-beauty-launch/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-12T11:00:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
       "title": "Amazon deliveries looking smart",
       "excerpt": "Amazon is deploying smart delivery glasses to its employees to provide delivery information directly in a delivery driver’s field of view",
       "link": "https://www.retailtechnology.co.uk/rss.xml/news/8803/amazon-deliveries-looking-smart/",
@@ -113,75 +185,12 @@
       "pinned": false
     },
     {
-      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-      "excerpt": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
-      "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-11T23:28:45.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Grocery Outlet’s comps return to the green",
-      "excerpt": "After three consecutive quarters of negative comparable-store sales, the discounter turned the metric positive with higher traffic and changes to its…",
-      "link": "https://www.grocerydive.com/news/grocery-outlet-third-quarter-2026-earnings/874330/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-11-11T16:14:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "DoorDash-Instacart combination shines a spotlight on e-commerce pricing",
-      "excerpt": "Their proposed deal places newfound emphasis on how to make online grocery shopping more affordable for shoppers and economically viable for…",
-      "link": "https://www.grocerydive.com/news/doordash-instacart-merger-pricing-grocery-ecommerce/874318/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-11-11T15:30:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Bed Bath & Beyond parent to close Maryland distribution center",
-      "excerpt": "Neighborhood Intelligence is aiming “to rip out big chunks of costs” by reworking its supply chain, CEO Marcus Lemonis said.",
-      "link": "https://www.retaildive.com/news/bed-bath-beyond-parent-to-close-maryland-distribution-center/874363/",
-      "source": "Retail Dive",
-      "pubDate": "2026-11-11T15:20:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Siri co-founder backs Helix for its voice ID tech",
-      "excerpt": "With the rise of AI agents like Instinct and Muse, the industry needs to rethink human identity on the internet and rely on biometric signals like…",
-      "link": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-11T15:02:47.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
       "title": "New research: stock data wrong more often than right",
       "excerpt": "New global research by Scandit reveals that stock information matches what store associates find on the shelf just 46% of the time",
       "link": "https://www.retailtechnology.co.uk/rss.xml/news/8802/new-research:-stock-data-wrong-more-often-than-right/",
       "source": "Retail Technology",
       "pubDate": "2026-11-11T00:00:00.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Ferrara to shutter Chicago plant, lay off more than 150 workers",
-      "excerpt": "The closure, expected to occur in April 2027, comes as the Laffy Taffy and Jelly Belly maker assesses market conditions and its long-term innovation…",
-      "link": "https://www.fooddive.com/news/ferrara-closing-chicago-plant-jobs-snacking/874294/",
-      "source": "Food Dive",
-      "pubDate": "2026-11-10T20:54:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "US government aims to prevent cyberattacks on refrigeration systems",
-      "excerpt": "In response to cyberattacks targeting supermarkets in Europe, the U.S. is urging businesses to implement measures to protect internet-linked systems.",
-      "link": "https://www.retaildive.com/news/cybersecurity-grocery-refrigeration-attacks/874270/",
-      "source": "Retail Dive",
-      "pubDate": "2026-11-10T19:58:00.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     }
   ]
