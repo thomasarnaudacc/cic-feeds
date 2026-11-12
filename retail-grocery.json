@@ -1,7 +1,61 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-12T04:57:42.578Z",
+  "publishedAt": "2026-11-12T14:17:15.611Z",
   "itemsFr": [
+    {
+      "title": "Agile Robots : le géant allemand de la robotique lève 450 millions d'euros",
+      "excerpt": "L’article Agile Robots : le géant allemand de la robotique lève 450 millions d'euros est apparu en premier sur Maddyness - Le média pour comprendre…",
+      "link": "https://www.maddyness.com/2026/11/12/agile-robots-le-geant-allemand-de-la-robotique-leve-450-millions-deuros/",
+      "source": "Maddyness",
+      "pubDate": "2026-11-12T13:27:04.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "WELL lance son assistant IA sur WhatsApp et annonce une levée de 3,6 millions d’euros",
+      "excerpt": "WELL lance son assistant IA sur WhatsApp et annonce une levée de 3,6 millions d’euros",
+      "link": "https://www.frenchweb.fr/breaking-news/well-lance-son-assistant-ia-sur-whatsapp-et-annonce-une-levee-de-3-6-millions-d-euros/311dda84-d953-4de4-8526-9db6d5b373e3?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=breaking_news",
+      "source": "FrenchWeb",
+      "pubDate": "2026-11-12T10:03:13.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "AGILE ROBOTS lève 425 millions d’euros auprès de SOFTBANK et NVIDIA pour accélérer dans la Physical AI",
+      "excerpt": "AGILE ROBOTS lève 425 millions d’euros auprès de SOFTBANK et NVIDIA pour accélérer dans la Physical AI",
+      "link": "https://www.frenchweb.fr/breaking-news/agile-robots-leve-425-millions-d-euros-aupres-de-softbank-et-nvidia-pour-accelerer-dans-la-physical-ai/a6075547-dc13-4525-84de-ac51832f9f3b?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=breaking_news",
+      "source": "FrenchWeb",
+      "pubDate": "2026-11-12T10:01:29.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "PME : pourquoi vos prospects finissent par vous comparer sur le prix",
+      "excerpt": "Quand un prospect ne voit pas ce qui vous distingue, il compare ce qu'il peut voir : le prix. La réponse tient souvent en une phrase.",
+      "link": "https://www.journaldunet.com/management/direction-generale/1557897-pme-pourquoi-vos-prospects-finissent-par-vous-comparer-sur-le-prix/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-12T09:45:35.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Des créateurs aux diffuseurs : le chemin du format s'inverse",
+      "excerpt": "Disney+ acquiert les droits de diffusion d'un podcast né sur internet. Ce deal illustre un chemin qui s'inverse et ouvre aux créateurs une seconde…",
+      "link": "https://www.journaldunet.com/management/emploi-cadres/1557835-des-createurs-aux-diffuseurs-le-chemin-du-format-s-inverse/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-12T09:37:22.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "[ BILAN ] Tomates cerises “souveraines” : quand on veut, on peut, la preuve… !",
+      "excerpt": "L’heure est désormais au bilan de l’opération “Tomates cerises souveraines”, l’offre des maraîchers français à prix access pour contrer la vague des…",
+      "link": "https://www.olivierdauvers.fr/2026/11/12/bilan-tomates-cerises-souveraines-quand-on-veut-on-peut-la-preuve/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-12T06:50:26.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
     {
       "title": "GEO & RETAIL : La nouvelle bataille de la visibilité",
       "excerpt": "En 2 ans à peine, les IA se sont installées dans le parcours d'achat des Français. À la liste de liens bleus s'est substituée une réponse rédigée…",
@@ -21,51 +75,6 @@
       "pinned": false
     },
     {
-      "title": "Comment Noz utilise l’IA pour… faire disparaître les marques de ses publicités…",
-      "excerpt": "Vous ne le saviez peut-être pas, mais dans les contraintes qui pèsent sur les solderies, il y a l’interdiction de citer (hors du magasin) les marques…",
-      "link": "https://www.olivierdauvers.fr/2026/11/11/comment-noz-utilise-lia-pour-faire-disparaitre-les-marques-de-ses-publicites/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-11T10:14:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "ANTHROPIC prépare une IPO de 64 milliards de dollars : ce que révèlent ses comptes",
-      "excerpt": "AI SHIFT · La rédaction · 10/11/2026 Le créateur de Claude associe son introduction en Bourse à un placement privé de 26 milliards de dollars. Ses…",
-      "link": "https://www.frenchweb.fr/anthropic-prepare-une-ipo-de-64-milliards-de-dollars-ce-que-revelent-ses-comptes/900000035?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
-      "source": "FrenchWeb",
-      "pubDate": "2026-11-10T17:10:34.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "Site à abonnement : cinq questions à poser avant de choisir Wix, Framer ou un autre",
-      "excerpt": "Les créateurs de sites en ligne affichent un prix par mois. Sur cinq ans, et le jour où l'on veut partir, l'addition est différente. Les points à…",
-      "link": "https://www.journaldunet.com/seo/1557323-site-a-abonnement-cinq-questions-a-poser-avant-de-choisir-wix-framer-ou-un-autre/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-10T14:55:46.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "Visibilité dans les IA : mesurer en anglais, c'est mesurer un autre marché",
-      "excerpt": "Même question, même pays, deux langues : les moteurs IA ne citent presque jamais les mêmes marques. Ce que cela change pour le suivi GEO, selon une…",
-      "link": "https://www.journaldunet.com/seo/1557429-visibilite-dans-les-ia-mesurer-en-anglais-c-est-mesurer-un-autre-marche/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-10T14:55:03.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Midterms, bulle, Jensen Huang… : la folle semaine qui a peut-être fait basculer la course à l’IA",
-      "excerpt": "L’article Midterms, bulle, Jensen Huang… : la folle semaine qui a peut-être fait basculer la course à l’IA est apparu en premier sur Maddyness - Le…",
-      "link": "https://www.maddyness.com/2026/11/10/midterms-bulle-jensen-huang-la-folle-semaine-qui-a-peut-etre-fait-basculer-la-course-a-lia/",
-      "source": "Maddyness",
-      "pubDate": "2026-11-10T11:47:05.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
       "title": "Deliveroo Shopping débarque en France et cible le non-alimentaire",
       "excerpt": "La plateforme de livraison Deliveroo étend ses services au-delà de la restauration et des courses alimentaires en déployant un espace dédié aux…",
       "link": "https://www.ecommercemag.fr/logistique-1222/deliveroo-shopping-debarque-en-france-et-cible-le-non-alimentaire-60950",
@@ -73,18 +82,27 @@
       "pubDate": "2026-11-10T08:37:16.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
-    },
-    {
-      "title": "Cyberattaques contre les supermarchés : Paris vise une unité iranienne",
-      "excerpt": "Cyberattaques contre les supermarchés : Paris vise une unité iranienne",
-      "link": "https://www.frenchweb.fr/breaking-news/cyberattaques-contre-les-supermarches-paris-vise-une-unite-iranienne/80a4501e-081e-4a94-b96c-f6bae07d438f?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=breaking_news",
-      "source": "FrenchWeb",
-      "pubDate": "2026-11-09T18:11:47.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
     }
   ],
   "itemsEn": [
+    {
+      "title": "Buc-cee’s opening 12 stores through 2028",
+      "excerpt": "Travel convenience retailer Buc-ee's plans to open a dozen locations between now and 2028. The most recent Buc-cee's travel center opened earlier…",
+      "link": "https://www.retailcustomerexperience.com/news/buc-cees-opening-12-stores-through-2028/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-12T11:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Target has an AI chief. Does every retailer need one?",
+      "excerpt": "Target hired its first-ever AI officer, Chandu Nair, at summer's end, with a mission to drive the retailer's AI strategy -- everything from the…",
+      "link": "https://www.retailcustomerexperience.com/articles/target-has-an-ai-chief-does-every-retailer-need-one/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-12T11:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "Amazon deliveries looking smart",
       "excerpt": "Amazon is deploying smart delivery glasses to its employees to provide delivery information directly in a delivery driver’s field of view",
@@ -140,15 +158,6 @@
       "pinned": false
     },
     {
-      "title": "Trading card retailer opening pilot store at Vegas airport",
-      "excerpt": "ShopAll Fans, a trading card and fan collectible retailer, will launch a pilot store at Harry Reid International Airport in Las Vegas on Nov. 17. The…",
-      "link": "https://www.retailcustomerexperience.com/news/trading-card-retailer-opening-pilot-store-at-vegas-airport/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-11T11:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "New research: stock data wrong more often than right",
       "excerpt": "New global research by Scandit reveals that stock information matches what store associates find on the shelf just 46% of the time",
       "link": "https://www.retailtechnology.co.uk/rss.xml/news/8802/new-research:-stock-data-wrong-more-often-than-right/",
@@ -172,15 +181,6 @@
       "link": "https://www.retaildive.com/news/cybersecurity-grocery-refrigeration-attacks/874270/",
       "source": "Retail Dive",
       "pubDate": "2026-11-10T19:58:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Costco reports double-digit October sales growth",
-      "excerpt": "October was a good month for Costco as the wholesaler reported net sales increased 12.6%. The sales growth outpaced the broad retail landscape…",
-      "link": "https://www.retailcustomerexperience.com/news/costco-reports-double-digit-october-sales-growth/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-10T11:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     }
