@@ -1,14 +1,50 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-13T13:39:35.279Z",
+  "publishedAt": "2026-11-13T21:05:52.374Z",
   "itemsFr": [
     {
-      "title": "Black Friday : payer pour être vu ou pour être visité ?",
-      "excerpt": "Chaque année, fin novembre, le même scénario se rejoue : les enseignes s'engouffrent dans une surenchère de promotions, de vidéos, de retargeting et…",
-      "link": "https://www.journaldunet.com/adtech/1557845-black-friday-payer-pour-etre-vu-ou-pour-etre-visite/",
+      "title": "IA : Arthur Mensch appelle les dirigeants européens à agir «dès maintenant» pour rester dans la course",
+      "excerpt": "L’article IA : Arthur Mensch appelle les dirigeants européens à agir «dès maintenant» pour rester dans la course est apparu en premier sur Maddyness…",
+      "link": "https://www.maddyness.com/2026/11/13/ia-arthur-mensch-appelle-les-dirigeants-europeens-a-agir-des-maintenant-pour-rester-dans-la-course/",
+      "source": "Maddyness",
+      "pubDate": "2026-11-13T17:58:48.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "L’étonnante promo (géographique) de Leclerc…",
+      "excerpt": "C’est l’histoire d’une étonnante promo, remontée via la ligne Infosretail : les Leclerc d’Amiens-Rivery et de Bapaume qui “géographisent” leur promo…",
+      "link": "https://www.olivierdauvers.fr/2026/11/13/letonnante-promo-geographique-de-leclerc/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-13T17:04:27.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Comment tirer parti des IA pour rassurer les internautes",
+      "excerpt": "L'IA flatte, vos services et vos prix convainquent. Une photo et sa description invisible ont suffi pour que Google décrive un salon sans avis comme…",
+      "link": "https://www.journaldunet.com/seo/1557879-comment-tirer-parti-des-ia-pour-rassurer-les-internautes/",
       "source": "Journal du Net",
-      "pubDate": "2026-11-13T12:46:05.000Z",
+      "pubDate": "2026-11-13T14:43:52.000Z",
       "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Agent IA ou RPA : ce que les PME doivent savoir avant d'investir",
+      "excerpt": "Les éditeurs de RPA ajoutent de l'IA, les éditeurs d'IA promettent des agents autonomes. Pour une PME, le bon choix dépend moins de la technologie…",
+      "link": "https://www.journaldunet.com/intelligence-artificielle/1557877-agent-ia-ou-rpa-ce-que-les-pme-doivent-savoir-avant-d-investir/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-13T14:43:03.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Deux anciens d’iBanFirst bouclent un tour de table pour leur assistant IA dédié aux dirigeants de petites entreprises",
+      "excerpt": "L’article Deux anciens d’iBanFirst bouclent un tour de table pour leur assistant IA dédié aux dirigeants de petites entreprises est apparu en premier…",
+      "link": "https://www.maddyness.com/2026/11/13/deux-anciens-dibanfirst-bouclent-un-tour-de-table-pour-leur-assistant-ia-dedie-aux-dirigeants-de-petites-entreprises/",
+      "source": "Maddyness",
+      "pubDate": "2026-11-13T14:36:38.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
@@ -17,15 +53,6 @@
       "link": "https://www.olivierdauvers.fr/2026/11/13/la-minute-retail-bio-lutopie-ne-fait-pas-une-strategie/",
       "source": "Olivier Dauvers",
       "pubDate": "2026-11-13T11:19:13.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Pourquoi la performance marketing se construit bien avant la conversion",
-      "excerpt": "Face à la saturation publicitaire, les marques misent sur la performance immédiate (CPA, conversion, ROI). Ce court-termisme les rend dépendantes de…",
-      "link": "https://www.journaldunet.com/martech/1557817-pourquoi-la-performance-marketing-se-construit-bien-avant-la-conversion/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-13T11:03:32.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -48,30 +75,12 @@
       "pinned": false
     },
     {
-      "title": "[ RETAIL INSIDE ] Bordeaux-St Médard : découvrez le plus grand Jouet Leclerc de France…",
-      "excerpt": "La course à la taille a encore sévi 😂. Voici donc le plus grand “Jouet Leclerc” de France, ouvert il y a quelques jours : 2 600 m2. Forcément ça…",
-      "link": "https://www.olivierdauvers.fr/2026/11/13/retail-inside-bordeaux-st-medard-decouvrez-le-plus-grand-jouet-leclerc-de-france/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-13T05:45:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "[Tribune] Peak Season : les promotions ne valent que si la promesse est tenue",
       "excerpt": "La période de fin d’année (ou Peak Season) a longtemps reposé sur une mécanique simple : concentrer les promotions sur quelques semaines et maximiser…",
       "link": "https://www.ecommercemag.fr/retail-1220/veille-tribune-2169/tribune-peak-season-les-promotions-ne-valent-que-si-la-promesse-est-tenue-60904",
       "source": "Ecommerce Mag",
       "pubDate": "2026-11-12T15:00:39.000Z",
       "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "Agile Robots : le géant allemand de la robotique lève 450 millions d'euros",
-      "excerpt": "L’article Agile Robots : le géant allemand de la robotique lève 450 millions d'euros est apparu en premier sur Maddyness - Le média pour comprendre…",
-      "link": "https://www.maddyness.com/2026/11/12/agile-robots-le-geant-allemand-de-la-robotique-leve-450-millions-deuros/",
-      "source": "Maddyness",
-      "pubDate": "2026-11-12T13:27:04.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
@@ -86,12 +95,57 @@
   ],
   "itemsEn": [
     {
-      "title": "American shoppers culling back but not cutting out holiday purchases",
-      "excerpt": "American consumers may be cutting back when it comes to holiday spend, but they aren't cutting out holiday purchases. That's a top finding from a…",
-      "link": "https://www.retailcustomerexperience.com/news/american-shoppers-culling-back-but-not-cutting-out-holiday-purchases/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-13T11:00:00.000Z",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "excerpt": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-13T19:37:57.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Family Dollar will pay $63M to settle unfair-pricing claims from state, federal regulators",
+      "excerpt": "The discounter said it’s cooperating and “focused on strengthening pricing accuracy across our stores and maintaining our customers' trust.”",
+      "link": "https://www.retaildive.com/news/family-dollar-63-million-settlement-unfair-pricing-claims-ftc/874605/",
+      "source": "Retail Dive",
+      "pubDate": "2026-11-13T16:43:00.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "excerpt": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+      "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-13T16:00:12.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Merchants sue feds over Illinois card fee law",
+      "excerpt": "Trade groups including FMI and NGA filed lawsuits against bank and credit union regulators over a preemption of a state law that bans swipe fees for…",
+      "link": "https://www.grocerydive.com/news/merchants-sue-federal-government-illinois-card-fee-law/874601/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-11-13T15:55:00.000Z",
       "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Sally Beauty to expand refreshed store model in 2027",
+      "excerpt": "The beauty supply retailer will grow the Sally Ignited store concept and has long-term plans to refresh two-thirds of its overall store fleet.",
+      "link": "https://www.retaildive.com/news/sally-beauty-expand-refreshed-store-model/874547/",
+      "source": "Retail Dive",
+      "pubDate": "2026-11-13T15:09:00.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
+    {
+      "title": "Instacart starts stocking up bars",
+      "excerpt": "The grocery technology company partnered with digital platform Provi to let bars and restaurants order non-alcoholic items.",
+      "link": "https://www.grocerydive.com/news/instacart-provi-restaurants-bar-delivery/874540/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-11-13T15:00:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
@@ -104,6 +158,15 @@
       "pinned": false
     },
     {
+      "title": "American shoppers culling back but not cutting out holiday purchases",
+      "excerpt": "American consumers may be cutting back when it comes to holiday spend, but they aren't cutting out holiday purchases. That's a top finding from a…",
+      "link": "https://www.retailcustomerexperience.com/news/american-shoppers-culling-back-but-not-cutting-out-holiday-purchases/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-13T11:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
       "title": "Home Bargains ups employee AI knowledge",
       "excerpt": "UK discount retailer Home Bargains is rolling out a data and AI literacy programme for its leadership and head office teams.",
       "link": "https://www.retailtechnology.co.uk/rss.xml/news/8804/home-bargains-ups-employee-ai-knowledge/",
@@ -113,57 +176,12 @@
       "pinned": false
     },
     {
-      "title": "Jensen Huang was having a third affair, Reuters reports",
-      "excerpt": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
-      "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-12T20:26:47.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-      "excerpt": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
-      "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-12T19:11:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "BNPL bolsters holiday budgets",
-      "excerpt": "Younger shoppers favor buy now, pay later more than older generations, but BNPL companies draw consumers across income brackets, a survey finds.",
-      "link": "https://www.retaildive.com/news/bnpl-bolsters-holiday-budgets/874425/",
-      "source": "Retail Dive",
-      "pubDate": "2026-11-12T17:36:02.000Z",
+      "title": "US government aims to prevent cyberattacks on refrigeration systems",
+      "excerpt": "In response to cyberattacks targeting supermarkets in Europe, the U.S. is urging businesses to implement measures to protect internet-linked systems.",
+      "link": "https://www.fooddive.com/news/cisa-cybersecurity-grocery-refrigeration-attacks/874514/",
+      "source": "Food Dive",
+      "pubDate": "2026-11-12T16:15:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Michaels encourages a screen-free holiday season",
-      "excerpt": "The retailer is promoting hands-on creativity with its “Countdown to Craftsmas” Advent calendar, alongside early Black Friday deals.",
-      "link": "https://www.retaildive.com/news/michaels-holiday-black-friday-cyber-monday/874500/",
-      "source": "Retail Dive",
-      "pubDate": "2026-11-12T17:12:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Rounding up grocers’ 2026 Thanksgiving meal deals",
-      "excerpt": "Several major retailers are offering bundles that feed 10 for under $40 this year, according to a Grocery Dive review of more than a dozen companies’…",
-      "link": "https://www.grocerydive.com/news/thanksgiving-meals-grocery-walmart-target-lidl-aldi-2026/874455/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-11-12T16:37:41.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Grocery inflation rises, driven by produce and meat",
-      "excerpt": "Prices for fresh vegetables, beef and veal were up month to month in October, while coffee prices declined significantly.",
-      "link": "https://www.grocerydive.com/news/grocery-inflation-october-2026-meat-produce-coffee/874458/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-11-12T16:37:00.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
       "pinned": false
     },
     {
@@ -173,15 +191,6 @@
       "source": "Food Dive",
       "pubDate": "2026-11-12T16:02:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "How meat delivery companies use innovation to keep beef prices down",
-      "excerpt": "Omaha Steaks and ButcherBox protect consumers from sticker shock with transparent pricing models and creative alternatives to premium cuts of steak.",
-      "link": "https://www.fooddive.com/news/online-meat-dtc-butcherbox-omaha-steaks-beef-prices/830209/",
-      "source": "Food Dive",
-      "pubDate": "2026-11-12T15:24:00.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
       "pinned": false
     },
     {
