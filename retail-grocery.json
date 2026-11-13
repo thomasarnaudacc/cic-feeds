@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-12T21:39:15.671Z",
+  "publishedAt": "2026-11-13T04:10:55.808Z",
   "itemsFr": [
     {
       "title": "BHV Marais : comment des erreurs marketing ont fragilisé 170 ans d'histoire",
@@ -85,6 +85,15 @@
     }
   ],
   "itemsEn": [
+    {
+      "title": "Home Bargains ups employee AI knowledge",
+      "excerpt": "UK discount retailer Home Bargains is rolling out a data and AI literacy programme for its leadership and head office teams.",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8804/home-bargains-ups-employee-ai-knowledge/",
+      "source": "Retail Technology",
+      "pubDate": "2026-11-13T00:00:00.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
     {
       "title": "Jensen Huang was having a third affair, Reuters reports",
       "excerpt": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
@@ -182,15 +191,6 @@
       "source": "Retail Technology",
       "pubDate": "2026-11-12T00:00:00.000Z",
       "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "New research: stock data wrong more often than right",
-      "excerpt": "New global research by Scandit reveals that stock information matches what store associates find on the shelf just 46% of the time",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8802/new-research:-stock-data-wrong-more-often-than-right/",
-      "source": "Retail Technology",
-      "pubDate": "2026-11-11T00:00:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     }
   ]
