@@ -1,22 +1,58 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-13T04:10:55.808Z",
+  "publishedAt": "2026-11-13T13:39:35.279Z",
   "itemsFr": [
     {
-      "title": "BHV Marais : comment des erreurs marketing ont fragilisé 170 ans d'histoire",
-      "excerpt": "Le BHV vient d'être placé en redressement judiciaire. Derrière les difficultés financières de cette institution parisienne, plusieurs décisions…",
-      "link": "https://www.journaldunet.com/retail/1557551-bhv-marais-comment-des-erreurs-marketing-ont-fragilise-170-ans-d-histoire/",
+      "title": "Black Friday : payer pour être vu ou pour être visité ?",
+      "excerpt": "Chaque année, fin novembre, le même scénario se rejoue : les enseignes s'engouffrent dans une surenchère de promotions, de vidéos, de retargeting et…",
+      "link": "https://www.journaldunet.com/adtech/1557845-black-friday-payer-pour-etre-vu-ou-pour-etre-visite/",
       "source": "Journal du Net",
-      "pubDate": "2026-11-12T15:12:10.000Z",
+      "pubDate": "2026-11-13T12:46:05.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "La MINUTE RETAIL / Bio : l’utopie ne fait pas une stratégie !",
+      "excerpt": "Cette semaine, je reviens sur le nouvel objectif de la filière bio, rendu public il y a quelques jours à l’occasion des 50 ans du syndicat…",
+      "link": "https://www.olivierdauvers.fr/2026/11/13/la-minute-retail-bio-lutopie-ne-fait-pas-une-strategie/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-13T11:19:13.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "Retail : après la course à la digitalisation, place à l'orchestration du magasin",
-      "excerpt": "Après la digitalisation, le retail passe à l'orchestration : écrans, self-service, paiement et robotique doivent s'intégrer pour fluidifier le…",
-      "link": "https://www.journaldunet.com/retail/1557583-tech-for-retail-retail-apres-la-course-a-la-digitalisation-place-a-l-orchestration-du-magasin/",
+      "title": "Pourquoi la performance marketing se construit bien avant la conversion",
+      "excerpt": "Face à la saturation publicitaire, les marques misent sur la performance immédiate (CPA, conversion, ROI). Ce court-termisme les rend dépendantes de…",
+      "link": "https://www.journaldunet.com/martech/1557817-pourquoi-la-performance-marketing-se-construit-bien-avant-la-conversion/",
       "source": "Journal du Net",
-      "pubDate": "2026-11-12T15:02:36.000Z",
+      "pubDate": "2026-11-13T11:03:32.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Chatbots : Bruxelles veut encadrer la fabrication de l’attachement",
+      "excerpt": "AI FIRST · La rédaction · 13/11/2026 La Commission européenne propose de donner aux consommateurs le moyen de désactiver les fonctions qui…",
+      "link": "https://www.frenchweb.fr/chatbots-bruxelles-veut-encadrer-la-fabrication-de-l-attachement/900000043?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+      "source": "FrenchWeb",
+      "pubDate": "2026-11-13T09:11:12.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "JD.com boucle le rachat de Ceconomy",
+      "excerpt": "Avec une opération à 1,33 milliard d'euros officiellement finalisée, le géant chinois du e-commerce JD.com acquiert près de 60 % du capital du groupe…",
+      "link": "https://www.ecommercemag.fr/retail-1220/strategie-retail-2163/jd-com-boucle-le-rachat-de-ceconomy-60966",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-11-13T09:00:53.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "[ RETAIL INSIDE ] Bordeaux-St Médard : découvrez le plus grand Jouet Leclerc de France…",
+      "excerpt": "La course à la taille a encore sévi 😂. Voici donc le plus grand “Jouet Leclerc” de France, ouvert il y a quelques jours : 2 600 m2. Forcément ça…",
+      "link": "https://www.olivierdauvers.fr/2026/11/13/retail-inside-bordeaux-st-medard-decouvrez-le-plus-grand-jouet-leclerc-de-france/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-13T05:45:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -46,45 +82,27 @@
       "pubDate": "2026-11-12T10:03:13.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
-    },
+    }
+  ],
+  "itemsEn": [
     {
-      "title": "AGILE ROBOTS lève 425 millions d’euros auprès de SOFTBANK et NVIDIA pour accélérer dans la Physical AI",
-      "excerpt": "AGILE ROBOTS lève 425 millions d’euros auprès de SOFTBANK et NVIDIA pour accélérer dans la Physical AI",
-      "link": "https://www.frenchweb.fr/breaking-news/agile-robots-leve-425-millions-d-euros-aupres-de-softbank-et-nvidia-pour-accelerer-dans-la-physical-ai/a6075547-dc13-4525-84de-ac51832f9f3b?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=breaking_news",
-      "source": "FrenchWeb",
-      "pubDate": "2026-11-12T10:01:29.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "[ BILAN ] Tomates cerises “souveraines” : quand on veut, on peut, la preuve… !",
-      "excerpt": "L’heure est désormais au bilan de l’opération “Tomates cerises souveraines”, l’offre des maraîchers français à prix access pour contrer la vague des…",
-      "link": "https://www.olivierdauvers.fr/2026/11/12/bilan-tomates-cerises-souveraines-quand-on-veut-on-peut-la-preuve/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-12T06:50:26.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "GEO & RETAIL : La nouvelle bataille de la visibilité",
-      "excerpt": "En 2 ans à peine, les IA se sont installées dans le parcours d'achat des Français. À la liste de liens bleus s'est substituée une réponse rédigée…",
-      "link": "https://www.ecommercemag.fr/marketing-1221/barometre-etude-2174/geo-retail-la-nouvelle-bataille-de-la-visibilite-60743",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-11-11T15:00:00.000Z",
+      "title": "American shoppers culling back but not cutting out holiday purchases",
+      "excerpt": "American consumers may be cutting back when it comes to holiday spend, but they aren't cutting out holiday purchases. That's a top finding from a…",
+      "link": "https://www.retailcustomerexperience.com/news/american-shoppers-culling-back-but-not-cutting-out-holiday-purchases/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-13T11:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "“Wonka” déboule au rayon chocolat : oui, mais c’est bien sûr !",
-      "excerpt": "Côté chocolat, Wonka (Willy) en connaît un rayon ! Pour ceux qui seraient passés à côté du roman de Roald Dahl ou du film de Tim Burton, c’est le…",
-      "link": "https://www.olivierdauvers.fr/2026/11/11/wonka-deboule-au-rayon-chocolat-oui-mais-cest-bien-sur/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-11T14:11:11.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
+      "title": "South Carolina moves closer to having its 1st Wawa",
+      "excerpt": "A proposal to build the first Wawa supermarket in South Carolina is moving forward after the Horry County Planning Commission approved a plan for a…",
+      "link": "https://www.retailcustomerexperience.com/news/south-carolina-moves-closer-to-having-its-1st-wawa/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-13T11:00:00.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
-    }
-  ],
-  "itemsEn": [
+    },
     {
       "title": "Home Bargains ups employee AI knowledge",
       "excerpt": "UK discount retailer Home Bargains is rolling out a data and AI literacy programme for its leadership and head office teams.",
@@ -131,8 +149,8 @@
       "pinned": false
     },
     {
-      "title": "Rounding up grocers’ Thanksgiving meal deals for 2026",
-      "excerpt": "Several major retailers’ bundles feed 10 for under $40 this year, according to a Grocery Dive review of more than a dozen companies’ offerings.",
+      "title": "Rounding up grocers’ 2026 Thanksgiving meal deals",
+      "excerpt": "Several major retailers are offering bundles that feed 10 for under $40 this year, according to a Grocery Dive review of more than a dozen companies’…",
       "link": "https://www.grocerydive.com/news/thanksgiving-meals-grocery-walmart-target-lidl-aldi-2026/874455/",
       "source": "Grocery Dive",
       "pubDate": "2026-11-12T16:37:41.000Z",
@@ -164,24 +182,6 @@
       "source": "Food Dive",
       "pubDate": "2026-11-12T15:24:00.000Z",
       "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "Target has an AI chief. Does every retailer need one?",
-      "excerpt": "Target hired its first-ever AI officer, Chandu Nair, at summer's end, with a mission to drive the retailer's AI strategy -- everything from the…",
-      "link": "https://www.retailcustomerexperience.com/articles/target-has-an-ai-chief-does-every-retailer-need-one/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-12T11:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Hiring AI search help for a U.S. beauty launch",
-      "excerpt": "For a Korean beauty brand entering the U.S., the shopping journey can start before a visitor reaches its website. A shopper asks an AI assistant…",
-      "link": "https://www.retailcustomerexperience.com/blogs/hiring-ai-search-help-for-a-us-beauty-launch/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-12T11:00:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
