@@ -1,7 +1,16 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-14T04:07:59.922Z",
+  "publishedAt": "2026-11-14T12:43:41.957Z",
   "itemsFr": [
+    {
+      "title": "Les salariés des magasins Leclerc peuvent réclamer leur part des résultats même sans signature de leur employeur",
+      "excerpt": "Huit salariés d'un magasin E. Leclerc réclamaient leur juste part des bénéfices. Face à eux, une direction qui se retranchait derrière une subtilité…",
+      "link": "https://www.journaldunet.com/patrimoine/finances-personnelles/1557939-e-leclerc-salaries/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-14T06:05:02.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "SAMEDI CONSO : mon carnet (retail mais pas que…) de la semaine",
       "excerpt": "« SAMEDI CONSO », la semaine retail (mais pas que) passée en revue. Comme toujours en totale liberté. Et tant pis si ça pique ! Âmes (trop) sensibles…",
@@ -36,15 +45,6 @@
       "source": "Journal du Net",
       "pubDate": "2026-11-13T14:43:52.000Z",
       "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "Agent IA ou RPA : ce que les PME doivent savoir avant d'investir",
-      "excerpt": "Les éditeurs de RPA ajoutent de l'IA, les éditeurs d'IA promettent des agents autonomes. Pour une PME, le bon choix dépend moins de la technologie…",
-      "link": "https://www.journaldunet.com/intelligence-artificielle/1557877-agent-ia-ou-rpa-ce-que-les-pme-doivent-savoir-avant-d-investir/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-13T14:43:03.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
@@ -96,7 +96,7 @@
   "itemsEn": [
     {
       "title": "Kraft Heinz expects return to growth in 2027 as innovation investments pay off",
-      "excerpt": "Recent launches, including ketchup with lower sugar and lactose-free cream cheese, are helping grow market share and volume.",
+      "excerpt": "Recent launches, including ketchup with lower sugar and gluten-free cream cheese, are helping grow market share and volume.",
       "link": "https://www.fooddive.com/news/kraft-heinz-return-to-growth-innovation-investments-payoff/874643/",
       "source": "Food Dive",
       "pubDate": "2026-11-13T21:00:00.000Z",
