@@ -1,7 +1,16 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-13T21:05:52.374Z",
+  "publishedAt": "2026-11-14T04:07:59.922Z",
   "itemsFr": [
+    {
+      "title": "SAMEDI CONSO : mon carnet (retail mais pas que…) de la semaine",
+      "excerpt": "« SAMEDI CONSO », la semaine retail (mais pas que) passée en revue. Comme toujours en totale liberté. Et tant pis si ça pique ! Âmes (trop) sensibles…",
+      "link": "https://www.olivierdauvers.fr/2026/11/14/samedi-conso-mon-carnet-retail-mais-pas-que-de-la-semaine-388/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-14T01:04:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "IA : Arthur Mensch appelle les dirigeants européens à agir «dès maintenant» pour rester dans la course",
       "excerpt": "L’article IA : Arthur Mensch appelle les dirigeants européens à agir «dès maintenant» pour rester dans la course est apparu en premier sur Maddyness…",
@@ -48,15 +57,6 @@
       "pinned": false
     },
     {
-      "title": "La MINUTE RETAIL / Bio : l’utopie ne fait pas une stratégie !",
-      "excerpt": "Cette semaine, je reviens sur le nouvel objectif de la filière bio, rendu public il y a quelques jours à l’occasion des 50 ans du syndicat…",
-      "link": "https://www.olivierdauvers.fr/2026/11/13/la-minute-retail-bio-lutopie-ne-fait-pas-une-strategie/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-13T11:19:13.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Chatbots : Bruxelles veut encadrer la fabrication de l’attachement",
       "excerpt": "AI FIRST · La rédaction · 13/11/2026 La Commission européenne propose de donner aux consommateurs le moyen de désactiver les fonctions qui…",
       "link": "https://www.frenchweb.fr/chatbots-bruxelles-veut-encadrer-la-fabrication-de-l-attachement/900000043?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
@@ -94,6 +94,15 @@
     }
   ],
   "itemsEn": [
+    {
+      "title": "Kraft Heinz expects return to growth in 2027 as innovation investments pay off",
+      "excerpt": "Recent launches, including ketchup with lower sugar and lactose-free cream cheese, are helping grow market share and volume.",
+      "link": "https://www.fooddive.com/news/kraft-heinz-return-to-growth-innovation-investments-payoff/874643/",
+      "source": "Food Dive",
+      "pubDate": "2026-11-13T21:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "AI agent startup LangChain hits $3B valuation",
       "excerpt": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
@@ -149,21 +158,21 @@
       "pinned": false
     },
     {
-      "title": "South Carolina moves closer to having its 1st Wawa",
-      "excerpt": "A proposal to build the first Wawa supermarket in South Carolina is moving forward after the Horry County Planning Commission approved a plan for a…",
-      "link": "https://www.retailcustomerexperience.com/news/south-carolina-moves-closer-to-having-its-1st-wawa/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-13T11:00:00.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
       "title": "American shoppers culling back but not cutting out holiday purchases",
       "excerpt": "American consumers may be cutting back when it comes to holiday spend, but they aren't cutting out holiday purchases. That's a top finding from a…",
       "link": "https://www.retailcustomerexperience.com/news/american-shoppers-culling-back-but-not-cutting-out-holiday-purchases/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-11-13T11:00:00.000Z",
       "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "South Carolina moves closer to having its 1st Wawa",
+      "excerpt": "A proposal to build the first Wawa supermarket in South Carolina is moving forward after the Horry County Planning Commission approved a plan for a…",
+      "link": "https://www.retailcustomerexperience.com/news/south-carolina-moves-closer-to-having-its-1st-wawa/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-13T11:00:00.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
     },
     {
@@ -181,15 +190,6 @@
       "link": "https://www.fooddive.com/news/cisa-cybersecurity-grocery-refrigeration-attacks/874514/",
       "source": "Food Dive",
       "pubDate": "2026-11-12T16:15:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "TikTok and YouTube fuel rise in junk food advertising to kids",
-      "excerpt": "A study in JAMA Pediatrics claims to be the first in the U.S. to examine youth exposure to food marketing across digital media platforms.",
-      "link": "https://www.fooddive.com/news/kids-junk-food-advertising-study-ultraprocessed-foods/874510/",
-      "source": "Food Dive",
-      "pubDate": "2026-11-12T16:02:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
