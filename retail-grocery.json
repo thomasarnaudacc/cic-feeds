@@ -1,7 +1,16 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-15T00:31:59.290Z",
+  "publishedAt": "2026-11-15T10:10:21.982Z",
   "itemsFr": [
+    {
+      "title": "[ EXCLU ] Carrefour, large leader de la recharge électrique (parmi les enseignes GMS)",
+      "excerpt": "DIMANCHE INFOGRAPHIE, et une première exclu ! Les positions des enseignes GMS sur la recharge électrique, avec mes camarades de ChargeViz. Sont…",
+      "link": "https://www.olivierdauvers.fr/2026/11/15/exclu-carrefour-large-leader-de-la-recharge-electrique-parmi-les-enseignes-gms/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-15T05:04:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "De “Je choisis / j’agis” à la Quinzaine de la conso solidaire, un putain de chemin (et il reste encore tant à faire…)",
       "excerpt": "Pour la plupart des enseignes/magasins qui l’ont suivi, la Quinzaine de la conso solidaire s’achève ce week-end. Le premier bilan à faire est sur…",
@@ -17,15 +26,6 @@
       "link": "https://www.journaldunet.com/patrimoine/finances-personnelles/1557939-e-leclerc-salaries/",
       "source": "Journal du Net",
       "pubDate": "2026-11-14T06:05:02.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "SAMEDI CONSO : mon carnet (retail mais pas que…) de la semaine",
-      "excerpt": "« SAMEDI CONSO », la semaine retail (mais pas que) passée en revue. Comme toujours en totale liberté. Et tant pis si ça pique ! Âmes (trop) sensibles…",
-      "link": "https://www.olivierdauvers.fr/2026/11/14/samedi-conso-mon-carnet-retail-mais-pas-que-de-la-semaine-388/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-14T01:04:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
