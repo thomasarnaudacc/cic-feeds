@@ -1,7 +1,43 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-16T00:32:17.696Z",
+  "publishedAt": "2026-11-16T10:22:34.838Z",
   "itemsFr": [
+    {
+      "title": "L'IA agentique va-t-elle automatiser la publicité sans standardiser la créativité ?",
+      "excerpt": "L'IA agentique transforme la production publicitaire. Comment automatiser les processus à grande échelle sans uniformiser les contenus ni sacrifier…",
+      "link": "https://www.journaldunet.com/intelligence-artificielle/1558003-l-ia-agentique-va-t-elle-automatiser-la-publicite-sans-standardiser-la-creativite/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-16T09:58:34.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "IA et données personnelles : le CEPD confirme que l'intérêt légitime peut servir de base légale",
+      "excerpt": "Le CEPD a adopté le 10/11/2026 ses lignes directrices sur l'intérêt légitime : il peut fonder l'IA (chatbot, fraude, cybersécurité), à condition de…",
+      "link": "https://www.journaldunet.com/intelligence-artificielle/1558009-ia-et-donnees-personnelles-le-cepd-confirme-que-l-interet-legitime-peut-servir-de-base-legale/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-16T09:58:17.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "Carmila et IGD : un rapprochement à 8,7 milliards d’euros dans les centres commerciaux",
+      "excerpt": "La foncière française Carmila annonce un rapprochement amical avec IGD, troisième acteur du marché italien des centres commerciaux. Cette opération…",
+      "link": "https://www.ecommercemag.fr/retail-1220/carmila-et-igd-un-rapprochement-a-87-milliards-deuros-dans-les-centres-commerciaux-60973",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-11-16T08:52:07.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Bonnes idées / Bonnes pratiques (118) : faire disparaître les rideaux d’accès aux réserves",
+      "excerpt": "Suite de ma série d’inspirations “bonnes idées / bonnes pratiques” dans le prolongement de mes ouvrages sur l’IMAGE-PRIX, le PENSER-CLIENT et la…",
+      "link": "https://www.olivierdauvers.fr/2026/11/16/bonnes-idees-bonnes-pratiques-118-creer-des-evenements-en-magasin-monoprix-paris-saint-paul/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-16T08:44:51.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
     {
       "title": "RETAIL FORUM : J-10 (et y’a même des places à gagner)",
       "excerpt": "Le RETAIL FORUM approche. Ce qui est sans doute le best event du retail (si j’en juge par les évaluations / oui, on adore les notes !), c’est jeudi…",
@@ -12,39 +48,12 @@
       "pinned": false
     },
     {
-      "title": "[ ÉTUDE ] Ce que les clients pensent de l’innovation…",
-      "excerpt": "DIMANCHE INFOGRAPHIE, suite. À présent, ce que les clients pensent de l’innovation. J’vous ai rassemblé quelques insights extraits d’une étude…",
-      "link": "https://www.olivierdauvers.fr/2026/11/15/etude-ce-que-les-clients-pensent-de-linnovation/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-15T11:50:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Les salariés des magasins Leclerc peuvent réclamer leur part des résultats même sans signature de leur employeur",
-      "excerpt": "Huit salariés d'un magasin E. Leclerc réclamaient leur juste part des bénéfices. Face à eux, une direction qui se retranchait derrière une subtilité…",
-      "link": "https://www.journaldunet.com/patrimoine/finances-personnelles/1557939-e-leclerc-salaries/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-14T06:05:02.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "IA : Arthur Mensch appelle les dirigeants européens à agir «dès maintenant» pour rester dans la course",
       "excerpt": "L’article IA : Arthur Mensch appelle les dirigeants européens à agir «dès maintenant» pour rester dans la course est apparu en premier sur Maddyness…",
       "link": "https://www.maddyness.com/2026/11/13/ia-arthur-mensch-appelle-les-dirigeants-europeens-a-agir-des-maintenant-pour-rester-dans-la-course/",
       "source": "Maddyness",
       "pubDate": "2026-11-13T17:58:48.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "Comment tirer parti des IA pour rassurer les internautes",
-      "excerpt": "L'IA flatte, vos services et vos prix convainquent. Une photo et sa description invisible ont suffi pour que Google décrive un salon sans avis comme…",
-      "link": "https://www.journaldunet.com/seo/1557879-comment-tirer-parti-des-ia-pour-rassurer-les-internautes/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-13T14:43:52.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
       "pinned": false
     },
     {
@@ -75,15 +84,6 @@
       "pinned": false
     },
     {
-      "title": "[Tribune] Peak Season : les promotions ne valent que si la promesse est tenue",
-      "excerpt": "La période de fin d’année (ou Peak Season) a longtemps reposé sur une mécanique simple : concentrer les promotions sur quelques semaines et maximiser…",
-      "link": "https://www.ecommercemag.fr/retail-1220/veille-tribune-2169/tribune-peak-season-les-promotions-ne-valent-que-si-la-promesse-est-tenue-60904",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-11-12T15:00:39.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
       "title": "WELL lance son assistant IA sur WhatsApp et annonce une levée de 3,6 millions d’euros",
       "excerpt": "WELL lance son assistant IA sur WhatsApp et annonce une levée de 3,6 millions d’euros",
       "link": "https://www.frenchweb.fr/breaking-news/well-lance-son-assistant-ia-sur-whatsapp-et-annonce-une-levee-de-3-6-millions-d-euros/311dda84-d953-4de4-8526-9db6d5b373e3?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=breaking_news",
@@ -95,39 +95,66 @@
   ],
   "itemsEn": [
     {
+      "title": "How much warehouse automation do you really need, and should you build or outsource?",
+      "excerpt": "Discover how to right-size warehouse automation — and decide whether to build or outsource.",
+      "link": "https://www.retaildive.com/spons/how-much-warehouse-automation-do-you-really-need-and-should-you-build-or-o/874469/",
+      "source": "Retail Dive",
+      "pubDate": "2026-11-16T10:00:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "The shrinking store: How retailers and restaurants are doing more with less square footage",
+      "excerpt": "The box is getting smaller. The revenue target isn’t. Here’s how brands are closing the gap.",
+      "link": "https://www.retaildive.com/spons/the-shrinking-store-how-retailers-and-restaurants-are-doing-more-with-less/874147/",
+      "source": "Retail Dive",
+      "pubDate": "2026-11-16T10:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Under protective screens, Florida grapefruit finds room to grow",
+      "excerpt": "For retailers, fruit grown under CUPS converts an investment in the grove to an opportunity in the produce aisle.",
+      "link": "https://www.grocerydive.com/spons/under-protective-screens-florida-grapefruit-finds-room-to-grow/874216/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-11-16T10:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Everyone is talking about AI visibility. Grocery CPG brands need more than that.",
+      "excerpt": "AI search is reshaping CPG discovery. SPINS on investing where it actually pays off.",
+      "link": "https://www.fooddive.com/spons/everyone-is-talking-about-ai-visibility-grocery-cpg-brands-need-more-than/873830/",
+      "source": "Food Dive",
+      "pubDate": "2026-11-16T10:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Better food traceability starts at the first mile",
+      "excerpt": "A text message could be the key to solving food traceability's toughest challenge.",
+      "link": "https://www.fooddive.com/spons/better-food-traceability-starts-at-the-first-mile/873412/",
+      "source": "Food Dive",
+      "pubDate": "2026-11-16T10:00:00.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "Apple launches new app to study how people use AI for health",
+      "excerpt": "Apple's new app for a study will answer everyday medical questions",
+      "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-16T01:30:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
       "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
       "excerpt": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
       "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
       "source": "TechCrunch",
       "pubDate": "2026-11-15T23:30:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Kraft Heinz expects return to growth in 2027 as innovation investments pay off",
-      "excerpt": "Recent launches, including ketchup with lower sugar and gluten-free cream cheese, are helping grow market share and volume.",
-      "link": "https://www.fooddive.com/news/kraft-heinz-return-to-growth-innovation-investments-payoff/874643/",
-      "source": "Food Dive",
-      "pubDate": "2026-11-13T21:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "excerpt": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-13T19:37:57.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Family Dollar will pay $63M to settle unfair-pricing claims from state, federal regulators",
-      "excerpt": "The discounter said it’s cooperating and “focused on strengthening pricing accuracy across our stores and maintaining our customers' trust.”",
-      "link": "https://www.retaildive.com/news/family-dollar-63-million-settlement-unfair-pricing-claims-ftc/874605/",
-      "source": "Retail Dive",
-      "pubDate": "2026-11-13T16:43:00.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
       "pinned": false
     },
     {
@@ -140,21 +167,12 @@
       "pinned": false
     },
     {
-      "title": "Sally Beauty to expand refreshed store model in 2027",
-      "excerpt": "The beauty supply retailer will grow the Sally Ignited store concept and has long-term plans to refresh two-thirds of its overall store fleet.",
-      "link": "https://www.retaildive.com/news/sally-beauty-expand-refreshed-store-model/874547/",
-      "source": "Retail Dive",
-      "pubDate": "2026-11-13T15:09:00.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
-      "title": "Instacart starts stocking up bars",
-      "excerpt": "The grocery technology company partnered with digital platform Provi to let bars and restaurants order non-alcoholic items.",
-      "link": "https://www.grocerydive.com/news/instacart-provi-restaurants-bar-delivery/874540/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-11-13T15:00:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "title": "American shoppers culling back but not cutting out holiday purchases",
+      "excerpt": "American consumers may be cutting back when it comes to holiday spend, but they aren't cutting out holiday purchases. That's a top finding from a…",
+      "link": "https://www.retailcustomerexperience.com/news/american-shoppers-culling-back-but-not-cutting-out-holiday-purchases/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-13T11:00:00.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -167,30 +185,12 @@
       "pinned": false
     },
     {
-      "title": "American shoppers culling back but not cutting out holiday purchases",
-      "excerpt": "American consumers may be cutting back when it comes to holiday spend, but they aren't cutting out holiday purchases. That's a top finding from a…",
-      "link": "https://www.retailcustomerexperience.com/news/american-shoppers-culling-back-but-not-cutting-out-holiday-purchases/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-13T11:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Home Bargains ups employee AI knowledge",
       "excerpt": "UK discount retailer Home Bargains is rolling out a data and AI literacy programme for its leadership and head office teams.",
       "link": "https://www.retailtechnology.co.uk/rss.xml/news/8804/home-bargains-ups-employee-ai-knowledge/",
       "source": "Retail Technology",
       "pubDate": "2026-11-13T00:00:00.000Z",
       "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "US government aims to prevent cyberattacks on refrigeration systems",
-      "excerpt": "In response to cyberattacks targeting supermarkets in Europe, the U.S. is urging businesses to implement measures to protect internet-linked systems.",
-      "link": "https://www.fooddive.com/news/cisa-cybersecurity-grocery-refrigeration-attacks/874514/",
-      "source": "Food Dive",
-      "pubDate": "2026-11-12T16:15:00.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
