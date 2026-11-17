@@ -1,23 +1,50 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-17T05:46:43.795Z",
+  "publishedAt": "2026-11-17T15:12:37.557Z",
   "itemsFr": [
     {
-      "title": "Black Friday : la messagerie d'entreprise, angle mort de la cybersécurité",
-      "excerpt": "À l'heure où le Black Friday bat tous les records de trafic commercial, la messagerie professionnelle absorbe elle aussi le choc.",
-      "link": "https://www.journaldunet.com/cybersecurite/1557907-black-friday-la-messagerie-d-entreprise-angle-mort-de-la-cybersecurite/",
+      "title": "\"Des grandes entreprises craignent de se tromper dans la qualification NIS 2 de leurs entités\"",
+      "excerpt": "Aurélia Pons, avocate spécialisée en droit de la cybersécurité chez Ashurst Perkins Coie, précise au JDN les difficultés que rencontrent ses clients…",
+      "link": "https://www.journaldunet.com/cybersecurite/1558107-certaines-grandes-entreprises-craignent-de-se-tromper-dans-la-qualification-nis-2-de-leurs-entites/",
       "source": "Journal du Net",
-      "pubDate": "2026-11-16T18:12:09.000Z",
+      "pubDate": "2026-11-17T14:25:39.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
     {
-      "title": "Neutraliser les cybermenaces : comment les passkeys protègent le fret aérien",
-      "excerpt": "Dans un secteur où quelques minutes de perturbation peuvent avoir des répercussions sur toute une chaîne logistique, la cybersécurité est devenue un…",
-      "link": "https://www.journaldunet.com/cybersecurite/1557919-neutraliser-les-cybermenaces-comment-les-passkeys-protegent-le-fret-aerien/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-16T18:11:49.000Z",
+      "title": "GENESIS AI lève 425 millions d’euros pour déployer ses robots en usine",
+      "excerpt": "AI FIRST · Richard Menneveux · 17/11/2026 GENESIS AI annonce une série A de 500 millions de dollars qui valorise la société autour de 3 milliards…",
+      "link": "https://www.frenchweb.fr/genesis-ai-leve-425-millions-d-euros-pour-deployer-ses-robots-en-usine/900000051?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+      "source": "FrenchWeb",
+      "pubDate": "2026-11-17T14:00:10.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Robotique : Genesis AI boucle une série A d’un demi-milliard de dollars auprès de Nvidia, Samsung et Zoom",
+      "excerpt": "L’article Robotique : Genesis AI boucle une série A d’un demi-milliard de dollars auprès de Nvidia, Samsung et Zoom est apparu en premier sur…",
+      "link": "https://www.maddyness.com/2026/11/17/robotique-genesis-ai-boucle-une-serie-a-dun-demi-milliard-de-dollars-aupres-de-nvidia-samsung-et-zoom/",
+      "source": "Maddyness",
+      "pubDate": "2026-11-17T13:59:01.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "MAD30 x Shopify : les 30 dirigeants qui réinventent l’e-commerce grâce à l’IA",
+      "excerpt": "L’article MAD30 x Shopify : les 30 dirigeants qui réinventent l’e-commerce grâce à l’IA est apparu en premier sur Maddyness - Le média pour…",
+      "link": "https://www.maddyness.com/2026/11/17/mad30-shopify-ia-e-commerce/",
+      "source": "Maddyness",
+      "pubDate": "2026-11-17T09:00:26.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "ESN & clients : un nouveau pacte à écrire à l'heure du développement IA Agentique",
+      "excerpt": "Le développement agentique ne doit pas devenir une guerre des prix : le temps gagné doit nourrir l'expérimentation, l'échange avec le métier et…",
+      "link": "https://www.journaldunet.com/intelligence-artificielle/1558085-esn-clients-un-nouveau-pacte-a-ecrire-a-l-heure-du-developpement-ia-agentique/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-17T08:16:48.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
@@ -57,15 +84,6 @@
       "pinned": false
     },
     {
-      "title": "IA : Arthur Mensch appelle les dirigeants européens à agir «dès maintenant» pour rester dans la course",
-      "excerpt": "L’article IA : Arthur Mensch appelle les dirigeants européens à agir «dès maintenant» pour rester dans la course est apparu en premier sur Maddyness…",
-      "link": "https://www.maddyness.com/2026/11/13/ia-arthur-mensch-appelle-les-dirigeants-europeens-a-agir-des-maintenant-pour-rester-dans-la-course/",
-      "source": "Maddyness",
-      "pubDate": "2026-11-13T17:58:48.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
       "title": "Chatbots : Bruxelles veut encadrer la fabrication de l’attachement",
       "excerpt": "AI FIRST · La rédaction · 13/11/2026 La Commission européenne propose de donner aux consommateurs le moyen de désactiver les fonctions qui…",
       "link": "https://www.frenchweb.fr/chatbots-bruxelles-veut-encadrer-la-fabrication-de-l-attachement/900000043?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
@@ -73,18 +91,54 @@
       "pubDate": "2026-11-13T09:11:12.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
-    },
-    {
-      "title": "WELL lance son assistant IA sur WhatsApp et annonce une levée de 3,6 millions d’euros",
-      "excerpt": "WELL lance son assistant IA sur WhatsApp et annonce une levée de 3,6 millions d’euros",
-      "link": "https://www.frenchweb.fr/breaking-news/well-lance-son-assistant-ia-sur-whatsapp-et-annonce-une-levee-de-3-6-millions-d-euros/311dda84-d953-4de4-8526-9db6d5b373e3?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=breaking_news",
-      "source": "FrenchWeb",
-      "pubDate": "2026-11-12T10:03:13.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
     }
   ],
   "itemsEn": [
+    {
+      "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+      "excerpt": "Planning a trip is a favorite demo for personal AI assistants: you can try it with Muse, or with Gemini or half a dozen other choices. But while most…",
+      "link": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-17T15:00:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Jim Beam won’t resume production at flagship distillery next year",
+      "excerpt": "The Suntory-owned whiskey is moving production to another facility in Kentucky as value spirits brands continue to struggle.",
+      "link": "https://www.fooddive.com/news/jim-beam-flagship-distillery-production-pause/874870/",
+      "source": "Food Dive",
+      "pubDate": "2026-11-17T14:25:00.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
+    {
+      "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+      "excerpt": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the…",
+      "link": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-17T14:05:30.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "October retail sales remain on growth path",
+      "excerpt": "Retail sales hit its 13th straight month of gains in October despite higher food and gas prices and consumers looking for the best deals. The sales…",
+      "link": "https://www.retailcustomerexperience.com/news/october-retail-sales-remain-on-growth-path/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-17T11:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Physical stores grabbing majority of retail purchases",
+      "excerpt": "Physical stores will continue to account for the majority of retail purchases, across all generations, through 2030. That's a top finding from a…",
+      "link": "https://www.retailcustomerexperience.com/news/physical-stores-grabbing-majority-of-retail-purchases/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-17T11:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "TikTok launches TikTok Shop Plus",
       "excerpt": "TikTok has continued its commitment to ecommerce with the pilot roll out of a paid membership tier to 1 million people",
@@ -95,30 +149,12 @@
       "pinned": false
     },
     {
-      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-      "excerpt": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-      "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-16T23:32:32.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
       "title": "USDA delaying new SNAP stocking standards",
       "excerpt": "The rule was supposed to take effect Nov. 4, but stores will now get 90 more days to comply with new guidelines about the type of SKUs they need to…",
       "link": "https://www.grocerydive.com/news/usda-delaying-new-snap-stocking-standards/874782/",
       "source": "Grocery Dive",
       "pubDate": "2026-11-16T22:16:00.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
-      "excerpt": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
-      "link": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-16T22:12:31.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
     },
     {
@@ -155,33 +191,6 @@
       "source": "Food Dive",
       "pubDate": "2026-11-16T15:23:00.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "Agibot testing 6 G2 robots in a 24-hour c-store demo",
-      "excerpt": "Shanghai-based robotics company Agibot is testing six G2 robots in a 24-hour convenience store demonstration, assigning them tasks ranging from…",
-      "link": "https://www.retailcustomerexperience.com/news/agibot-testing-6-g2-robots-in-a-24-hour-c-store-demo/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-16T11:00:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "United Airlines grounds AI agents from user accounts, flight booking",
-      "excerpt": "United Airlines travelers won't be using AI agents to book flights or access their accounts as the airline has banned the technology from being used…",
-      "link": "https://www.retailcustomerexperience.com/news/united-airlines-grounds-ai-agents-from-user-accounts-flight-booking/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-16T11:00:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Everyone is talking about AI visibility. Grocery CPG brands need more than that.",
-      "excerpt": "AI search is reshaping CPG discovery. SPINS on investing where it actually pays off.",
-      "link": "https://www.fooddive.com/spons/everyone-is-talking-about-ai-visibility-grocery-cpg-brands-need-more-than/873830/",
-      "source": "Food Dive",
-      "pubDate": "2026-11-16T10:00:00.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
