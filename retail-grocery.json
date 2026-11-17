@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-16T21:26:06.407Z",
+  "publishedAt": "2026-11-17T05:46:43.795Z",
   "itemsFr": [
     {
       "title": "Black Friday : la messagerie d'entreprise, angle mort de la cybersécurité",
@@ -86,21 +86,39 @@
   ],
   "itemsEn": [
     {
-      "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
-      "excerpt": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address…",
-      "link": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
+      "title": "TikTok launches TikTok Shop Plus",
+      "excerpt": "TikTok has continued its commitment to ecommerce with the pilot roll out of a paid membership tier to 1 million people",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8806/tiktok-launches-tiktok-shop-plus/",
+      "source": "Retail Technology",
+      "pubDate": "2026-11-17T00:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "excerpt": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+      "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
       "source": "TechCrunch",
-      "pubDate": "2026-11-16T21:01:02.000Z",
+      "pubDate": "2026-11-16T23:32:32.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
     {
-      "title": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach",
-      "excerpt": "The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
-      "link": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+      "title": "USDA delaying new SNAP stocking standards",
+      "excerpt": "The rule was supposed to take effect Nov. 4, but stores will now get 90 more days to comply with new guidelines about the type of SKUs they need to…",
+      "link": "https://www.grocerydive.com/news/usda-delaying-new-snap-stocking-standards/874782/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-11-16T22:16:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
+      "excerpt": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
+      "link": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
       "source": "TechCrunch",
-      "pubDate": "2026-11-16T19:53:00.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
+      "pubDate": "2026-11-16T22:12:31.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
     },
     {
@@ -122,8 +140,8 @@
       "pinned": false
     },
     {
-      "title": "Grocery inflation is set go up as input costs rise",
-      "excerpt": "High energy costs and the arrival of a powerful El Niño weather pattern are likely to push grocery prices up at a faster-than-average clip during the…",
+      "title": "Grocery inflation is set to go up as input costs rise",
+      "excerpt": "High energy costs and a powerful El Niño weather pattern will likely elevate grocery prices at an above-average clip during the next few months, a…",
       "link": "https://www.grocerydive.com/news/grocery-inflation-food-prices-supply-chain-fmi/874701/",
       "source": "Grocery Dive",
       "pubDate": "2026-11-16T16:19:00.000Z",
@@ -140,30 +158,21 @@
       "pinned": false
     },
     {
+      "title": "Agibot testing 6 G2 robots in a 24-hour c-store demo",
+      "excerpt": "Shanghai-based robotics company Agibot is testing six G2 robots in a 24-hour convenience store demonstration, assigning them tasks ranging from…",
+      "link": "https://www.retailcustomerexperience.com/news/agibot-testing-6-g2-robots-in-a-24-hour-c-store-demo/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-16T11:00:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
       "title": "United Airlines grounds AI agents from user accounts, flight booking",
       "excerpt": "United Airlines travelers won't be using AI agents to book flights or access their accounts as the airline has banned the technology from being used…",
       "link": "https://www.retailcustomerexperience.com/news/united-airlines-grounds-ai-agents-from-user-accounts-flight-booking/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-11-16T11:00:00.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "National Retail Solutions supports cancer fundraiser",
-      "excerpt": "National Retail Solutions, through its NRS Cares community initiative, has entered a team in the ZERO Prostate Cancer Run/Walk – North Jersey 2026…",
-      "link": "https://www.retailcustomerexperience.com/news/national-retail-solutions-supports-cancer-fundraiser/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-16T11:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Under protective screens, Florida grapefruit finds room to grow",
-      "excerpt": "For retailers, fruit grown under CUPS converts an investment in the grove to an opportunity in the produce aisle.",
-      "link": "https://www.grocerydive.com/spons/under-protective-screens-florida-grapefruit-finds-room-to-grow/874216/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-11-16T10:00:00.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -181,15 +190,6 @@
       "link": "https://www.retailtechnology.co.uk/rss.xml/news/8804/home-bargains-ups-employee-ai-knowledge/",
       "source": "Retail Technology",
       "pubDate": "2026-11-13T00:00:00.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "Amazon deliveries looking smart",
-      "excerpt": "Amazon is deploying smart delivery glasses to its employees to provide delivery information directly in a delivery driver’s field of view",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8803/amazon-deliveries-looking-smart/",
-      "source": "Retail Technology",
-      "pubDate": "2026-11-12T00:00:00.000Z",
       "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
     }
