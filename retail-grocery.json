@@ -1,14 +1,41 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-18T00:13:57.841Z",
+  "publishedAt": "2026-11-18T10:54:16.791Z",
   "itemsFr": [
     {
-      "title": "La Commission européenne demande à la France d'assainir ses finances publiques",
-      "excerpt": "Bruxelles presse Paris de corriger sa trajectoire budgétaire, sur fond de prévisions économiques dégradées et de tensions accrues sur les marchés.",
-      "link": "https://www.journaldunet.com/business/1558141-la-commission-europeenne-demande-a-la-france-d-assainir-ses-finances-publiques/",
+      "title": "Le marché publicitaire résiste, porté par le digital",
+      "excerpt": "Les recettes nettes du marché publicitaire progressent de 4,1% sur les neuf premiers mois de l'année, grâce au digital, mais ce dernier ralentit…",
+      "link": "https://www.journaldunet.com/adtech/1558147-le-marche-publicitaire-resiste-porte-par-le-digital/",
       "source": "Journal du Net",
-      "pubDate": "2026-11-17T19:16:34.000Z",
+      "pubDate": "2026-11-18T10:00:01.000Z",
       "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Les équipes de Gabriel Attal, Bruno Retailleau et David Lisnard préparent une primaire",
+      "excerpt": "Les modalités d'une primaire de la droite et du centre pour 2027 sont posées, mais la participation d'Edouard Philippe et le périmètre politique…",
+      "link": "https://www.journaldunet.com/business/action-publique/1558165-les-equipes-de-gabriel-attal-bruno-retailleau-et-david-lisnard-preparent-une-primaire/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-18T09:25:37.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "[ ÉTUDE ] La proximité (rurale) profite de la flambée des carburants",
+      "excerpt": "L’heure est (presque) au bilan de l’année. Côté circuits, deux grands gagnants : la proximité et le e-commerce. Symboliquement, c’est la proximité…",
+      "link": "https://www.olivierdauvers.fr/2026/11/18/etude-la-proximite-rurale-profite-de-la-flambee-des-carburants/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-18T09:09:18.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Temu : Bruxelles menace d’une nouvelle amende",
+      "excerpt": "Contrôles de conformité insuffisants, modération défaillante et sanctions trop légères contre les vendeurs : les pratiques de la plateforme chinoise…",
+      "link": "https://www.ecommercemag.fr/retail-1220/temu-bruxelles-menace-dune-nouvelle-amende-61077",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-11-18T09:06:33.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
     },
     {
@@ -18,15 +45,6 @@
       "source": "Olivier Dauvers",
       "pubDate": "2026-11-17T18:07:19.000Z",
       "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "Parts de marché NielsenIQ P11 : Les Mousquetaires en prennent pour un an à festoyer !",
-      "excerpt": "À Bondoufle, au siège des Mousquetaires, on va finir par avoir mal à la tête… Tous les mois, à l’heure de découvrir les parts de marché, on sabrera…",
-      "link": "https://www.olivierdauvers.fr/2026/11/17/parts-de-marche-nielseniq-p11-les-mousquetaires-en-prennent-pour-un-an-a-festoyer/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-17T16:38:00.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -45,15 +63,6 @@
       "source": "Ecommerce Mag",
       "pubDate": "2026-11-17T15:44:51.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Code généré par IA : accélérer sans perdre le contrôle face au changement d'échelle",
-      "excerpt": "L'IA accélère le développement logiciel, mais augmente les risques et les coûts de sécurité. Gouvernance, traçabilité et contrôles deviennent…",
-      "link": "https://www.journaldunet.com/cybersecurite/1557953-code-genere-par-ia-accelerer-sans-perdre-le-controle-face-au-changement-d-echelle/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-17T15:35:05.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
     {
@@ -82,27 +91,9 @@
       "pubDate": "2026-11-17T09:00:26.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
-    },
-    {
-      "title": "Amazon déploie son assistante IA en France",
-      "excerpt": "Amazon vient de lancer en France sa nouvelle assistante d'achat dotée d'intelligence artificielle, baptisée “Alexa pour vos Achats”. Accessible…",
-      "link": "https://www.ecommercemag.fr/retail-1220/amazon-deploie-son-assistante-ia-en-france-61003",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-11-16T10:30:16.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
     }
   ],
   "itemsEn": [
-    {
-      "title": "Boden selects US expansion partner",
-      "excerpt": "British fashion brand Boden has selected OneStock to unify its inventory and order flows as it accelerates US expansion and scales its international…",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8807/boden-selects-us-expansion-partner/",
-      "source": "Retail Technology",
-      "pubDate": "2026-11-18T00:00:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
     {
       "title": "Anheuser-Busch invests in flagship Cutwater plant to expand production",
       "excerpt": "The brand beloved by Gen Z will use the money to expand its cream-based cocktail lines and fund future innovation.",
@@ -167,15 +158,6 @@
       "pinned": false
     },
     {
-      "title": "October retail sales remain on growth path",
-      "excerpt": "Retail sales hit its 13th straight month of gains in October despite higher food and gas prices and consumers looking for the best deals. The sales…",
-      "link": "https://www.retailcustomerexperience.com/news/october-retail-sales-remain-on-growth-path/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-17T11:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "The cost of a broken promise",
       "excerpt": "Picture a $45 order placed the week before Thanksgiving. The item sits in a warehouse hundreds of miles from the customer. The only way to meet the…",
       "link": "https://www.retailcustomerexperience.com/blogs/the-cost-of-a-broken-promise/",
@@ -185,11 +167,11 @@
       "pinned": false
     },
     {
-      "title": "TikTok launches TikTok Shop Plus",
-      "excerpt": "TikTok has continued its commitment to ecommerce with the pilot roll out of a paid membership tier to 1 million people",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8806/tiktok-launches-tiktok-shop-plus/",
-      "source": "Retail Technology",
-      "pubDate": "2026-11-17T00:00:00.000Z",
+      "title": "October retail sales remain on growth path",
+      "excerpt": "Retail sales hit its 13th straight month of gains in October despite higher food and gas prices and consumers looking for the best deals. The sales…",
+      "link": "https://www.retailcustomerexperience.com/news/october-retail-sales-remain-on-growth-path/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-17T11:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
