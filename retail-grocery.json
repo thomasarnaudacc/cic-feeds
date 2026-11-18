@@ -1,32 +1,41 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-18T10:54:16.791Z",
+  "publishedAt": "2026-11-18T19:45:17.201Z",
   "itemsFr": [
     {
-      "title": "Le marché publicitaire résiste, porté par le digital",
-      "excerpt": "Les recettes nettes du marché publicitaire progressent de 4,1% sur les neuf premiers mois de l'année, grâce au digital, mais ce dernier ralentit…",
-      "link": "https://www.journaldunet.com/adtech/1558147-le-marche-publicitaire-resiste-porte-par-le-digital/",
+      "title": "Cybersécurité : les inquiétantes vulnérabilités du secteur spatial français",
+      "excerpt": "Porté par l'essor du new space, le secteur spatial français accueille de nombreuses jeunes pousses moins matures en cybersécurité que les grands…",
+      "link": "https://www.journaldunet.com/cybersecurite/1558213-cybersecurite-les-inquietantes-vulnerabilites-du-secteur-spatial-francaiscybersecurite-les-inquietantes-vulnerabilites-du-secteur-spatial-francais/",
       "source": "Journal du Net",
-      "pubDate": "2026-11-18T10:00:01.000Z",
-      "category": "GRAND ANGLE",
+      "pubDate": "2026-11-18T19:30:05.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
     {
-      "title": "Les équipes de Gabriel Attal, Bruno Retailleau et David Lisnard préparent une primaire",
-      "excerpt": "Les modalités d'une primaire de la droite et du centre pour 2027 sont posées, mais la participation d'Edouard Philippe et le périmètre politique…",
-      "link": "https://www.journaldunet.com/business/action-publique/1558165-les-equipes-de-gabriel-attal-bruno-retailleau-et-david-lisnard-preparent-une-primaire/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-18T09:25:37.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "[ ÉTUDE ] La proximité (rurale) profite de la flambée des carburants",
-      "excerpt": "L’heure est (presque) au bilan de l’année. Côté circuits, deux grands gagnants : la proximité et le e-commerce. Symboliquement, c’est la proximité…",
-      "link": "https://www.olivierdauvers.fr/2026/11/18/etude-la-proximite-rurale-profite-de-la-flambee-des-carburants/",
+      "title": "Comment Carrefour choisit ses combats au non-al",
+      "excerpt": "Un chiffre pour illustrer le recul du non-alimentaire dans les hypermarchés Carrefour ? En 2018, le non-al représentait 20 % du CA. Huit ans plus…",
+      "link": "https://www.olivierdauvers.fr/2026/11/18/comment-carrefour-choisit-ses-combats-au-non-al/",
       "source": "Olivier Dauvers",
-      "pubDate": "2026-11-18T09:09:18.000Z",
+      "pubDate": "2026-11-18T18:15:45.000Z",
       "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Comment améliorer la relation locataire face aux transformations du logement social ?",
+      "excerpt": "La 86ème édition du Congrès Hlm, organisée du 22 au 24 septembre à Bordeaux, a replacé la qualité de service de la relation locataire au cœur des…",
+      "link": "https://www.journaldunet.com/economie/immobilier/1557623-comment-ameliorer-la-relation-locataire-face-aux-transformations-du-logement-social/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-18T16:26:00.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
+    {
+      "title": "[ TECH ] Cdiscount teste l’inventaire en temps réel de ses entrepôts. Voici comment…",
+      "excerpt": "Encore une application des technos de reconnaissance d’image appliquée à l’inventaire… On connaissait les petites caméras de Vusion (format étiquette…",
+      "link": "https://www.olivierdauvers.fr/2026/11/18/tech-cdiscount-teste-linventaire-en-temps-reel-de-ses-entrepots-voici-comment/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-18T14:24:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
@@ -36,15 +45,6 @@
       "source": "Ecommerce Mag",
       "pubDate": "2026-11-18T09:06:33.000Z",
       "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "Découvrez les 34 familles de PGC sur lesquelles Carrefour met la priorité",
-      "excerpt": "Envie de savoir quels sont les segments d’offre les plus porteurs aujourd’hui dans l’assortiment d’un hypermarché ? Carrefour a partagé la liste des…",
-      "link": "https://www.olivierdauvers.fr/2026/11/17/decouvrez-les-34-familles-de-pgc-sur-lesquelles-carrefour-met-la-priorite/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-17T18:07:19.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
       "pinned": false
     },
     {
@@ -95,8 +95,98 @@
   ],
   "itemsEn": [
     {
-      "title": "Anheuser-Busch invests in flagship Cutwater plant to expand production",
-      "excerpt": "The brand beloved by Gen Z will use the money to expand its cream-based cocktail lines and fund future innovation.",
+      "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+      "excerpt": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+      "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-18T17:32:10.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "E-commerce boosts Home Depot, Lowe’s in Q3",
+      "excerpt": "Both retailers notched double-digit gains within their digital businesses as they continue to make investments to improve the online experience.",
+      "link": "https://www.retaildive.com/news/home-depot-lowes-digital-sales-boost-q3-ecommerce/875054/",
+      "source": "Retail Dive",
+      "pubDate": "2026-11-18T17:31:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Traffic recovery at T.J. Maxx, Marshalls boost TJX in Q3 as pressures mount",
+      "excerpt": "But gains were somewhat tepid, and the off-price giant faces growing competition from resale, department store promotions and rival Ross.",
+      "link": "https://www.retaildive.com/news/traffic-recovery-tj-maxx-marshalls-boost-tjx-q3/875025/",
+      "source": "Retail Dive",
+      "pubDate": "2026-11-18T17:19:00.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Why grocers are opening new price-focused stores",
+      "excerpt": "Savings-oriented formats underscore the balancing act supermarket operators face as they strive to emphasize savings without undermining their…",
+      "link": "https://www.grocerydive.com/news/value-formats-supermarkets-grocery/874905/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-11-18T16:18:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Reima adopts marketplace margin analytics",
+      "excerpt": "Finnish kidswear brand uses daily article-level margin data to steer its marketplace business",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8808/reima-adopts-marketplace-margin-analytics/",
+      "source": "Retail Technology",
+      "pubDate": "2026-11-18T14:23:30.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Grocery inflation set to go up as input costs rise",
+      "excerpt": "High energy costs and a powerful El Niño weather pattern will likely elevate grocery prices at an above-average clip during the next few months, a…",
+      "link": "https://www.fooddive.com/news/grocery-inflation-food-prices-supply-chain-fmi/874868/",
+      "source": "Food Dive",
+      "pubDate": "2026-11-18T14:21:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Amazon adds prepared meals to same-day grocery delivery service",
+      "excerpt": "The new line of ready-to-eat offerings — all priced under $8 — marks another way the company is looking to cut into grocers’ margins.",
+      "link": "https://www.grocerydive.com/news/amazon-same-day-prepared-meals-grocery/874981/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-11-18T13:41:44.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+      "excerpt": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+      "link": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-18T12:00:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "No free shipping a deal breaker for many shoppers",
+      "excerpt": "Nearly every shopper, 93%, will abandon a purchase at least some of the time if free shipping is not an option. That's a top finding of ShipBae's…",
+      "link": "https://www.retailcustomerexperience.com/news/no-free-shipping-a-deal-breaker-for-many-shoppers/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-18T11:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "NY city council bans surveillance pricing",
+      "excerpt": "The New York City Council has enacted a bill banning surveillance pricing in New York City. The vote of 44 to five comes on the heels of a State…",
+      "link": "https://www.retailcustomerexperience.com/news/ny-city-council-bans-surveillance-pricing/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-18T11:00:00.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Anheuser-Busch invests in flagship Cutwater plant to boost production",
+      "excerpt": "The brand beloved by Gen Z will spend $1.5 million to expand its cream-based cocktail lines and fund future innovation.",
       "link": "https://www.fooddive.com/news/anheuser-busch-invests-cutwater-plant-expansion/874944/",
       "source": "Food Dive",
       "pubDate": "2026-11-17T19:17:00.000Z",
@@ -104,83 +194,11 @@
       "pinned": false
     },
     {
-      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
-      "excerpt": "The company uses agentic AI to make supply chains faster and more reliable.",
-      "link": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-17T18:04:16.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
-      "excerpt": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what…",
-      "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-17T17:32:25.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "Target’s Black Friday sale includes in-store gift card giveaway",
-      "excerpt": "The mass retailer is aiming to provide value to budget-conscious shoppers and will give early deal access to paid membership customers.",
-      "link": "https://www.retaildive.com/news/targets-black-friday-sale-gift-card-giveaway/874891/",
-      "source": "Retail Dive",
-      "pubDate": "2026-11-17T17:13:00.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
-      "title": "Pardon the Disruption: Grocers have backed themselves into a corner with e-commerce",
-      "excerpt": "Instacart and DoorDash are looking to merge as Amazon and Walmart become bigger threats. Where does that leave grocers?",
-      "link": "https://www.grocerydive.com/news/pardon-the-disruption-online-grocery-challenges-deepen/874796/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-11-17T15:35:45.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Flashfood expands into new state",
-      "excerpt": "Associated Food Stores is adding the food waste tech company to 11 of its stores in the greater Salt Lake City area.",
-      "link": "https://www.grocerydive.com/news/associated-food-stores-flashfood-utah/874807/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-11-17T15:34:00.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "Jim Beam won’t resume production at flagship distillery next year",
-      "excerpt": "The Suntory-owned whiskey is moving production to another facility in Kentucky as value spirits brands continue to struggle.",
-      "link": "https://www.fooddive.com/news/jim-beam-flagship-distillery-production-pause/874870/",
-      "source": "Food Dive",
-      "pubDate": "2026-11-17T14:25:00.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
-      "title": "The cost of a broken promise",
-      "excerpt": "Picture a $45 order placed the week before Thanksgiving. The item sits in a warehouse hundreds of miles from the customer. The only way to meet the…",
-      "link": "https://www.retailcustomerexperience.com/blogs/the-cost-of-a-broken-promise/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-17T11:00:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "October retail sales remain on growth path",
-      "excerpt": "Retail sales hit its 13th straight month of gains in October despite higher food and gas prices and consumers looking for the best deals. The sales…",
-      "link": "https://www.retailcustomerexperience.com/news/october-retail-sales-remain-on-growth-path/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-17T11:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Dillard’s grabs some market share again despite weak sales growth",
-      "excerpt": "In Q3 the department store eked out 1% increases in retail sales and comps compared to last year, but that beat expectations.",
-      "link": "https://www.retaildive.com/news/dillards-grabs-market-share-weak-sales-growth/874735/",
-      "source": "Retail Dive",
-      "pubDate": "2026-11-16T17:29:00.000Z",
+      "title": "TikTok launches TikTok Shop Plus",
+      "excerpt": "TikTok has continued its commitment to ecommerce with the pilot roll out of a paid membership tier to 1 million people",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8806/tiktok-launches-tiktok-shop-plus/",
+      "source": "Retail Technology",
+      "pubDate": "2026-11-17T00:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     }
