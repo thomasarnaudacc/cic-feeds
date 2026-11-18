@@ -1,13 +1,58 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-17T15:12:37.557Z",
+  "publishedAt": "2026-11-18T00:13:57.841Z",
   "itemsFr": [
     {
-      "title": "\"Des grandes entreprises craignent de se tromper dans la qualification NIS 2 de leurs entités\"",
-      "excerpt": "Aurélia Pons, avocate spécialisée en droit de la cybersécurité chez Ashurst Perkins Coie, précise au JDN les difficultés que rencontrent ses clients…",
-      "link": "https://www.journaldunet.com/cybersecurite/1558107-certaines-grandes-entreprises-craignent-de-se-tromper-dans-la-qualification-nis-2-de-leurs-entites/",
+      "title": "La Commission européenne demande à la France d'assainir ses finances publiques",
+      "excerpt": "Bruxelles presse Paris de corriger sa trajectoire budgétaire, sur fond de prévisions économiques dégradées et de tensions accrues sur les marchés.",
+      "link": "https://www.journaldunet.com/business/1558141-la-commission-europeenne-demande-a-la-france-d-assainir-ses-finances-publiques/",
       "source": "Journal du Net",
-      "pubDate": "2026-11-17T14:25:39.000Z",
+      "pubDate": "2026-11-17T19:16:34.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Découvrez les 34 familles de PGC sur lesquelles Carrefour met la priorité",
+      "excerpt": "Envie de savoir quels sont les segments d’offre les plus porteurs aujourd’hui dans l’assortiment d’un hypermarché ? Carrefour a partagé la liste des…",
+      "link": "https://www.olivierdauvers.fr/2026/11/17/decouvrez-les-34-familles-de-pgc-sur-lesquelles-carrefour-met-la-priorite/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-17T18:07:19.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Parts de marché NielsenIQ P11 : Les Mousquetaires en prennent pour un an à festoyer !",
+      "excerpt": "À Bondoufle, au siège des Mousquetaires, on va finir par avoir mal à la tête… Tous les mois, à l’heure de découvrir les parts de marché, on sabrera…",
+      "link": "https://www.olivierdauvers.fr/2026/11/17/parts-de-marche-nielseniq-p11-les-mousquetaires-en-prennent-pour-un-an-a-festoyer/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-17T16:38:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "du Web3 du luxe à la traçabilité industrielle, ARIANEE change de mains.",
+      "excerpt": "IN THE LOOP · La rédaction · 17/11/2026 ARIANEE a d’abord développé ses passeports numériques pour des maisons de luxe comme BREITLING et VACHERON…",
+      "link": "https://www.frenchweb.fr/du-web3-du-luxe-a-la-tracabilite-industrielle-arianee-change-de-mains/900000052?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+      "source": "FrenchWeb",
+      "pubDate": "2026-11-17T16:23:14.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "Joybuy affine son modèle pour s’installer durablement en France",
+      "excerpt": "Lancée en mars 2026 dans l'Hexagone, la plateforme de commerce en ligne de JD.com poursuit son implantation sur un marché très concurrentiel…",
+      "link": "https://www.ecommercemag.fr/retail-1220/joybuy-affine-son-modele-pour-sinstaller-durablement-en-france-61031",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-11-17T15:44:51.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Code généré par IA : accélérer sans perdre le contrôle face au changement d'échelle",
+      "excerpt": "L'IA accélère le développement logiciel, mais augmente les risques et les coûts de sécurité. Gouvernance, traçabilité et contrôles deviennent…",
+      "link": "https://www.journaldunet.com/cybersecurite/1557953-code-genere-par-ia-accelerer-sans-perdre-le-controle-face-au-changement-d-echelle/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-17T15:35:05.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
@@ -39,33 +84,6 @@
       "pinned": false
     },
     {
-      "title": "ESN & clients : un nouveau pacte à écrire à l'heure du développement IA Agentique",
-      "excerpt": "Le développement agentique ne doit pas devenir une guerre des prix : le temps gagné doit nourrir l'expérimentation, l'échange avec le métier et…",
-      "link": "https://www.journaldunet.com/intelligence-artificielle/1558085-esn-clients-un-nouveau-pacte-a-ecrire-a-l-heure-du-developpement-ia-agentique/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-17T08:16:48.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "[ RETAIL INSIDE ] Découvrez Montpellier-Grabels, le dernier Super U ouvert",
-      "excerpt": "C’est le dernier Super U ouvert, il y a quelques jours. 3 000 m2 à Grabels au Nord de Montpellier : une commune de 9 000 habitants historiquement…",
-      "link": "https://www.olivierdauvers.fr/2026/11/16/retail-inside-decouvrez-montpellier-grabels-le-dernier-super-u-ouvert/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-16T17:31:42.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "[ DIGITAL ] Pourquoi Carrefour m’adresse-t-il, par courrier, le prospectus de jouets Noël 2026 ? Je sèche…",
-      "excerpt": "Carrefour est (paraît-il) une digital retail company. Notamment utile pour communiquer avec ses clients de manière plus ciblée, plus efficace, plus…",
-      "link": "https://www.olivierdauvers.fr/2026/11/16/digital-pourquoi-carrefour-madresse-t-il-par-courrier-le-prospectus-de-jouets-noel-2026-je-seche/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-16T13:48:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Amazon déploie son assistante IA en France",
       "excerpt": "Amazon vient de lancer en France sa nouvelle assistante d'achat dotée d'intelligence artificielle, baptisée “Alexa pour vos Achats”. Accessible…",
       "link": "https://www.ecommercemag.fr/retail-1220/amazon-deploie-son-assistante-ia-en-france-61003",
@@ -73,34 +91,70 @@
       "pubDate": "2026-11-16T10:30:16.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
-    },
-    {
-      "title": "Carmila et IGD : un rapprochement à 8,7 milliards d’euros dans les centres commerciaux",
-      "excerpt": "La foncière française Carmila annonce un rapprochement amical avec IGD, troisième acteur du marché italien des centres commerciaux. Cette opération…",
-      "link": "https://www.ecommercemag.fr/retail-1220/carmila-et-igd-un-rapprochement-a-87-milliards-deuros-dans-les-centres-commerciaux-60973",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-11-16T08:52:07.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Chatbots : Bruxelles veut encadrer la fabrication de l’attachement",
-      "excerpt": "AI FIRST · La rédaction · 13/11/2026 La Commission européenne propose de donner aux consommateurs le moyen de désactiver les fonctions qui…",
-      "link": "https://www.frenchweb.fr/chatbots-bruxelles-veut-encadrer-la-fabrication-de-l-attachement/900000043?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
-      "source": "FrenchWeb",
-      "pubDate": "2026-11-13T09:11:12.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
     }
   ],
   "itemsEn": [
     {
-      "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
-      "excerpt": "Planning a trip is a favorite demo for personal AI assistants: you can try it with Muse, or with Gemini or half a dozen other choices. But while most…",
-      "link": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+      "title": "Boden selects US expansion partner",
+      "excerpt": "British fashion brand Boden has selected OneStock to unify its inventory and order flows as it accelerates US expansion and scales its international…",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8807/boden-selects-us-expansion-partner/",
+      "source": "Retail Technology",
+      "pubDate": "2026-11-18T00:00:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Anheuser-Busch invests in flagship Cutwater plant to expand production",
+      "excerpt": "The brand beloved by Gen Z will use the money to expand its cream-based cocktail lines and fund future innovation.",
+      "link": "https://www.fooddive.com/news/anheuser-busch-invests-cutwater-plant-expansion/874944/",
+      "source": "Food Dive",
+      "pubDate": "2026-11-17T19:17:00.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
+    {
+      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+      "excerpt": "The company uses agentic AI to make supply chains faster and more reliable.",
+      "link": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
       "source": "TechCrunch",
-      "pubDate": "2026-11-17T15:00:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pubDate": "2026-11-17T18:04:16.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "excerpt": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what…",
+      "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-17T17:32:25.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "Target’s Black Friday sale includes in-store gift card giveaway",
+      "excerpt": "The mass retailer is aiming to provide value to budget-conscious shoppers and will give early deal access to paid membership customers.",
+      "link": "https://www.retaildive.com/news/targets-black-friday-sale-gift-card-giveaway/874891/",
+      "source": "Retail Dive",
+      "pubDate": "2026-11-17T17:13:00.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
+    {
+      "title": "Pardon the Disruption: Grocers have backed themselves into a corner with e-commerce",
+      "excerpt": "Instacart and DoorDash are looking to merge as Amazon and Walmart become bigger threats. Where does that leave grocers?",
+      "link": "https://www.grocerydive.com/news/pardon-the-disruption-online-grocery-challenges-deepen/874796/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-11-17T15:35:45.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Flashfood expands into new state",
+      "excerpt": "Associated Food Stores is adding the food waste tech company to 11 of its stores in the greater Salt Lake City area.",
+      "link": "https://www.grocerydive.com/news/associated-food-stores-flashfood-utah/874807/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-11-17T15:34:00.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
     {
@@ -113,15 +167,6 @@
       "pinned": false
     },
     {
-      "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
-      "excerpt": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the…",
-      "link": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-17T14:05:30.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
       "title": "October retail sales remain on growth path",
       "excerpt": "Retail sales hit its 13th straight month of gains in October despite higher food and gas prices and consumers looking for the best deals. The sales…",
       "link": "https://www.retailcustomerexperience.com/news/october-retail-sales-remain-on-growth-path/",
@@ -131,12 +176,12 @@
       "pinned": false
     },
     {
-      "title": "Physical stores grabbing majority of retail purchases",
-      "excerpt": "Physical stores will continue to account for the majority of retail purchases, across all generations, through 2030. That's a top finding from a…",
-      "link": "https://www.retailcustomerexperience.com/news/physical-stores-grabbing-majority-of-retail-purchases/",
+      "title": "The cost of a broken promise",
+      "excerpt": "Picture a $45 order placed the week before Thanksgiving. The item sits in a warehouse hundreds of miles from the customer. The only way to meet the…",
+      "link": "https://www.retailcustomerexperience.com/blogs/the-cost-of-a-broken-promise/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-11-17T11:00:00.000Z",
-      "category": "GRAND ANGLE",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
@@ -149,57 +194,12 @@
       "pinned": false
     },
     {
-      "title": "USDA delaying new SNAP stocking standards",
-      "excerpt": "The rule was supposed to take effect Nov. 4, but stores will now get 90 more days to comply with new guidelines about the type of SKUs they need to…",
-      "link": "https://www.grocerydive.com/news/usda-delaying-new-snap-stocking-standards/874782/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-11-16T22:16:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
       "title": "Dillard’s grabs some market share again despite weak sales growth",
       "excerpt": "In Q3 the department store eked out 1% increases in retail sales and comps compared to last year, but that beat expectations.",
       "link": "https://www.retaildive.com/news/dillards-grabs-market-share-weak-sales-growth/874735/",
       "source": "Retail Dive",
       "pubDate": "2026-11-16T17:29:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "J. Crew introduces AI-powered Style Advisor",
-      "excerpt": "The desktop digital assistant, developed in partnership with Anthropic, goes beyond individual product searches to deliver a styling experience.",
-      "link": "https://www.retaildive.com/news/j-crew-introduces-ai-style-advisor/874596/",
-      "source": "Retail Dive",
-      "pubDate": "2026-11-16T17:09:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Grocery inflation is set to go up as input costs rise",
-      "excerpt": "High energy costs and a powerful El Niño weather pattern will likely elevate grocery prices at an above-average clip during the next few months, a…",
-      "link": "https://www.grocerydive.com/news/grocery-inflation-food-prices-supply-chain-fmi/874701/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-11-16T16:19:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "USDA looks to tighten SNAP eligibility",
-      "excerpt": "Consumer and labor advocates warn that the move would worsen hunger by cutting more than 6 million people from the food assistance program.",
-      "link": "https://www.fooddive.com/news/usda-proposed-changes-snap-eligibility/874688/",
-      "source": "Food Dive",
-      "pubDate": "2026-11-16T15:23:00.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "Home Bargains ups employee AI knowledge",
-      "excerpt": "UK discount retailer Home Bargains is rolling out a data and AI literacy programme for its leadership and head office teams.",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8804/home-bargains-ups-employee-ai-knowledge/",
-      "source": "Retail Technology",
-      "pubDate": "2026-11-13T00:00:00.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
     }
   ]
