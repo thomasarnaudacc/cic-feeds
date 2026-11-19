@@ -1,41 +1,59 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-19T02:08:04.966Z",
+  "publishedAt": "2026-11-19T10:56:13.799Z",
   "itemsFr": [
     {
-      "title": "Les MDD battent leur record historique en octobre selon Worldpanel",
-      "excerpt": "Faut-il vraiment s’en étonner alors que le pouvoir d’achat est sur toutes les lèves et l’inflation à venir dans tous les esprits ? Non, évidemment…",
-      "link": "https://www.olivierdauvers.fr/2026/11/18/les-mdd-battent-leur-record-historique-en-octobre-selon-worldpanel/",
+      "title": "La “new para” de Carrefour",
+      "excerpt": "Le pilote du nouveau concept parapharmacie de Carrefour a été lancé fin 2025. 31 sites ont été déployés à date, en hyper ou en galerie. 130 ont…",
+      "link": "https://www.olivierdauvers.fr/2026/11/19/la-new-para-de-carrefour/",
       "source": "Olivier Dauvers",
-      "pubDate": "2026-11-18T21:31:46.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pubDate": "2026-11-19T10:44:00.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
       "pinned": false
     },
     {
-      "title": "Cybersécurité : les inquiétantes vulnérabilités du secteur spatial français",
-      "excerpt": "Porté par l'essor du new space, le secteur spatial français accueille de nombreuses jeunes pousses moins matures en cybersécurité que les grands…",
-      "link": "https://www.journaldunet.com/cybersecurite/1558213-cybersecurite-les-inquietantes-vulnerabilites-du-secteur-spatial-francaiscybersecurite-les-inquietantes-vulnerabilites-du-secteur-spatial-francais/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-18T19:30:05.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "Comment Carrefour choisit ses combats au non-al",
-      "excerpt": "Un chiffre pour illustrer le recul du non-alimentaire dans les hypermarchés Carrefour ? En 2018, le non-al représentait 20 % du CA. Huit ans plus…",
-      "link": "https://www.olivierdauvers.fr/2026/11/18/comment-carrefour-choisit-ses-combats-au-non-al/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-18T18:15:45.000Z",
+      "title": "Dans les coulisses des supermarchés, KHEOPS simplifie les achats directs",
+      "excerpt": "NEXT IN RETAIL · Richard Menneveux · 19/11/2026 Pour faire entrer une marque régionale ou un produit local en rayon, un supermarché peut acheter…",
+      "link": "https://www.frenchweb.fr/dans-les-coulisses-des-supermarches-kheops-simplifie-les-achats-directs/900000059?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+      "source": "FrenchWeb",
+      "pubDate": "2026-11-19T10:12:02.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "Comment améliorer la relation locataire face aux transformations du logement social ?",
-      "excerpt": "La 86ème édition du Congrès Hlm, organisée du 22 au 24 septembre à Bordeaux, a replacé la qualité de service de la relation locataire au cœur des…",
-      "link": "https://www.journaldunet.com/economie/immobilier/1557623-comment-ameliorer-la-relation-locataire-face-aux-transformations-du-logement-social/",
+      "title": "Déplacements professionnels : course ponctuelle ou chauffeur à disposition ?",
+      "excerpt": "Transfert aéroport, rendez-vous enchaînés ou séminaire : chaque déplacement professionnel appelle une formule de transport adaptée. Quelques repères…",
+      "link": "https://www.journaldunet.com/management/direction-generale/1558217-deplacements-professionnels-course-ponctuelle-ou-chauffeur-a-disposition/",
       "source": "Journal du Net",
-      "pubDate": "2026-11-18T16:26:00.000Z",
+      "pubDate": "2026-11-19T09:57:45.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "Formation et business : il est temps de parler le même langage",
+      "excerpt": "Les entreprises investissent massivement dans la formation, mais mesurent encore trop peu ses effets concrets sur les compétences, les pratiques et…",
+      "link": "https://www.journaldunet.com/management/formation/1558191-formation-et-business-il-est-temps-de-parler-le-meme-langage/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-19T09:56:30.000Z",
       "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
+    {
+      "title": "Noël 2026 : budget en baisse, les Français misent sur le Black Friday et l’IA",
+      "excerpt": "Face à la pression sur leur pouvoir d’achat, les Français abordent Noël 2026 avec davantage de prudence. Selon une étude de la Fevad et de Toluna, le…",
+      "link": "https://www.ecommercemag.fr/retail-1220/barometre-etude-2168/noel-2026-budget-en-baisse-les-francais-misent-sur-le-black-friday-et-lia-61113",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-11-19T08:43:28.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "[ CONSO à IMPACT ] 10 ans pour C’est qui le patron et plus de 10 millions de produits vendus en octobre",
+      "excerpt": "La démarche C’est qui le patron fête officiellement ses 10 ans aujourd’hui. Un anniversaire et un record pour la coopérative de consommateurs (dont…",
+      "link": "https://www.olivierdauvers.fr/2026/11/19/conso-a-impact-10-ans-pour-cest-qui-le-patron-et-plus-de-10-millions-de-produits-vendus-en-octobre/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-19T06:35:01.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -54,42 +72,6 @@
       "source": "FrenchWeb",
       "pubDate": "2026-11-17T16:23:14.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "Joybuy affine son modèle pour s’installer durablement en France",
-      "excerpt": "Lancée en mars 2026 dans l'Hexagone, la plateforme de commerce en ligne de JD.com poursuit son implantation sur un marché très concurrentiel…",
-      "link": "https://www.ecommercemag.fr/retail-1220/joybuy-affine-son-modele-pour-sinstaller-durablement-en-france-61031",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-11-17T15:44:51.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "GENESIS AI lève 425 millions d’euros pour déployer ses robots en usine",
-      "excerpt": "AI FIRST · Richard Menneveux · 17/11/2026 GENESIS AI annonce une série A de 500 millions de dollars qui valorise la société autour de 3 milliards…",
-      "link": "https://www.frenchweb.fr/genesis-ai-leve-425-millions-d-euros-pour-deployer-ses-robots-en-usine/900000051?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
-      "source": "FrenchWeb",
-      "pubDate": "2026-11-17T14:00:10.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Robotique : Genesis AI boucle une série A d’un demi-milliard de dollars auprès de Nvidia, Samsung et Zoom",
-      "excerpt": "L’article Robotique : Genesis AI boucle une série A d’un demi-milliard de dollars auprès de Nvidia, Samsung et Zoom est apparu en premier sur…",
-      "link": "https://www.maddyness.com/2026/11/17/robotique-genesis-ai-boucle-une-serie-a-dun-demi-milliard-de-dollars-aupres-de-nvidia-samsung-et-zoom/",
-      "source": "Maddyness",
-      "pubDate": "2026-11-17T13:59:01.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "MAD30 x Shopify : les 30 dirigeants qui réinventent l’e-commerce grâce à l’IA",
-      "excerpt": "L’article MAD30 x Shopify : les 30 dirigeants qui réinventent l’e-commerce grâce à l’IA est apparu en premier sur Maddyness - Le média pour…",
-      "link": "https://www.maddyness.com/2026/11/17/mad30-shopify-ia-e-commerce/",
-      "source": "Maddyness",
-      "pubDate": "2026-11-17T09:00:26.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     }
   ],
@@ -131,15 +113,6 @@
       "pinned": false
     },
     {
-      "title": "Target sees ‘strong momentum’ in food & beverage",
-      "excerpt": "The category’s ongoing revamp continues to pay off, executives said, noting the retailer added more than 2,000 items to the department in Q3.",
-      "link": "https://www.grocerydive.com/news/target-grocery-food-beverage-category-revamp-third-quarter-earnings/875077/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-11-18T17:33:53.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "E-commerce boosts Home Depot, Lowe’s in Q3",
       "excerpt": "Both retailers notched double-digit gains within their digital businesses as they continue to make investments to improve the online experience.",
       "link": "https://www.retaildive.com/news/home-depot-lowes-digital-sales-boost-q3-ecommerce/875054/",
@@ -155,6 +128,15 @@
       "source": "Retail Dive",
       "pubDate": "2026-11-18T17:19:00.000Z",
       "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Why grocers are opening new price-focused stores",
+      "excerpt": "Savings-oriented formats underscore the balancing act supermarket operators face as they strive to emphasize savings without undermining their…",
+      "link": "https://www.grocerydive.com/news/value-formats-supermarkets-grocery/874905/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-11-18T16:18:00.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -176,26 +158,26 @@
       "pinned": false
     },
     {
-      "title": "AI not so accurate when it comes to retail stock records",
-      "excerpt": "The use of AI when it comes to retail stock and inventory isn't proving as accurate as some may think. Store associates report stock information…",
-      "link": "https://www.retailcustomerexperience.com/news/ai-not-so-accurate-when-it-comes-to-retail-stock-records/",
+      "title": "NY city council bans surveillance pricing",
+      "excerpt": "The New York City Council has enacted a bill banning surveillance pricing in New York City. The vote of 44 to five comes on the heels of a State…",
+      "link": "https://www.retailcustomerexperience.com/news/ny-city-council-bans-surveillance-pricing/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-11-18T11:00:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "category": "OFFRE, PRIX & MERCHANDISING",
       "pinned": false
     },
     {
-      "title": "Retailer stock-outs hurt brand loyalty, drive consumers to switch brands",
-      "excerpt": "There is a slew of potential aggravations in the shopping journey but one of the top frustrating experiences is finding the store doesn't have what…",
-      "link": "https://www.retailcustomerexperience.com/articles/retailer-stock-outs-hurt-brand-loyalty-drive-consumers-to-switch-brands/",
+      "title": "No free shipping a deal breaker for many shoppers",
+      "excerpt": "Nearly every shopper, 93%, will abandon a purchase at least some of the time if free shipping is not an option. That's a top finding of ShipBae's…",
+      "link": "https://www.retailcustomerexperience.com/news/no-free-shipping-a-deal-breaker-for-many-shoppers/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-11-18T11:00:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "Anheuser-Busch invests in flagship Cutwater plant to boost production",
-      "excerpt": "The brand beloved by Gen Z will spend $1.5 million to expand its cream-based cocktail lines and fund future innovation.",
+      "title": "Anheuser-Busch invests in flagship Cutwater plant to expand production",
+      "excerpt": "The brand beloved by Gen Z will use the money to expand its cream-based cocktail lines and fund future innovation.",
       "link": "https://www.fooddive.com/news/anheuser-busch-invests-cutwater-plant-expansion/874944/",
       "source": "Food Dive",
       "pubDate": "2026-11-17T19:17:00.000Z",
