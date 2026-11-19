@@ -1,14 +1,59 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-19T10:56:13.799Z",
+  "publishedAt": "2026-11-19T19:45:33.657Z",
   "itemsFr": [
     {
-      "title": "La “new para” de Carrefour",
-      "excerpt": "Le pilote du nouveau concept parapharmacie de Carrefour a été lancé fin 2025. 31 sites ont été déployés à date, en hyper ou en galerie. 130 ont…",
-      "link": "https://www.olivierdauvers.fr/2026/11/19/la-new-para-de-carrefour/",
+      "title": "[ EXCLU ] L’image prix des enseignes de bricolage-jardinage sur les réseaux sociaux",
+      "excerpt": "Je continue de partager avec vous, en exclusivité, le baromètre image-prix dynamique de TBWA fondé sur le “social listening”. Aujourd’hui, les…",
+      "link": "https://www.olivierdauvers.fr/2026/11/19/exclu-limage-prix-des-enseignes-de-bricolage-jardinage-sur-les-reseaux-sociaux/",
       "source": "Olivier Dauvers",
-      "pubDate": "2026-11-19T10:44:00.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
+      "pubDate": "2026-11-19T18:46:00.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Golden Quarter : le moment de vérité du commerce en ligne",
+      "excerpt": "Le Golden Quarter, littéralement le \"trimestre doré \", désigne la période clé de fin d'année, lorsque les fêtes et les grandes opérations…",
+      "link": "https://www.journaldunet.com/martech/1558199-golden-quarter-le-moment-de-verite-du-commerce-en-ligne/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-19T17:34:49.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Modèles maison, OS IA, agents… OVHcloud ne veut plus seulement héberger l'IA des autres",
+      "excerpt": "Fini le simple hébergeur. Le groupe lance sa propre famille de LLM, un \"OS IA\" taillé pour l'IA agentique et une salve de produits d'IA. Sans Mistral…",
+      "link": "https://www.journaldunet.com/cloud/1558267-modeles-maison-os-ia-agents-ovhcloud-ne-veut-plus-seulement-heberger-l-ia-des-autres/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-19T15:38:03.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Marketplaces : comment l’IA redéfinit les avantages concurrentiels",
+      "excerpt": "L’article Marketplaces : comment l’IA redéfinit les avantages concurrentiels est apparu en premier sur Maddyness - Le média pour comprendre…",
+      "link": "https://www.maddyness.com/2026/11/19/marketplaces-comment-lia-redefinit-les-avantages-concurrentiels/",
+      "source": "Maddyness",
+      "pubDate": "2026-11-19T15:00:28.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Des caméras plus discrètes et des signaux lumineux plus visibles : voici les nouveaux rails Vusion",
+      "excerpt": "La nouvelle génération d’équipement sur laquelle planche Vusion comporte deux évolutions qui seront très visibles en rayon. D’abord des caméras…",
+      "link": "https://www.olivierdauvers.fr/2026/11/19/des-cameras-plus-discretes-et-des-signaux-lumineux-plus-visibles-voici-les-nouveaux-rails-vusion/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-19T14:46:00.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Lagostina muscle son e-commerce",
+      "excerpt": "À l’occasion de son 125e anniversaire, la marque d’ustensiles de cuisine haut de gamme du Groupe SEB dévoile une plateforme e-commerce repensée…",
+      "link": "https://www.ecommercemag.fr/retail-1220/strategie-retail-2163/lagostina-muscle-son-e-commerce-61120",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-11-19T14:08:08.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -21,48 +66,12 @@
       "pinned": false
     },
     {
-      "title": "Déplacements professionnels : course ponctuelle ou chauffeur à disposition ?",
-      "excerpt": "Transfert aéroport, rendez-vous enchaînés ou séminaire : chaque déplacement professionnel appelle une formule de transport adaptée. Quelques repères…",
-      "link": "https://www.journaldunet.com/management/direction-generale/1558217-deplacements-professionnels-course-ponctuelle-ou-chauffeur-a-disposition/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-19T09:57:45.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "Formation et business : il est temps de parler le même langage",
-      "excerpt": "Les entreprises investissent massivement dans la formation, mais mesurent encore trop peu ses effets concrets sur les compétences, les pratiques et…",
-      "link": "https://www.journaldunet.com/management/formation/1558191-formation-et-business-il-est-temps-de-parler-le-meme-langage/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-19T09:56:30.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
       "title": "Noël 2026 : budget en baisse, les Français misent sur le Black Friday et l’IA",
       "excerpt": "Face à la pression sur leur pouvoir d’achat, les Français abordent Noël 2026 avec davantage de prudence. Selon une étude de la Fevad et de Toluna, le…",
       "link": "https://www.ecommercemag.fr/retail-1220/barometre-etude-2168/noel-2026-budget-en-baisse-les-francais-misent-sur-le-black-friday-et-lia-61113",
       "source": "Ecommerce Mag",
       "pubDate": "2026-11-19T08:43:28.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "[ CONSO à IMPACT ] 10 ans pour C’est qui le patron et plus de 10 millions de produits vendus en octobre",
-      "excerpt": "La démarche C’est qui le patron fête officiellement ses 10 ans aujourd’hui. Un anniversaire et un record pour la coopérative de consommateurs (dont…",
-      "link": "https://www.olivierdauvers.fr/2026/11/19/conso-a-impact-10-ans-pour-cest-qui-le-patron-et-plus-de-10-millions-de-produits-vendus-en-octobre/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-19T06:35:01.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Temu : Bruxelles menace d’une nouvelle amende",
-      "excerpt": "Contrôles de conformité insuffisants, modération défaillante et sanctions trop légères contre les vendeurs : les pratiques de la plateforme chinoise…",
-      "link": "https://www.ecommercemag.fr/retail-1220/temu-bruxelles-menace-dune-nouvelle-amende-61077",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-11-18T09:06:33.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
     },
     {
@@ -77,12 +86,66 @@
   ],
   "itemsEn": [
     {
-      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-      "excerpt": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit…",
-      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "title": "Anthropic’s IPO could deliver $156 billion to charity",
+      "excerpt": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
+      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
       "source": "TechCrunch",
-      "pubDate": "2026-11-19T00:42:56.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
+      "pubDate": "2026-11-19T19:10:45.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Google gives Gemini the ability to use your Mac for you",
+      "excerpt": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+      "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-19T18:09:11.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Mall of America debuts AI-backed concierge, Mallie",
+      "excerpt": "The digital assistant is designed to help shoppers plan and personalize visits to North America’s largest shopping and entertainment complex.",
+      "link": "https://www.retaildive.com/news/mall-of-america-debuts-ai-concierge-mallie/875089/",
+      "source": "Retail Dive",
+      "pubDate": "2026-11-19T17:33:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "The Backroom: How department stores are shaping up this holiday",
+      "excerpt": "The team looks at the past, present and future of a retail model that has long been a fixture of the season.",
+      "link": "https://www.retaildive.com/news/the-backroom-podcast-department-stores-holiday-season/875199/",
+      "source": "Retail Dive",
+      "pubDate": "2026-11-19T16:56:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Walmart touts grocery, restaurant growth in Q3",
+      "excerpt": "The retailer recorded some of the highest share gains in grocery categories that it’s seen in three years, executives told investors.",
+      "link": "https://www.grocerydive.com/news/walmart-q3-earnings-fiscal-2027-grocery-restaurants/875169/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-11-19T15:25:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "ASICS America adds drones to DC",
+      "excerpt": "Sportswear firm ASICS America is now running autonomous inventory drones inside its Byhalia, MS distribution centre",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8809/asics-america-adds-drones-to-dc/",
+      "source": "Retail Technology",
+      "pubDate": "2026-11-19T12:10:59.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "As physical retail changes, so must the customer experience",
+      "excerpt": "For years, the role of the physical store was relatively straightforward: put the right products in the right place and give customers a convenient…",
+      "link": "https://www.retailcustomerexperience.com/blogs/as-physical-retail-changes-so-must-the-customer-experience/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-19T11:00:00.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -95,57 +158,12 @@
       "pinned": false
     },
     {
-      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-      "excerpt": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for…",
-      "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-18T22:58:11.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
       "title": "DoorDash denies using surveillance pricing",
       "excerpt": "The delivery giant said it does not personalize prices or change them based on the volume of demand, following an initial Federal Trade Commission…",
       "link": "https://www.grocerydive.com/news/doordash-rejects-surveillance-pricing-political-backlash/875078/",
       "source": "Grocery Dive",
       "pubDate": "2026-11-18T21:53:00.000Z",
       "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "E-commerce boosts Home Depot, Lowe’s in Q3",
-      "excerpt": "Both retailers notched double-digit gains within their digital businesses as they continue to make investments to improve the online experience.",
-      "link": "https://www.retaildive.com/news/home-depot-lowes-digital-sales-boost-q3-ecommerce/875054/",
-      "source": "Retail Dive",
-      "pubDate": "2026-11-18T17:31:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Traffic recovery at T.J. Maxx, Marshalls boost TJX in Q3 as pressures mount",
-      "excerpt": "But gains were somewhat tepid, and the off-price giant faces growing competition from resale, department store promotions and rival Ross.",
-      "link": "https://www.retaildive.com/news/traffic-recovery-tj-maxx-marshalls-boost-tjx-q3/875025/",
-      "source": "Retail Dive",
-      "pubDate": "2026-11-18T17:19:00.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "Why grocers are opening new price-focused stores",
-      "excerpt": "Savings-oriented formats underscore the balancing act supermarket operators face as they strive to emphasize savings without undermining their…",
-      "link": "https://www.grocerydive.com/news/value-formats-supermarkets-grocery/874905/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-11-18T16:18:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Reima adopts marketplace margin analytics",
-      "excerpt": "Finnish kidswear brand uses daily article-level margin data to steer its marketplace business",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8808/reima-adopts-marketplace-margin-analytics/",
-      "source": "Retail Technology",
-      "pubDate": "2026-11-18T14:23:30.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -158,26 +176,17 @@
       "pinned": false
     },
     {
-      "title": "NY city council bans surveillance pricing",
-      "excerpt": "The New York City Council has enacted a bill banning surveillance pricing in New York City. The vote of 44 to five comes on the heels of a State…",
-      "link": "https://www.retailcustomerexperience.com/news/ny-city-council-bans-surveillance-pricing/",
+      "title": "Retailer stock-outs hurt brand loyalty, drive consumers to switch brands",
+      "excerpt": "There is a slew of potential aggravations in the shopping journey but one of the top frustrating experiences is finding the store doesn't have what…",
+      "link": "https://www.retailcustomerexperience.com/articles/retailer-stock-outs-hurt-brand-loyalty-drive-consumers-to-switch-brands/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-11-18T11:00:00.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
-      "title": "No free shipping a deal breaker for many shoppers",
-      "excerpt": "Nearly every shopper, 93%, will abandon a purchase at least some of the time if free shipping is not an option. That's a top finding of ShipBae's…",
-      "link": "https://www.retailcustomerexperience.com/news/no-free-shipping-a-deal-breaker-for-many-shoppers/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-18T11:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Anheuser-Busch invests in flagship Cutwater plant to expand production",
-      "excerpt": "The brand beloved by Gen Z will use the money to expand its cream-based cocktail lines and fund future innovation.",
+      "title": "Anheuser-Busch invests in flagship Cutwater plant to boost production",
+      "excerpt": "The brand beloved by Gen Z will spend $1.5 million to expand its cream-based cocktail lines and fund future innovation.",
       "link": "https://www.fooddive.com/news/anheuser-busch-invests-cutwater-plant-expansion/874944/",
       "source": "Food Dive",
       "pubDate": "2026-11-17T19:17:00.000Z",
