@@ -1,7 +1,16 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-18T19:45:17.201Z",
+  "publishedAt": "2026-11-19T02:08:04.966Z",
   "itemsFr": [
+    {
+      "title": "Les MDD battent leur record historique en octobre selon Worldpanel",
+      "excerpt": "Faut-il vraiment s’en étonner alors que le pouvoir d’achat est sur toutes les lèves et l’inflation à venir dans tous les esprits ? Non, évidemment…",
+      "link": "https://www.olivierdauvers.fr/2026/11/18/les-mdd-battent-leur-record-historique-en-octobre-selon-worldpanel/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-18T21:31:46.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
     {
       "title": "Cybersécurité : les inquiétantes vulnérabilités du secteur spatial français",
       "excerpt": "Porté par l'essor du new space, le secteur spatial français accueille de nombreuses jeunes pousses moins matures en cybersécurité que les grands…",
@@ -27,15 +36,6 @@
       "source": "Journal du Net",
       "pubDate": "2026-11-18T16:26:00.000Z",
       "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "[ TECH ] Cdiscount teste l’inventaire en temps réel de ses entrepôts. Voici comment…",
-      "excerpt": "Encore une application des technos de reconnaissance d’image appliquée à l’inventaire… On connaissait les petites caméras de Vusion (format étiquette…",
-      "link": "https://www.olivierdauvers.fr/2026/11/18/tech-cdiscount-teste-linventaire-en-temps-reel-de-ses-entrepots-voici-comment/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-18T14:24:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
@@ -95,12 +95,48 @@
   ],
   "itemsEn": [
     {
-      "title": "More banks say customers using AI agents are on their own — even if they get hacked",
-      "excerpt": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
-      "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "excerpt": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit…",
+      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
       "source": "TechCrunch",
-      "pubDate": "2026-11-18T17:32:10.000Z",
+      "pubDate": "2026-11-19T00:42:56.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
+    {
+      "title": "Boden selects US expansion partner",
+      "excerpt": "British fashion brand Boden has selected OneStock to unify its inventory and order flows as it accelerates US expansion and scales its international…",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8807/boden-selects-us-expansion-partner/",
+      "source": "Retail Technology",
+      "pubDate": "2026-11-19T00:00:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "excerpt": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for…",
+      "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-18T22:58:11.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "DoorDash denies using surveillance pricing",
+      "excerpt": "The delivery giant said it does not personalize prices or change them based on the volume of demand, following an initial Federal Trade Commission…",
+      "link": "https://www.grocerydive.com/news/doordash-rejects-surveillance-pricing-political-backlash/875078/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-11-18T21:53:00.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Target sees ‘strong momentum’ in food & beverage",
+      "excerpt": "The category’s ongoing revamp continues to pay off, executives said, noting the retailer added more than 2,000 items to the department in Q3.",
+      "link": "https://www.grocerydive.com/news/target-grocery-food-beverage-category-revamp-third-quarter-earnings/875077/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-11-18T17:33:53.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -122,15 +158,6 @@
       "pinned": false
     },
     {
-      "title": "Why grocers are opening new price-focused stores",
-      "excerpt": "Savings-oriented formats underscore the balancing act supermarket operators face as they strive to emphasize savings without undermining their…",
-      "link": "https://www.grocerydive.com/news/value-formats-supermarkets-grocery/874905/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-11-18T16:18:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Reima adopts marketplace margin analytics",
       "excerpt": "Finnish kidswear brand uses daily article-level margin data to steer its marketplace business",
       "link": "https://www.retailtechnology.co.uk/rss.xml/news/8808/reima-adopts-marketplace-margin-analytics/",
@@ -149,39 +176,21 @@
       "pinned": false
     },
     {
-      "title": "Amazon adds prepared meals to same-day grocery delivery service",
-      "excerpt": "The new line of ready-to-eat offerings — all priced under $8 — marks another way the company is looking to cut into grocers’ margins.",
-      "link": "https://www.grocerydive.com/news/amazon-same-day-prepared-meals-grocery/874981/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-11-18T13:41:44.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
-      "excerpt": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
-      "link": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-18T12:00:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "No free shipping a deal breaker for many shoppers",
-      "excerpt": "Nearly every shopper, 93%, will abandon a purchase at least some of the time if free shipping is not an option. That's a top finding of ShipBae's…",
-      "link": "https://www.retailcustomerexperience.com/news/no-free-shipping-a-deal-breaker-for-many-shoppers/",
+      "title": "AI not so accurate when it comes to retail stock records",
+      "excerpt": "The use of AI when it comes to retail stock and inventory isn't proving as accurate as some may think. Store associates report stock information…",
+      "link": "https://www.retailcustomerexperience.com/news/ai-not-so-accurate-when-it-comes-to-retail-stock-records/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-11-18T11:00:00.000Z",
-      "category": "GRAND ANGLE",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
-      "title": "NY city council bans surveillance pricing",
-      "excerpt": "The New York City Council has enacted a bill banning surveillance pricing in New York City. The vote of 44 to five comes on the heels of a State…",
-      "link": "https://www.retailcustomerexperience.com/news/ny-city-council-bans-surveillance-pricing/",
+      "title": "Retailer stock-outs hurt brand loyalty, drive consumers to switch brands",
+      "excerpt": "There is a slew of potential aggravations in the shopping journey but one of the top frustrating experiences is finding the store doesn't have what…",
+      "link": "https://www.retailcustomerexperience.com/articles/retailer-stock-outs-hurt-brand-loyalty-drive-consumers-to-switch-brands/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-11-18T11:00:00.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
@@ -191,15 +200,6 @@
       "source": "Food Dive",
       "pubDate": "2026-11-17T19:17:00.000Z",
       "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
-      "title": "TikTok launches TikTok Shop Plus",
-      "excerpt": "TikTok has continued its commitment to ecommerce with the pilot roll out of a paid membership tier to 1 million people",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8806/tiktok-launches-tiktok-shop-plus/",
-      "source": "Retail Technology",
-      "pubDate": "2026-11-17T00:00:00.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     }
   ]
