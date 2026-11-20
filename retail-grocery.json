@@ -1,7 +1,25 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-20T10:44:35.705Z",
+  "publishedAt": "2026-11-20T19:26:55.066Z",
   "itemsFr": [
+    {
+      "title": "La MINUTE RETAIL : Small is it (vraiment) beautiful ?",
+      "excerpt": "A la une cette semaine, l’éternelle question de… la taille ! Est-elle véritablement déterminante de la performance ? En matière de commerce, une…",
+      "link": "https://www.olivierdauvers.fr/2026/11/20/la-minute-retail-small-is-it-vraiment-beautiful/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-20T17:30:45.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Pourquoi l'éco-conception web réduit les coûts d'un site et améliore ses conversions",
+      "excerpt": "Moins de coûts d'hébergement, un site plus rapide qui convertit mieux et un engagement RSE prouvé par la mesure. L'éco-conception web se vérifie sur…",
+      "link": "https://www.journaldunet.com/management/direction-generale/1558113-le-poids-d-un-site-web-un-cout-que-les-entreprises-ne-voient-pas/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-20T16:13:43.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
     {
       "title": "DISTRIBUTION : ADEO et Electro Dépôt font de leurs marques propres un nouveau moteur de croissance",
       "excerpt": "Longtemps considérées comme un moyen de proposer des produits moins chers que les grandes marques nationales, les marques propres prennent une…",
@@ -21,15 +39,6 @@
       "pinned": false
     },
     {
-      "title": "Anthropic en Bourse : ce que 45 ans d'introductions tech nous enseignent pour la suite",
-      "excerpt": "Ceux qui achètent une action au soir de son premier jour de cotation, comme la plupart des particuliers, font en moyenne moins bien que le marché sur…",
-      "link": "https://www.journaldunet.com/intelligence-artificielle/1558243-anthropic-en-bourse-ce-que-45-ans-d-introductions-tech-enseignent-pour-la-suite/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-20T07:09:36.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Bonnes idées / Bonnes pratiques (119) : Commander en ligne pour ses clients (depuis le magasin)",
       "excerpt": "Suite de ma série d’inspirations “bonnes idées / bonnes pratiques” dans le prolongement de mes ouvrages sur l’IMAGE-PRIX, le PENSER-CLIENT et la…",
       "link": "https://www.olivierdauvers.fr/2026/11/20/bonnes-idees-bonnes-pratiques-119-commander-en-ligne-pour-ses-clients-depuis-le-magasin/",
@@ -45,15 +54,6 @@
       "source": "FrenchWeb",
       "pubDate": "2026-11-20T05:49:35.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "[ EXCLU ] L’image prix des enseignes de bricolage-jardinage sur les réseaux sociaux",
-      "excerpt": "Je continue de partager avec vous, en exclusivité, le baromètre image-prix dynamique de TBWA fondé sur le “social listening”. Aujourd’hui, les…",
-      "link": "https://www.olivierdauvers.fr/2026/11/19/exclu-limage-prix-des-enseignes-de-bricolage-jardinage-sur-les-reseaux-sociaux/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-19T18:46:00.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
       "pinned": false
     },
     {
@@ -86,39 +86,66 @@
   ],
   "itemsEn": [
     {
+      "title": "The Container Store is back online after cybersecurity incident",
+      "excerpt": "The incident has not impacted the security of customer financial data, according to the company.",
+      "link": "https://www.retaildive.com/news/container-store-neighborhood-intelligence-cybersecurity-incident/875342/",
+      "source": "Retail Dive",
+      "pubDate": "2026-11-20T17:41:00.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "ThredUp leans into livestream shopping with TikTok Shop",
+      "excerpt": "After early success on Whatnot, the resale marketplace is expanding its livestream efforts with a launch on TikTok Shop.",
+      "link": "https://www.retaildive.com/news/thredup-tiktok-shop-livestream-shopping/875247/",
+      "source": "Retail Dive",
+      "pubDate": "2026-11-20T17:16:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "The Friday Checkout: Target is becoming a bigger threat in grocery",
+      "excerpt": "The retailer has revved up its food and beverage sales this year while supermarket operators have sagged.",
+      "link": "https://www.grocerydive.com/news/the-friday-checkout-target-grocery-sales/875267/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-11-20T16:26:41.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
+      "excerpt": "Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang.",
+      "link": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-20T13:25:00.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
+    {
+      "title": "Target stores playing critical role in growing e-commerce channel",
+      "excerpt": "Target's stores are playing a more powerful and critical role in the retailer's strategy to grow its e-commerce channel. The retailer's 2,000-plus…",
+      "link": "https://www.retailcustomerexperience.com/news/target-stores-playing-critical-role-in-growing-e-commerce-channel/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-20T11:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Shoppers tapping AI to find better deals, get gift ideas",
+      "excerpt": "Over half of U.S. consumers, 58%, are using AI for holiday shopping and 34% plan to shop online more this season. Those are top findings from the…",
+      "link": "https://www.retailcustomerexperience.com/news/shoppers-tapping-ai-to-find-better-deals-get-gift-ideas/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-20T11:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
       "title": "Apple may be developing its own AI agent that runs your Mac",
       "excerpt": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
       "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
       "source": "TechCrunch",
       "pubDate": "2026-11-20T00:56:01.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Meta’s new Muse Charm device may cost $300",
-      "excerpt": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
-      "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-19T21:58:06.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "Mall of America debuts AI-backed concierge, Mallie",
-      "excerpt": "The digital assistant is designed to help shoppers plan and personalize visits to North America’s largest shopping and entertainment complex.",
-      "link": "https://www.retaildive.com/news/mall-of-america-debuts-ai-concierge-mallie/875089/",
-      "source": "Retail Dive",
-      "pubDate": "2026-11-19T17:33:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "The Backroom: How department stores are shaping up this holiday",
-      "excerpt": "The team looks at the past, present and future of a retail model that has long been a fixture of the season.",
-      "link": "https://www.retaildive.com/news/the-backroom-podcast-department-stores-holiday-season/875199/",
-      "source": "Retail Dive",
-      "pubDate": "2026-11-19T16:56:00.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -140,15 +167,6 @@
       "pinned": false
     },
     {
-      "title": "As physical retail changes, so must the customer experience",
-      "excerpt": "For years, the role of the physical store was relatively straightforward: put the right products in the right place and give customers a convenient…",
-      "link": "https://www.retailcustomerexperience.com/blogs/as-physical-retail-changes-so-must-the-customer-experience/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-19T11:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Boden selects US expansion partner",
       "excerpt": "British fashion brand Boden has selected OneStock to unify its inventory and order flows as it accelerates US expansion and scales its international…",
       "link": "https://www.retailtechnology.co.uk/rss.xml/news/8807/boden-selects-us-expansion-partner/",
@@ -158,30 +176,12 @@
       "pinned": false
     },
     {
-      "title": "DoorDash denies using surveillance pricing",
-      "excerpt": "The delivery giant said it does not personalize prices or change them based on the volume of demand, following an initial Federal Trade Commission…",
-      "link": "https://www.grocerydive.com/news/doordash-rejects-surveillance-pricing-political-backlash/875078/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-11-18T21:53:00.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
       "title": "Grocery inflation set to go up as input costs rise",
       "excerpt": "High energy costs and a powerful El Niño weather pattern will likely elevate grocery prices at an above-average clip during the next few months, a…",
       "link": "https://www.fooddive.com/news/grocery-inflation-food-prices-supply-chain-fmi/874868/",
       "source": "Food Dive",
       "pubDate": "2026-11-18T14:21:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Retailer stock-outs hurt brand loyalty, drive consumers to switch brands",
-      "excerpt": "There is a slew of potential aggravations in the shopping journey but one of the top frustrating experiences is finding the store doesn't have what…",
-      "link": "https://www.retailcustomerexperience.com/articles/retailer-stock-outs-hurt-brand-loyalty-drive-consumers-to-switch-brands/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-18T11:00:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
