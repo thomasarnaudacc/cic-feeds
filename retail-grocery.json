@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-19T19:45:33.657Z",
+  "publishedAt": "2026-11-20T01:57:19.360Z",
   "itemsFr": [
     {
       "title": "[ EXCLU ] L’image prix des enseignes de bricolage-jardinage sur les réseaux sociaux",
@@ -86,21 +86,21 @@
   ],
   "itemsEn": [
     {
-      "title": "Anthropic’s IPO could deliver $156 billion to charity",
-      "excerpt": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
-      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "excerpt": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+      "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
       "source": "TechCrunch",
-      "pubDate": "2026-11-19T19:10:45.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pubDate": "2026-11-20T00:56:01.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
-      "title": "Google gives Gemini the ability to use your Mac for you",
-      "excerpt": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
-      "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "title": "Meta’s new Muse Charm device may cost $300",
+      "excerpt": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+      "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
       "source": "TechCrunch",
-      "pubDate": "2026-11-19T18:09:11.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pubDate": "2026-11-19T21:58:06.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
     },
     {
@@ -123,7 +123,7 @@
     },
     {
       "title": "Walmart touts grocery, restaurant growth in Q3",
-      "excerpt": "The retailer recorded some of the highest share gains in grocery categories that it’s seen in three years, executives told investors.",
+      "excerpt": "The retailer recorded some of the highest share gains in grocery categories it’s seen in three years, executives told investors.",
       "link": "https://www.grocerydive.com/news/walmart-q3-earnings-fiscal-2027-grocery-restaurants/875169/",
       "source": "Grocery Dive",
       "pubDate": "2026-11-19T15:25:00.000Z",
@@ -176,9 +176,9 @@
       "pinned": false
     },
     {
-      "title": "Retailer stock-outs hurt brand loyalty, drive consumers to switch brands",
-      "excerpt": "There is a slew of potential aggravations in the shopping journey but one of the top frustrating experiences is finding the store doesn't have what…",
-      "link": "https://www.retailcustomerexperience.com/articles/retailer-stock-outs-hurt-brand-loyalty-drive-consumers-to-switch-brands/",
+      "title": "AI not so accurate when it comes to retail stock records",
+      "excerpt": "The use of AI when it comes to retail stock and inventory isn't proving as accurate as some may think. Store associates report stock information…",
+      "link": "https://www.retailcustomerexperience.com/news/ai-not-so-accurate-when-it-comes-to-retail-stock-records/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-11-18T11:00:00.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
