@@ -1,7 +1,52 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-20T01:57:19.360Z",
+  "publishedAt": "2026-11-20T10:44:35.705Z",
   "itemsFr": [
+    {
+      "title": "DISTRIBUTION : ADEO et Electro Dépôt font de leurs marques propres un nouveau moteur de croissance",
+      "excerpt": "Longtemps considérées comme un moyen de proposer des produits moins chers que les grandes marques nationales, les marques propres prennent une…",
+      "link": "https://www.ecommercemag.fr/retail-1220/distribution-adeo-et-electro-depot-font-de-leurs-marques-propres-un-nouveau-moteur-de-croissance-61125",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-11-20T09:00:18.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Entrée en bourse d'Anthropic : la plus grosse introduction de l'histoire passée au bulletin de notes",
+      "excerpt": "Levée record, prix relevé, action à 97,17 dollars jeudi soir : le JDN passe l'entrée de l'éditeur de Claude au Nasdaq au crible de sept critères.",
+      "link": "https://www.journaldunet.com/intelligence-artificielle/1558245-ipo-d-anthropic-le-bulletin-de-notes-de-sa-premiere-journee-de-cotation/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-20T07:09:40.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "Anthropic en Bourse : ce que 45 ans d'introductions tech nous enseignent pour la suite",
+      "excerpt": "Ceux qui achètent une action au soir de son premier jour de cotation, comme la plupart des particuliers, font en moyenne moins bien que le marché sur…",
+      "link": "https://www.journaldunet.com/intelligence-artificielle/1558243-anthropic-en-bourse-ce-que-45-ans-d-introductions-tech-enseignent-pour-la-suite/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-20T07:09:36.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Bonnes idées / Bonnes pratiques (119) : Commander en ligne pour ses clients (depuis le magasin)",
+      "excerpt": "Suite de ma série d’inspirations “bonnes idées / bonnes pratiques” dans le prolongement de mes ouvrages sur l’IMAGE-PRIX, le PENSER-CLIENT et la…",
+      "link": "https://www.olivierdauvers.fr/2026/11/20/bonnes-idees-bonnes-pratiques-119-commander-en-ligne-pour-ses-clients-depuis-le-magasin/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-20T06:32:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Contre toute attente, MAILCHIMP passe sous pavillon européen",
+      "excerpt": "IN THE LOOP · La rédaction · 20/11/2026 INTUIT a accepté de céder le spécialiste américain de l’email marketing à l’italien BENDING SPOONS pour 3,13…",
+      "link": "https://www.frenchweb.fr/contre-toute-attente-mailchimp-passe-sous-pavillon-europeen/900000061?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+      "source": "FrenchWeb",
+      "pubDate": "2026-11-20T05:49:35.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "[ EXCLU ] L’image prix des enseignes de bricolage-jardinage sur les réseaux sociaux",
       "excerpt": "Je continue de partager avec vous, en exclusivité, le baromètre image-prix dynamique de TBWA fondé sur le “social listening”. Aujourd’hui, les…",
@@ -12,39 +57,12 @@
       "pinned": false
     },
     {
-      "title": "Golden Quarter : le moment de vérité du commerce en ligne",
-      "excerpt": "Le Golden Quarter, littéralement le \"trimestre doré \", désigne la période clé de fin d'année, lorsque les fêtes et les grandes opérations…",
-      "link": "https://www.journaldunet.com/martech/1558199-golden-quarter-le-moment-de-verite-du-commerce-en-ligne/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-19T17:34:49.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Modèles maison, OS IA, agents… OVHcloud ne veut plus seulement héberger l'IA des autres",
-      "excerpt": "Fini le simple hébergeur. Le groupe lance sa propre famille de LLM, un \"OS IA\" taillé pour l'IA agentique et une salve de produits d'IA. Sans Mistral…",
-      "link": "https://www.journaldunet.com/cloud/1558267-modeles-maison-os-ia-agents-ovhcloud-ne-veut-plus-seulement-heberger-l-ia-des-autres/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-19T15:38:03.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
       "title": "Marketplaces : comment l’IA redéfinit les avantages concurrentiels",
       "excerpt": "L’article Marketplaces : comment l’IA redéfinit les avantages concurrentiels est apparu en premier sur Maddyness - Le média pour comprendre…",
       "link": "https://www.maddyness.com/2026/11/19/marketplaces-comment-lia-redefinit-les-avantages-concurrentiels/",
       "source": "Maddyness",
       "pubDate": "2026-11-19T15:00:28.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Des caméras plus discrètes et des signaux lumineux plus visibles : voici les nouveaux rails Vusion",
-      "excerpt": "La nouvelle génération d’équipement sur laquelle planche Vusion comporte deux évolutions qui seront très visibles en rayon. D’abord des caméras…",
-      "link": "https://www.olivierdauvers.fr/2026/11/19/des-cameras-plus-discretes-et-des-signaux-lumineux-plus-visibles-voici-les-nouveaux-rails-vusion/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-19T14:46:00.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
       "pinned": false
     },
     {
@@ -63,24 +81,6 @@
       "source": "FrenchWeb",
       "pubDate": "2026-11-19T10:12:02.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Noël 2026 : budget en baisse, les Français misent sur le Black Friday et l’IA",
-      "excerpt": "Face à la pression sur leur pouvoir d’achat, les Français abordent Noël 2026 avec davantage de prudence. Selon une étude de la Fevad et de Toluna, le…",
-      "link": "https://www.ecommercemag.fr/retail-1220/barometre-etude-2168/noel-2026-budget-en-baisse-les-francais-misent-sur-le-black-friday-et-lia-61113",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-11-19T08:43:28.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "du Web3 du luxe à la traçabilité industrielle, ARIANEE change de mains.",
-      "excerpt": "IN THE LOOP · La rédaction · 17/11/2026 ARIANEE a d’abord développé ses passeports numériques pour des maisons de luxe comme BREITLING et VACHERON…",
-      "link": "https://www.frenchweb.fr/du-web3-du-luxe-a-la-tracabilite-industrielle-arianee-change-de-mains/900000052?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
-      "source": "FrenchWeb",
-      "pubDate": "2026-11-17T16:23:14.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     }
   ],
@@ -123,7 +123,7 @@
     },
     {
       "title": "Walmart touts grocery, restaurant growth in Q3",
-      "excerpt": "The retailer recorded some of the highest share gains in grocery categories it’s seen in three years, executives told investors.",
+      "excerpt": "The retailer recorded some of the highest share gains in grocery categories that it’s seen in three years, executives told investors.",
       "link": "https://www.grocerydive.com/news/walmart-q3-earnings-fiscal-2027-grocery-restaurants/875169/",
       "source": "Grocery Dive",
       "pubDate": "2026-11-19T15:25:00.000Z",
@@ -176,9 +176,9 @@
       "pinned": false
     },
     {
-      "title": "AI not so accurate when it comes to retail stock records",
-      "excerpt": "The use of AI when it comes to retail stock and inventory isn't proving as accurate as some may think. Store associates report stock information…",
-      "link": "https://www.retailcustomerexperience.com/news/ai-not-so-accurate-when-it-comes-to-retail-stock-records/",
+      "title": "Retailer stock-outs hurt brand loyalty, drive consumers to switch brands",
+      "excerpt": "There is a slew of potential aggravations in the shopping journey but one of the top frustrating experiences is finding the store doesn't have what…",
+      "link": "https://www.retailcustomerexperience.com/articles/retailer-stock-outs-hurt-brand-loyalty-drive-consumers-to-switch-brands/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-11-18T11:00:00.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
