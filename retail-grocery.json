@@ -1,7 +1,16 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-21T01:52:56.532Z",
+  "publishedAt": "2026-11-21T10:27:56.373Z",
   "itemsFr": [
+    {
+      "title": "Un client escroqué doit désormais être immédiatement remboursé par sa banque, décide la Cour de justice de l'Union européenne",
+      "excerpt": "Selon la Banque de France, les conflits entre clients et établissements bancaires se multiplient. Certains clients victimes d'une arnaque bancaire…",
+      "link": "https://www.journaldunet.com/patrimoine/finances-personnelles/1558189-hf1-cjue-fraude-banque/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-21T05:55:02.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
     {
       "title": "SAMEDI CONSO : mon carnet (retail mais pas que…) de la semaine",
       "excerpt": "« SAMEDI CONSO », la semaine retail (mais pas que) passée en revue. Comme toujours en totale liberté. Et tant pis si ça pique ! Âmes (trop) sensibles…",
@@ -36,15 +45,6 @@
       "source": "Ecommerce Mag",
       "pubDate": "2026-11-20T09:00:18.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Entrée en bourse d'Anthropic : la plus grosse introduction de l'histoire passée au bulletin de notes",
-      "excerpt": "Levée record, prix relevé, action à 97,17 dollars jeudi soir : le JDN passe l'entrée de l'éditeur de Claude au Nasdaq au crible de sept critères.",
-      "link": "https://www.journaldunet.com/intelligence-artificielle/1558245-ipo-d-anthropic-le-bulletin-de-notes-de-sa-premiere-journee-de-cotation/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-20T07:09:40.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
     {
@@ -131,18 +131,18 @@
       "pinned": false
     },
     {
-      "title": "Shoppers tapping AI to find better deals, get gift ideas",
-      "excerpt": "Over half of U.S. consumers, 58%, are using AI for holiday shopping and 34% plan to shop online more this season. Those are top findings from the…",
-      "link": "https://www.retailcustomerexperience.com/news/shoppers-tapping-ai-to-find-better-deals-get-gift-ideas/",
+      "title": "Target stores playing critical role in growing e-commerce channel",
+      "excerpt": "Target's stores are playing a more powerful and critical role in the retailer's strategy to grow its e-commerce channel. The retailer's 2,000-plus…",
+      "link": "https://www.retailcustomerexperience.com/news/target-stores-playing-critical-role-in-growing-e-commerce-channel/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "Target stores playing critical role in growing e-commerce channel",
-      "excerpt": "Target's stores are playing a more powerful and critical role in the retailer's strategy to grow its e-commerce channel. The retailer's 2,000-plus…",
-      "link": "https://www.retailcustomerexperience.com/news/target-stores-playing-critical-role-in-growing-e-commerce-channel/",
+      "title": "Shoppers tapping AI to find better deals, get gift ideas",
+      "excerpt": "Over half of U.S. consumers, 58%, are using AI for holiday shopping and 34% plan to shop online more this season. Those are top findings from the…",
+      "link": "https://www.retailcustomerexperience.com/news/shoppers-tapping-ai-to-find-better-deals-get-gift-ideas/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "category": "GRAND ANGLE",
