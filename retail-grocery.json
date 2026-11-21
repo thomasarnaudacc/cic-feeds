@@ -1,7 +1,16 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-21T10:27:56.373Z",
+  "publishedAt": "2026-11-21T18:28:12.714Z",
   "itemsFr": [
+    {
+      "title": "J’ai tenté d’empoisonner Mamie Dauvers… (et ça n’a pas marché !)",
+      "excerpt": "C’était ce matin dans SATISFAIT ou REMBOURSÉ, l’émission hebdo conso et pouvoir d’achat que j’anime avec Flavie Flament. Mamie Dauvers intervient…",
+      "link": "https://www.olivierdauvers.fr/2026/11/21/jai-tente-dempoisonner-mamie-dauvers-et-ca-na-pas-marche/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-21T16:14:34.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "Un client escroqué doit désormais être immédiatement remboursé par sa banque, décide la Cour de justice de l'Union européenne",
       "excerpt": "Selon la Banque de France, les conflits entre clients et établissements bancaires se multiplient. Certains clients victimes d'une arnaque bancaire…",
@@ -17,15 +26,6 @@
       "link": "https://www.olivierdauvers.fr/2026/11/21/samedi-conso-mon-carnet-retail-mais-pas-que-de-la-semaine-389/",
       "source": "Olivier Dauvers",
       "pubDate": "2026-11-21T01:51:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "La MINUTE RETAIL : Small is it (vraiment) beautiful ?",
-      "excerpt": "A la une cette semaine, l’éternelle question de… la taille ! Est-elle véritablement déterminante de la performance ? En matière de commerce, une…",
-      "link": "https://www.olivierdauvers.fr/2026/11/20/la-minute-retail-small-is-it-vraiment-beautiful/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-20T17:30:45.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -86,6 +86,15 @@
   ],
   "itemsEn": [
     {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel…",
+      "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-21T17:00:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
       "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
       "excerpt": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
       "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
@@ -122,12 +131,12 @@
       "pinned": false
     },
     {
-      "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
-      "excerpt": "Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang.",
-      "link": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-20T13:25:00.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
+      "title": "Shoppers tapping AI to find better deals, get gift ideas",
+      "excerpt": "Over half of U.S. consumers, 58%, are using AI for holiday shopping and 34% plan to shop online more this season. Those are top findings from the…",
+      "link": "https://www.retailcustomerexperience.com/news/shoppers-tapping-ai-to-find-better-deals-get-gift-ideas/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-20T11:00:00.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -140,12 +149,12 @@
       "pinned": false
     },
     {
-      "title": "Shoppers tapping AI to find better deals, get gift ideas",
-      "excerpt": "Over half of U.S. consumers, 58%, are using AI for holiday shopping and 34% plan to shop online more this season. Those are top findings from the…",
-      "link": "https://www.retailcustomerexperience.com/news/shoppers-tapping-ai-to-find-better-deals-get-gift-ideas/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-20T11:00:00.000Z",
-      "category": "GRAND ANGLE",
+      "title": "ASICS America adds drones to DC",
+      "excerpt": "Sportswear firm ASICS America is now running autonomous inventory drones inside its Byhalia, MS distribution centre",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8809/asics-america-adds-drones-to-dc/",
+      "source": "Retail Technology",
+      "pubDate": "2026-11-19T12:10:59.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
@@ -155,15 +164,6 @@
       "source": "Grocery Dive",
       "pubDate": "2026-11-19T15:25:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "ASICS America adds drones to DC",
-      "excerpt": "Sportswear firm ASICS America is now running autonomous inventory drones inside its Byhalia, MS distribution centre",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8809/asics-america-adds-drones-to-dc/",
-      "source": "Retail Technology",
-      "pubDate": "2026-11-19T12:10:59.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
