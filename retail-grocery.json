@@ -1,7 +1,16 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-20T19:26:55.066Z",
+  "publishedAt": "2026-11-21T01:52:56.532Z",
   "itemsFr": [
+    {
+      "title": "SAMEDI CONSO : mon carnet (retail mais pas que…) de la semaine",
+      "excerpt": "« SAMEDI CONSO », la semaine retail (mais pas que) passée en revue. Comme toujours en totale liberté. Et tant pis si ça pique ! Âmes (trop) sensibles…",
+      "link": "https://www.olivierdauvers.fr/2026/11/21/samedi-conso-mon-carnet-retail-mais-pas-que-de-la-semaine-389/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-21T01:51:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "La MINUTE RETAIL : Small is it (vraiment) beautiful ?",
       "excerpt": "A la une cette semaine, l’éternelle question de… la taille ! Est-elle véritablement déterminante de la performance ? En matière de commerce, une…",
@@ -36,15 +45,6 @@
       "source": "Journal du Net",
       "pubDate": "2026-11-20T07:09:40.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "Bonnes idées / Bonnes pratiques (119) : Commander en ligne pour ses clients (depuis le magasin)",
-      "excerpt": "Suite de ma série d’inspirations “bonnes idées / bonnes pratiques” dans le prolongement de mes ouvrages sur l’IMAGE-PRIX, le PENSER-CLIENT et la…",
-      "link": "https://www.olivierdauvers.fr/2026/11/20/bonnes-idees-bonnes-pratiques-119-commander-en-ligne-pour-ses-clients-depuis-le-magasin/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-20T06:32:00.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -86,6 +86,15 @@
   ],
   "itemsEn": [
     {
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "excerpt": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+      "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-20T19:32:08.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
+    {
       "title": "The Container Store is back online after cybersecurity incident",
       "excerpt": "The incident has not impacted the security of customer financial data, according to the company.",
       "link": "https://www.retaildive.com/news/container-store-neighborhood-intelligence-cybersecurity-incident/875342/",
@@ -122,15 +131,6 @@
       "pinned": false
     },
     {
-      "title": "Target stores playing critical role in growing e-commerce channel",
-      "excerpt": "Target's stores are playing a more powerful and critical role in the retailer's strategy to grow its e-commerce channel. The retailer's 2,000-plus…",
-      "link": "https://www.retailcustomerexperience.com/news/target-stores-playing-critical-role-in-growing-e-commerce-channel/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-20T11:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Shoppers tapping AI to find better deals, get gift ideas",
       "excerpt": "Over half of U.S. consumers, 58%, are using AI for holiday shopping and 34% plan to shop online more this season. Those are top findings from the…",
       "link": "https://www.retailcustomerexperience.com/news/shoppers-tapping-ai-to-find-better-deals-get-gift-ideas/",
@@ -140,12 +140,12 @@
       "pinned": false
     },
     {
-      "title": "Apple may be developing its own AI agent that runs your Mac",
-      "excerpt": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
-      "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-20T00:56:01.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "title": "Target stores playing critical role in growing e-commerce channel",
+      "excerpt": "Target's stores are playing a more powerful and critical role in the retailer's strategy to grow its e-commerce channel. The retailer's 2,000-plus…",
+      "link": "https://www.retailcustomerexperience.com/news/target-stores-playing-critical-role-in-growing-e-commerce-channel/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-20T11:00:00.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
