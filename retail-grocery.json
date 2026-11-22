@@ -1,7 +1,16 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-22T10:31:22.071Z",
+  "publishedAt": "2026-11-22T18:50:54.951Z",
   "itemsFr": [
+    {
+      "title": "Toc toc, y’a quelqu’un chez Intermarché ?",
+      "excerpt": "Je suis chez vous à Lézignan, dans les Corbières. Comme c’est dimanche, jour de lessive, je me ravitaille. Mais j’ai comme un souci avec vos prix……",
+      "link": "https://www.olivierdauvers.fr/2026/11/22/toc-toc-ya-quelquun-chez-intermarche-2/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-22T10:55:12.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "[ ÉTUDE ] Qui sont les nouveaux clients du drive ?",
       "excerpt": "Ce n’est pas parce que le taux de pénétration du drive ne progresse plus qu’il n’y a pas de renouvellement de la clientèle. Selon Worldpanel, 32,5 %…",
@@ -9,15 +18,6 @@
       "source": "Olivier Dauvers",
       "pubDate": "2026-11-22T06:00:00.000Z",
       "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
-      "title": "J’ai tenté d’empoisonner Mamie Dauvers… (et ça n’a pas marché !)",
-      "excerpt": "C’était ce matin dans SATISFAIT ou REMBOURSÉ, l’émission hebdo conso et pouvoir d’achat que j’anime avec Flavie Flament. Mamie Dauvers intervient…",
-      "link": "https://www.olivierdauvers.fr/2026/11/21/jai-tente-dempoisonner-mamie-dauvers-et-ca-na-pas-marche/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-21T16:14:34.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -86,21 +86,21 @@
   ],
   "itemsEn": [
     {
+      "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+      "excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
+      "link": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-22T17:06:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
       "title": "Trump says reported FBI database hack is ‘not good’",
       "excerpt": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
       "link": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
       "source": "TechCrunch",
       "pubDate": "2026-11-21T18:44:53.000Z",
       "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "Here are the top AI agents that can live in your text messages",
-      "excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel…",
-      "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-21T17:00:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
@@ -131,18 +131,18 @@
       "pinned": false
     },
     {
-      "title": "Shoppers tapping AI to find better deals, get gift ideas",
-      "excerpt": "Over half of U.S. consumers, 58%, are using AI for holiday shopping and 34% plan to shop online more this season. Those are top findings from the…",
-      "link": "https://www.retailcustomerexperience.com/news/shoppers-tapping-ai-to-find-better-deals-get-gift-ideas/",
+      "title": "Target stores playing critical role in growing e-commerce channel",
+      "excerpt": "Target's stores are playing a more powerful and critical role in the retailer's strategy to grow its e-commerce channel. The retailer's 2,000-plus…",
+      "link": "https://www.retailcustomerexperience.com/news/target-stores-playing-critical-role-in-growing-e-commerce-channel/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "Target stores playing critical role in growing e-commerce channel",
-      "excerpt": "Target's stores are playing a more powerful and critical role in the retailer's strategy to grow its e-commerce channel. The retailer's 2,000-plus…",
-      "link": "https://www.retailcustomerexperience.com/news/target-stores-playing-critical-role-in-growing-e-commerce-channel/",
+      "title": "Shoppers tapping AI to find better deals, get gift ideas",
+      "excerpt": "Over half of U.S. consumers, 58%, are using AI for holiday shopping and 34% plan to shop online more this season. Those are top findings from the…",
+      "link": "https://www.retailcustomerexperience.com/news/shoppers-tapping-ai-to-find-better-deals-get-gift-ideas/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "category": "GRAND ANGLE",
