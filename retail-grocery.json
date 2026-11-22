@@ -1,7 +1,16 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-22T00:47:40.397Z",
+  "publishedAt": "2026-11-22T10:31:22.071Z",
   "itemsFr": [
+    {
+      "title": "[ ÉTUDE ] Qui sont les nouveaux clients du drive ?",
+      "excerpt": "Ce n’est pas parce que le taux de pénétration du drive ne progresse plus qu’il n’y a pas de renouvellement de la clientèle. Selon Worldpanel, 32,5 %…",
+      "link": "https://www.olivierdauvers.fr/2026/11/22/etude-qui-sont-les-nouveaux-clients-du-drive/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-22T06:00:00.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
     {
       "title": "J’ai tenté d’empoisonner Mamie Dauvers… (et ça n’a pas marché !)",
       "excerpt": "C’était ce matin dans SATISFAIT ou REMBOURSÉ, l’émission hebdo conso et pouvoir d’achat que j’anime avec Flavie Flament. Mamie Dauvers intervient…",
@@ -18,15 +27,6 @@
       "source": "Journal du Net",
       "pubDate": "2026-11-21T05:55:02.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "SAMEDI CONSO : mon carnet (retail mais pas que…) de la semaine",
-      "excerpt": "« SAMEDI CONSO », la semaine retail (mais pas que) passée en revue. Comme toujours en totale liberté. Et tant pis si ça pique ! Âmes (trop) sensibles…",
-      "link": "https://www.olivierdauvers.fr/2026/11/21/samedi-conso-mon-carnet-retail-mais-pas-que-de-la-semaine-389/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-21T01:51:00.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
