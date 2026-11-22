@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-21T18:28:12.714Z",
+  "publishedAt": "2026-11-22T00:47:40.397Z",
   "itemsFr": [
     {
       "title": "J’ai tenté d’empoisonner Mamie Dauvers… (et ça n’a pas marché !)",
@@ -86,21 +86,21 @@
   ],
   "itemsEn": [
     {
+      "title": "Trump says reported FBI database hack is ‘not good’",
+      "excerpt": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
+      "link": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-21T18:44:53.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
+    {
       "title": "Here are the top AI agents that can live in your text messages",
       "excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel…",
       "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "source": "TechCrunch",
       "pubDate": "2026-11-21T17:00:00.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-      "excerpt": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
-      "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-20T19:32:08.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
       "pinned": false
     },
     {
