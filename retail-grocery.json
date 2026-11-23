@@ -1,41 +1,32 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-23T01:15:22.965Z",
+  "publishedAt": "2026-11-23T11:31:27.513Z",
   "itemsFr": [
     {
-      "title": "Toc toc, y’a quelqu’un chez Intermarché ?",
-      "excerpt": "Je suis chez vous à Lézignan, dans les Corbières. Comme c’est dimanche, jour de lessive, je me ravitaille. Mais j’ai comme un souci avec vos prix……",
-      "link": "https://www.olivierdauvers.fr/2026/11/22/toc-toc-ya-quelquun-chez-intermarche-2/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-22T10:55:12.000Z",
+      "title": "Black Friday 2026 : ce que les chiffres disent des nouvelles habitudes des consommateurs",
+      "excerpt": "À l’approche du 27 novembre, le rendez-vous commercial confirme son ancrage dans les habitudes de consommation. Mais derrière des intentions d’achat…",
+      "link": "https://www.ecommercemag.fr/retail-1220/black-friday-2026-ce-que-les-chiffres-disent-des-nouvelles-habitudes-des-consommateurs-61163",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-11-23T11:30:43.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "[ ÉTUDE ] Qui sont les nouveaux clients du drive ?",
-      "excerpt": "Ce n’est pas parce que le taux de pénétration du drive ne progresse plus qu’il n’y a pas de renouvellement de la clientèle. Selon Worldpanel, 32,5 %…",
-      "link": "https://www.olivierdauvers.fr/2026/11/22/etude-qui-sont-les-nouveaux-clients-du-drive/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-22T06:00:00.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
+      "title": "Le CHU de la Guadeloupe déclenche le plan blanc après une cyberattaque",
+      "excerpt": "L'établissement hospitalier fait face à une cyberattaque qui affecte grandement son système d'information et sa téléphonie alors qu'il transfère ses…",
+      "link": "https://www.journaldunet.com/business/1558377-le-chu-de-la-guadeloupe-declenche-le-plan-blanc-apres-une-cyberattaque/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-23T10:59:16.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
     },
     {
-      "title": "Un client escroqué doit désormais être immédiatement remboursé par sa banque, décide la Cour de justice de l'Union européenne",
-      "excerpt": "Selon la Banque de France, les conflits entre clients et établissements bancaires se multiplient. Certains clients victimes d'une arnaque bancaire…",
-      "link": "https://www.journaldunet.com/patrimoine/finances-personnelles/1558189-hf1-cjue-fraude-banque/",
+      "title": "Commerce agentique : la nouvelle bataille pour influencer les choix des consommateurs",
+      "excerpt": "L'IA devient un nouvel intermédiaire dans les achats. Les marques doivent adapter leur stratégie pour rester visibles et influencer les…",
+      "link": "https://www.journaldunet.com/retail/1558255-commerce-agentique-la-nouvelle-bataille-pour-influencer-les-choix-des-consommateurs/",
       "source": "Journal du Net",
-      "pubDate": "2026-11-21T05:55:02.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "Pourquoi l'éco-conception web réduit les coûts d'un site et améliore ses conversions",
-      "excerpt": "Moins de coûts d'hébergement, un site plus rapide qui convertit mieux et un engagement RSE prouvé par la mesure. L'éco-conception web se vérifie sur…",
-      "link": "https://www.journaldunet.com/management/direction-generale/1558113-le-poids-d-un-site-web-un-cout-que-les-entreprises-ne-voient-pas/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-20T16:13:43.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pubDate": "2026-11-23T10:58:50.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -43,7 +34,34 @@
       "excerpt": "Longtemps considérées comme un moyen de proposer des produits moins chers que les grandes marques nationales, les marques propres prennent une…",
       "link": "https://www.ecommercemag.fr/retail-1220/distribution-adeo-et-electro-depot-font-de-leurs-marques-propres-un-nouveau-moteur-de-croissance-61125",
       "source": "Ecommerce Mag",
-      "pubDate": "2026-11-20T09:00:18.000Z",
+      "pubDate": "2026-11-23T09:00:18.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Vendre à l’international, le casse-tête de la conformité produit que CLÉOLABS veut résoudre",
+      "excerpt": "INDUSTRIAL SHIFT · Richard Menneveux · 23/11/2026 Un fabricant de vêtements veut vendre dans un nouveau pays. Il doit vérifier les règles qui…",
+      "link": "https://www.frenchweb.fr/vendre-a-l-international-le-casse-tete-de-la-conformite-produit-que-cleolabs-veut-resoudre/900000065?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+      "source": "FrenchWeb",
+      "pubDate": "2026-11-23T08:53:18.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "[ BLACK FRIDAY ] Le nouveau contrepied de Camif (avec des réductions de… l’empreinte carbone)",
+      "excerpt": "C’est une tradition : le contrepied de Camif à Black Friday. A l’origine, le site fermait purement et simplement. À présent, c’est plus subtil…",
+      "link": "https://www.olivierdauvers.fr/2026/11/23/black-friday-le-nouveau-contrepied-de-camif-avec-des-reductions-de-lempreinte-carbone/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-23T07:06:10.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "Toc toc, y’a quelqu’un chez Intermarché ?",
+      "excerpt": "Je suis chez vous à Lézignan, dans les Corbières. Comme c’est dimanche, jour de lessive, je me ravitaille. Mais j’ai comme un souci avec vos prix……",
+      "link": "https://www.olivierdauvers.fr/2026/11/22/toc-toc-ya-quelquun-chez-intermarche-2/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-22T10:55:12.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -64,27 +82,36 @@
       "pubDate": "2026-11-19T15:00:28.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
-    },
-    {
-      "title": "Lagostina muscle son e-commerce",
-      "excerpt": "À l’occasion de son 125e anniversaire, la marque d’ustensiles de cuisine haut de gamme du Groupe SEB dévoile une plateforme e-commerce repensée…",
-      "link": "https://www.ecommercemag.fr/retail-1220/strategie-retail-2163/lagostina-muscle-son-e-commerce-61120",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-11-19T14:08:08.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Dans les coulisses des supermarchés, KHEOPS simplifie les achats directs",
-      "excerpt": "NEXT IN RETAIL · Richard Menneveux · 19/11/2026 Pour faire entrer une marque régionale ou un produit local en rayon, un supermarché peut acheter…",
-      "link": "https://www.frenchweb.fr/dans-les-coulisses-des-supermarches-kheops-simplifie-les-achats-directs/900000059?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
-      "source": "FrenchWeb",
-      "pubDate": "2026-11-19T10:12:02.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
     }
   ],
   "itemsEn": [
+    {
+      "title": "Retail’s fastest AI return right now sits behind the storefront",
+      "excerpt": "Shopper-facing AI gets the headlines. The faster return comes from fixing what sits underneath.",
+      "link": "https://www.retaildive.com/spons/retails-fastest-ai-return-right-now-sits-behind-the-storefront/875359/",
+      "source": "Retail Dive",
+      "pubDate": "2026-11-23T10:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Why retailers prefer real human expertise over automated payment support",
+      "excerpt": "When payment issues hit during peak season, automation isn’t enough.",
+      "link": "https://www.retaildive.com/spons/why-retailers-prefer-real-human-expertise-over-automated-payment-support/875272/",
+      "source": "Retail Dive",
+      "pubDate": "2026-11-23T10:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "How Florida oranges strengthen the fresh food advantage",
+      "excerpt": "Florida Oranges provide a compelling example of how retailers can capitalize on consumers’ desire for signature fresh products.",
+      "link": "https://www.grocerydive.com/spons/how-florida-oranges-strengthen-the-fresh-food-advantage/875004/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-11-23T10:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "TechCrunch Mobility: A/B testing robots vs. humans",
       "excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
@@ -104,38 +131,11 @@
       "pinned": false
     },
     {
-      "title": "The Container Store is back online after cybersecurity incident",
-      "excerpt": "The incident has not impacted the security of customer financial data, according to the company.",
-      "link": "https://www.retaildive.com/news/container-store-neighborhood-intelligence-cybersecurity-incident/875342/",
-      "source": "Retail Dive",
-      "pubDate": "2026-11-20T17:41:00.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "ThredUp leans into livestream shopping with TikTok Shop",
-      "excerpt": "After early success on Whatnot, the resale marketplace is expanding its livestream efforts with a launch on TikTok Shop.",
-      "link": "https://www.retaildive.com/news/thredup-tiktok-shop-livestream-shopping/875247/",
-      "source": "Retail Dive",
-      "pubDate": "2026-11-20T17:16:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "The Friday Checkout: Target is becoming a bigger threat in grocery",
       "excerpt": "The retailer has revved up its food and beverage sales this year while supermarket operators have sagged.",
       "link": "https://www.grocerydive.com/news/the-friday-checkout-target-grocery-sales/875267/",
       "source": "Grocery Dive",
       "pubDate": "2026-11-20T16:26:41.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Shoppers tapping AI to find better deals, get gift ideas",
-      "excerpt": "Over half of U.S. consumers, 58%, are using AI for holiday shopping and 34% plan to shop online more this season. Those are top findings from the…",
-      "link": "https://www.retailcustomerexperience.com/news/shoppers-tapping-ai-to-find-better-deals-get-gift-ideas/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-20T11:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -149,21 +149,21 @@
       "pinned": false
     },
     {
+      "title": "Shoppers tapping AI to find better deals, get gift ideas",
+      "excerpt": "Over half of U.S. consumers, 58%, are using AI for holiday shopping and 34% plan to shop online more this season. Those are top findings from the…",
+      "link": "https://www.retailcustomerexperience.com/news/shoppers-tapping-ai-to-find-better-deals-get-gift-ideas/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-20T11:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
       "title": "ASICS America adds drones to DC",
       "excerpt": "Sportswear firm ASICS America is now running autonomous inventory drones inside its Byhalia, MS distribution centre",
       "link": "https://www.retailtechnology.co.uk/rss.xml/news/8809/asics-america-adds-drones-to-dc/",
       "source": "Retail Technology",
       "pubDate": "2026-11-19T12:10:59.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Walmart touts grocery, restaurant growth in Q3",
-      "excerpt": "The retailer recorded some of the highest share gains in grocery categories that it’s seen in three years, executives told investors.",
-      "link": "https://www.grocerydive.com/news/walmart-q3-earnings-fiscal-2027-grocery-restaurants/875169/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-11-19T15:25:00.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
