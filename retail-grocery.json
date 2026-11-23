@@ -1,7 +1,34 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-23T11:31:27.513Z",
+  "publishedAt": "2026-11-23T23:05:22.804Z",
   "itemsFr": [
+    {
+      "title": "\"J'ai eu énormément de problèmes pour trouver du travail\" : le difficile retour à l'emploi des ex-cybercriminels",
+      "excerpt": "Nombreuses sont les entreprises de cybersécurité et les fintech à refuser de recruter d'anciens cybercriminels. Parfois, le juge leur interdit même…",
+      "link": "https://www.journaldunet.com/cybersecurite/1558405-j-ai-eu-enormement-de-problemes-pour-trouver-du-travail-le-difficile-retour-a-l-emploi-des-ex-cybercriminels/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-23T15:32:04.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
+    {
+      "title": "Toc toc, y’a quelqu’un chez U… ?",
+      "excerpt": "Toc toc, y’a quelqu’un chez U… ? Parce que je suis chez vous, dans le Tarn, et j’avais besoin d’une p’tite explication sur le prix de votre jambon…",
+      "link": "https://www.olivierdauvers.fr/2026/11/23/toc-toc-ya-quelquun-chez-u/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-23T14:50:13.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "[ CLIMAT ] Faire la pédagogie du bilan carbone de l’assiette",
+      "excerpt": "Alors que la COP 31 s’est achevée sur un échec, il est plus que jamais indispensable de faire la pédagogie du bilan carbone de l’assiette. Sans…",
+      "link": "https://www.olivierdauvers.fr/2026/11/23/climat-faire-la-pedagogie-du-bilan-carbone-de-lassiette/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-23T14:29:06.000Z",
+      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pinned": false
+    },
     {
       "title": "Black Friday 2026 : ce que les chiffres disent des nouvelles habitudes des consommateurs",
       "excerpt": "À l’approche du 27 novembre, le rendez-vous commercial confirme son ancrage dans les habitudes de consommation. Mais derrière des intentions d’achat…",
@@ -21,15 +48,6 @@
       "pinned": false
     },
     {
-      "title": "Commerce agentique : la nouvelle bataille pour influencer les choix des consommateurs",
-      "excerpt": "L'IA devient un nouvel intermédiaire dans les achats. Les marques doivent adapter leur stratégie pour rester visibles et influencer les…",
-      "link": "https://www.journaldunet.com/retail/1558255-commerce-agentique-la-nouvelle-bataille-pour-influencer-les-choix-des-consommateurs/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-23T10:58:50.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "DISTRIBUTION : ADEO et Electro Dépôt font de leurs marques propres un nouveau moteur de croissance",
       "excerpt": "Longtemps considérées comme un moyen de proposer des produits moins chers que les grandes marques nationales, les marques propres prennent une…",
       "link": "https://www.ecommercemag.fr/retail-1220/distribution-adeo-et-electro-depot-font-de-leurs-marques-propres-un-nouveau-moteur-de-croissance-61125",
@@ -45,24 +63,6 @@
       "source": "FrenchWeb",
       "pubDate": "2026-11-23T08:53:18.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "[ BLACK FRIDAY ] Le nouveau contrepied de Camif (avec des réductions de… l’empreinte carbone)",
-      "excerpt": "C’est une tradition : le contrepied de Camif à Black Friday. A l’origine, le site fermait purement et simplement. À présent, c’est plus subtil…",
-      "link": "https://www.olivierdauvers.fr/2026/11/23/black-friday-le-nouveau-contrepied-de-camif-avec-des-reductions-de-lempreinte-carbone/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-23T07:06:10.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "Toc toc, y’a quelqu’un chez Intermarché ?",
-      "excerpt": "Je suis chez vous à Lézignan, dans les Corbières. Comme c’est dimanche, jour de lessive, je me ravitaille. Mais j’ai comme un souci avec vos prix……",
-      "link": "https://www.olivierdauvers.fr/2026/11/22/toc-toc-ya-quelquun-chez-intermarche-2/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-22T10:55:12.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -86,56 +86,65 @@
   ],
   "itemsEn": [
     {
-      "title": "Retail’s fastest AI return right now sits behind the storefront",
-      "excerpt": "Shopper-facing AI gets the headlines. The faster return comes from fixing what sits underneath.",
-      "link": "https://www.retaildive.com/spons/retails-fastest-ai-return-right-now-sits-behind-the-storefront/875359/",
-      "source": "Retail Dive",
-      "pubDate": "2026-11-23T10:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Why retailers prefer real human expertise over automated payment support",
-      "excerpt": "When payment issues hit during peak season, automation isn’t enough.",
-      "link": "https://www.retaildive.com/spons/why-retailers-prefer-real-human-expertise-over-automated-payment-support/875272/",
-      "source": "Retail Dive",
-      "pubDate": "2026-11-23T10:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "How Florida oranges strengthen the fresh food advantage",
-      "excerpt": "Florida Oranges provide a compelling example of how retailers can capitalize on consumers’ desire for signature fresh products.",
-      "link": "https://www.grocerydive.com/spons/how-florida-oranges-strengthen-the-fresh-food-advantage/875004/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-11-23T10:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "TechCrunch Mobility: A/B testing robots vs. humans",
-      "excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
-      "link": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "excerpt": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
       "source": "TechCrunch",
-      "pubDate": "2026-11-22T17:06:00.000Z",
+      "pubDate": "2026-11-23T22:05:50.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "excerpt": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-23T22:02:05.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
-      "title": "Trump says reported FBI database hack is ‘not good’",
-      "excerpt": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
-      "link": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-21T18:44:53.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
+      "title": "Black Friday, Cyber Monday shopping projected to slip",
+      "excerpt": "Shoppers will scoop up deals during Thanksgiving weekend, but extended sales events have enticed consumers to start holiday shopping early, according…",
+      "link": "https://www.retaildive.com/news/black-friday-cyber-monday-shopping-projected-to-slip/875473/",
+      "source": "Retail Dive",
+      "pubDate": "2026-11-23T20:39:00.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "The Friday Checkout: Target is becoming a bigger threat in grocery",
-      "excerpt": "The retailer has revved up its food and beverage sales this year while supermarket operators have sagged.",
-      "link": "https://www.grocerydive.com/news/the-friday-checkout-target-grocery-sales/875267/",
+      "title": "Majority of states now battling Dollar General over pricing practices",
+      "excerpt": "Ten states joined the Federal Trade Commission and 20 other states in a complaint filed last month alleging deceptive pricing.",
+      "link": "https://www.retaildive.com/news/dollar-general-battles-states-ftc-pricing-practices/875454/",
+      "source": "Retail Dive",
+      "pubDate": "2026-11-23T16:42:00.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Fareway makes 4 C-suite changes",
+      "excerpt": "The Midwestern grocer’s nine appointments include a new CIO and chief merchandising officer.",
+      "link": "https://www.grocerydive.com/news/fareway-announces-internal-promotions-csuite-executives/875458/",
       "source": "Grocery Dive",
-      "pubDate": "2026-11-20T16:26:41.000Z",
+      "pubDate": "2026-11-23T16:31:00.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "More than a Store: Why grocers need to become trendsetters",
+      "excerpt": "From tiramisu ravioli to purple sweet potato pie, retailers are tapping into viral flavors and products to entice shoppers.",
+      "link": "https://www.grocerydive.com/news/more-than-a-store-grocers-trends-social-media/828548/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-11-23T16:28:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Thanksgiving weekend will draw 183M shoppers",
+      "excerpt": "An estimated 182.7 million consumers plan to shop during the Thanksgiving weekend , according to an annual survey from the National Retail Federation…",
+      "link": "https://www.retailcustomerexperience.com/news/thanksgiving-weekend-will-draw-183m-shoppers/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-23T11:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -143,15 +152,6 @@
       "title": "Target stores playing critical role in growing e-commerce channel",
       "excerpt": "Target's stores are playing a more powerful and critical role in the retailer's strategy to grow its e-commerce channel. The retailer's 2,000-plus…",
       "link": "https://www.retailcustomerexperience.com/news/target-stores-playing-critical-role-in-growing-e-commerce-channel/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-20T11:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Shoppers tapping AI to find better deals, get gift ideas",
-      "excerpt": "Over half of U.S. consumers, 58%, are using AI for holiday shopping and 34% plan to shop online more this season. Those are top findings from the…",
-      "link": "https://www.retailcustomerexperience.com/news/shoppers-tapping-ai-to-find-better-deals-get-gift-ideas/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "category": "GRAND ANGLE",
@@ -173,24 +173,6 @@
       "source": "Retail Technology",
       "pubDate": "2026-11-19T00:00:00.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Grocery inflation set to go up as input costs rise",
-      "excerpt": "High energy costs and a powerful El Niño weather pattern will likely elevate grocery prices at an above-average clip during the next few months, a…",
-      "link": "https://www.fooddive.com/news/grocery-inflation-food-prices-supply-chain-fmi/874868/",
-      "source": "Food Dive",
-      "pubDate": "2026-11-18T14:21:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Anheuser-Busch invests in flagship Cutwater plant to boost production",
-      "excerpt": "The brand beloved by Gen Z will spend $1.5 million to expand its cream-based cocktail lines and fund future innovation.",
-      "link": "https://www.fooddive.com/news/anheuser-busch-invests-cutwater-plant-expansion/874944/",
-      "source": "Food Dive",
-      "pubDate": "2026-11-17T19:17:00.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
       "pinned": false
     }
   ]
