@@ -1,7 +1,52 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-24T07:39:42.012Z",
+  "publishedAt": "2026-11-24T19:48:33.291Z",
   "itemsFr": [
+    {
+      "title": "[ RETAIL INSIDE ] Bordeaux-Bouliac : l’hyper Auchan revient en mode “waouh”",
+      "excerpt": "Aujourd’hui, direction Bordeaux-Bouliac : comme ça, vous visiterez le dernier concept d’hypermarché Auchan en même temps que le conseil…",
+      "link": "https://www.olivierdauvers.fr/2026/11/24/retail-inside-bordeaux-bouliac-lhyper-auchan-revient-en-mode-waouh/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-24T17:13:28.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Opérateurs télécoms et robots humanoïdes, le duo gagnant",
+      "excerpt": "Dès 2027, les robots humanoïdes seront déployés à grande échelle dans les usines. Si l'Europe est en retard dans leur production, elle saura les…",
+      "link": "https://www.journaldunet.com/ebusiness/telecoms-fai/1558273-operateurs-telecoms-et-robots-humanoides-le-duo-gagnant/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-24T16:18:20.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Comment se protéger du doxxing : la prudence numérique plutôt que la panique",
+      "excerpt": "Lorsqu'une personne collecte et publie délibérément des informations privées sur quelqu'un sans son consentement, on parle de doxxing.",
+      "link": "https://www.journaldunet.com/ebusiness/telecoms-fai/1557809-comment-se-proteger-du-doxxing-la-prudence-numerique-plutot-que-la-panique/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-24T16:10:39.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
+    {
+      "title": "En hausse de 11 %, le marché français du jouet vise les 5 milliards d’euros",
+      "excerpt": "En progression de 11 % sur les dix premiers mois de 2026, le marché français du jouet s’appuie sur les kidultes, les licences et les réseaux…",
+      "link": "https://www.ecommercemag.fr/retail-1220/barometre-etude-2168/en-hausse-de-11-le-marche-francais-du-jouet-vise-les-5-milliards-deuros-61209",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-11-24T15:44:45.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "EXCLUSIF – OnBuy et Octopia renforcent leur partenariat pour accélérer l’e-commerce en Europe",
+      "excerpt": "OnBuy et Octopia annoncent le renouvellement et l'élargissement de leur partenariat stratégique. Ils ont pour ambition d'accélérer le commerce…",
+      "link": "https://www.ecommercemag.fr/retail-1220/exclusif-onbuy-et-octopia-renforcent-leur-partenariat-pour-accelerer-le-commerce-en-europe-61191",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-11-24T08:00:54.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "[ RECHARGE ÉLECTRIQUE ] Auchan rentre dans la guerre des prix",
       "excerpt": "Nouvelle illustration de la convergence entre recharge électrique et programme de fidélité (que je pronostique depuis longtemps). La convergence est…",
@@ -21,51 +66,6 @@
       "pinned": false
     },
     {
-      "title": "\"J'ai eu énormément de problèmes pour trouver du travail\" : le difficile retour à l'emploi des ex-cybercriminels",
-      "excerpt": "Nombreuses sont les entreprises de cybersécurité et les fintech à refuser de recruter d'anciens cybercriminels. Parfois, le juge leur interdit même…",
-      "link": "https://www.journaldunet.com/cybersecurite/1558405-j-ai-eu-enormement-de-problemes-pour-trouver-du-travail-le-difficile-retour-a-l-emploi-des-ex-cybercriminels/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-23T15:32:04.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
-      "pinned": false
-    },
-    {
-      "title": "Toc toc, y’a quelqu’un chez U… ?",
-      "excerpt": "Toc toc, y’a quelqu’un chez U… ? Parce que je suis chez vous, dans le Tarn, et j’avais besoin d’une p’tite explication sur le prix de votre jambon…",
-      "link": "https://www.olivierdauvers.fr/2026/11/23/toc-toc-ya-quelquun-chez-u/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-23T14:50:13.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "Black Friday 2026 : ce que les chiffres disent des nouvelles habitudes des consommateurs",
-      "excerpt": "À l’approche du 27 novembre, le rendez-vous commercial confirme son ancrage dans les habitudes de consommation. Mais derrière des intentions d’achat…",
-      "link": "https://www.ecommercemag.fr/retail-1220/black-friday-2026-ce-que-les-chiffres-disent-des-nouvelles-habitudes-des-consommateurs-61163",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-11-23T11:30:43.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Le CHU de la Guadeloupe déclenche le plan blanc après une cyberattaque",
-      "excerpt": "L'établissement hospitalier fait face à une cyberattaque qui affecte grandement son système d'information et sa téléphonie alors qu'il transfère ses…",
-      "link": "https://www.journaldunet.com/business/1558377-le-chu-de-la-guadeloupe-declenche-le-plan-blanc-apres-une-cyberattaque/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-23T10:59:16.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "DISTRIBUTION : ADEO et Electro Dépôt font de leurs marques propres un nouveau moteur de croissance",
-      "excerpt": "Longtemps considérées comme un moyen de proposer des produits moins chers que les grandes marques nationales, les marques propres prennent une…",
-      "link": "https://www.ecommercemag.fr/retail-1220/distribution-adeo-et-electro-depot-font-de-leurs-marques-propres-un-nouveau-moteur-de-croissance-61125",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-11-23T09:00:18.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Vendre à l’international, le casse-tête de la conformité produit que CLÉOLABS veut résoudre",
       "excerpt": "INDUSTRIAL SHIFT · Richard Menneveux · 23/11/2026 Un fabricant de vêtements veut vendre dans un nouveau pays. Il doit vérifier les règles qui…",
       "link": "https://www.frenchweb.fr/vendre-a-l-international-le-casse-tete-de-la-conformite-produit-que-cleolabs-veut-resoudre/900000065?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
@@ -77,84 +77,102 @@
   ],
   "itemsEn": [
     {
+      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "excerpt": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+      "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-24T18:02:59.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
+    {
+      "title": "Threads comes to iPad and takes a page from X’s playbook with cashtags",
+      "excerpt": "The addition of live stock quotes and charts could help Threads attract the financial community that has historically relied on X.",
+      "link": "https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-24T17:44:34.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Kohl’s turns a corner in Q3, no thanks to Sephora",
+      "excerpt": "The department store posted positive comps in most categories, thanks to strong private label sales and store improvements, and profits soared.",
+      "link": "https://www.retaildive.com/news/kohls-turns-corner-q3-sephora-falls/875593/",
+      "source": "Retail Dive",
+      "pubDate": "2026-11-24T17:12:00.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
+    {
+      "title": "Dollar Tree predicts holiday shoppers will ‘buy closer to need’",
+      "excerpt": "The retailer’s Q3 total revenue grew nearly 7%, with traffic growth outpacing increases in average ticket.",
+      "link": "https://www.retaildive.com/news/dollar-tree-q3-holiday-shoppers-buy-closer-to-need/875619/",
+      "source": "Retail Dive",
+      "pubDate": "2026-11-24T16:26:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "How a forward-thinking tech entrepreneur is looking to future-proof the grocery industry",
+      "excerpt": "“Applying intelligence to the problem of deciding what to eat is ripe for opportunity,” said Daniel Vitiello, CEO and co-founder of Cooklist, the AI…",
+      "link": "https://www.grocerydive.com/news/daniel-vitiello-cooklist-agentic-ai-grocery-shopping-supermarkets/875511/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-11-24T15:14:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "New York governor vetoes GRAS disclosure bill",
+      "excerpt": "Kathy Hochul struck down a first-in-the-nation proposal requiring manufacturers to disclose safety information, saying reform should be left to the…",
+      "link": "https://www.fooddive.com/news/new-york-gras-bill-veto/875600/",
+      "source": "Food Dive",
+      "pubDate": "2026-11-24T15:00:00.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
+    {
+      "title": "How Jell-O’s new creative platform looks to shift consumer perceptions",
+      "excerpt": "The campaign represents the Kraft Heinz brand’s largest marketing investment in more than a decade.",
+      "link": "https://www.fooddive.com/news/how-jell-o-new-creative-platform-looks-to-shift-consumer-perceptions/875597/",
+      "source": "Food Dive",
+      "pubDate": "2026-11-24T14:50:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Winn-Dixie’s major changes over the past 20 years",
+      "excerpt": "Since emerging from bankruptcy in 2006, the Florida grocery brand has navigated M&A deals with industry powerhouses like Aldi and C&S Wholesale…",
+      "link": "https://www.grocerydive.com/news/winn-dixie-timeline-mergers-acquisitions/875408/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-11-24T13:43:42.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Bealls debuts mobile shopping app",
+      "excerpt": "Bealls, a retailer operating 650 retail stores in 23 states, has launched its first-ever mobile shopping app to create a more connected experience…",
+      "link": "https://www.retailcustomerexperience.com/news/bealls-debuts-mobile-shopping-app/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-24T11:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Kohl’s partners with Uber for nationwide delivery option",
+      "excerpt": "Kohl's is partnering with Uber Technologies to deliver Kohl's and Sephora products on the Uber marketplace. More than 1,100 Kohl's locations will…",
+      "link": "https://www.retailcustomerexperience.com/news/kohls-partners-with-uber-for-nationwide-delivery-option/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-24T11:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
       "title": "Mall of America debuts AI assistant",
       "excerpt": "Mall of America has become the latest retail company to introduce agentic AI with its new AI-powered digital concierge Mallie",
       "link": "https://www.retailtechnology.co.uk/rss.xml/news/8811/mall-of-america-debuts-ai-assistant/",
       "source": "Retail Technology",
       "pubDate": "2026-11-24T00:00:00.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Trump signs Common Cents bill",
-      "excerpt": "The new law gives grocers and other merchants a legal basis for rounding retail cash transactions as pennies disappear.",
-      "link": "https://www.grocerydive.com/news/trump-signs-common-cents-bill/875493/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-11-23T23:04:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "excerpt": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
-      "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-23T22:05:50.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-      "excerpt": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
-      "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-23T22:02:05.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Black Friday, Cyber Monday shopping projected to slip",
-      "excerpt": "Shoppers will scoop up deals during Thanksgiving weekend, but extended sales events have enticed consumers to start holiday shopping early, according…",
-      "link": "https://www.retaildive.com/news/black-friday-cyber-monday-shopping-projected-to-slip/875473/",
-      "source": "Retail Dive",
-      "pubDate": "2026-11-23T20:39:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Majority of states now battling Dollar General over pricing practices",
-      "excerpt": "Ten states joined the Federal Trade Commission and 20 other states in a complaint filed last month alleging deceptive pricing.",
-      "link": "https://www.retaildive.com/news/dollar-general-battles-states-ftc-pricing-practices/875454/",
-      "source": "Retail Dive",
-      "pubDate": "2026-11-23T16:42:00.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "Fareway makes 4 C-suite changes",
-      "excerpt": "The Midwestern grocer’s nine appointments include a new CIO and chief merchandising officer.",
-      "link": "https://www.grocerydive.com/news/fareway-announces-internal-promotions-csuite-executives/875458/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-11-23T16:31:00.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "Thanksgiving weekend will draw 183M shoppers",
-      "excerpt": "An estimated 182.7 million consumers plan to shop during the Thanksgiving weekend , according to an annual survey from the National Retail Federation…",
-      "link": "https://www.retailcustomerexperience.com/news/thanksgiving-weekend-will-draw-183m-shoppers/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-23T11:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Shoppers tapping AI to find better deals, get gift ideas",
-      "excerpt": "Over half of U.S. consumers, 58%, are using AI for holiday shopping and 34% plan to shop online more this season. Those are top findings from the…",
-      "link": "https://www.retailcustomerexperience.com/news/shoppers-tapping-ai-to-find-better-deals-get-gift-ideas/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-20T11:00:00.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
