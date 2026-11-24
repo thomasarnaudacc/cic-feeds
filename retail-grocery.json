@@ -1,7 +1,25 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-23T23:05:22.804Z",
+  "publishedAt": "2026-11-24T07:39:42.012Z",
   "itemsFr": [
+    {
+      "title": "[ RECHARGE ÉLECTRIQUE ] Auchan rentre dans la guerre des prix",
+      "excerpt": "Nouvelle illustration de la convergence entre recharge électrique et programme de fidélité (que je pronostique depuis longtemps). La convergence est…",
+      "link": "https://www.olivierdauvers.fr/2026/11/24/recharge-electrique-auchan-rentre-dans-la-guerre-des-prix/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-24T07:18:34.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Commerce international : les compétences que recherchent les entreprises qui s’exportent.",
+      "excerpt": "TOPICS INDEX · Topics Index · 24/11/2026 Une PME qui expédie ses premières palettes vers des pays aux quatre coins du monde s'aperçoit vite que le…",
+      "link": "https://www.frenchweb.fr/commerce-international-les-competences-que-recherchent-les-entreprises-qui-s-exportent/900000067?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+      "source": "FrenchWeb",
+      "pubDate": "2026-11-24T05:44:17.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "\"J'ai eu énormément de problèmes pour trouver du travail\" : le difficile retour à l'emploi des ex-cybercriminels",
       "excerpt": "Nombreuses sont les entreprises de cybersécurité et les fintech à refuser de recruter d'anciens cybercriminels. Parfois, le juge leur interdit même…",
@@ -18,15 +36,6 @@
       "source": "Olivier Dauvers",
       "pubDate": "2026-11-23T14:50:13.000Z",
       "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "[ CLIMAT ] Faire la pédagogie du bilan carbone de l’assiette",
-      "excerpt": "Alors que la COP 31 s’est achevée sur un échec, il est plus que jamais indispensable de faire la pédagogie du bilan carbone de l’assiette. Sans…",
-      "link": "https://www.olivierdauvers.fr/2026/11/23/climat-faire-la-pedagogie-du-bilan-carbone-de-lassiette/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-23T14:29:06.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
     },
     {
@@ -64,27 +73,27 @@
       "pubDate": "2026-11-23T08:53:18.000Z",
       "category": "CONFIANCE & RETAIL RESPONSABLE",
       "pinned": false
-    },
-    {
-      "title": "Contre toute attente, MAILCHIMP passe sous pavillon européen",
-      "excerpt": "IN THE LOOP · La rédaction · 20/11/2026 INTUIT a accepté de céder le spécialiste américain de l’email marketing à l’italien BENDING SPOONS pour 3,13…",
-      "link": "https://www.frenchweb.fr/contre-toute-attente-mailchimp-passe-sous-pavillon-europeen/900000061?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
-      "source": "FrenchWeb",
-      "pubDate": "2026-11-20T05:49:35.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Marketplaces : comment l’IA redéfinit les avantages concurrentiels",
-      "excerpt": "L’article Marketplaces : comment l’IA redéfinit les avantages concurrentiels est apparu en premier sur Maddyness - Le média pour comprendre…",
-      "link": "https://www.maddyness.com/2026/11/19/marketplaces-comment-lia-redefinit-les-avantages-concurrentiels/",
-      "source": "Maddyness",
-      "pubDate": "2026-11-19T15:00:28.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
     }
   ],
   "itemsEn": [
+    {
+      "title": "Mall of America debuts AI assistant",
+      "excerpt": "Mall of America has become the latest retail company to introduce agentic AI with its new AI-powered digital concierge Mallie",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8811/mall-of-america-debuts-ai-assistant/",
+      "source": "Retail Technology",
+      "pubDate": "2026-11-24T00:00:00.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Trump signs Common Cents bill",
+      "excerpt": "The new law gives grocers and other merchants a legal basis for rounding retail cash transactions as pennies disappear.",
+      "link": "https://www.grocerydive.com/news/trump-signs-common-cents-bill/875493/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-11-23T23:04:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
       "excerpt": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
@@ -131,15 +140,6 @@
       "pinned": false
     },
     {
-      "title": "More than a Store: Why grocers need to become trendsetters",
-      "excerpt": "From tiramisu ravioli to purple sweet potato pie, retailers are tapping into viral flavors and products to entice shoppers.",
-      "link": "https://www.grocerydive.com/news/more-than-a-store-grocers-trends-social-media/828548/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-11-23T16:28:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Thanksgiving weekend will draw 183M shoppers",
       "excerpt": "An estimated 182.7 million consumers plan to shop during the Thanksgiving weekend , according to an annual survey from the National Retail Federation…",
       "link": "https://www.retailcustomerexperience.com/news/thanksgiving-weekend-will-draw-183m-shoppers/",
@@ -149,9 +149,9 @@
       "pinned": false
     },
     {
-      "title": "Target stores playing critical role in growing e-commerce channel",
-      "excerpt": "Target's stores are playing a more powerful and critical role in the retailer's strategy to grow its e-commerce channel. The retailer's 2,000-plus…",
-      "link": "https://www.retailcustomerexperience.com/news/target-stores-playing-critical-role-in-growing-e-commerce-channel/",
+      "title": "Shoppers tapping AI to find better deals, get gift ideas",
+      "excerpt": "Over half of U.S. consumers, 58%, are using AI for holiday shopping and 34% plan to shop online more this season. Those are top findings from the…",
+      "link": "https://www.retailcustomerexperience.com/news/shoppers-tapping-ai-to-find-better-deals-get-gift-ideas/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "category": "GRAND ANGLE",
@@ -163,15 +163,6 @@
       "link": "https://www.retailtechnology.co.uk/rss.xml/news/8809/asics-america-adds-drones-to-dc/",
       "source": "Retail Technology",
       "pubDate": "2026-11-19T12:10:59.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Boden selects US expansion partner",
-      "excerpt": "British fashion brand Boden has selected OneStock to unify its inventory and order flows as it accelerates US expansion and scales its international…",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8807/boden-selects-us-expansion-partner/",
-      "source": "Retail Technology",
-      "pubDate": "2026-11-19T00:00:00.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     }
