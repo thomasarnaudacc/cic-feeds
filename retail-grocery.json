@@ -1,81 +1,144 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-25T03:52:32.270Z",
+  "publishedAt": "2026-11-25T16:29:24.085Z",
   "itemsFr": [
     {
-      "title": "[ RETAIL INSIDE ] Bordeaux-Bouliac : l’hyper Auchan revient en mode “waouh”",
-      "excerpt": "Aujourd’hui, direction Bordeaux-Bouliac : comme ça, vous visiterez le dernier concept d’hypermarché Auchan en même temps que le conseil…",
-      "link": "https://www.olivierdauvers.fr/2026/11/24/retail-inside-bordeaux-bouliac-lhyper-auchan-revient-en-mode-waouh/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-24T17:13:28.000Z",
+      "title": "Noël 2026 : e-commerce, IA et retail media, les nouvelles stratégies des marques",
+      "excerpt": "À l’approche des fêtes de fin d’année, les stratégies e-commerce des marques entrent dans une nouvelle phase de maturité. La priorité n’est plus…",
+      "link": "https://www.ecommercemag.fr/retail-1220/veille-tribune-2169/noel-2026-e-commerce-ia-et-retail-media-les-nouvelles-strategies-des-marques-61328",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-11-25T16:26:04.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "Opérateurs télécoms et robots humanoïdes, le duo gagnant",
-      "excerpt": "Dès 2027, les robots humanoïdes seront déployés à grande échelle dans les usines. Si l'Europe est en retard dans leur production, elle saura les…",
-      "link": "https://www.journaldunet.com/ebusiness/telecoms-fai/1558273-operateurs-telecoms-et-robots-humanoides-le-duo-gagnant/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-24T16:18:20.000Z",
+      "title": "Les Mousquetaires vont racheter Chronodrive",
+      "excerpt": "Auchan Retail et Les Mousquetaires sont entrés en négociations exclusives pour la vente de Chronodrive. Le pure-player du drive, qui a toujours vécu…",
+      "link": "https://www.olivierdauvers.fr/2026/11/25/les-mousquetaires-vont-racheter-chronodrive/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-25T16:25:06.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
+    {
+      "title": "Fnac Darty robotise sa logistique jouets à Massy avec Exotec",
+      "excerpt": "À l’approche du Black Friday et de Noël, Fnac Darty a ouvert les portes de son entrepôt historique de Massy le 25 novembre. Pour absorber la hausse…",
+      "link": "https://www.ecommercemag.fr/logistique-1222/strategie-logistique-2177/fnac-darty-robotise-sa-logistique-jouets-a-massy-avec-exotec-61300",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-11-25T16:09:01.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
-      "title": "Comment se protéger du doxxing : la prudence numérique plutôt que la panique",
-      "excerpt": "Lorsqu'une personne collecte et publie délibérément des informations privées sur quelqu'un sans son consentement, on parle de doxxing.",
-      "link": "https://www.journaldunet.com/ebusiness/telecoms-fai/1557809-comment-se-proteger-du-doxxing-la-prudence-numerique-plutot-que-la-panique/",
+      "title": "Black Friday : comment les données produits et l'IA peuvent-elles transformer les stratégies promotionnelles ?",
+      "excerpt": "Pour transformer le Black Friday en véritable opportunité, les prix et les données doivent travailler ensemble lors des promotions.",
+      "link": "https://www.journaldunet.com/retail/1558609-black-friday-comment-les-donnees-produits-et-l-ia-peuvent-elles-transformer-les-strategies-promotionnelles/",
       "source": "Journal du Net",
-      "pubDate": "2026-11-24T16:10:39.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "En hausse de 11 %, le marché français du jouet vise les 5 milliards d’euros",
-      "excerpt": "En progression de 11 % sur les dix premiers mois de 2026, le marché français du jouet s’appuie sur les kidultes, les licences et les réseaux…",
-      "link": "https://www.ecommercemag.fr/retail-1220/barometre-etude-2168/en-hausse-de-11-le-marche-francais-du-jouet-vise-les-5-milliards-deuros-61209",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-11-24T15:44:45.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "EXCLUSIF – OnBuy et Octopia renforcent leur partenariat pour accélérer l’e-commerce en Europe",
-      "excerpt": "OnBuy et Octopia annoncent le renouvellement et l'élargissement de leur partenariat stratégique. Ils ont pour ambition d'accélérer le commerce…",
-      "link": "https://www.ecommercemag.fr/retail-1220/exclusif-onbuy-et-octopia-renforcent-leur-partenariat-pour-accelerer-le-commerce-en-europe-61191",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-11-24T08:00:54.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "[ RECHARGE ÉLECTRIQUE ] Auchan rentre dans la guerre des prix",
-      "excerpt": "Nouvelle illustration de la convergence entre recharge électrique et programme de fidélité (que je pronostique depuis longtemps). La convergence est…",
-      "link": "https://www.olivierdauvers.fr/2026/11/24/recharge-electrique-auchan-rentre-dans-la-guerre-des-prix/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-24T07:18:34.000Z",
+      "pubDate": "2026-11-25T13:57:53.000Z",
       "category": "OFFRE, PRIX & MERCHANDISING",
       "pinned": false
     },
     {
-      "title": "Commerce international : les compétences que recherchent les entreprises qui s’exportent.",
-      "excerpt": "TOPICS INDEX · Topics Index · 24/11/2026 Une PME qui expédie ses premières palettes vers des pays aux quatre coins du monde s'aperçoit vite que le…",
-      "link": "https://www.frenchweb.fr/commerce-international-les-competences-que-recherchent-les-entreprises-qui-s-exportent/900000067?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
-      "source": "FrenchWeb",
-      "pubDate": "2026-11-24T05:44:17.000Z",
+      "title": "Pas équipe, peu de moyens mais beaucoup d'IA : ils ont transformé une simple idée en vrai business",
+      "excerpt": "Un orthodontiste, une spécialiste de la communication et un ancien directeur marketing racontent comment ils ont créé et développé leur start-up en…",
+      "link": "https://www.journaldunet.com/start-up/1559113-aucune-equipe-peu-de-moyens-et-beaucoup-d-ia-comment-ils-ont-transforme-une-simple-idee-en-veritable-business/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-25T13:57:41.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "Vendre à l’international, le casse-tête de la conformité produit que CLÉOLABS veut résoudre",
-      "excerpt": "INDUSTRIAL SHIFT · Richard Menneveux · 23/11/2026 Un fabricant de vêtements veut vendre dans un nouveau pays. Il doit vérifier les règles qui…",
-      "link": "https://www.frenchweb.fr/vendre-a-l-international-le-casse-tete-de-la-conformite-produit-que-cleolabs-veut-resoudre/900000065?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+      "title": "Bonnes idées / Bonnes pratiques (120) : Faire vivre le local (Auchan Castres)",
+      "excerpt": "Suite de ma série d’inspirations “bonnes idées / bonnes pratiques” dans le prolongement de mes ouvrages sur l’IMAGE-PRIX, le PENSER-CLIENT et la…",
+      "link": "https://www.olivierdauvers.fr/2026/11/25/bonnes-idees-bonnes-pratiques-120-faire-vivre-le-local-auchan-castres/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-25T06:43:23.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "IA, acquisition, fidélisation : la journée pour préparer votre marketing 2027",
+      "excerpt": "PARTNER'S VOICE · Partner's Voice · 25/11/2026 Quels sujets méritent une place dans votre feuille de route marketing pour 2027 ? Le 15 décembre, le…",
+      "link": "https://www.frenchweb.fr/ia-acquisition-fidelisation-la-journee-pour-preparer-votre-marketing-2027/900000070?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
       "source": "FrenchWeb",
-      "pubDate": "2026-11-23T08:53:18.000Z",
-      "category": "CONFIANCE & RETAIL RESPONSABLE",
+      "pubDate": "2026-11-25T06:38:39.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Forest : le back-office des fintechs à l'heure des agents IA",
+      "excerpt": "TOPICS INDEX · Topics Index · 25/11/2026 Retrouver qui a validé un virement ainsi que la règle employée est un travail d'enquête dans la plupart des…",
+      "link": "https://www.frenchweb.fr/forest-le-back-office-des-fintechs-a-l-heure-des-agents-ia/900000069?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+      "source": "FrenchWeb",
+      "pubDate": "2026-11-25T06:23:29.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
       "pinned": false
     }
   ],
   "itemsEn": [
+    {
+      "title": "Holiday marketing hits inflection point in 2026: What brands need to know",
+      "excerpt": "Consumers’ push-pull relationship with buzzy tactics like AI and tried-and-true strategies like creator tie-ups is challenging brands to find the…",
+      "link": "https://www.retaildive.com/news/holiday-marketing-hits-inflection-point-in-2026-what-brands-need-to-know/875056/",
+      "source": "Retail Dive",
+      "pubDate": "2026-11-25T15:57:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "US Foods to test inventory-scanning robots at 6 more warehouses",
+      "excerpt": "The food service distributor plans to begin piloting the technology in each of the facilities by year-end, CEO David Flitman told investors.",
+      "link": "https://www.grocerydive.com/news/us-foods-tests-inventory-scanning-robots/875705/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-11-25T15:36:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "GLP-1s shift entire household spending toward fresh products, research finds",
+      "excerpt": "Retailers can tap into the trend by using customer data to spot households with a GLP-1 user and provide them with lower-sugar, higher-protein…",
+      "link": "https://www.grocerydive.com/news/glp1-usage-grocery-spending-fresh-products-dunnhumby/875684/",
+      "source": "Grocery Dive",
+      "pubDate": "2026-11-25T15:06:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "PETA, PepsiCo shareholders call out animal abuse across its supply chain",
+      "excerpt": "The activist group is urging PepsiCo to be more transparent about the treatment of animals across its supply chain, especially in India, and honor…",
+      "link": "https://www.fooddive.com/news/pepsico-shareholders-peta-call-out-animal-abuse-across-beverage-makers-supply-chain/875653/",
+      "source": "Food Dive",
+      "pubDate": "2026-11-25T14:33:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "excerpt": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+      "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-25T14:10:18.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "pinned": false
+    },
+    {
+      "title": "Vintage photo booths, novelty vending focus of city's retail pop-up",
+      "excerpt": "Photo Magic Vend-O-Rama is bringing vintage-inspired photo booths and unconventional vending machines to downtown Portland, Oregon, as part of the…",
+      "link": "https://www.retailcustomerexperience.com/news/vintage-photo-booths-novelty-vending-focus-of-citys-retail-pop-up/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-25T11:00:00.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
+    {
+      "title": "Small retailers not retreating on investing",
+      "excerpt": "Nearly half of small and midsize retailers (49%) plan to expand over the next 12 months, and 58% expect revenue to rise, according to Bank of…",
+      "link": "https://www.retailcustomerexperience.com/news/small-retailers-not-retreating-on-investing/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-25T11:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
       "excerpt": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could…",
@@ -95,15 +158,6 @@
       "pinned": false
     },
     {
-      "title": "Even the best AI agents struggle with everyday life",
-      "excerpt": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks…",
-      "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-24T21:33:29.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
       "title": "Kohl’s turns a corner in Q3, no thanks to Sephora",
       "excerpt": "The department store posted positive comps in most categories, thanks to strong private label sales and store improvements, and profits soared.",
       "link": "https://www.retaildive.com/news/kohls-turns-corner-q3-sephora-falls/875593/",
@@ -113,48 +167,12 @@
       "pinned": false
     },
     {
-      "title": "Dollar Tree predicts holiday shoppers will ‘buy closer to need’",
-      "excerpt": "The retailer’s Q3 total revenue grew nearly 7%, with traffic growth outpacing increases in average ticket.",
-      "link": "https://www.retaildive.com/news/dollar-tree-q3-holiday-shoppers-buy-closer-to-need/875619/",
-      "source": "Retail Dive",
-      "pubDate": "2026-11-24T16:26:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "How a forward-thinking tech entrepreneur is looking to future-proof the grocery industry",
-      "excerpt": "“Applying intelligence to the problem of deciding what to eat is ripe for opportunity,” said Daniel Vitiello, CEO and co-founder of Cooklist, the AI…",
-      "link": "https://www.grocerydive.com/news/daniel-vitiello-cooklist-agentic-ai-grocery-shopping-supermarkets/875511/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-11-24T15:14:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Nestlé turns to AI and robotics to stoke growth",
       "excerpt": "The world’s largest food company said a deep tech center will help it develop and test ideas faster, maintain consistent quality and improve…",
       "link": "https://www.fooddive.com/news/nestle-grows-artificial-intelligence-robotics-innovation/875604/",
       "source": "Food Dive",
       "pubDate": "2026-11-24T15:00:00.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "New York governor vetoes GRAS disclosure bill",
-      "excerpt": "Kathy Hochul struck down a first-in-the-nation proposal requiring manufacturers to disclose safety information, saying reform should be left to the…",
-      "link": "https://www.fooddive.com/news/new-york-gras-bill-veto/875600/",
-      "source": "Food Dive",
-      "pubDate": "2026-11-24T15:00:00.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "Winn-Dixie’s major changes over the past 20 years",
-      "excerpt": "Since emerging from bankruptcy in 2006, the Florida grocery brand has navigated M&A deals with industry powerhouses like Aldi and C&S Wholesale…",
-      "link": "https://www.grocerydive.com/news/winn-dixie-timeline-mergers-acquisitions/875408/",
-      "source": "Grocery Dive",
-      "pubDate": "2026-11-24T13:43:42.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
