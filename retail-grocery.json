@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-24T19:48:33.291Z",
+  "publishedAt": "2026-11-25T03:52:32.270Z",
   "itemsFr": [
     {
       "title": "[ RETAIL INSIDE ] Bordeaux-Bouliac : l’hyper Auchan revient en mode “waouh”",
@@ -77,21 +77,30 @@
   ],
   "itemsEn": [
     {
-      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
-      "excerpt": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
-      "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+      "excerpt": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could…",
+      "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
       "source": "TechCrunch",
-      "pubDate": "2026-11-24T18:02:59.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
+      "pubDate": "2026-11-25T00:12:02.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "Threads comes to iPad and takes a page from X’s playbook with cashtags",
-      "excerpt": "The addition of live stock quotes and charts could help Threads attract the financial community that has historically relied on X.",
-      "link": "https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags/",
+      "title": "Less friction, more value: rethinking retail technology",
+      "excerpt": "The grocery industry has never had more technology at its disposal. AI. Computer vision. Self-Checkouts. Smart carts. Electronic shelf labels…",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8812/less-friction-more-value:-rethinking-retail-technology/",
+      "source": "Retail Technology",
+      "pubDate": "2026-11-25T00:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Even the best AI agents struggle with everyday life",
+      "excerpt": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks…",
+      "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
       "source": "TechCrunch",
-      "pubDate": "2026-11-24T17:44:34.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pubDate": "2026-11-24T21:33:29.000Z",
+      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     },
     {
@@ -122,21 +131,21 @@
       "pinned": false
     },
     {
+      "title": "Nestlé turns to AI and robotics to stoke growth",
+      "excerpt": "The world’s largest food company said a deep tech center will help it develop and test ideas faster, maintain consistent quality and improve…",
+      "link": "https://www.fooddive.com/news/nestle-grows-artificial-intelligence-robotics-innovation/875604/",
+      "source": "Food Dive",
+      "pubDate": "2026-11-24T15:00:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
       "title": "New York governor vetoes GRAS disclosure bill",
       "excerpt": "Kathy Hochul struck down a first-in-the-nation proposal requiring manufacturers to disclose safety information, saying reform should be left to the…",
       "link": "https://www.fooddive.com/news/new-york-gras-bill-veto/875600/",
       "source": "Food Dive",
       "pubDate": "2026-11-24T15:00:00.000Z",
       "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "How Jell-O’s new creative platform looks to shift consumer perceptions",
-      "excerpt": "The campaign represents the Kraft Heinz brand’s largest marketing investment in more than a decade.",
-      "link": "https://www.fooddive.com/news/how-jell-o-new-creative-platform-looks-to-shift-consumer-perceptions/875597/",
-      "source": "Food Dive",
-      "pubDate": "2026-11-24T14:50:00.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -149,39 +158,12 @@
       "pinned": false
     },
     {
-      "title": "Bealls debuts mobile shopping app",
-      "excerpt": "Bealls, a retailer operating 650 retail stores in 23 states, has launched its first-ever mobile shopping app to create a more connected experience…",
-      "link": "https://www.retailcustomerexperience.com/news/bealls-debuts-mobile-shopping-app/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-24T11:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Kohl’s partners with Uber for nationwide delivery option",
-      "excerpt": "Kohl's is partnering with Uber Technologies to deliver Kohl's and Sephora products on the Uber marketplace. More than 1,100 Kohl's locations will…",
-      "link": "https://www.retailcustomerexperience.com/news/kohls-partners-with-uber-for-nationwide-delivery-option/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-24T11:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Mall of America debuts AI assistant",
       "excerpt": "Mall of America has become the latest retail company to introduce agentic AI with its new AI-powered digital concierge Mallie",
       "link": "https://www.retailtechnology.co.uk/rss.xml/news/8811/mall-of-america-debuts-ai-assistant/",
       "source": "Retail Technology",
       "pubDate": "2026-11-24T00:00:00.000Z",
       "category": "CLIENT & COMMERCE AGENTIQUE",
-      "pinned": false
-    },
-    {
-      "title": "ASICS America adds drones to DC",
-      "excerpt": "Sportswear firm ASICS America is now running autonomous inventory drones inside its Byhalia, MS distribution centre",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8809/asics-america-adds-drones-to-dc/",
-      "source": "Retail Technology",
-      "pubDate": "2026-11-19T12:10:59.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     }
   ]
