@@ -1,6 +1,6 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-25T16:29:24.085Z",
+  "publishedAt": "2026-11-26T01:20:09.029Z",
   "itemsFr": [
     {
       "title": "Noël 2026 : e-commerce, IA et retail media, les nouvelles stratégies des marques",
@@ -55,33 +55,69 @@
       "pubDate": "2026-11-25T06:43:23.000Z",
       "category": "OFFRE, PRIX & MERCHANDISING",
       "pinned": false
-    },
-    {
-      "title": "IA, acquisition, fidélisation : la journée pour préparer votre marketing 2027",
-      "excerpt": "PARTNER'S VOICE · Partner's Voice · 25/11/2026 Quels sujets méritent une place dans votre feuille de route marketing pour 2027 ? Le 15 décembre, le…",
-      "link": "https://www.frenchweb.fr/ia-acquisition-fidelisation-la-journee-pour-preparer-votre-marketing-2027/900000070?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
-      "source": "FrenchWeb",
-      "pubDate": "2026-11-25T06:38:39.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Forest : le back-office des fintechs à l'heure des agents IA",
-      "excerpt": "TOPICS INDEX · Topics Index · 25/11/2026 Retrouver qui a validé un virement ainsi que la règle employée est un travail d'enquête dans la plupart des…",
-      "link": "https://www.frenchweb.fr/forest-le-back-office-des-fintechs-a-l-heure-des-agents-ia/900000069?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
-      "source": "FrenchWeb",
-      "pubDate": "2026-11-25T06:23:29.000Z",
-      "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
     }
   ],
   "itemsEn": [
     {
-      "title": "Holiday marketing hits inflection point in 2026: What brands need to know",
-      "excerpt": "Consumers’ push-pull relationship with buzzy tactics like AI and tried-and-true strategies like creator tie-ups is challenging brands to find the…",
-      "link": "https://www.retaildive.com/news/holiday-marketing-hits-inflection-point-in-2026-what-brands-need-to-know/875056/",
+      "title": "AS Watson transforms with AI and robotics",
+      "excerpt": "Health and beauty retailer AS Watson Group is accelerating its global supply chain transformation through AI, robotics and automation",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8813/as-watson-transforms-with-ai-and-robotics/",
+      "source": "Retail Technology",
+      "pubDate": "2026-11-26T00:00:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "‘Heartbroken’: Macy’s 100th Thanksgiving Day parade postponed",
+      "excerpt": "The retailer’s iconic New York City event has moved to Saturday due to inclement weather. The 100th iteration has been worked on for about five years.",
+      "link": "https://www.retaildive.com/news/macys-100th-thanksgiving-day-parade-postponed/875808/",
       "source": "Retail Dive",
-      "pubDate": "2026-11-25T15:57:00.000Z",
+      "pubDate": "2026-11-25T23:40:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "excerpt": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+      "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-25T19:54:57.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
+    {
+      "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
+      "excerpt": "The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall.",
+      "link": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-25T19:54:32.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Dole Packaged Foods to lay off over 400 workers amid plant closures",
+      "excerpt": "The company, owned by Japan-based Itochu, said shuttering two California facilities will streamline its supply chain and ensure \"long-term…",
+      "link": "https://www.fooddive.com/news/Dole-closing-plants-california-fruit-layoffs/875787/",
+      "source": "Food Dive",
+      "pubDate": "2026-11-25T16:49:39.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "Shein to pay $100M in FTC settlement over deceptive practices claims",
+      "excerpt": "The e-commerce company faced allegations from the federal agency over its fast shipping promises, the way it posted product reviews online and more.",
+      "link": "https://www.retaildive.com/news/shein-to-pay-100m-in-ftc-settlement-over-deceptive-practices-claims/875748/",
+      "source": "Retail Dive",
+      "pubDate": "2026-11-25T16:25:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "McCormick proposes Colman’s mustard sale to resolve UK concerns over Unilever deal",
+      "excerpt": "A market regulator previously warned the transaction risks harming competitors in dry ingredients and sauces.",
+      "link": "https://www.fooddive.com/news/Mccormick-unilever-merger-antitrust-regulator/875743/",
+      "source": "Food Dive",
+      "pubDate": "2026-11-25T16:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -104,21 +140,12 @@
       "pinned": false
     },
     {
-      "title": "PETA, PepsiCo shareholders call out animal abuse across its supply chain",
-      "excerpt": "The activist group is urging PepsiCo to be more transparent about the treatment of animals across its supply chain, especially in India, and honor…",
-      "link": "https://www.fooddive.com/news/pepsico-shareholders-peta-call-out-animal-abuse-across-beverage-makers-supply-chain/875653/",
-      "source": "Food Dive",
-      "pubDate": "2026-11-25T14:33:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
-      "excerpt": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
-      "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-25T14:10:18.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
+      "title": "Small retailers not retreating on investing",
+      "excerpt": "Nearly half of small and midsize retailers (49%) plan to expand over the next 12 months, and 58% expect revenue to rise, according to Bank of…",
+      "link": "https://www.retailcustomerexperience.com/news/small-retailers-not-retreating-on-investing/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-25T11:00:00.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -131,57 +158,12 @@
       "pinned": false
     },
     {
-      "title": "Small retailers not retreating on investing",
-      "excerpt": "Nearly half of small and midsize retailers (49%) plan to expand over the next 12 months, and 58% expect revenue to rise, according to Bank of…",
-      "link": "https://www.retailcustomerexperience.com/news/small-retailers-not-retreating-on-investing/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-25T11:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
-      "excerpt": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could…",
-      "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-25T00:12:02.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Less friction, more value: rethinking retail technology",
       "excerpt": "The grocery industry has never had more technology at its disposal. AI. Computer vision. Self-Checkouts. Smart carts. Electronic shelf labels…",
       "link": "https://www.retailtechnology.co.uk/rss.xml/news/8812/less-friction-more-value:-rethinking-retail-technology/",
       "source": "Retail Technology",
       "pubDate": "2026-11-25T00:00:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Kohl’s turns a corner in Q3, no thanks to Sephora",
-      "excerpt": "The department store posted positive comps in most categories, thanks to strong private label sales and store improvements, and profits soared.",
-      "link": "https://www.retaildive.com/news/kohls-turns-corner-q3-sephora-falls/875593/",
-      "source": "Retail Dive",
-      "pubDate": "2026-11-24T17:12:00.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
-      "title": "Nestlé turns to AI and robotics to stoke growth",
-      "excerpt": "The world’s largest food company said a deep tech center will help it develop and test ideas faster, maintain consistent quality and improve…",
-      "link": "https://www.fooddive.com/news/nestle-grows-artificial-intelligence-robotics-innovation/875604/",
-      "source": "Food Dive",
-      "pubDate": "2026-11-24T15:00:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Mall of America debuts AI assistant",
-      "excerpt": "Mall of America has become the latest retail company to introduce agentic AI with its new AI-powered digital concierge Mallie",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8811/mall-of-america-debuts-ai-assistant/",
-      "source": "Retail Technology",
-      "pubDate": "2026-11-24T00:00:00.000Z",
-      "category": "CLIENT & COMMERCE AGENTIQUE",
       "pinned": false
     }
   ]
