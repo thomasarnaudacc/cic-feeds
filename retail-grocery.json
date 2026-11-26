@@ -1,7 +1,34 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-26T11:42:12.151Z",
+  "publishedAt": "2026-11-26T20:43:09.199Z",
   "itemsFr": [
+    {
+      "title": "On a digitalisé le prix, pas la communication du rayon",
+      "excerpt": "La grande distribution a digitalisé ses prix, mais pas la communication du rayon. Une affiche connectée autonome permet désormais aux équipes du…",
+      "link": "https://www.journaldunet.com/retail/1559205-on-a-digitalise-le-prix-pas-la-communication-du-rayon/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-26T16:47:02.000Z",
+      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pinned": false
+    },
+    {
+      "title": "Jouets : 40 % des produits contrôlés sur les marketplaces jugés dangereux",
+      "excerpt": "À quelques semaines de Noël, les plateformes de commerce en ligne sont dans le viseur des autorités. Face aux risques liés à la commercialisation de…",
+      "link": "https://www.ecommercemag.fr/retail-1220/jouets-40-des-produits-controles-sur-les-marketplaces-juges-dangereux-61358",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-11-26T15:19:56.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Korben lève 10 millions d’euros pour devenir le «cerveau» européen de la robotique",
+      "excerpt": "L’article Korben lève 10 millions d’euros pour devenir le «cerveau» européen de la robotique est apparu en premier sur Maddyness - Le média pour…",
+      "link": "https://www.maddyness.com/2026/11/26/korben-leve-10-millions-deuros-pour-devenir-le-cerveau-europeen-de-la-robotique/",
+      "source": "Maddyness",
+      "pubDate": "2026-11-26T12:13:56.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
     {
       "title": "Supply chain : INTERSPORT France adopte l’IA de RELEX Solutions",
       "excerpt": "L'enseigne d'articles de sport INTERSPORT modernise la gestion de ses stocks pour son réseau de 980 magasins. En choisissant RELEX Solutions, la…",
@@ -21,15 +48,6 @@
       "pinned": false
     },
     {
-      "title": "Technologies de rupture : pourquoi l'Europe invente sans capter la valeur économique",
-      "excerpt": "Malgré ses innovations en IA et en quantique, l'Europe échoue souvent à transformer ses découvertes en succès économiques. La régulation seule ne…",
-      "link": "https://www.journaldunet.com/cybersecurite/1559093-la-course-de-transmission-pourquoi-l-europe-invente-sans-capter-la-valeur/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-26T10:08:35.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
       "title": "KORBEN lève 10,2 millions d’euros pour piloter des robots de service de différentes marques",
       "excerpt": "ROBOTIC LOOP · La rédaction · 26/11/2026 KORBEN fournit des robots qui nettoient les sols, transportent du matériel ou accueillent les visiteurs. La…",
       "link": "https://www.frenchweb.fr/korben-leve-10-2-millions-d-euros-pour-piloter-des-robots-de-service-de-differentes-marques/900000072?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
@@ -45,15 +63,6 @@
       "source": "Olivier Dauvers",
       "pubDate": "2026-11-26T07:23:53.000Z",
       "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
-      "title": "Noël 2026 : e-commerce, IA et retail media, les nouvelles stratégies des marques",
-      "excerpt": "À l’approche des fêtes de fin d’année, les stratégies e-commerce des marques entrent dans une nouvelle phase de maturité. La priorité n’est plus…",
-      "link": "https://www.ecommercemag.fr/retail-1220/veille-tribune-2169/noel-2026-e-commerce-ia-et-retail-media-les-nouvelles-strategies-des-marques-61328",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-11-25T16:26:04.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -76,6 +85,15 @@
     }
   ],
   "itemsEn": [
+    {
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "excerpt": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of…",
+      "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "source": "TechCrunch",
+      "pubDate": "2026-11-26T16:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "AI is creating a retail skills paradox",
       "excerpt": "Retailers have spent years looking for ways to take friction out of customer service. And AI is accelerating this effort handling routine inquiries…",
@@ -104,15 +122,6 @@
       "pinned": false
     },
     {
-      "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
-      "excerpt": "The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall.",
-      "link": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
-      "source": "TechCrunch",
-      "pubDate": "2026-11-25T19:54:32.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "Dole Packaged Foods to lay off over 400 workers amid plant closures",
       "excerpt": "The company, owned by Japan-based Itochu, said shuttering two California facilities will streamline its supply chain and ensure \"long-term…",
       "link": "https://www.fooddive.com/news/Dole-closing-plants-california-fruit-layoffs/875787/",
@@ -127,6 +136,15 @@
       "link": "https://www.retaildive.com/news/shein-to-pay-100m-in-ftc-settlement-over-deceptive-practices-claims/875748/",
       "source": "Retail Dive",
       "pubDate": "2026-11-25T16:25:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "McCormick proposes Colman’s mustard sale to resolve UK concerns over Unilever deal",
+      "excerpt": "A market regulator previously warned the transaction risks harming competitors in dry ingredients and sauces.",
+      "link": "https://www.fooddive.com/news/Mccormick-unilever-merger-antitrust-regulator/875743/",
+      "source": "Food Dive",
+      "pubDate": "2026-11-25T16:00:00.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -146,15 +164,6 @@
       "source": "Grocery Dive",
       "pubDate": "2026-11-25T15:06:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "PepsiCo called out for animal abuse by PETA, shareholders",
-      "excerpt": "The activist group is urging the food and beverage giant to be more transparent about the treatment of animals across its supply chain.",
-      "link": "https://www.fooddive.com/news/pepsico-shareholders-peta-call-out-animal-abuse-across-beverage-makers-supply-chain/875653/",
-      "source": "Food Dive",
-      "pubDate": "2026-11-25T14:33:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
