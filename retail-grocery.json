@@ -1,7 +1,52 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-26T01:20:09.029Z",
+  "publishedAt": "2026-11-26T11:42:12.151Z",
   "itemsFr": [
+    {
+      "title": "Supply chain : INTERSPORT France adopte l’IA de RELEX Solutions",
+      "excerpt": "L'enseigne d'articles de sport INTERSPORT modernise la gestion de ses stocks pour son réseau de 980 magasins. En choisissant RELEX Solutions, la…",
+      "link": "https://www.ecommercemag.fr/logistique-1222/strategie-logistique-2177/supply-chain-intersport-france-adopte-lia-de-relex-solutions-61354",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-11-26T11:03:58.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "GEO : pourquoi les classements génériques de visibilité dans les IA ne suffisent plus",
+      "excerpt": "Pour maximiser leur visibilité dans les IA, les marques doivent identifier les sources influentes selon leur secteur, marché et produits.",
+      "link": "https://www.journaldunet.com/intelligence-artificielle/1557115-geo-pourquoi-les-classements-generiques-de-visibilite-dans-les-ia-ne-suffisent-plus/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-26T10:08:47.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Technologies de rupture : pourquoi l'Europe invente sans capter la valeur économique",
+      "excerpt": "Malgré ses innovations en IA et en quantique, l'Europe échoue souvent à transformer ses découvertes en succès économiques. La régulation seule ne…",
+      "link": "https://www.journaldunet.com/cybersecurite/1559093-la-course-de-transmission-pourquoi-l-europe-invente-sans-capter-la-valeur/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-26T10:08:35.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "KORBEN lève 10,2 millions d’euros pour piloter des robots de service de différentes marques",
+      "excerpt": "ROBOTIC LOOP · La rédaction · 26/11/2026 KORBEN fournit des robots qui nettoient les sols, transportent du matériel ou accueillent les visiteurs. La…",
+      "link": "https://www.frenchweb.fr/korben-leve-10-2-millions-d-euros-pour-piloter-des-robots-de-service-de-differentes-marques/900000072?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+      "source": "FrenchWeb",
+      "pubDate": "2026-11-26T09:18:16.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "pinned": false
+    },
+    {
+      "title": "[ EXCLU ] Avec Chronodrive, Les Mousquetaires s’imposent en nouveau dauphin de Leclerc (et s’offrent l’outil qui leur manquait)",
+      "excerpt": "Ça n’est qu’une demi surprise (certains se souviennent sans doute de mon pari 😉 ). Les Mousquetaires devraient s’offrir Chronodrive, le pure-player…",
+      "link": "https://www.olivierdauvers.fr/2026/11/26/exclu-avec-chronodrive-les-mousquetaires-simposent-en-nouveau-dauphin-de-leclerc-et-soffrent-loutil-qui-leur-manquait/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-26T07:23:53.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
     {
       "title": "Noël 2026 : e-commerce, IA et retail media, les nouvelles stratégies des marques",
       "excerpt": "À l’approche des fêtes de fin d’année, les stratégies e-commerce des marques entrent dans une nouvelle phase de maturité. La priorité n’est plus…",
@@ -21,50 +66,23 @@
       "pinned": false
     },
     {
-      "title": "Fnac Darty robotise sa logistique jouets à Massy avec Exotec",
-      "excerpt": "À l’approche du Black Friday et de Noël, Fnac Darty a ouvert les portes de son entrepôt historique de Massy le 25 novembre. Pour absorber la hausse…",
-      "link": "https://www.ecommercemag.fr/logistique-1222/strategie-logistique-2177/fnac-darty-robotise-sa-logistique-jouets-a-massy-avec-exotec-61300",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-11-25T16:09:01.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Black Friday : comment les données produits et l'IA peuvent-elles transformer les stratégies promotionnelles ?",
-      "excerpt": "Pour transformer le Black Friday en véritable opportunité, les prix et les données doivent travailler ensemble lors des promotions.",
-      "link": "https://www.journaldunet.com/retail/1558609-black-friday-comment-les-donnees-produits-et-l-ia-peuvent-elles-transformer-les-strategies-promotionnelles/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-25T13:57:53.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
-      "pinned": false
-    },
-    {
-      "title": "Pas équipe, peu de moyens mais beaucoup d'IA : ils ont transformé une simple idée en vrai business",
-      "excerpt": "Un orthodontiste, une spécialiste de la communication et un ancien directeur marketing racontent comment ils ont créé et développé leur start-up en…",
-      "link": "https://www.journaldunet.com/start-up/1559113-aucune-equipe-peu-de-moyens-et-beaucoup-d-ia-comment-ils-ont-transforme-une-simple-idee-en-veritable-business/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-25T13:57:41.000Z",
+      "title": "IA, acquisition, fidélisation : la journée pour préparer votre marketing 2027",
+      "excerpt": "PARTNER'S VOICE · Partner's Voice · 25/11/2026 Quels sujets méritent une place dans votre feuille de route marketing pour 2027 ? Le 15 décembre, le…",
+      "link": "https://www.frenchweb.fr/ia-acquisition-fidelisation-la-journee-pour-preparer-votre-marketing-2027/900000070?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+      "source": "FrenchWeb",
+      "pubDate": "2026-11-25T06:38:39.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Bonnes idées / Bonnes pratiques (120) : Faire vivre le local (Auchan Castres)",
-      "excerpt": "Suite de ma série d’inspirations “bonnes idées / bonnes pratiques” dans le prolongement de mes ouvrages sur l’IMAGE-PRIX, le PENSER-CLIENT et la…",
-      "link": "https://www.olivierdauvers.fr/2026/11/25/bonnes-idees-bonnes-pratiques-120-faire-vivre-le-local-auchan-castres/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-25T06:43:23.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
       "pinned": false
     }
   ],
   "itemsEn": [
     {
-      "title": "AS Watson transforms with AI and robotics",
-      "excerpt": "Health and beauty retailer AS Watson Group is accelerating its global supply chain transformation through AI, robotics and automation",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8813/as-watson-transforms-with-ai-and-robotics/",
-      "source": "Retail Technology",
-      "pubDate": "2026-11-26T00:00:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
+      "title": "AI is creating a retail skills paradox",
+      "excerpt": "Retailers have spent years looking for ways to take friction out of customer service. And AI is accelerating this effort handling routine inquiries…",
+      "link": "https://www.retailcustomerexperience.com/blogs/ai-is-creating-a-retail-skills-paradox/",
+      "source": "Retail Customer Experience",
+      "pubDate": "2026-11-26T11:00:00.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -113,15 +131,6 @@
       "pinned": false
     },
     {
-      "title": "McCormick proposes Colman’s mustard sale to resolve UK concerns over Unilever deal",
-      "excerpt": "A market regulator previously warned the transaction risks harming competitors in dry ingredients and sauces.",
-      "link": "https://www.fooddive.com/news/Mccormick-unilever-merger-antitrust-regulator/875743/",
-      "source": "Food Dive",
-      "pubDate": "2026-11-25T16:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "US Foods to test inventory-scanning robots at 6 more warehouses",
       "excerpt": "The food service distributor plans to begin piloting the technology in each of the facilities by year-end, CEO David Flitman told investors.",
       "link": "https://www.grocerydive.com/news/us-foods-tests-inventory-scanning-robots/875705/",
@@ -140,12 +149,12 @@
       "pinned": false
     },
     {
-      "title": "Small retailers not retreating on investing",
-      "excerpt": "Nearly half of small and midsize retailers (49%) plan to expand over the next 12 months, and 58% expect revenue to rise, according to Bank of…",
-      "link": "https://www.retailcustomerexperience.com/news/small-retailers-not-retreating-on-investing/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-25T11:00:00.000Z",
-      "category": "GRAND ANGLE",
+      "title": "PepsiCo called out for animal abuse by PETA, shareholders",
+      "excerpt": "The activist group is urging the food and beverage giant to be more transparent about the treatment of animals across its supply chain.",
+      "link": "https://www.fooddive.com/news/pepsico-shareholders-peta-call-out-animal-abuse-across-beverage-makers-supply-chain/875653/",
+      "source": "Food Dive",
+      "pubDate": "2026-11-25T14:33:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
@@ -155,15 +164,6 @@
       "source": "Retail Customer Experience",
       "pubDate": "2026-11-25T11:00:00.000Z",
       "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
-      "title": "Less friction, more value: rethinking retail technology",
-      "excerpt": "The grocery industry has never had more technology at its disposal. AI. Computer vision. Self-Checkouts. Smart carts. Electronic shelf labels…",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8812/less-friction-more-value:-rethinking-retail-technology/",
-      "source": "Retail Technology",
-      "pubDate": "2026-11-25T00:00:00.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     }
   ]
