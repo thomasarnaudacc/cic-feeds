@@ -1,23 +1,50 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-27T03:23:01.826Z",
+  "publishedAt": "2026-11-27T15:51:36.974Z",
   "itemsFr": [
     {
-      "title": "Compote Astérix : petite pédagogie des licences",
-      "excerpt": "Bientôt un nouvel opus d’Astérix. Et les produits sous licence qui vont avec. Décodage (grand public) ce matin du marché et du fonctionnement des…",
-      "link": "https://www.olivierdauvers.fr/2026/11/26/compote-asterix-petite-pedagogie-des-licences/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-26T22:17:48.000Z",
+      "title": "La différenciation ou comment se réinventer en période de crises",
+      "excerpt": "Les besoins des consommateurs et des clients ne disparaissent pas pendant la crise. Ils s'expriment autrement.",
+      "link": "https://www.journaldunet.com/martech/1558329-la-differenciation-ou-comment-se-reinventer-en-periode-de-crises/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-27T15:08:21.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
     {
-      "title": "On a digitalisé le prix, pas la communication du rayon",
-      "excerpt": "La grande distribution a digitalisé ses prix, mais pas la communication du rayon. Une affiche connectée autonome permet désormais aux équipes du…",
-      "link": "https://www.journaldunet.com/retail/1559205-on-a-digitalise-le-prix-pas-la-communication-du-rayon/",
+      "title": "Dirigeants : la réputation de votre entreprise se joue au moment de décider",
+      "excerpt": "Protéger la confiance exige d'associer la communication aux décisions qui peuvent la fragiliser. Une étude auprès de 50 DirCom invite les dirigeants…",
+      "link": "https://www.journaldunet.com/management/emploi-cadres/1559239-dirigeants-la-reputation-de-votre-entreprise-se-joue-au-moment-de-decider/",
       "source": "Journal du Net",
-      "pubDate": "2026-11-26T16:47:02.000Z",
-      "category": "OFFRE, PRIX & MERCHANDISING",
+      "pubDate": "2026-11-27T13:22:48.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "C’était le Retail Forum 2026, hier, et c’était bien (j’assume) !",
+      "excerpt": "Il fait partie de mes petits plaisirs de la fin d’année, je ne vais ni le bouder ni m’en cacher : le Retail Forum (8e édition) que nous coorganisons…",
+      "link": "https://www.olivierdauvers.fr/2026/11/27/cetait-le-retail-forum-2026-hier-et-cetait-bien-jassume/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-27T11:45:54.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "Maison Nicolas refond son site web et vise 15 % de ventes en ligne d’ici 2030",
+      "excerpt": "Le caviste bicentenaire Maison Nicolas poursuit sa transformation numérique avec le lancement de sa nouvelle plateforme nicolas.com. Son objectif est…",
+      "link": "https://www.ecommercemag.fr/retail-1220/maison-nicolas-refond-son-site-web-et-vise-15-de-ventes-en-ligne-dici-2030-61368",
+      "source": "Ecommerce Mag",
+      "pubDate": "2026-11-27T08:34:46.000Z",
+      "category": "COLLABORATEUR AUGMENTÉ",
+      "pinned": false
+    },
+    {
+      "title": "[ RETAIL INSIDE ] La visite du dernier KingDultes ouvert à Lille",
+      "excerpt": "Les adultes qui aiment jouer méritaient bien leur enseigne… Un an après avoir testé le concept en version éphémère, King Jouet compte désormais 5…",
+      "link": "https://www.olivierdauvers.fr/2026/11/27/retail-inside-la-visite-du-dernier-kingdultes-ouvert-a-lille/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-27T06:21:11.000Z",
+      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
@@ -39,39 +66,12 @@
       "pinned": false
     },
     {
-      "title": "Supply chain : INTERSPORT France adopte l’IA de RELEX Solutions",
-      "excerpt": "L'enseigne d'articles de sport INTERSPORT modernise la gestion de ses stocks pour son réseau de 980 magasins. En choisissant RELEX Solutions, la…",
-      "link": "https://www.ecommercemag.fr/logistique-1222/strategie-logistique-2177/supply-chain-intersport-france-adopte-lia-de-relex-solutions-61354",
-      "source": "Ecommerce Mag",
-      "pubDate": "2026-11-26T11:03:58.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "GEO : pourquoi les classements génériques de visibilité dans les IA ne suffisent plus",
-      "excerpt": "Pour maximiser leur visibilité dans les IA, les marques doivent identifier les sources influentes selon leur secteur, marché et produits.",
-      "link": "https://www.journaldunet.com/intelligence-artificielle/1557115-geo-pourquoi-les-classements-generiques-de-visibilite-dans-les-ia-ne-suffisent-plus/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-26T10:08:47.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "KORBEN lève 10,2 millions d’euros pour piloter des robots de service de différentes marques",
       "excerpt": "ROBOTIC LOOP · La rédaction · 26/11/2026 KORBEN fournit des robots qui nettoient les sols, transportent du matériel ou accueillent les visiteurs. La…",
       "link": "https://www.frenchweb.fr/korben-leve-10-2-millions-d-euros-pour-piloter-des-robots-de-service-de-differentes-marques/900000072?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
       "source": "FrenchWeb",
       "pubDate": "2026-11-26T09:18:16.000Z",
       "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "[ EXCLU ] Avec Chronodrive, Les Mousquetaires s’imposent en nouveau dauphin de Leclerc (et s’offrent l’outil qui leur manquait)",
-      "excerpt": "Ça n’est qu’une demi surprise (certains se souviennent sans doute de mon pari 😉 ). Les Mousquetaires devraient s’offrir Chronodrive, le pure-player…",
-      "link": "https://www.olivierdauvers.fr/2026/11/26/exclu-avec-chronodrive-les-mousquetaires-simposent-en-nouveau-dauphin-de-leclerc-et-soffrent-loutil-qui-leur-manquait/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-26T07:23:53.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
       "pinned": false
     },
     {
