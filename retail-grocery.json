@@ -1,7 +1,16 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-26T20:43:09.199Z",
+  "publishedAt": "2026-11-27T03:23:01.826Z",
   "itemsFr": [
+    {
+      "title": "Compote Astérix : petite pédagogie des licences",
+      "excerpt": "Bientôt un nouvel opus d’Astérix. Et les produits sous licence qui vont avec. Décodage (grand public) ce matin du marché et du fonctionnement des…",
+      "link": "https://www.olivierdauvers.fr/2026/11/26/compote-asterix-petite-pedagogie-des-licences/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-26T22:17:48.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "On a digitalisé le prix, pas la communication du rayon",
       "excerpt": "La grande distribution a digitalisé ses prix, mais pas la communication du rayon. Une affiche connectée autonome permet désormais aux équipes du…",
@@ -66,15 +75,6 @@
       "pinned": false
     },
     {
-      "title": "Les Mousquetaires vont racheter Chronodrive",
-      "excerpt": "Auchan Retail et Les Mousquetaires sont entrés en négociations exclusives pour la vente de Chronodrive. Le pure-player du drive, qui a toujours vécu…",
-      "link": "https://www.olivierdauvers.fr/2026/11/25/les-mousquetaires-vont-racheter-chronodrive/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-25T16:25:06.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
       "title": "IA, acquisition, fidélisation : la journée pour préparer votre marketing 2027",
       "excerpt": "PARTNER'S VOICE · Partner's Voice · 25/11/2026 Quels sujets méritent une place dans votre feuille de route marketing pour 2027 ? Le 15 décembre, le…",
       "link": "https://www.frenchweb.fr/ia-acquisition-fidelisation-la-journee-pour-preparer-votre-marketing-2027/900000070?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
@@ -95,12 +95,30 @@
       "pinned": false
     },
     {
+      "title": "Sainsbury's makes AI self-checkout prompts convenient",
+      "excerpt": "Camera-based prompts let self-checkout customers correct missed scans as the grocer extends the technology to its convenience estate",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8815/sainsburys-makes-ai-self-checkout-prompts-convenient/",
+      "source": "Retail Technology",
+      "pubDate": "2026-11-26T11:12:32.000Z",
+      "category": "MAGASIN & EXPÉRIENCE",
+      "pinned": false
+    },
+    {
       "title": "AI is creating a retail skills paradox",
       "excerpt": "Retailers have spent years looking for ways to take friction out of customer service. And AI is accelerating this effort handling routine inquiries…",
       "link": "https://www.retailcustomerexperience.com/blogs/ai-is-creating-a-retail-skills-paradox/",
       "source": "Retail Customer Experience",
       "pubDate": "2026-11-26T11:00:00.000Z",
       "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "AS Watson transforms with AI and robotics",
+      "excerpt": "Health and beauty retailer AS Watson Group is accelerating its global supply chain transformation through AI, robotics and automation",
+      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8813/as-watson-transforms-with-ai-and-robotics/",
+      "source": "Retail Technology",
+      "pubDate": "2026-11-26T00:00:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
@@ -140,15 +158,6 @@
       "pinned": false
     },
     {
-      "title": "McCormick proposes Colman’s mustard sale to resolve UK concerns over Unilever deal",
-      "excerpt": "A market regulator previously warned the transaction risks harming competitors in dry ingredients and sauces.",
-      "link": "https://www.fooddive.com/news/Mccormick-unilever-merger-antitrust-regulator/875743/",
-      "source": "Food Dive",
-      "pubDate": "2026-11-25T16:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
       "title": "US Foods to test inventory-scanning robots at 6 more warehouses",
       "excerpt": "The food service distributor plans to begin piloting the technology in each of the facilities by year-end, CEO David Flitman told investors.",
       "link": "https://www.grocerydive.com/news/us-foods-tests-inventory-scanning-robots/875705/",
@@ -164,6 +173,15 @@
       "source": "Grocery Dive",
       "pubDate": "2026-11-25T15:06:00.000Z",
       "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "PepsiCo called out for animal abuse by PETA, shareholders",
+      "excerpt": "The activist group is urging the food and beverage giant to be more transparent about the treatment of animals across its supply chain.",
+      "link": "https://www.fooddive.com/news/pepsico-shareholders-peta-call-out-animal-abuse-across-beverage-makers-supply-chain/875653/",
+      "source": "Food Dive",
+      "pubDate": "2026-11-25T14:33:00.000Z",
+      "category": "OPÉRATIONS & SUPPLY CHAIN",
       "pinned": false
     },
     {
