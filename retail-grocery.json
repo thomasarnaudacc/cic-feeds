@@ -1,7 +1,16 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-27T15:51:36.974Z",
+  "publishedAt": "2026-11-28T00:51:54.973Z",
   "itemsFr": [
+    {
+      "title": "La MINUTE RETAIL / Thierry Cotillard : décryptage d’un plébiscite annoncé",
+      "excerpt": "A la une cette semaine : le congrès des Mousquetaires, Porte de Versailles à Paris. Parmi les moments forts : les 3 000 adhérents debout lorsque…",
+      "link": "https://www.olivierdauvers.fr/2026/11/27/la-minute-retail-thierry-cotillard-decryptage-dun-plebiscite-annonce/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-27T15:52:08.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "La différenciation ou comment se réinventer en période de crises",
       "excerpt": "Les besoins des consommateurs et des clients ne disparaissent pas pendant la crise. Ils s'expriment autrement.",
@@ -36,15 +45,6 @@
       "source": "Ecommerce Mag",
       "pubDate": "2026-11-27T08:34:46.000Z",
       "category": "COLLABORATEUR AUGMENTÉ",
-      "pinned": false
-    },
-    {
-      "title": "[ RETAIL INSIDE ] La visite du dernier KingDultes ouvert à Lille",
-      "excerpt": "Les adultes qui aiment jouer méritaient bien leur enseigne… Un an après avoir testé le concept en version éphémère, King Jouet compte désormais 5…",
-      "link": "https://www.olivierdauvers.fr/2026/11/27/retail-inside-la-visite-du-dernier-kingdultes-ouvert-a-lille/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-27T06:21:11.000Z",
-      "category": "GRAND ANGLE",
       "pinned": false
     },
     {
