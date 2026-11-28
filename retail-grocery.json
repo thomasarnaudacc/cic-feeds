@@ -1,7 +1,25 @@
 {
   "destination": "retail-grocery",
-  "publishedAt": "2026-11-28T00:51:54.973Z",
+  "publishedAt": "2026-11-28T11:09:08.901Z",
   "itemsFr": [
+    {
+      "title": "La ville la moins stressante du monde est à 5 heures de Paris et elle a une soucoupe volante, découvrez la",
+      "excerpt": "Une étude réalisée par Remitly compare plus de 170 villes selon différents critères. Plusieurs destinations sont proches de la France.",
+      "link": "https://www.journaldunet.com/magazine/1558415-rv1-ville-la-moins-stressante-du-monde/",
+      "source": "Journal du Net",
+      "pubDate": "2026-11-28T05:55:01.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
+      "title": "SAMEDI CONSO : mon carnet (retail mais pas que…) de la semaine",
+      "excerpt": "SAMEDI Le Granola chez Carrefour ? En (fond de) rayon : le x 1 et le x 2. En TG : le x 3, x 4, x 6. Au niveau choix, on est bien ! Peut-être trop…",
+      "link": "https://www.olivierdauvers.fr/2026/11/28/samedi-conso-mon-carnet-retail-mais-pas-que-de-la-semaine-390/",
+      "source": "Olivier Dauvers",
+      "pubDate": "2026-11-28T01:48:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
     {
       "title": "La MINUTE RETAIL / Thierry Cotillard : décryptage d’un plébiscite annoncé",
       "excerpt": "A la une cette semaine : le congrès des Mousquetaires, Porte de Versailles à Paris. Parmi les moments forts : les 3 000 adhérents debout lorsque…",
@@ -17,24 +35,6 @@
       "link": "https://www.journaldunet.com/martech/1558329-la-differenciation-ou-comment-se-reinventer-en-periode-de-crises/",
       "source": "Journal du Net",
       "pubDate": "2026-11-27T15:08:21.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "Dirigeants : la réputation de votre entreprise se joue au moment de décider",
-      "excerpt": "Protéger la confiance exige d'associer la communication aux décisions qui peuvent la fragiliser. Une étude auprès de 50 DirCom invite les dirigeants…",
-      "link": "https://www.journaldunet.com/management/emploi-cadres/1559239-dirigeants-la-reputation-de-votre-entreprise-se-joue-au-moment-de-decider/",
-      "source": "Journal du Net",
-      "pubDate": "2026-11-27T13:22:48.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "C’était le Retail Forum 2026, hier, et c’était bien (j’assume) !",
-      "excerpt": "Il fait partie de mes petits plaisirs de la fin d’année, je ne vais ni le bouder ni m’en cacher : le Retail Forum (8e édition) que nous coorganisons…",
-      "link": "https://www.olivierdauvers.fr/2026/11/27/cetait-le-retail-forum-2026-hier-et-cetait-bien-jassume/",
-      "source": "Olivier Dauvers",
-      "pubDate": "2026-11-27T11:45:54.000Z",
       "category": "GRAND ANGLE",
       "pinned": false
     },
@@ -95,33 +95,6 @@
       "pinned": false
     },
     {
-      "title": "Sainsbury's makes AI self-checkout prompts convenient",
-      "excerpt": "Camera-based prompts let self-checkout customers correct missed scans as the grocer extends the technology to its convenience estate",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8815/sainsburys-makes-ai-self-checkout-prompts-convenient/",
-      "source": "Retail Technology",
-      "pubDate": "2026-11-26T11:12:32.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
-      "pinned": false
-    },
-    {
-      "title": "AI is creating a retail skills paradox",
-      "excerpt": "Retailers have spent years looking for ways to take friction out of customer service. And AI is accelerating this effort handling routine inquiries…",
-      "link": "https://www.retailcustomerexperience.com/blogs/ai-is-creating-a-retail-skills-paradox/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-26T11:00:00.000Z",
-      "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "AS Watson transforms with AI and robotics",
-      "excerpt": "Health and beauty retailer AS Watson Group is accelerating its global supply chain transformation through AI, robotics and automation",
-      "link": "https://www.retailtechnology.co.uk/rss.xml/news/8813/as-watson-transforms-with-ai-and-robotics/",
-      "source": "Retail Technology",
-      "pubDate": "2026-11-26T00:00:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
       "title": "‘Heartbroken’: Macy’s 100th Thanksgiving Day parade postponed",
       "excerpt": "The retailer’s iconic New York City event has moved to Saturday due to inclement weather. The 100th iteration has been worked on for about five years.",
       "link": "https://www.retaildive.com/news/macys-100th-thanksgiving-day-parade-postponed/875808/",
@@ -158,6 +131,15 @@
       "pinned": false
     },
     {
+      "title": "McCormick proposes Colman’s mustard sale to resolve UK concerns over Unilever deal",
+      "excerpt": "A market regulator previously warned the transaction risks harming competitors in dry ingredients and sauces.",
+      "link": "https://www.fooddive.com/news/Mccormick-unilever-merger-antitrust-regulator/875743/",
+      "source": "Food Dive",
+      "pubDate": "2026-11-25T16:00:00.000Z",
+      "category": "GRAND ANGLE",
+      "pinned": false
+    },
+    {
       "title": "US Foods to test inventory-scanning robots at 6 more warehouses",
       "excerpt": "The food service distributor plans to begin piloting the technology in each of the facilities by year-end, CEO David Flitman told investors.",
       "link": "https://www.grocerydive.com/news/us-foods-tests-inventory-scanning-robots/875705/",
@@ -173,24 +155,6 @@
       "source": "Grocery Dive",
       "pubDate": "2026-11-25T15:06:00.000Z",
       "category": "GRAND ANGLE",
-      "pinned": false
-    },
-    {
-      "title": "PepsiCo called out for animal abuse by PETA, shareholders",
-      "excerpt": "The activist group is urging the food and beverage giant to be more transparent about the treatment of animals across its supply chain.",
-      "link": "https://www.fooddive.com/news/pepsico-shareholders-peta-call-out-animal-abuse-across-beverage-makers-supply-chain/875653/",
-      "source": "Food Dive",
-      "pubDate": "2026-11-25T14:33:00.000Z",
-      "category": "OPÉRATIONS & SUPPLY CHAIN",
-      "pinned": false
-    },
-    {
-      "title": "Vintage photo booths, novelty vending focus of city's retail pop-up",
-      "excerpt": "Photo Magic Vend-O-Rama is bringing vintage-inspired photo booths and unconventional vending machines to downtown Portland, Oregon, as part of the…",
-      "link": "https://www.retailcustomerexperience.com/news/vintage-photo-booths-novelty-vending-focus-of-citys-retail-pop-up/",
-      "source": "Retail Customer Experience",
-      "pubDate": "2026-11-25T11:00:00.000Z",
-      "category": "MAGASIN & EXPÉRIENCE",
       "pinned": false
     }
   ]
